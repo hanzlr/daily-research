@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Typical distances in high-genus triangulations | Tanguy Lions | 2026 | [📄 Read](http://arxiv.org/abs/2606.27357v1) |
-| Classification of homogeneous almost complex $4$-manifolds with non-degenerate torsion bundle | Cristina Bozzetti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27336v1) |
-| Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy | Junhao Shi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27251v1) |
-| Kolmogorov equations for stochastic convective Brinkman-Forchheimer equations forced by Lévy Noise and its application to infinite horizon problems | Sagar Gautam et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27324v1) |
-| An Instruction Set Architecture for IMPLY-based Memristive Processing-in-Array | Liam Splittgerber et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27319v1) |
-| SatSplatDiff: Geometry-preserving generative refinement for high-fidelity satellite Gaussian Splatting | Jiyong Kim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27223v1) |
-| Cultivating logical catalysts for fault-tolerant dyadic phase rotations | Yichen Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27358v1) |
-| On the homology groups of clique complexes of strongly regular graphs | Sebastian M. Cioabă et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27328v1) |
-| OctoSense: Self-Supervised Learning for Multimodal Robot Perception | Anthony Bisulco et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27317v1) |
-| Sparse Sensor Placement for Reducing Forecast Errors in Ensemble Kalman Filtering | Takumi Saito et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27267v1) |
+| DanceOPD: On-Policy Generative Field Distillation | Wei Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27377v1) |
+| RouterVLA: Turning Smoke Tests into Supervision for Heterogeneous VLA Selection | Xingyu Ren et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27355v1) |
+| Reinforcement Learning without Ground-Truth Solutions can Improve LLMs | Yingyu Lin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27369v1) |
+| Dirac fermions in non-Hermitian magnetic fields: Zero modes and index theorem | Christopher A. Leong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27370v1) |
+| Hidden-ordered Dirac fermions | Bitan Roy | 2026 | [📄 Read](http://arxiv.org/abs/2606.27368v1) |
+| Autoregressive Boltzmann Generators | Danyal Rehman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27361v1) |
+| World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays | Manish Kumar Govind et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27374v1) |
+| Scalable Behavior Cloning with Open Data, Training, and Evaluation | Arthur Allshire et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27375v1) |
+| Error-Conditioned Neural Solvers | Haina Jiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27354v1) |
+| Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards | Ritesh Thawkar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27376v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 27 June 2026, 14:40 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 27 June 2026, 14:43 WIB</sub>
