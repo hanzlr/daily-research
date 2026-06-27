@@ -4,23 +4,24 @@ import random
 import time
 import xml.etree.ElementTree as ET
 
-QUERIES = [
-    "IoT Internet of Things sensor",
-    "embedded systems microcontroller",
-    "ESP32 WiFi sensor",
-    "Raspberry Pi automation",
-    "machine learning IoT",
-    "deep learning neural network embedded",
-    "random forest classification sensor",
-    "smart home automation control",
-    "edge computing IoT device",
-    "artificial intelligence embedded system",
+# Kategori ArXiv yang relevan ke IoT, Embedded, ML, Electrical
+CATEGORY_QUERIES = [
+    ("cat:eess.SY", "Systems & Control"),
+    ("cat:eess.SP", "Signal Processing"),
+    ("cat:cs.LG", "Machine Learning"),
+    ("cat:cs.AI", "Artificial Intelligence"),
+    ("cat:cs.RO", "Robotics"),
+    ("cat:eess.SY+AND+all:IoT", "IoT Systems"),
+    ("cat:eess.SY+AND+all:embedded", "Embedded Systems"),
+    ("cat:cs.LG+AND+all:sensor", "ML Sensor"),
+    ("cat:cs.RO+AND+all:automation", "Automation"),
+    ("cat:eess.SP+AND+all:microcontroller", "Microcontroller"),
 ]
 
 def fetch_arxiv(query, max_results=5):
     url = "http://export.arxiv.org/api/query"
     params = {
-        "search_query": f"all:{query}",
+        "search_query": query,
         "start": 0,
         "max_results": max_results,
         "sortBy": "submittedDate",
@@ -41,7 +42,6 @@ def fetch_arxiv(query, max_results=5):
             published = entry.find("atom:published", ns)
             link = entry.find("atom:id", ns)
 
-            # Parse authors
             author_names = []
             for a in entry.findall("atom:author", ns):
                 name_el = a.find("atom:name", ns)
@@ -73,13 +73,14 @@ def fetch_arxiv(query, max_results=5):
         print(f"  -> Exception: {e}")
         return []
 
-# Ambil dari 3 query random
-selected_queries = random.sample(QUERIES, 3)
+# Ambil dari 3 kategori random
+selected = random.sample(CATEGORY_QUERIES, 3)
 all_papers = []
 seen_urls = set()
 
-for q in selected_queries:
-    papers = fetch_arxiv(q, max_results=5)
+for query, label in selected:
+    print(f"\n--- {label} ---")
+    papers = fetch_arxiv(query, max_results=5)
     for p in papers:
         url = p.get("url", "")
         if url and url not in seen_urls:
@@ -93,4 +94,4 @@ all_papers = all_papers[:10]
 with open("papers.json", "w", encoding="utf-8") as f:
     json.dump(all_papers, f, ensure_ascii=False, indent=2)
 
-print(f"Total fetched: {len(all_papers)} papers")
+print(f"\nTotal fetched: {len(all_papers)} papers")
