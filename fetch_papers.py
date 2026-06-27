@@ -4,18 +4,21 @@ import random
 import time
 import xml.etree.ElementTree as ET
 
-# Kategori ArXiv yang relevan ke IoT, Embedded, ML, Electrical
-CATEGORY_QUERIES = [
-    ("cat:eess.SY", "Systems & Control"),
-    ("cat:eess.SP", "Signal Processing"),
-    ("cat:cs.LG", "Machine Learning"),
-    ("cat:cs.AI", "Artificial Intelligence"),
-    ("cat:cs.RO", "Robotics"),
-    ("cat:eess.SY+AND+all:IoT", "IoT Systems"),
-    ("cat:eess.SY+AND+all:embedded", "Embedded Systems"),
-    ("cat:cs.LG+AND+all:sensor", "ML Sensor"),
-    ("cat:cs.RO+AND+all:automation", "Automation"),
-    ("cat:eess.SP+AND+all:microcontroller", "Microcontroller"),
+QUERIES = [
+    "cat:cs.LG AND all:IoT",
+    "cat:cs.LG AND all:embedded system",
+    "cat:cs.LG AND all:sensor",
+    "cat:cs.AI AND all:IoT",
+    "cat:cs.AI AND all:embedded",
+    "cat:cs.RO AND all:automation",
+    "cat:cs.RO AND all:sensor",
+    "cat:eess.SY AND all:IoT",
+    "cat:eess.SY AND all:microcontroller",
+    "cat:eess.SY AND all:ESP32",
+    "cat:eess.SY AND all:Raspberry Pi",
+    "cat:cs.LG AND all:deep learning edge computing",
+    "cat:cs.LG AND all:random forest classification",
+    "cat:cs.NE AND all:embedded neural network",
 ]
 
 def fetch_arxiv(query, max_results=5):
@@ -49,13 +52,7 @@ def fetch_arxiv(query, max_results=5):
                     author_names.append(name_el.text.strip())
 
             title_str = " ".join(title.text.split()) if title is not None else "—"
-            if len(author_names) > 1:
-                author_str = author_names[0] + " et al."
-            elif len(author_names) == 1:
-                author_str = author_names[0]
-            else:
-                author_str = "Unknown"
-
+            author_str = author_names[0] + " et al." if len(author_names) > 1 else author_names[0] if author_names else "Unknown"
             year = published.text[:4] if published is not None else "—"
             url_str = link.text.strip() if link is not None else ""
 
@@ -73,14 +70,13 @@ def fetch_arxiv(query, max_results=5):
         print(f"  -> Exception: {e}")
         return []
 
-# Ambil dari 3 kategori random
-selected = random.sample(CATEGORY_QUERIES, 3)
+# Ambil dari 4 query random
+selected = random.sample(QUERIES, 4)
 all_papers = []
 seen_urls = set()
 
-for query, label in selected:
-    print(f"\n--- {label} ---")
-    papers = fetch_arxiv(query, max_results=5)
+for q in selected:
+    papers = fetch_arxiv(q, max_results=4)
     for p in papers:
         url = p.get("url", "")
         if url and url not in seen_urls:
@@ -94,4 +90,4 @@ all_papers = all_papers[:10]
 with open("papers.json", "w", encoding="utf-8") as f:
     json.dump(all_papers, f, ensure_ascii=False, indent=2)
 
-print(f"\nTotal fetched: {len(all_papers)} papers")
+print(f"Total fetched: {len(all_papers)} papers")
