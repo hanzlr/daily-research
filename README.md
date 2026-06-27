@@ -18,11 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Scalability of Morality: A Particle-Based Numerical Study on the Decoupling of Law and Ethics in Large-Scale Populations | Amir Arslan Haghrah et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27039v1) |
-| Resilient Output Containment under Undisclosed Leader Dynamics and Actuator Attacks | Mohammadreza Nematollahi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27257v1) |
-| Jet impingement cooling with multi-stage ducted electroaerodynamic actuators | Quinna Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27338v1) |
-| Inverse Design of Compact and Wideband Inverted Doherty Power Amplifiers Using Deep Learning | Han Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27002v1) |
-| XMSE-Aware Adaptive Empirical Bayes Estimation | Minghao Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26975v1) |
+| CREST: Deployment-Realistic Hardware-in-the-Loop NAS for Embedded Sensing Systems | Joseph Q. Zales et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.15004v1) |
+| OctoSense: Self-Supervised Learning for Multimodal Robot Perception | Anthony Bisulco et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27317v1) |
+| NavIsaacLab: Generating Realistic Crowd via Parallel Robot Learning for Benchmarking Human-aware Navigation | Bingyi Xia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26265v1) |
+| Ribbon: Scalable Approximation and Robust Uncertainty Quantification | Graham Gibson et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27269v1) |
+| TriSweep: A Four-Drone Swarm Framework for Electromagnetic Side-Channel Analysis | Eric Yocam et al. | 2026 | [📄 Read](http://arxiv.org/abs/2605.22709v1) |
+| Generative Models on Analog Hardware with Dynamics | Yu-Neng Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27294v1) |
+| RSPC: A Benchmark for Modeling Stress and Psychiatric Conditions in Digitally Mediated Relationships using Psychiatrist Annotations | Parmitha Vangapandu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27247v1) |
+| SoFiE: Soft Finger Exoskeleton for Intelligent Grasping | Magnus Malthe Sigsgaard Nielsen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.00397v1) |
+| GreenBox: Prototyping of an Automatic Road Accident Detection System with Real-Time Notification SMS | Júlio Rocha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.16468v1) |
+| Error-Conditioned Neural Solvers | Haina Jiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27354v1) |
 
 ---
 
@@ -35,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 27 June 2026, 14:45 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 27 June 2026, 14:46 WIB</sub>
