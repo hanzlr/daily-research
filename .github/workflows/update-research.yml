@@ -63,6 +63,12 @@ jobs:
           mkdir -p history
           cp papers.json history/${TIMESTAMP}_papers.json
 
+      - name: Cleanup history
+        if: steps.random_check.outputs.skip == 'false'
+        run: |
+          cd history
+          ls -t | tail -n +31 | xargs -r rm --
+
       - name: Generate README
         if: steps.random_check.outputs.skip == 'false'
         run: python3 generate_readme.py
