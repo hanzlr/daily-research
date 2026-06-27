@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| CREST: Deployment-Realistic Hardware-in-the-Loop NAS for Embedded Sensing Systems | Joseph Q. Zales et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.15004v1) |
-| OctoSense: Self-Supervised Learning for Multimodal Robot Perception | Anthony Bisulco et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27317v1) |
-| NavIsaacLab: Generating Realistic Crowd via Parallel Robot Learning for Benchmarking Human-aware Navigation | Bingyi Xia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26265v1) |
-| Ribbon: Scalable Approximation and Robust Uncertainty Quantification | Graham Gibson et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27269v1) |
-| TriSweep: A Four-Drone Swarm Framework for Electromagnetic Side-Channel Analysis | Eric Yocam et al. | 2026 | [📄 Read](http://arxiv.org/abs/2605.22709v1) |
-| Generative Models on Analog Hardware with Dynamics | Yu-Neng Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27294v1) |
-| RSPC: A Benchmark for Modeling Stress and Psychiatric Conditions in Digitally Mediated Relationships using Psychiatrist Annotations | Parmitha Vangapandu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27247v1) |
-| SoFiE: Soft Finger Exoskeleton for Intelligent Grasping | Magnus Malthe Sigsgaard Nielsen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.00397v1) |
-| GreenBox: Prototyping of an Automatic Road Accident Detection System with Real-Time Notification SMS | Júlio Rocha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.16468v1) |
-| Error-Conditioned Neural Solvers | Haina Jiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27354v1) |
+| UAV-MapFusion: RTK-Aligned Uncertainty-Aware Coarse-to-Fine Multi-Session UAV Mapping | Feng Pan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26928v1) |
+| RobOralScan: Learning Active Intraoral Scanning for Robotic Dental Reconstruction | Jinhyung Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26955v1) |
+| Risk-Aware Selective Multimodal Driver Monitoring with Driver-State World Modeling | Daosheng Qiu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26922v1) |
+| Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy | Junhao Shi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27251v1) |
+| A Sensorised Lattice Footplate for a Semi-Active Prosthetic Foot | Jinze Ge et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.25966v1) |
+| CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention | Sayak Dutta | 2026 | [📄 Read](http://arxiv.org/abs/2606.27229v1) |
+| Random Walk on Bézier Curves for Global Optimization | Jinpeng Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26714v1) |
+| Surviving by Serving: Functional Relevance Drives Self-Organization in Complex Adaptive Systems | Claus Metzner et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26733v1) |
+| A Hybrid CNN-LSTM Intrusion Detection Framework for Cybersecurity in Smart Renewable Energy Grids | Sajib Debnath et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.25200v1) |
+| CLIP-guided Diffusion Model for Backdoor Generation in Sensor-based Human Activity Recognition | Toby Briston et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.22837v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 27 June 2026, 14:46 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 27 June 2026, 17:50 WIB</sub>
