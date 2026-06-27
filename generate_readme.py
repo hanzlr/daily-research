@@ -14,46 +14,45 @@ def esc_md(s):
 rows = ""
 for p in papers:
     title = esc_md(p.get("title", "—"))
-    authors = p.get("authors", [])
-    author_str = esc_md(authors[0]["name"] + " et al." if len(authors) > 1 else authors[0]["name"] if authors else "—")
+    author = esc_md(p.get("author", "—"))
     year = p.get("year", "—")
     url = p.get("url", "")
-    link = f"[📄 Baca]({url})" if url else "—"
-    rows += f"| {title} | {author_str} | {year} | {link} |\n"
+    link = f"[📄 Read]({url})" if url else "—"
+    rows += f"| {title} | {author} | {year} | {link} |\n"
 
 readme = f"""# 📚 Daily Research Feed
 
-> Agregator otomatis paper & jurnal ilmiah seputar **IoT, Embedded Systems, Machine Learning, Deep Learning, dan Electrical Engineering.**
-> Diperbarui otomatis setiap hari via [Semantic Scholar](https://www.semanticscholar.org/) API.
+> Automated aggregator of scientific papers on **IoT, Embedded Systems, Machine Learning, Deep Learning, and Electrical Engineering.**
+> Auto-updated daily via [ArXiv](https://arxiv.org/) API.
 
 ---
 
 ## ⚠️ Disclaimer
 
-- Repo ini adalah agregator otomatis, **tidak berafiliasi** dengan institusi atau penerbit manapun
-- Seluruh paper bersumber dari **[Semantic Scholar](https://www.semanticscholar.org/)** yang mengindeks ArXiv, IEEE, dan jurnal ilmiah lainnya
-- Hak cipta paper sepenuhnya milik penulis & penerbit masing-masing
-- Fokus topik: IoT, Embedded Systems, ESP32, Raspberry Pi, Sensor, Automation, ML, DL, AI
+- This repo is an automated aggregator, **not affiliated** with any institution or publisher
+- All papers are sourced from **[ArXiv](https://arxiv.org/)**, an open-access repository of scientific preprints
+- Copyright of each paper belongs to its respective authors and publishers
+- Topics: IoT, Embedded Systems, ESP32, Raspberry Pi, Sensor, Automation, ML, DL, AI
 
 ---
 
 ## 🗓️ {day_name}
 
-| Judul | Author | Tahun | Link |
-|:------|:-------|:-----:|:----:|
+| Title | Author | Year | Link |
+|:------|:-------|:----:|:----:|
 {rows}
 ---
 
 ## 📂 Data
 
-| File | Deskripsi |
+| File | Description |
 |:---|:---|
-| 📄 [papers.json](./papers.json) | Raw data paper terbaru |
-| 📁 [history/](./history) | Snapshot harian |
+| 📄 [papers.json](./papers.json) | Latest raw paper data |
+| 📁 [history/](./history) | Daily snapshots |
 
 ---
 
-<sub>⚙️ Dijalankan otomatis oleh [GitHub Actions](../../actions) · Sumber: Semantic Scholar API · Diperbarui: {updated}</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: {updated}</sub>
 """
 
 with open("README.md", "w", encoding="utf-8") as f:
