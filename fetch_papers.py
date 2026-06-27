@@ -2,22 +2,19 @@ import json
 import requests
 import random
 import time
-from datetime import datetime, timezone, timedelta
 import xml.etree.ElementTree as ET
 
-wib = timezone(timedelta(hours=7))
-
 QUERIES = [
-    "IoT sensor embedded",
-    "machine learning classification",
-    "deep learning neural network",
-    "ESP32 microcontroller",
+    "IoT Internet of Things sensor",
+    "embedded systems microcontroller",
+    "ESP32 WiFi sensor",
     "Raspberry Pi automation",
-    "artificial intelligence",
-    "random forest classification",
-    "smart home automation",
-    "edge computing embedded",
-    "sensor fusion IoT",
+    "machine learning IoT",
+    "deep learning neural network embedded",
+    "random forest classification sensor",
+    "smart home automation control",
+    "edge computing IoT device",
+    "artificial intelligence embedded system",
 ]
 
 def fetch_arxiv(query, max_results=5):
@@ -41,24 +38,32 @@ def fetch_arxiv(query, max_results=5):
 
         for entry in root.findall("atom:entry", ns):
             title = entry.find("atom:title", ns)
-            authors = entry.findall("atom:author", ns)
             published = entry.find("atom:published", ns)
             link = entry.find("atom:id", ns)
-            abstract = entry.find("atom:summary", ns)
 
-            title_str = title.text.strip().replace("\n", " ") if title is not None else "—"
-            author_list = [a.find("atom:name", ns).text for a in authors if a.find("atom:name", ns) is not None]
-            author_str = author_list[0] + " et al." if len(author_list) > 1 else author_list[0] if author_list else "—"
+            # Parse authors
+            author_names = []
+            for a in entry.findall("atom:author", ns):
+                name_el = a.find("atom:name", ns)
+                if name_el is not None and name_el.text:
+                    author_names.append(name_el.text.strip())
+
+            title_str = " ".join(title.text.split()) if title is not None else "—"
+            if len(author_names) > 1:
+                author_str = author_names[0] + " et al."
+            elif len(author_names) == 1:
+                author_str = author_names[0]
+            else:
+                author_str = "Unknown"
+
             year = published.text[:4] if published is not None else "—"
             url_str = link.text.strip() if link is not None else ""
-            abstract_str = abstract.text.strip().replace("\n", " ")[:200] + "..." if abstract is not None else "—"
 
             papers.append({
                 "title": title_str,
                 "author": author_str,
                 "year": year,
                 "url": url_str,
-                "abstract": abstract_str,
             })
 
         print(f"  -> {len(papers)} papers")
@@ -80,9 +85,8 @@ for q in selected_queries:
         if url and url not in seen_urls:
             seen_urls.add(url)
             all_papers.append(p)
-    time.sleep(3)  # hindari rate limit
+    time.sleep(3)
 
-# Shuffle dan ambil max 10
 random.shuffle(all_papers)
 all_papers = all_papers[:10]
 
