@@ -2,20 +2,21 @@ import json
 import requests
 from datetime import datetime, timezone, timedelta
 import random
+import time
 
 wib = timezone(timedelta(hours=7))
 
 QUERIES = [
-    "IoT Internet of Things",
-    "Embedded Systems microcontroller",
-    "ESP32 Arduino sensor",
-    "Raspberry Pi automation",
-    "Machine Learning deep learning",
-    "Neural Network AI artificial intelligence",
-    "Random Forest classification",
-    "sensor fusion data acquisition",
-    "smart home automation",
-    "edge computing IoT",
+    "IoT sensor",
+    "machine learning",
+    "deep learning",
+    "embedded systems",
+    "microcontroller",
+    "artificial intelligence",
+    "neural network",
+    "automation control",
+    "smart sensor",
+    "edge computing",
 ]
 
 def fetch_papers(query, limit=5):
@@ -23,14 +24,23 @@ def fetch_papers(query, limit=5):
     params = {
         "query": query,
         "limit": limit,
-        "fields": "title,authors,year,externalIds,abstract,url,publicationTypes,journal",
-        "sort": "relevance",
+        "fields": "title,authors,year,url",
+    }
+    headers = {
+        "User-Agent": "daily-research-bot/1.0"
     }
     try:
-        r = requests.get(url, params=params, timeout=10)
-        r.raise_for_status()
-        return r.json().get("data", [])
-    except:
+        r = requests.get(url, params=params, headers=headers, timeout=15)
+        print(f"Query '{query}': status {r.status_code}")
+        if r.status_code == 200:
+            data = r.json().get("data", [])
+            print(f"  -> {len(data)} papers")
+            return data
+        else:
+            print(f"  -> Error: {r.text[:200]}")
+            return []
+    except Exception as e:
+        print(f"  -> Exception: {e}")
         return []
 
 # Ambil dari 3 query random
@@ -45,6 +55,7 @@ for q in selected_queries:
         if pid and pid not in seen_ids:
             seen_ids.add(pid)
             all_papers.append(p)
+    time.sleep(1)  # hindari rate limit
 
 # Shuffle dan ambil max 10
 random.shuffle(all_papers)
@@ -53,4 +64,4 @@ all_papers = all_papers[:10]
 with open("papers.json", "w", encoding="utf-8") as f:
     json.dump(all_papers, f, ensure_ascii=False, indent=2)
 
-print(f"Fetched {len(all_papers)} papers")
+print(f"Total fetched: {len(all_papers)} papers")
