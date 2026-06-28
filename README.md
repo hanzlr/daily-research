@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| A 3D-Printable Dataset for Fair Testing and Comparisons of Tactile Sensors | Dexter R. Shepherd et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.25886v1) |
-| ShareLock: A Stealthy Multi-Tool Threshold Poisoning Attack Against MCP | Liwei Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27027v1) |
-| Multipath Adaptive Gated Bottleneck Latent ODE with Raman Data Fusion for Cell Culture Process Forecasting | Johnny Peng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26520v1) |
-| Active Adversarial Perturbation-driven Associative Memory Retrieval for RGB-Event Visual Object Tracking | Xiao Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26455v1) |
-| SINR-Aware Base Station Deployment in Wide Area IoT Sensor Networks | Sachin Kadam | 2026 | [📄 Read](http://arxiv.org/abs/2606.15952v1) |
-| Vulnerability of Natural Language Classifiers to Evolutionary Generated Adversarial Text | Manjinder Singh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27215v1) |
-| Autoregressive Boltzmann Generators | Danyal Rehman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27361v1) |
-| Safe Autoregressive Image Generation with Iterative Self-Improving Codebooks | Yunqi Xue et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27147v1) |
-| Reinforcement Learning-Based Traffic Signal Control for IoT-Enabled Intersections | Yousef AlSaqabi | 2026 | [📄 Read](http://arxiv.org/abs/2606.22108v1) |
-| FracEvent: Event-Camera Simulation via Fractional-Relaxation Pixel Dynamics | Langyi Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26636v1) |
+| Monotonic, Minimum-Settling-Time PI Tuning for First-Order-Plus-Dead-Time Plants: A Tangency Characterization | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.22217v1) |
+| Surviving by Serving: Functional Relevance Drives Self-Organization in Complex Adaptive Systems | Claus Metzner et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26733v1) |
+| UAV-MapFusion: RTK-Aligned Uncertainty-Aware Coarse-to-Fine Multi-Session UAV Mapping | Feng Pan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26928v1) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v1) |
+| From Stabilizing Regions to Certified Controllers: Closing the Selection Gap in Unified PID/PI Analysis for Time-Delay Plants | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.24202v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| Random Walk on Bézier Curves for Global Optimization | Jinpeng Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26714v1) |
+| Risk-Aware Selective Multimodal Driver Monitoring with Driver-State World Modeling | Daosheng Qiu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26922v1) |
+| CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention | Sayak Dutta | 2026 | [📄 Read](http://arxiv.org/abs/2606.27229v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 28 June 2026, 15:15 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 28 June 2026, 15:49 WIB</sub>
