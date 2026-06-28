@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Saturday, 27 June 2026
+## 🗓️ Sunday, 28 June 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| OctoSense: Self-Supervised Learning for Multimodal Robot Perception | Anthony Bisulco et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27317v1) |
-| A Hybrid CNN-LSTM Intrusion Detection Framework for Cybersecurity in Smart Renewable Energy Grids | Sajib Debnath et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.25200v1) |
-| FAR-LIO: Enabling High-Speed Autonomy through Fast, Accurate, and Robust LiDAR-Inertial Odometry | Maximilian Leitenstern et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26010v1) |
-| NavIsaacLab: Generating Realistic Crowd via Parallel Robot Learning for Benchmarking Human-aware Navigation | Bingyi Xia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26265v1) |
-| Adaptive Joint Compression and Synchronisation in Federated Split Learning for IoT Rainfall Prediction | Wenjie Ding et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.25003v1) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
-| Enhancing Road Safety: An IoT-Based Accident Detection and Prevention Mechanism | Prabhu Pugalenthi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.22381v1) |
-| SINR-Aware Base Station Deployment in Wide Area IoT Sensor Networks | Sachin Kadam | 2026 | [📄 Read](http://arxiv.org/abs/2606.15952v1) |
-| GreenBox: Prototyping of an Automatic Road Accident Detection System with Real-Time Notification SMS | Júlio Rocha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.16468v1) |
-| Reinforcement Learning-Based Traffic Signal Control for IoT-Enabled Intersections | Yousef AlSaqabi | 2026 | [📄 Read](http://arxiv.org/abs/2606.22108v1) |
+| Monotonic, Minimum-Settling-Time PI Tuning for First-Order-Plus-Dead-Time Plants: A Tangency Characterization | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.22217v1) |
+| Minimum settling-time PI control of pure delay processes under a hard non-overshoot constraint: exact boundary-contact characterization and the role of the MID point | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.15418v1) |
+| Generative Models on Analog Hardware with Dynamics | Yu-Neng Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27294v1) |
+| DanceOPD: On-Policy Generative Field Distillation | Wei Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27377v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| When are likely answers right? On Sequence Probability and Correctness in LLMs | Johannes Zenn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27359v1) |
+| Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching | Nicholas Pulsone et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27342v1) |
+| From Stabilizing Regions to Certified Controllers: Closing the Selection Gap in Unified PID/PI Analysis for Time-Delay Plants | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.24202v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v1) |
+| Autoregressive Boltzmann Generators | Danyal Rehman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27361v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 27 June 2026, 19:05 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 28 June 2026, 09:58 WIB</sub>
