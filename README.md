@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| FAR-LIO: Enabling High-Speed Autonomy through Fast, Accurate, and Robust LiDAR-Inertial Odometry | Maximilian Leitenstern et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26010v1) |
-| Three-Objective Integral R2 Subset Selection: NP-Hardness and Submodular Approximation | Michael T. M. Emmerich | 2026 | [📄 Read](http://arxiv.org/abs/2606.26591v1) |
+| Automating Potential-based Reward Shaping with Vision Language Model Guidance | Henrik Müller et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27180v1) |
+| Active Adversarial Perturbation-driven Associative Memory Retrieval for RGB-Event Visual Object Tracking | Xiao Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26455v1) |
+| Multipath Adaptive Gated Bottleneck Latent ODE with Raman Data Fusion for Cell Culture Process Forecasting | Johnny Peng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26520v1) |
 | RobOralScan: Learning Active Intraoral Scanning for Robotic Dental Reconstruction | Jinhyung Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26955v1) |
-| DanceOPD: On-Policy Generative Field Distillation | Wei Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27377v1) |
-| CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention | Sayak Dutta | 2026 | [📄 Read](http://arxiv.org/abs/2606.27229v1) |
 | Autoregressive Boltzmann Generators | Danyal Rehman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27361v1) |
-| OctoSense: Self-Supervised Learning for Multimodal Robot Perception | Anthony Bisulco et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27317v1) |
-| Random Walk on Bézier Curves for Global Optimization | Jinpeng Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26714v1) |
-| When are likely answers right? On Sequence Probability and Correctness in LLMs | Johannes Zenn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27359v1) |
-| Risk-Aware Selective Multimodal Driver Monitoring with Driver-State World Modeling | Daosheng Qiu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26922v1) |
+| Enhancing Road Safety: An IoT-Based Accident Detection and Prevention Mechanism | Prabhu Pugalenthi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.22381v1) |
+| A 3D-Printable Dataset for Fair Testing and Comparisons of Tactile Sensors | Dexter R. Shepherd et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.25886v1) |
+| Reinforcement Learning without Ground-Truth Solutions can Improve LLMs | Yingyu Lin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27369v1) |
+| GreenBox: Prototyping of an Automatic Road Accident Detection System with Real-Time Notification SMS | Júlio Rocha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.16468v1) |
+| DanceOPD: On-Policy Generative Field Distillation | Wei Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27377v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 28 June 2026, 17:57 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 28 June 2026, 19:13 WIB</sub>
