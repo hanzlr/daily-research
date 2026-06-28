@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Stability Enhancement of Centralized UPS Data Center Systems Under Weak-Grid Conditions | Jesus D. Vasquez Plaza et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.21536v1) |
-| TriSweep: A Four-Drone Swarm Framework for Electromagnetic Side-Channel Analysis | Eric Yocam et al. | 2026 | [📄 Read](http://arxiv.org/abs/2605.22709v1) |
-| CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention | Sayak Dutta | 2026 | [📄 Read](http://arxiv.org/abs/2606.27229v1) |
-| Random Walk on Bézier Curves for Global Optimization | Jinpeng Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26714v1) |
-| Surviving by Serving: Functional Relevance Drives Self-Organization in Complex Adaptive Systems | Claus Metzner et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26733v1) |
+| Safe Autoregressive Image Generation with Iterative Self-Improving Codebooks | Yunqi Xue et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27147v1) |
+| Monotonic, Minimum-Settling-Time PI Tuning for First-Order-Plus-Dead-Time Plants: A Tangency Characterization | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.22217v1) |
 | Minimum settling-time PI control of pure delay processes under a hard non-overshoot constraint: exact boundary-contact characterization and the role of the MID point | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.15418v1) |
-| From Stabilizing Regions to Certified Controllers: Closing the Selection Gap in Unified PID/PI Analysis for Time-Delay Plants | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.24202v1) |
-| CREST: Deployment-Realistic Hardware-in-the-Loop NAS for Embedded Sensing Systems | Joseph Q. Zales et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.15004v1) |
-| NavIsaacLab: Generating Realistic Crowd via Parallel Robot Learning for Benchmarking Human-aware Navigation | Bingyi Xia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26265v1) |
-| OctoSense: Self-Supervised Learning for Multimodal Robot Perception | Anthony Bisulco et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27317v1) |
+| CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention | Sayak Dutta | 2026 | [📄 Read](http://arxiv.org/abs/2606.27229v1) |
+| UAV-MapFusion: RTK-Aligned Uncertainty-Aware Coarse-to-Fine Multi-Session UAV Mapping | Feng Pan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26928v1) |
+| Stability Enhancement of Centralized UPS Data Center Systems Under Weak-Grid Conditions | Jesus D. Vasquez Plaza et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.21536v1) |
+| RobOralScan: Learning Active Intraoral Scanning for Robotic Dental Reconstruction | Jinhyung Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26955v1) |
+| Risk-Aware Selective Multimodal Driver Monitoring with Driver-State World Modeling | Daosheng Qiu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26922v1) |
+| Three-Objective Integral R2 Subset Selection: NP-Hardness and Submodular Approximation | Michael T. M. Emmerich | 2026 | [📄 Read](http://arxiv.org/abs/2606.26591v1) |
+| ShareLock: A Stealthy Multi-Tool Threshold Poisoning Attack Against MCP | Liwei Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27027v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 28 June 2026, 12:16 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 28 June 2026, 13:55 WIB</sub>
