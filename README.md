@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Monotonic, Minimum-Settling-Time PI Tuning for First-Order-Plus-Dead-Time Plants: A Tangency Characterization | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.22217v1) |
+| Stability Enhancement of Centralized UPS Data Center Systems Under Weak-Grid Conditions | Jesus D. Vasquez Plaza et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.21536v1) |
+| TriSweep: A Four-Drone Swarm Framework for Electromagnetic Side-Channel Analysis | Eric Yocam et al. | 2026 | [📄 Read](http://arxiv.org/abs/2605.22709v1) |
+| CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention | Sayak Dutta | 2026 | [📄 Read](http://arxiv.org/abs/2606.27229v1) |
+| Random Walk on Bézier Curves for Global Optimization | Jinpeng Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26714v1) |
+| Surviving by Serving: Functional Relevance Drives Self-Organization in Complex Adaptive Systems | Claus Metzner et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26733v1) |
 | Minimum settling-time PI control of pure delay processes under a hard non-overshoot constraint: exact boundary-contact characterization and the role of the MID point | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.15418v1) |
-| Generative Models on Analog Hardware with Dynamics | Yu-Neng Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27294v1) |
-| DanceOPD: On-Policy Generative Field Distillation | Wei Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27377v1) |
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
-| When are likely answers right? On Sequence Probability and Correctness in LLMs | Johannes Zenn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27359v1) |
-| Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching | Nicholas Pulsone et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27342v1) |
 | From Stabilizing Regions to Certified Controllers: Closing the Selection Gap in Unified PID/PI Analysis for Time-Delay Plants | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.24202v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v1) |
-| Autoregressive Boltzmann Generators | Danyal Rehman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27361v1) |
+| CREST: Deployment-Realistic Hardware-in-the-Loop NAS for Embedded Sensing Systems | Joseph Q. Zales et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.15004v1) |
+| NavIsaacLab: Generating Realistic Crowd via Parallel Robot Learning for Benchmarking Human-aware Navigation | Bingyi Xia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26265v1) |
+| OctoSense: Self-Supervised Learning for Multimodal Robot Perception | Anthony Bisulco et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27317v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 28 June 2026, 09:58 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 28 June 2026, 12:16 WIB</sub>
