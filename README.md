@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Safe Autoregressive Image Generation with Iterative Self-Improving Codebooks | Yunqi Xue et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27147v1) |
-| Monotonic, Minimum-Settling-Time PI Tuning for First-Order-Plus-Dead-Time Plants: A Tangency Characterization | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.22217v1) |
-| Minimum settling-time PI control of pure delay processes under a hard non-overshoot constraint: exact boundary-contact characterization and the role of the MID point | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.15418v1) |
-| CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention | Sayak Dutta | 2026 | [📄 Read](http://arxiv.org/abs/2606.27229v1) |
-| UAV-MapFusion: RTK-Aligned Uncertainty-Aware Coarse-to-Fine Multi-Session UAV Mapping | Feng Pan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26928v1) |
-| Stability Enhancement of Centralized UPS Data Center Systems Under Weak-Grid Conditions | Jesus D. Vasquez Plaza et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.21536v1) |
-| RobOralScan: Learning Active Intraoral Scanning for Robotic Dental Reconstruction | Jinhyung Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26955v1) |
-| Risk-Aware Selective Multimodal Driver Monitoring with Driver-State World Modeling | Daosheng Qiu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26922v1) |
-| Three-Objective Integral R2 Subset Selection: NP-Hardness and Submodular Approximation | Michael T. M. Emmerich | 2026 | [📄 Read](http://arxiv.org/abs/2606.26591v1) |
+| A 3D-Printable Dataset for Fair Testing and Comparisons of Tactile Sensors | Dexter R. Shepherd et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.25886v1) |
 | ShareLock: A Stealthy Multi-Tool Threshold Poisoning Attack Against MCP | Liwei Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27027v1) |
+| Multipath Adaptive Gated Bottleneck Latent ODE with Raman Data Fusion for Cell Culture Process Forecasting | Johnny Peng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26520v1) |
+| Active Adversarial Perturbation-driven Associative Memory Retrieval for RGB-Event Visual Object Tracking | Xiao Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26455v1) |
+| SINR-Aware Base Station Deployment in Wide Area IoT Sensor Networks | Sachin Kadam | 2026 | [📄 Read](http://arxiv.org/abs/2606.15952v1) |
+| Vulnerability of Natural Language Classifiers to Evolutionary Generated Adversarial Text | Manjinder Singh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27215v1) |
+| Autoregressive Boltzmann Generators | Danyal Rehman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27361v1) |
+| Safe Autoregressive Image Generation with Iterative Self-Improving Codebooks | Yunqi Xue et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27147v1) |
+| Reinforcement Learning-Based Traffic Signal Control for IoT-Enabled Intersections | Yousef AlSaqabi | 2026 | [📄 Read](http://arxiv.org/abs/2606.22108v1) |
+| FracEvent: Event-Camera Simulation via Fractional-Relaxation Pixel Dynamics | Langyi Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26636v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 28 June 2026, 13:55 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 28 June 2026, 15:15 WIB</sub>
