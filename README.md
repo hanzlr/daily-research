@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Sunday, 28 June 2026
+## 🗓️ Monday, 29 June 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Automating Potential-based Reward Shaping with Vision Language Model Guidance | Henrik Müller et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27180v1) |
-| Active Adversarial Perturbation-driven Associative Memory Retrieval for RGB-Event Visual Object Tracking | Xiao Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26455v1) |
-| Multipath Adaptive Gated Bottleneck Latent ODE with Raman Data Fusion for Cell Culture Process Forecasting | Johnny Peng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26520v1) |
-| RobOralScan: Learning Active Intraoral Scanning for Robotic Dental Reconstruction | Jinhyung Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26955v1) |
-| Autoregressive Boltzmann Generators | Danyal Rehman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27361v1) |
-| Enhancing Road Safety: An IoT-Based Accident Detection and Prevention Mechanism | Prabhu Pugalenthi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.22381v1) |
-| A 3D-Printable Dataset for Fair Testing and Comparisons of Tactile Sensors | Dexter R. Shepherd et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.25886v1) |
-| Reinforcement Learning without Ground-Truth Solutions can Improve LLMs | Yingyu Lin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27369v1) |
-| GreenBox: Prototyping of an Automatic Road Accident Detection System with Real-Time Notification SMS | Júlio Rocha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.16468v1) |
-| DanceOPD: On-Policy Generative Field Distillation | Wei Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27377v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3 | Muhtadin et al. | 2025 | [📄 Read](http://arxiv.org/abs/2512.21219v1) |
+| NavIsaacLab: Generating Realistic Crowd via Parallel Robot Learning for Benchmarking Human-aware Navigation | Bingyi Xia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26265v1) |
+| Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization | Shuang Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28307v1) |
+| Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes | Luis Leal | 2026 | [📄 Read](http://arxiv.org/abs/2606.28308v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v1) |
+| CREST: Deployment-Realistic Hardware-in-the-Loop NAS for Embedded Sensing Systems | Joseph Q. Zales et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.15004v1) |
+| LXD-SLAM: LiDAR+X Dense SLAM with $\sum_{i=0}^{5}C_5^i$ Configurable Sensor Combinations | Zhong Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27811v1) |
+| SoFiE: Soft Finger Exoskeleton for Intelligent Grasping | Magnus Malthe Sigsgaard Nielsen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.00397v1) |
+| Learning Stable In-Grasp Manipulation in a Non-Dropping Action Space | Ha Thang Long Doan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28196v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 28 June 2026, 19:13 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 June 2026, 09:55 WIB</sub>
