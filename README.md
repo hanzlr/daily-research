@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| SINR-Aware Base Station Deployment in Wide Area IoT Sensor Networks | Sachin Kadam | 2026 | [📄 Read](http://arxiv.org/abs/2606.15952v1) |
-| GreenBox: Prototyping of an Automatic Road Accident Detection System with Real-Time Notification SMS | Júlio Rocha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.16468v1) |
-| TriSweep: A Four-Drone Swarm Framework for Electromagnetic Side-Channel Analysis | Eric Yocam et al. | 2026 | [📄 Read](http://arxiv.org/abs/2605.22709v1) |
-| CREST: Deployment-Realistic Hardware-in-the-Loop NAS for Embedded Sensing Systems | Joseph Q. Zales et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.15004v1) |
-| Surprises in Proper Positive-Only Learning | Shai Ben-David et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28309v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v1) |
-| VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing | Kijung Jeon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28301v1) |
-| Enhancing Road Safety: An IoT-Based Accident Detection and Prevention Mechanism | Prabhu Pugalenthi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.22381v1) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| Threshold Optimization and Dynamic Adaptation of Distributed Optimal Power Flow in 5G Networks | Biswajit Kumar Dash et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27542v1) |
+| From Stabilizing Regions to Certified Controllers: Closing the Selection Gap in Unified PID/PI Analysis for Time-Delay Plants | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.24202v1) |
+| Managing Task Execution for Unknown Workloads in Batteryless IoT: A Hardware-Agnostic Evaluation | Samer Nasser et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.24340v1) |
+| Monotonic, Minimum-Settling-Time PI Tuning for First-Order-Plus-Dead-Time Plants: A Tangency Characterization | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.22217v1) |
+| Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization | Shuang Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28307v1) |
+| AI-Driven Synthesis for High-Tech System Design: Automating Innovation | Luuk Oerlemans et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28126v1) |
+| SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation | Nadun Ranawaka et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28276v1) |
+| Unleashing Infinite Motion: Scaling Expressive Quadrupedal Motion via Generative Video Priors | Youzhi Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28237v1) |
 | Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes | Luis Leal | 2026 | [📄 Read](http://arxiv.org/abs/2606.28308v1) |
+| Building a Scalable, Reproducible, Evaluatable, and Closed-Loop Simulation Environment Foundation for Embodied Intelligence Cloud-Native Simulation Infrastructure for Embodied Intelligence Training, Evaluation, and Data Collection | Junwu Xiong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27962v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 June 2026, 19:00 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 June 2026, 19:54 WIB</sub>
