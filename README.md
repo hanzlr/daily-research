@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Monday, 29 June 2026
+## 🗓️ Tuesday, 30 June 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Threshold Optimization and Dynamic Adaptation of Distributed Optimal Power Flow in 5G Networks | Biswajit Kumar Dash et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27542v1) |
-| From Stabilizing Regions to Certified Controllers: Closing the Selection Gap in Unified PID/PI Analysis for Time-Delay Plants | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.24202v1) |
-| Managing Task Execution for Unknown Workloads in Batteryless IoT: A Hardware-Agnostic Evaluation | Samer Nasser et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.24340v1) |
-| Monotonic, Minimum-Settling-Time PI Tuning for First-Order-Plus-Dead-Time Plants: A Tangency Characterization | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.22217v1) |
-| Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization | Shuang Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28307v1) |
-| AI-Driven Synthesis for High-Tech System Design: Automating Innovation | Luuk Oerlemans et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28126v1) |
-| SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation | Nadun Ranawaka et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28276v1) |
-| Unleashing Infinite Motion: Scaling Expressive Quadrupedal Motion via Generative Video Priors | Youzhi Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28237v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v1) |
+| Dual-Learning based Penalized Multi-Align Clustering for Multi-View Incomplete and Disorderly Data | Liang Zhao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27984v1) |
+| VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing | Kijung Jeon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28301v1) |
+| Autoencoder Architectures for Athlete Performance Scoring from Wearable Telemetry | Mateusz Kubita et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28145v1) |
+| Reinforcement Learning-Based Traffic Signal Control for IoT-Enabled Intersections | Yousef AlSaqabi | 2026 | [📄 Read](http://arxiv.org/abs/2606.22108v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| Surprises in Proper Positive-Only Learning | Shai Ben-David et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28309v1) |
+| Disentangling Continuous-Time Latent Dynamics: Identifiability of Latent SDEs via Diffusion Shifts | Yuanyuan Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28228v1) |
 | Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes | Luis Leal | 2026 | [📄 Read](http://arxiv.org/abs/2606.28308v1) |
-| Building a Scalable, Reproducible, Evaluatable, and Closed-Loop Simulation Environment Foundation for Embodied Intelligence Cloud-Native Simulation Infrastructure for Embodied Intelligence Training, Evaluation, and Data Collection | Junwu Xiong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27962v1) |
+| Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization | Shuang Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28307v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 June 2026, 19:54 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 June 2026, 00:36 WIB</sub>
