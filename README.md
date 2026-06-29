@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
-| Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3 | Muhtadin et al. | 2025 | [📄 Read](http://arxiv.org/abs/2512.21219v1) |
-| NavIsaacLab: Generating Realistic Crowd via Parallel Robot Learning for Benchmarking Human-aware Navigation | Bingyi Xia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26265v1) |
-| Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization | Shuang Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28307v1) |
-| Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes | Luis Leal | 2026 | [📄 Read](http://arxiv.org/abs/2606.28308v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v1) |
+| Co-Optimization of Analog Kolmogorov-Arnold Networks for Low-Power Function Approximation in Flexible Electronics | Paula Carolina Lozano Duarte et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27892v1) |
+| Physics-Informed Neural Network with Transfer Learning for State Estimation in Lithium-Ion Batteries using the Single Particle Model with Electrolyte | Gift Modekwe et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28220v1) |
+| OctoSense: Self-Supervised Learning for Multimodal Robot Perception | Anthony Bisulco et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27317v1) |
+| Disentangling Continuous-Time Latent Dynamics: Identifiability of Latent SDEs via Diffusion Shifts | Yuanyuan Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28228v1) |
+| PAC-Bayesian Certificates for Quadratic Closed-Loop Control | Domagoj Herceg | 2026 | [📄 Read](http://arxiv.org/abs/2606.28281v1) |
 | CREST: Deployment-Realistic Hardware-in-the-Loop NAS for Embedded Sensing Systems | Joseph Q. Zales et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.15004v1) |
-| LXD-SLAM: LiDAR+X Dense SLAM with $\sum_{i=0}^{5}C_5^i$ Configurable Sensor Combinations | Zhong Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27811v1) |
-| SoFiE: Soft Finger Exoskeleton for Intelligent Grasping | Magnus Malthe Sigsgaard Nielsen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.00397v1) |
-| Learning Stable In-Grasp Manipulation in a Non-Dropping Action Space | Ha Thang Long Doan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28196v1) |
+| MMAO: A Metabolic Multi-Agent Optimizer with Endogenous Resource Allocation for Continuous and Discrete Optimization | Jinliang Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28109v1) |
+| NavIsaacLab: Generating Realistic Crowd via Parallel Robot Learning for Benchmarking Human-aware Navigation | Bingyi Xia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26265v1) |
+| Towards Automating Scientific Review with Google's Paper Assistant Tool | Rajesh Jayaram et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28277v1) |
+| CANNs: A Toolkit for Research on Continuous Attractor Neural Networks | Sichao He et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27783v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 June 2026, 09:55 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 June 2026, 09:59 WIB</sub>
