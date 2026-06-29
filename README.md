@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Physics-Informed Neural Network with Transfer Learning for State Estimation in Lithium-Ion Batteries using the Single Particle Model with Electrolyte | Gift Modekwe et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28220v1) |
-| Disentangling Continuous-Time Latent Dynamics: Identifiability of Latent SDEs via Diffusion Shifts | Yuanyuan Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28228v1) |
-| Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3 | Muhtadin et al. | 2025 | [📄 Read](http://arxiv.org/abs/2512.21219v1) |
-| PAC-Bayesian Certificates for Quadratic Closed-Loop Control | Domagoj Herceg | 2026 | [📄 Read](http://arxiv.org/abs/2606.28281v1) |
-| Towards Automating Scientific Review with Google's Paper Assistant Tool | Rajesh Jayaram et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28277v1) |
-| Unleashing Infinite Motion: Scaling Expressive Quadrupedal Motion via Generative Video Priors | Youzhi Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28237v1) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v1) |
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
 | Real-Time State Estimation in Smart Grids over 5G Networks: Experimental Validation Using Raspberry Pis and Typhoon HIL | Biswajit Kumar Dash et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27642v1) |
+| Reinforcement Learning-Based Traffic Signal Control for IoT-Enabled Intersections | Yousef AlSaqabi | 2026 | [📄 Read](http://arxiv.org/abs/2606.22108v1) |
+| PAC-Bayesian Certificates for Quadratic Closed-Loop Control | Domagoj Herceg | 2026 | [📄 Read](http://arxiv.org/abs/2606.28281v1) |
+| Threshold Optimization and Dynamic Adaptation of Distributed Optimal Power Flow in 5G Networks | Biswajit Kumar Dash et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27542v1) |
+| SINR-Aware Base Station Deployment in Wide Area IoT Sensor Networks | Sachin Kadam | 2026 | [📄 Read](http://arxiv.org/abs/2606.15952v1) |
+| From Stabilizing Regions to Certified Controllers: Closing the Selection Gap in Unified PID/PI Analysis for Time-Delay Plants | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.24202v1) |
+| Enhancing Road Safety: An IoT-Based Accident Detection and Prevention Mechanism | Prabhu Pugalenthi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.22381v1) |
+| Physics-Informed Neural Network with Transfer Learning for State Estimation in Lithium-Ion Batteries using the Single Particle Model with Electrolyte | Gift Modekwe et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28220v1) |
+| Towards Automating Scientific Review with Google's Paper Assistant Tool | Rajesh Jayaram et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28277v1) |
+| Agent-Native Immune System: Architecture, Taxonomy, and Engineering | Bo Shen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28270v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 June 2026, 12:50 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 June 2026, 14:22 WIB</sub>
