@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| A Hybrid CNN-LSTM Intrusion Detection Framework for Cybersecurity in Smart Renewable Energy Grids | Sajib Debnath et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.25200v1) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| Enhancing Road Safety: An IoT-Based Accident Detection and Prevention Mechanism | Prabhu Pugalenthi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.22381v1) |
+| MultiHashFormer: Hash-based Generative Language Models | Huiyin Xue et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28057v1) |
+| Physics-Informed Neural Network with Transfer Learning for State Estimation in Lithium-Ion Batteries using the Single Particle Model with Electrolyte | Gift Modekwe et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28220v1) |
+| Dialogue to Detection: A Multimodal Hybrid NLP Pipeline for Insurance Fraud Detection | Muhammad Shakeel Akram et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28002v1) |
+| SINR-Aware Base Station Deployment in Wide Area IoT Sensor Networks | Sachin Kadam | 2026 | [📄 Read](http://arxiv.org/abs/2606.15952v1) |
+| DG^VoiC: Speaker Clustering for Fraud Investigation under Real Call-Centre Conditions | Muhammad Shakeel Akram et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28048v1) |
 | GreenBox: Prototyping of an Automatic Road Accident Detection System with Real-Time Notification SMS | Júlio Rocha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.16468v1) |
-| Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy | Junhao Shi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27251v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v1) |
-| AI-Empowered UAV-Assisted Backscatter Localization and ISAC for Zero-Energy IoT: A Comprehensive Survey | Ruhul Amin Khalil | 2026 | [📄 Read](http://arxiv.org/abs/2606.23125v1) |
-| CLIP-guided Diffusion Model for Backdoor Generation in Sensor-based Human Activity Recognition | Toby Briston et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.22837v1) |
-| Heterogeneous synaptic motifs bridge microscale structure and macroscale nonlinear dynamics | Meiyi Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27946v1) |
-| CANNs: A Toolkit for Research on Continuous Attractor Neural Networks | Sichao He et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27783v1) |
-| Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3 | Muhtadin et al. | 2025 | [📄 Read](http://arxiv.org/abs/2512.21219v1) |
+| CREST: Deployment-Realistic Hardware-in-the-Loop NAS for Embedded Sensing Systems | Joseph Q. Zales et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.15004v1) |
+| PAC-Bayesian Certificates for Quadratic Closed-Loop Control | Domagoj Herceg | 2026 | [📄 Read](http://arxiv.org/abs/2606.28281v1) |
+| SoFiE: Soft Finger Exoskeleton for Intelligent Grasping | Magnus Malthe Sigsgaard Nielsen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.00397v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 June 2026, 16:21 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 June 2026, 17:55 WIB</sub>
