@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v1) |
-| Dual-Learning based Penalized Multi-Align Clustering for Multi-View Incomplete and Disorderly Data | Liang Zhao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27984v1) |
-| VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing | Kijung Jeon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28301v1) |
-| Autoencoder Architectures for Athlete Performance Scoring from Wearable Telemetry | Mateusz Kubita et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28145v1) |
-| Reinforcement Learning-Based Traffic Signal Control for IoT-Enabled Intersections | Yousef AlSaqabi | 2026 | [📄 Read](http://arxiv.org/abs/2606.22108v1) |
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
-| Surprises in Proper Positive-Only Learning | Shai Ben-David et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28309v1) |
-| Disentangling Continuous-Time Latent Dynamics: Identifiability of Latent SDEs via Diffusion Shifts | Yuanyuan Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28228v1) |
-| Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes | Luis Leal | 2026 | [📄 Read](http://arxiv.org/abs/2606.28308v1) |
-| Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization | Shuang Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28307v1) |
+| Cross-Spectral Stereo Inertial Odometry | Seungsang Yun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.29757v1) |
+| From Detecting Agency to Doing Work: Self-Caused Credit Builds a Durable Behavioral Self in a Minimal Spiking Agent | Haoliang Han | 2026 | [📄 Read](http://arxiv.org/abs/2606.30191v1) |
+| Lateral String Stability for Vehicle Platoons | Sixu Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.29677v1) |
+| A Hybrid CNN-LSTM Intrusion Detection Framework for Cybersecurity in Smart Renewable Energy Grids | Sajib Debnath et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.25200v1) |
+| Semantics-Aware Bilevel Co-Evolution: Towards Automated Multicomponent Algorithm Design | Zhiyao Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.29953v1) |
+| Seeing Touch from Motion: A Unified Modality-Aware Visuo-Tactile Policy with Tactile Motion Correlation | Shengqi Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.29941v1) |
+| TacEvo: Self-Evolving Architecture Discovery for Robotic Tactile Perception via LLM-Driven Quality-Diversity Search | Mohammed AbuSadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.30109v1) |
+| FalconTrack: Photorealistic Auto-Labeled Perception and Physics-Aware Vision-Based Aerial Tracking | Yan Miao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.29783v1) |
+| Automating the Design of Embodied AgentArchitectures | Jian Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.30111v1) |
+| Evolutionary Hyperparameter Optimization to Find Lightweight CNN Models for Autonomous Steering | Devson Butani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.29684v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 June 2026, 00:36 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 June 2026, 09:52 WIB</sub>
