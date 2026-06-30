@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Tuesday, 30 June 2026
+## 🗓️ Wednesday, 01 July 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Heterogeneous Tactile Transformer | Jianxin Bi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.29948v1) |
-| Threshold Optimization and Dynamic Adaptation of Distributed Optimal Power Flow in 5G Networks | Biswajit Kumar Dash et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27542v1) |
-| From Stabilizing Regions to Certified Controllers: Closing the Selection Gap in Unified PID/PI Analysis for Time-Delay Plants | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.24202v1) |
+| From Detecting Agency to Doing Work: Self-Caused Credit Builds a Durable Behavioral Self in a Minimal Spiking Agent | Haoliang Han | 2026 | [📄 Read](http://arxiv.org/abs/2606.30191v1) |
+| Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models | Subramanyam Sahoo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.30627v1) |
 | Real-Time State Estimation in Smart Grids over 5G Networks: Experimental Validation Using Raspberry Pis and Typhoon HIL | Biswajit Kumar Dash et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27642v1) |
-| Adaptive Joint Compression and Synchronisation in Federated Split Learning for IoT Rainfall Prediction | Wenjie Ding et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.25003v1) |
-| GreenBox: Prototyping of an Automatic Road Accident Detection System with Real-Time Notification SMS | Júlio Rocha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.16468v1) |
-| Harvesting AI Computation at the Edge via Generic Approximation | Yihan Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.29518v1) |
-| SINR-Aware Base Station Deployment in Wide Area IoT Sensor Networks | Sachin Kadam | 2026 | [📄 Read](http://arxiv.org/abs/2606.15952v1) |
-| Seeing Touch from Motion: A Unified Modality-Aware Visuo-Tactile Policy with Tactile Motion Correlation | Shengqi Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.29941v1) |
-| Enhancing Road Safety: An IoT-Based Accident Detection and Prevention Mechanism | Prabhu Pugalenthi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.22381v1) |
+| TRACE: Temporal Relationship-Aware Conversational Entrainment Detection in Dyadic Speech | Sathvik Manikantan Napa Ugandhar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.30543v1) |
+| Why can genetic algorithms work in high-dimensional search spaces? | Stephen Whitelam | 2026 | [📄 Read](http://arxiv.org/abs/2606.30619v1) |
+| Field Order Should Not Matter: Permutation-Invariant Embedding Model Fine-Tuning for Structured Metadata Retrieval | Aivin V. Solatorio et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.30473v1) |
+| C$^{2}$R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders | Haoran Jin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.30609v1) |
+| Threshold Optimization and Dynamic Adaptation of Distributed Optimal Power Flow in 5G Networks | Biswajit Kumar Dash et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27542v1) |
+| Computing the Integral R2 Indicator by Perspective Mapping and Box Decomposition | Michael T. M. Emmerich | 2026 | [📄 Read](http://arxiv.org/abs/2606.30530v1) |
+| From Stabilizing Regions to Certified Controllers: Closing the Selection Gap in Unified PID/PI Analysis for Time-Delay Plants | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.24202v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 June 2026, 17:30 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 01 July 2026, 00:06 WIB</sub>
