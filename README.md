@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Discovering Collaboration from Novelty: Random Network Distillation for Clustered Federated Learning | Davide Domini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.30499v1) |
-| Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3 | Muhtadin et al. | 2025 | [📄 Read](http://arxiv.org/abs/2512.21219v1) |
-| Evolutionary Hyperparameter Optimization to Find Lightweight CNN Models for Autonomous Steering | Devson Butani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.29684v1) |
-| Automating the Design of Embodied AgentArchitectures | Jian Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.30111v1) |
+| MOAR Planner: Multi-Objective and Adaptive Risk-Aware Path Planning for Infrastructure Inspection with a UAV | Louis Petit et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.30575v1) |
+| Enhancing Road Safety: An IoT-Based Accident Detection and Prevention Mechanism | Prabhu Pugalenthi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.22381v1) |
+| Harvesting AI Computation at the Edge via Generic Approximation | Yihan Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.29518v1) |
+| Why can genetic algorithms work in high-dimensional search spaces? | Stephen Whitelam | 2026 | [📄 Read](http://arxiv.org/abs/2606.30619v1) |
 | Computing the Integral R2 Indicator by Perspective Mapping and Box Decomposition | Michael T. M. Emmerich | 2026 | [📄 Read](http://arxiv.org/abs/2606.30530v1) |
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
-| Convergence of Continual Learning in Homogeneous Deep Networks | Matan Schliserman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.30559v1) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v1) |
-| FalconTrack: Photorealistic Auto-Labeled Perception and Physics-Aware Vision-Based Aerial Tracking | Yan Miao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.29783v1) |
+| SINR-Aware Base Station Deployment in Wide Area IoT Sensor Networks | Sachin Kadam | 2026 | [📄 Read](http://arxiv.org/abs/2606.15952v1) |
+| A Hybrid CNN-LSTM Intrusion Detection Framework for Cybersecurity in Smart Renewable Energy Grids | Sajib Debnath et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.25200v1) |
+| Adaptive Joint Compression and Synchronisation in Federated Split Learning for IoT Rainfall Prediction | Wenjie Ding et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.25003v1) |
+| From Detecting Agency to Doing Work: Self-Caused Credit Builds a Durable Behavioral Self in a Minimal Spiking Agent | Haoliang Han | 2026 | [📄 Read](http://arxiv.org/abs/2606.30191v1) |
+| Reinforcement Learning-Based Traffic Signal Control for IoT-Enabled Intersections | Yousef AlSaqabi | 2026 | [📄 Read](http://arxiv.org/abs/2606.22108v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 June 2026, 12:02 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 June 2026, 13:47 WIB</sub>
