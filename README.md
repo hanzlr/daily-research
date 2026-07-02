@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Path Planning in Physically Viable World Models | Su Ann Low et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.00673v1) |
-| Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training | Zijian Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01232v1) |
-| Two kinds of robustness are not the same: disentangling fault tolerance and low-SNR robustness in multi-domain event detection on real data | Isao Kurosawa | 2026 | [📄 Read](http://arxiv.org/abs/2606.29339v1) |
-| Beyond Line of Sight: Hybrid Validation of V2X Collective Perception in Complex Scenarios | Markos Antonopoulos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.00874v1) |
+| Sequentially-Controlled Interactive Multi-Particle Flow-Maps for Online Feedback-Driven Search | Binglin Ji et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01144v1) |
+| Adaptive Joint Compression and Synchronisation in Federated Split Learning for IoT Rainfall Prediction | Wenjie Ding et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.25003v1) |
+| A Lightweight Self-Supervised Learning Framework for Multivariate Time Series using Hierarchical-JEPA on ECG Data | Siwon Kim | 2026 | [📄 Read](http://arxiv.org/abs/2607.01145v1) |
+| Theoria: Rewrite-Acceptability Verification over Informal Reasoning States | Ben Slivinski et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01223v1) |
+| A Hybrid CNN-LSTM Intrusion Detection Framework for Cybersecurity in Smart Renewable Energy Grids | Sajib Debnath et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.25200v1) |
+| GPU-Parallel Linearization Error Bounds for Real-Time Robust Optimal Control of Nonlinear and Neural Network Dynamics | Jeffrey Fang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01203v1) |
+| Quantization in Federated Learning: Methods, Challenges and Future Directions | Farwa Ikram et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26822v1) |
 | SINR-Aware Base Station Deployment in Wide Area IoT Sensor Networks | Sachin Kadam | 2026 | [📄 Read](http://arxiv.org/abs/2606.15952v1) |
-| GreenBox: Prototyping of an Automatic Road Accident Detection System with Real-Time Notification SMS | Júlio Rocha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.16468v1) |
-| Enhancing Road Safety: An IoT-Based Accident Detection and Prevention Mechanism | Prabhu Pugalenthi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.22381v1) |
-| Creating Impactful Autonomous Driving Datasets: A Strategic Guide from Research Gap to Benchmark | Richard Schwarzkopf et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.00710v1) |
-| Sensorless Four-Channel Control Architecture Using Inverse Dynamics Modeling for Human-Scale Bilateral Teleoperation | Amir Noohian et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01201v1) |
-| Reinforcement Learning-Based Traffic Signal Control for IoT-Enabled Intersections | Yousef AlSaqabi | 2026 | [📄 Read](http://arxiv.org/abs/2606.22108v1) |
+| Harvesting AI Computation at the Edge via Generic Approximation | Yihan Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.29518v1) |
+| Adversarial Pragmatics for AI Safety Evaluation: A Benchmark for Instruction Conflict, Embedded Commands, and Policy Ambiguity | Brett Reynolds | 2026 | [📄 Read](http://arxiv.org/abs/2607.01153v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 02 July 2026, 14:59 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 02 July 2026, 15:54 WIB</sub>
