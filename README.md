@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| CREST: Deployment-Realistic Hardware-in-the-Loop NAS for Embedded Sensing Systems | Joseph Q. Zales et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.15004v1) |
-| TriSweep: A Four-Drone Swarm Framework for Electromagnetic Side-Channel Analysis | Eric Yocam et al. | 2026 | [📄 Read](http://arxiv.org/abs/2605.22709v1) |
-| Beyond Line of Sight: Hybrid Validation of V2X Collective Perception in Complex Scenarios | Markos Antonopoulos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.00874v1) |
-| Enhancing Road Safety: An IoT-Based Accident Detection and Prevention Mechanism | Prabhu Pugalenthi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.22381v1) |
-| Disentangling Continuous-Time Latent Dynamics: Identifiability of Latent SDEs via Diffusion Shifts | Yuanyuan Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.28228v1) |
-| Sensorless Four-Channel Control Architecture Using Inverse Dynamics Modeling for Human-Scale Bilateral Teleoperation | Amir Noohian et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01201v1) |
-| Two kinds of robustness are not the same: disentangling fault tolerance and low-SNR robustness in multi-domain event detection on real data | Isao Kurosawa | 2026 | [📄 Read](http://arxiv.org/abs/2606.29339v1) |
-| Path Planning in Physically Viable World Models | Su Ann Low et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.00673v1) |
-| HydraCollab: Adaptive Collaborative-Perception for Distributed Autonomous Systems | Luke Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.00191v1) |
-| Reinforcement Learning-Based Traffic Signal Control for IoT-Enabled Intersections | Yousef AlSaqabi | 2026 | [📄 Read](http://arxiv.org/abs/2606.22108v1) |
+| MMAO-Dyn: A Metabolic Multi-Agent Optimizer for Dynamic Optimization | Jinliang Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.00846v1) |
+| EVOTS: Evolutionary Transformer Search for Time Series Forecasting | AbdElRahman ElSaid et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.00154v1) |
+| Logit-Contribution Scoring Identifies Non-Literal Retrieval Heads | Aryo Pradipta Gema et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01002v1) |
+| Function-Counting Theory for Low-Dimensional Data Structures | Konstantin Häberle et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01010v1) |
+| Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3 | Muhtadin et al. | 2025 | [📄 Read](http://arxiv.org/abs/2512.21219v1) |
+| Reading Order Inference for Complex Document Layouts | Iddo Hakim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01018v1) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v1) |
+| From Consistency to Collaborative Discovery: MFEA-CoD for Multitask Novelty Search | Jiao Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.00761v1) |
+| Bridging Quantum Computing Paradigms toward Semiconductor Yield: A Controlled CV-versus-DV Comparison on Wafer-Map Defect Classification | Yeonhong Kim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.00961v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 02 July 2026, 19:54 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 02 July 2026, 22:10 WIB</sub>
