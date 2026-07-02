@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Logit-Contribution Scoring Identifies Non-Literal Retrieval Heads | Aryo Pradipta Gema et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01002v1) |
-| Path Planning in Physically Viable World Models | Su Ann Low et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.00673v1) |
-| Unleashing More Actions via Action Compositional Training for VLA Models | Kai Peng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.00351v1) |
+| Enhancing Road Safety: An IoT-Based Accident Detection and Prevention Mechanism | Prabhu Pugalenthi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.22381v1) |
 | Beyond Line of Sight: Hybrid Validation of V2X Collective Perception in Complex Scenarios | Markos Antonopoulos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.00874v1) |
-| Sensorless Four-Channel Control Architecture Using Inverse Dynamics Modeling for Human-Scale Bilateral Teleoperation | Amir Noohian et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01201v1) |
-| Stop Pretending Social Robots Are Inevitable | Serge Thill | 2026 | [📄 Read](http://arxiv.org/abs/2607.00142v1) |
-| RoboWorld: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation | Byeongguk Jeon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01060v1) |
+| Creating Impactful Autonomous Driving Datasets: A Strategic Guide from Research Gap to Benchmark | Richard Schwarzkopf et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.00710v1) |
 | GreenBox: Prototyping of an Automatic Road Accident Detection System with Real-Time Notification SMS | Júlio Rocha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.16468v1) |
+| Path Planning in Physically Viable World Models | Su Ann Low et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.00673v1) |
 | TriSweep: A Four-Drone Swarm Framework for Electromagnetic Side-Channel Analysis | Eric Yocam et al. | 2026 | [📄 Read](http://arxiv.org/abs/2605.22709v1) |
-| CREST: Deployment-Realistic Hardware-in-the-Loop NAS for Embedded Sensing Systems | Joseph Q. Zales et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.15004v1) |
+| Quantization in Federated Learning: Methods, Challenges and Future Directions | Farwa Ikram et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26822v1) |
+| SINR-Aware Base Station Deployment in Wide Area IoT Sensor Networks | Sachin Kadam | 2026 | [📄 Read](http://arxiv.org/abs/2606.15952v1) |
+| A Hybrid CNN-LSTM Intrusion Detection Framework for Cybersecurity in Smart Renewable Energy Grids | Sajib Debnath et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.25200v1) |
+| SoFiE: Soft Finger Exoskeleton for Intelligent Grasping | Magnus Malthe Sigsgaard Nielsen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.00397v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 02 July 2026, 17:08 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 02 July 2026, 18:24 WIB</sub>
