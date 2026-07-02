@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision | Zifan Carl Guo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.32038v1) |
-| Freeform Preference Learning for Robotic Manipulation | Marcel Torne et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.32027v1) |
-| Automated Background Swapping for Robustness against Spurious Backgrounds | Cesar Roder et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.32018v1) |
-| CoMet: Context and Multiplicity Decomposition for Multimodal Uncertainty Estimation | Sanghyuk Chun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.32012v1) |
-| Self-Study Reconsidered: The Hidden Fragility of Learning from Self-Generated QA | Ekaterina Alimaskina et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.32002v1) |
-| Learning Locomotion on Discrete Terrain via Minimal Proximity Sensing | Jiale Fan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.31912v1) |
-| PriorEye: Geospatial Visual Priors for End-to-End Autonomous Driving | Kyuhwan Yeon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.31830v1) |
-| Look But Don't Touch with Sparse Autoencoders for Unlearning in Diffusion Models | Enrico Cassano et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.31699v1) |
-| RCT: A Robot-Collected Touch-Vision-Language Dataset for Tactile Generalization | Jingbo He et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.31694v1) |
-| Random Reshuffling Dominates Stochastic Gradient Descent | Zijian Liu | 2026 | [📄 Read](http://arxiv.org/abs/2606.32005v1) |
+| Harvesting AI Computation at the Edge via Generic Approximation | Yihan Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.29518v1) |
+| A Hybrid CNN-LSTM Intrusion Detection Framework for Cybersecurity in Smart Renewable Energy Grids | Sajib Debnath et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.25200v1) |
+| EVOTS: Evolutionary Transformer Search for Time Series Forecasting | AbdElRahman ElSaid et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.00154v1) |
+| Quantization in Federated Learning: Methods, Challenges and Future Directions | Farwa Ikram et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.26822v1) |
+| Beyond Line of Sight: Hybrid Validation of V2X Collective Perception in Complex Scenarios | Markos Antonopoulos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.00874v1) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| Self-Organized Learning in Oscillatory Neural Networks with Memristive Signed Couplings | Riley Acker et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.00286v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| Path Planning in Physically Viable World Models | Su Ann Low et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.00673v1) |
+| Creating Impactful Autonomous Driving Datasets: A Strategic Guide from Research Gap to Benchmark | Richard Schwarzkopf et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.00710v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 02 July 2026, 00:13 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 02 July 2026, 09:48 WIB</sub>
