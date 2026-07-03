@@ -18,16 +18,10 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Object-centric LeJEPA | Jakob Geusen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02404v1) |
-| Beyond Gradient-Based Attacks: Adversarial Robustness and Explainability Stability in Cybersecurity Classifiers | Mona Rajhans et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01679v1) |
-| SelectTSL: Prompt-Guided Selective Target Sound Localization in Complex Scenarios | Ziyang Jiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02343v1) |
-| Comparative Analysis of Machine Learning based Intrusion Detection in Realistic IoT Networks | Rana Alharbi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.31594v1) |
-| Hardware-Enforced Semantic Coordination for Safety-Critical Real-Time Autonomous Systems | Uwe M. Borghoff et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02376v1) |
-| Neuron-Aware Active Few-Shot Learning for LLMs | Zhuowei Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02423v1) |
-| Generative AI and Federated Learning for Intrusion Detection Systems: A Survey | Jiefei Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01305v1) |
-| What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates | Arman Ghaffarizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02507v1) |
-| Program-as-Weights: A Programming Paradigm for Fuzzy Functions | Wentao Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02512v1) |
-| OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers | Donghyun Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02461v1) |
+| Sign in the Air to Unlock: An Interface for authentication in Virtual and Augmented Reality Powered by Point-Voxel Cross-Attention Network | Neda Abdolrahimi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01435v1) |
+| Liquid Latent State Dynamics for Interpretable Turbofan Degradation Modeling | Weizhi Nie et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01986v1) |
+| QFedAgent: Quantum-Enhanced Personalized Federated Learning for Multi-Agent Activity Recognition | Quoc Bao Phan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02426v1) |
+| Adaptive Group-Based Counterfactual Explanations for Time-Series Rehabilitation Data | Emmanuel C. Chukwu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01838v1) |
 
 ---
 
@@ -40,4 +34,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 03 July 2026, 13:21 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 03 July 2026, 14:55 WIB</sub>
