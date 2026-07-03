@@ -18,10 +18,6 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Sign in the Air to Unlock: An Interface for authentication in Virtual and Augmented Reality Powered by Point-Voxel Cross-Attention Network | Neda Abdolrahimi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01435v1) |
-| Liquid Latent State Dynamics for Interpretable Turbofan Degradation Modeling | Weizhi Nie et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01986v1) |
-| QFedAgent: Quantum-Enhanced Personalized Federated Learning for Multi-Agent Activity Recognition | Quoc Bao Phan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02426v1) |
-| Adaptive Group-Based Counterfactual Explanations for Time-Series Rehabilitation Data | Emmanuel C. Chukwu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01838v1) |
 
 ---
 
@@ -34,4 +30,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 03 July 2026, 14:55 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 03 July 2026, 16:16 WIB</sub>
