@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| CREST: Deployment-Realistic Hardware-in-the-Loop NAS for Embedded Sensing Systems | Joseph Q. Zales et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.15004v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v1) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
-| OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers | Donghyun Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02461v1) |
-| GreenBox: Prototyping of an Automatic Road Accident Detection System with Real-Time Notification SMS | Júlio Rocha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.16468v1) |
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
-| TriSweep: A Four-Drone Swarm Framework for Electromagnetic Side-Channel Analysis | Eric Yocam et al. | 2026 | [📄 Read](http://arxiv.org/abs/2605.22709v1) |
-| SoFiE: Soft Finger Exoskeleton for Intelligent Grasping | Magnus Malthe Sigsgaard Nielsen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.00397v1) |
-| Hardware-Enforced Semantic Coordination for Safety-Critical Real-Time Autonomous Systems | Uwe M. Borghoff et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02376v1) |
-| Object-centric LeJEPA | Jakob Geusen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02404v1) |
+| Comparative Analysis of Machine Learning based Intrusion Detection in Realistic IoT Networks | Rana Alharbi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.31594v1) |
+| Program-as-Weights: A Programming Paradigm for Fuzzy Functions | Wentao Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02512v1) |
+| RoboWorld: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation | Byeongguk Jeon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01060v1) |
+| Fast and Accurate Anomaly Detection in Time Series | Emanuele Mele et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02046v1) |
+| What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates | Arman Ghaffarizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02507v1) |
+| Stop Pretending Social Robots Are Inevitable | Serge Thill | 2026 | [📄 Read](http://arxiv.org/abs/2607.00142v1) |
+| An AI-Based Solution for Secure Service Provisioning in IoT | Marco Arazzi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.30701v1) |
+| Online Safety Monitoring for LLMs | Mona Schirmer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02510v1) |
+| Generative AI and Federated Learning for Intrusion Detection Systems: A Survey | Jiefei Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01305v1) |
+| Unleashing More Actions via Action Compositional Training for VLA Models | Kai Peng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.00351v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 06 July 2026, 14:02 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 06 July 2026, 15:54 WIB</sub>
