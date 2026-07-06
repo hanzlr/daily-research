@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Monday, 06 July 2026
+## 🗓️ Tuesday, 07 July 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Stable Self-Modulating Quantum Fast-Weight Programmers with Bounded Memory Gates | Kuo-Chung Peng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02363v1) |
+| Object-centric LeJEPA | Jakob Geusen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02404v1) |
+| Adaptive Group-Based Counterfactual Explanations for Time-Series Rehabilitation Data | Emmanuel C. Chukwu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01838v1) |
+| One Demonstration Is Enough for Real-World Robotic Reinforcement Learning | Yuwan Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01651v1) |
 | QFedAgent: Quantum-Enhanced Personalized Federated Learning for Multi-Agent Activity Recognition | Quoc Bao Phan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02426v1) |
-| Hardware-Enforced Semantic Coordination for Safety-Critical Real-Time Autonomous Systems | Uwe M. Borghoff et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02376v1) |
+| Stop Pretending Social Robots Are Inevitable | Serge Thill | 2026 | [📄 Read](http://arxiv.org/abs/2607.00142v1) |
+| OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers | Donghyun Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02461v1) |
+| Sign in the Air to Unlock: An Interface for authentication in Virtual and Augmented Reality Powered by Point-Voxel Cross-Attention Network | Neda Abdolrahimi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01435v1) |
 | Neuron-Aware Active Few-Shot Learning for LLMs | Zhuowei Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02423v1) |
-| Predicting Early Stages Of Alzheimer's Disease And Identifying Key Biomarkers Using Deep Artificial Neural Network And Ensemble Of Machine Learning Methodologies | Debopriya Ghosh | 2026 | [📄 Read](http://arxiv.org/abs/2607.02142v1) |
-| Controllable Sim Agents with Behavior Latents | Juanwu Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02496v1) |
-| Real-Time Visual Intelligence on Low-Cost UAVs: A Modular Approach for Tracking, Scanning, and Navigation | Andrei-Marian Ungureanu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02298v1) |
-| Hybridizing a Grouping Metaheuristic with Reinforcement Learning for the One-Dimensional Bin Packing Problem | Zitouni Rania et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02315v1) |
-| Sensorless Four-Channel Control Architecture Using Inverse Dynamics Modeling for Human-Scale Bilateral Teleoperation | Amir Noohian et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01201v1) |
-| Dendritic In-Context Learning in a Single-Layer Spiking Neural Network | Juwei Shen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02283v1) |
+| RoboWorld: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation | Byeongguk Jeon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01060v1) |
+| Liquid Latent State Dynamics for Interpretable Turbofan Degradation Modeling | Weizhi Nie et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01986v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 06 July 2026, 17:17 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 07 July 2026, 00:42 WIB</sub>
