@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3 | Muhtadin et al. | 2025 | [📄 Read](http://arxiv.org/abs/2512.21219v1) |
-| Hybridizing a Grouping Metaheuristic with Reinforcement Learning for the One-Dimensional Bin Packing Problem | Zitouni Rania et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02315v1) |
-| Neuron-Aware Active Few-Shot Learning for LLMs | Zhuowei Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02423v1) |
-| QFedAgent: Quantum-Enhanced Personalized Federated Learning for Multi-Agent Activity Recognition | Quoc Bao Phan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02426v1) |
-| Dendritic In-Context Learning in a Single-Layer Spiking Neural Network | Juwei Shen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02283v1) |
-| Beyond Gradient-Based Attacks: Adversarial Robustness and Explainability Stability in Cybersecurity Classifiers | Mona Rajhans et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01679v1) |
-| An AI-Based Solution for Secure Service Provisioning in IoT | Marco Arazzi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.30701v1) |
-| Generative AI and Federated Learning for Intrusion Detection Systems: A Survey | Jiefei Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01305v1) |
-| Comparative Analysis of Machine Learning based Intrusion Detection in Realistic IoT Networks | Rana Alharbi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.31594v1) |
-| Predicting Early Stages Of Alzheimer's Disease And Identifying Key Biomarkers Using Deep Artificial Neural Network And Ensemble Of Machine Learning Methodologies | Debopriya Ghosh | 2026 | [📄 Read](http://arxiv.org/abs/2607.02142v1) |
+| CREST: Deployment-Realistic Hardware-in-the-Loop NAS for Embedded Sensing Systems | Joseph Q. Zales et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.15004v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v1) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers | Donghyun Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02461v1) |
+| GreenBox: Prototyping of an Automatic Road Accident Detection System with Real-Time Notification SMS | Júlio Rocha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.16468v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| TriSweep: A Four-Drone Swarm Framework for Electromagnetic Side-Channel Analysis | Eric Yocam et al. | 2026 | [📄 Read](http://arxiv.org/abs/2605.22709v1) |
+| SoFiE: Soft Finger Exoskeleton for Intelligent Grasping | Magnus Malthe Sigsgaard Nielsen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.00397v1) |
+| Hardware-Enforced Semantic Coordination for Safety-Critical Real-Time Autonomous Systems | Uwe M. Borghoff et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02376v1) |
+| Object-centric LeJEPA | Jakob Geusen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02404v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 06 July 2026, 12:10 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 06 July 2026, 14:02 WIB</sub>
