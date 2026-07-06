@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Comparative Analysis of Machine Learning based Intrusion Detection in Realistic IoT Networks | Rana Alharbi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.31594v1) |
-| Program-as-Weights: A Programming Paradigm for Fuzzy Functions | Wentao Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02512v1) |
-| RoboWorld: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation | Byeongguk Jeon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01060v1) |
-| Fast and Accurate Anomaly Detection in Time Series | Emanuele Mele et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02046v1) |
-| What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates | Arman Ghaffarizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02507v1) |
-| Stop Pretending Social Robots Are Inevitable | Serge Thill | 2026 | [📄 Read](http://arxiv.org/abs/2607.00142v1) |
-| An AI-Based Solution for Secure Service Provisioning in IoT | Marco Arazzi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.30701v1) |
-| Online Safety Monitoring for LLMs | Mona Schirmer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02510v1) |
-| Generative AI and Federated Learning for Intrusion Detection Systems: A Survey | Jiefei Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01305v1) |
-| Unleashing More Actions via Action Compositional Training for VLA Models | Kai Peng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.00351v1) |
+| Stable Self-Modulating Quantum Fast-Weight Programmers with Bounded Memory Gates | Kuo-Chung Peng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02363v1) |
+| QFedAgent: Quantum-Enhanced Personalized Federated Learning for Multi-Agent Activity Recognition | Quoc Bao Phan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02426v1) |
+| Hardware-Enforced Semantic Coordination for Safety-Critical Real-Time Autonomous Systems | Uwe M. Borghoff et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02376v1) |
+| Neuron-Aware Active Few-Shot Learning for LLMs | Zhuowei Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02423v1) |
+| Predicting Early Stages Of Alzheimer's Disease And Identifying Key Biomarkers Using Deep Artificial Neural Network And Ensemble Of Machine Learning Methodologies | Debopriya Ghosh | 2026 | [📄 Read](http://arxiv.org/abs/2607.02142v1) |
+| Controllable Sim Agents with Behavior Latents | Juanwu Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02496v1) |
+| Real-Time Visual Intelligence on Low-Cost UAVs: A Modular Approach for Tracking, Scanning, and Navigation | Andrei-Marian Ungureanu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02298v1) |
+| Hybridizing a Grouping Metaheuristic with Reinforcement Learning for the One-Dimensional Bin Packing Problem | Zitouni Rania et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02315v1) |
+| Sensorless Four-Channel Control Architecture Using Inverse Dynamics Modeling for Human-Scale Bilateral Teleoperation | Amir Noohian et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01201v1) |
+| Dendritic In-Context Learning in a Single-Layer Spiking Neural Network | Juwei Shen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02283v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 06 July 2026, 15:54 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 06 July 2026, 17:17 WIB</sub>
