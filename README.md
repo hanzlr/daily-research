@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| SoFiE: Soft Finger Exoskeleton for Intelligent Grasping | Magnus Malthe Sigsgaard Nielsen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.00397v1) |
-| Enhanced Feature Extraction for IoT Network Intrusion Detection Using GNNs and KAN | Long Zhao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02981v1) |
-| Fast and Accurate Anomaly Detection in Time Series | Emanuele Mele et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02046v1) |
-| GreenBox: Prototyping of an Automatic Road Accident Detection System with Real-Time Notification SMS | Júlio Rocha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.16468v1) |
-| F-ACVAE: A Federated Adaptive Conditional Variational Auto-Encoder for Privacy-Preserving Intrusion Detection in IoT Networks | Mohammad Ansarimehr et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.04698v1) |
-| Channel-Adaptive Robust Aggregation for Over-the-Air Federated Learning in Heterogeneous Networks | Zubaida Fatima et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.04218v1) |
+| LLM-as-a-Verifier: A General-Purpose Verification Framework | Jacky Kwok et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05391v1) |
 | Selective Disclosure Watermarking for Large Language Models | Xuyang Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05353v1) |
-| Generative AI and Federated Learning for Intrusion Detection Systems: A Survey | Jiefei Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01305v1) |
-| TriSweep: A Four-Drone Swarm Framework for Electromagnetic Side-Channel Analysis | Eric Yocam et al. | 2026 | [📄 Read](http://arxiv.org/abs/2605.22709v1) |
-| Agentic IoT: Architectures, Applications, and Challenges Toward the Internet of Agents | Rümeysa Hilal Sevinç et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.04219v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v1) |
+| How Far is Too Far? Defining the Distance Threshold for Verification Siamese Networks | Heloísa Dias Viotto et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05329v1) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| From Stabilizing Regions to Certified Controllers: Closing the Selection Gap in Unified PID/PI Analysis for Time-Delay Plants | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.24202v1) |
+| Real-Time State Estimation in Smart Grids over 5G Networks: Experimental Validation Using Raspberry Pis and Typhoon HIL | Biswajit Kumar Dash et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27642v1) |
+| MoP-JEPA: Hard-Assigned Predictor Mixtures for Stochastic JEPA World Models | Zhi Song et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05238v1) |
+| GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks | Kaiyuan Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05369v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 07 July 2026, 16:38 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 07 July 2026, 17:23 WIB</sub>
