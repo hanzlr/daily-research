@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| LLM-as-a-Verifier: A General-Purpose Verification Framework | Jacky Kwok et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05391v1) |
-| Selective Disclosure Watermarking for Large Language Models | Xuyang Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05353v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v1) |
-| How Far is Too Far? Defining the Distance Threshold for Verification Siamese Networks | Heloísa Dias Viotto et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05329v1) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
-| From Stabilizing Regions to Certified Controllers: Closing the Selection Gap in Unified PID/PI Analysis for Time-Delay Plants | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.24202v1) |
-| Real-Time State Estimation in Smart Grids over 5G Networks: Experimental Validation Using Raspberry Pis and Typhoon HIL | Biswajit Kumar Dash et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27642v1) |
+| Agentic IoT: Architectures, Applications, and Challenges Toward the Internet of Agents | Rümeysa Hilal Sevinç et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.04219v1) |
+| Closing the Reality Gap: Zero-Shot Sim-to-Real Deployment for Dexterous Force-Based Grasping and Manipulation | Zhe Zhao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.04940v1) |
 | MoP-JEPA: Hard-Assigned Predictor Mixtures for Stochastic JEPA World Models | Zhi Song et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05238v1) |
-| GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks | Kaiyuan Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05369v1) |
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| Enhanced Feature Extraction for IoT Network Intrusion Detection Using GNNs and KAN | Long Zhao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02981v1) |
+| Selective Disclosure Watermarking for Large Language Models | Xuyang Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05353v1) |
+| GelNeuro: A Sensing-Computing Integrated Neuromorphic Tactile System for Texture Recognition | Luoyang Bian et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05241v1) |
+| Generative AI and Federated Learning for Intrusion Detection Systems: A Survey | Jiefei Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01305v1) |
+| A Reliable Context-Aware and Temporal Planning Framework for Autonomous Driving | Argho Dey et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.04689v1) |
+| Beyond Gradient-Based Attacks: Adversarial Robustness and Explainability Stability in Cybersecurity Classifiers | Mona Rajhans et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01679v1) |
+| Monotonic, Minimum-Settling-Time PI Tuning for First-Order-Plus-Dead-Time Plants: A Tangency Characterization | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.22217v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 07 July 2026, 17:23 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 07 July 2026, 18:35 WIB</sub>
