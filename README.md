@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification | Raphaël Bonnet-Guerrini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05393v1) |
-| How Far is Too Far? Defining the Distance Threshold for Verification Siamese Networks | Heloísa Dias Viotto et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05329v1) |
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
-| Compressing the Validation Bottleneck: An Agentic Self-Driving Lab for Scientific Discovery | Kyunghoon Hur et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.04508v1) |
-| LLM-as-a-Verifier: A General-Purpose Verification Framework | Jacky Kwok et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05391v1) |
+| SINR-Aware Base Station Deployment in Wide Area IoT Sensor Networks | Sachin Kadam | 2026 | [📄 Read](http://arxiv.org/abs/2606.15952v1) |
+| Reinforcement Learning-Based Traffic Signal Control for IoT-Enabled Intersections | Yousef AlSaqabi | 2026 | [📄 Read](http://arxiv.org/abs/2606.22108v1) |
 | Biologically Informed Deep Neural Networks for Multi-Omic Integration, Pathway Activity Inference and Risk Stratification in Cancer | Pedro Henrique da Costa Avelar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05306v1) |
+| Geometry-Aware Visual Odometry for Bronchoscopic Navigation via High-Gain Observer Fusion | Mohammadreza Kasaei et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05162v1) |
+| GreenBox: Prototyping of an Automatic Road Accident Detection System with Real-Time Notification SMS | Júlio Rocha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.16468v1) |
+| Enhanced Feature Extraction for IoT Network Intrusion Detection Using GNNs and KAN | Long Zhao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02981v1) |
+| A Reliable Context-Aware and Temporal Planning Framework for Autonomous Driving | Argho Dey et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.04689v1) |
+| Closing the Reality Gap: Zero-Shot Sim-to-Real Deployment for Dexterous Force-Based Grasping and Manipulation | Zhe Zhao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.04940v1) |
+| Beyond Gradient-Based Attacks: Adversarial Robustness and Explainability Stability in Cybersecurity Classifiers | Mona Rajhans et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01679v1) |
 | GelNeuro: A Sensing-Computing Integrated Neuromorphic Tactile System for Texture Recognition | Luoyang Bian et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05241v1) |
-| GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks | Kaiyuan Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05369v1) |
-| Quantum Spectral Anomaly Detection | Yewei Yuan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05307v1) |
-| Selective Disclosure Watermarking for Large Language Models | Xuyang Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05353v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 07 July 2026, 11:51 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 07 July 2026, 13:37 WIB</sub>
