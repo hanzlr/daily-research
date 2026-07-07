@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| SINR-Aware Base Station Deployment in Wide Area IoT Sensor Networks | Sachin Kadam | 2026 | [📄 Read](http://arxiv.org/abs/2606.15952v1) |
+| Real-Time State Estimation in Smart Grids over 5G Networks: Experimental Validation Using Raspberry Pis and Typhoon HIL | Biswajit Kumar Dash et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27642v1) |
+| Enhancing Road Safety: An IoT-Based Accident Detection and Prevention Mechanism | Prabhu Pugalenthi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.22381v1) |
+| TriSweep: A Four-Drone Swarm Framework for Electromagnetic Side-Channel Analysis | Eric Yocam et al. | 2026 | [📄 Read](http://arxiv.org/abs/2605.22709v1) |
+| An event-driven framework for fly-inspired visual motion detection | Qinbing Fu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05205v1) |
+| LLM for the development of FCM | Alexis Kafantaris | 2026 | [📄 Read](http://arxiv.org/abs/2607.04983v1) |
+| Monotonic, Minimum-Settling-Time PI Tuning for First-Order-Plus-Dead-Time Plants: A Tangency Characterization | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.22217v1) |
+| SoFiE: Soft Finger Exoskeleton for Intelligent Grasping | Magnus Malthe Sigsgaard Nielsen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.00397v1) |
+| Heaviside Continuity of Rolling Coefficients for Eliminating Epistemic Entropy in Large Language Models | MY Pitsane et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.04562v1) |
+| CREST: Deployment-Realistic Hardware-in-the-Loop NAS for Embedded Sensing Systems | Joseph Q. Zales et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.15004v1) |
 | Reinforcement Learning-Based Traffic Signal Control for IoT-Enabled Intersections | Yousef AlSaqabi | 2026 | [📄 Read](http://arxiv.org/abs/2606.22108v1) |
-| Biologically Informed Deep Neural Networks for Multi-Omic Integration, Pathway Activity Inference and Risk Stratification in Cancer | Pedro Henrique da Costa Avelar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05306v1) |
-| Geometry-Aware Visual Odometry for Bronchoscopic Navigation via High-Gain Observer Fusion | Mohammadreza Kasaei et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05162v1) |
-| GreenBox: Prototyping of an Automatic Road Accident Detection System with Real-Time Notification SMS | Júlio Rocha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.16468v1) |
-| Enhanced Feature Extraction for IoT Network Intrusion Detection Using GNNs and KAN | Long Zhao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02981v1) |
-| A Reliable Context-Aware and Temporal Planning Framework for Autonomous Driving | Argho Dey et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.04689v1) |
-| Closing the Reality Gap: Zero-Shot Sim-to-Real Deployment for Dexterous Force-Based Grasping and Manipulation | Zhe Zhao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.04940v1) |
-| Beyond Gradient-Based Attacks: Adversarial Robustness and Explainability Stability in Cybersecurity Classifiers | Mona Rajhans et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01679v1) |
-| GelNeuro: A Sensing-Computing Integrated Neuromorphic Tactile System for Texture Recognition | Luoyang Bian et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05241v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 07 July 2026, 13:37 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 07 July 2026, 15:13 WIB</sub>
