@@ -19,15 +19,15 @@
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
 | Learning to Throw Objects Safely in Multi-Obstacle Environments | Mohammadreza Kasaei et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06388v1) |
-| OrchardBench: A Physically-Grounded, GPU-Parallel Apple-Orchard Simulation Benchmark for Agricultural Robotics | Humphrey Munn | 2026 | [📄 Read](http://arxiv.org/abs/2607.06337v1) |
-| F-ACVAE: A Federated Adaptive Conditional Variational Auto-Encoder for Privacy-Preserving Intrusion Detection in IoT Networks | Mohammad Ansarimehr et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.04698v1) |
-| Channel-Adaptive Robust Aggregation for Over-the-Air Federated Learning in Heterogeneous Networks | Zubaida Fatima et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.04218v1) |
-| Beyond Gradient-Based Attacks: Adversarial Robustness and Explainability Stability in Cybersecurity Classifiers | Mona Rajhans et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.01679v1) |
-| Hilti-Trimble-Oxford Dataset: 360 Visual-Inertial Benchmark with Floor Plan Priors for SLAM and Localization | Samuele Centanni et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06464v1) |
+| Uncertainty-Aware Velocity Correction for Proprioceptive Vehicle Localization using Evidential Mamba | Abinav Kalyanasundaram et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05669v1) |
 | Real-Time State Estimation in Smart Grids over 5G Networks: Experimental Validation Using Raspberry Pis and Typhoon HIL | Biswajit Kumar Dash et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27642v1) |
-| From Stabilizing Regions to Certified Controllers: Closing the Selection Gap in Unified PID/PI Analysis for Time-Delay Plants | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.24202v1) |
+| Dithered Gaussian Mechanism for Randomness-Efficient Differential Privacy | Nikita P. Kalinin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06320v1) |
+| Localized LoRA-MoE: Block-wise Low-Rank Experts With Adaptive Routing | Babak Barazandeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05114v1) |
+| Threshold Optimization and Dynamic Adaptation of Distributed Optimal Power Flow in 5G Networks | Biswajit Kumar Dash et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27542v1) |
 | Monotonic, Minimum-Settling-Time PI Tuning for First-Order-Plus-Dead-Time Plants: A Tangency Characterization | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.22217v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v1) |
+| EntroPath: Maximum Entropy Path Ensemble Embedding for Manifold Learning | Przemysław Rola | 2026 | [📄 Read](http://arxiv.org/abs/2607.06497v1) |
+| Video-based detection of cessation of breathing in pre-term infants using machine learning | Dineo Serame et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05230v1) |
+| From Stabilizing Regions to Certified Controllers: Closing the Selection Gap in Unified PID/PI Analysis for Time-Delay Plants | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.24202v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 08 July 2026, 19:16 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 08 July 2026, 22:14 WIB</sub>
