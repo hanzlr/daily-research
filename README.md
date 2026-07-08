@@ -18,10 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Dithered Gaussian Mechanism for Randomness-Efficient Differential Privacy | Nikita P. Kalinin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06320v1) |
-| Quantitative Gaussian-Process limits of Tensor Programs | Andrea Agazzi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06290v1) |
-| Provable learning separation for predicting time-evolution of quantum many-body systems | Rahul Bandyopadhyay et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06472v1) |
-| EntroPath: Maximum Entropy Path Ensemble Embedding for Manifold Learning | Przemysław Rola | 2026 | [📄 Read](http://arxiv.org/abs/2607.06497v1) |
+| GreenBox: Prototyping of an Automatic Road Accident Detection System with Real-Time Notification SMS | Júlio Rocha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.16468v1) |
+| F-ACVAE: A Federated Adaptive Conditional Variational Auto-Encoder for Privacy-Preserving Intrusion Detection in IoT Networks | Mohammad Ansarimehr et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.04698v1) |
+| Uncertainty-Aware Velocity Correction for Proprioceptive Vehicle Localization using Evidential Mamba | Abinav Kalyanasundaram et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05669v1) |
+| An event-driven framework for fly-inspired visual motion detection | Qinbing Fu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05205v1) |
+| Towards Real-World Applications with an Autonomous Powered Wheelchair | Simone Arreghini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06383v1) |
+| LLM for the development of FCM | Alexis Kafantaris | 2026 | [📄 Read](http://arxiv.org/abs/2607.04983v1) |
+| Fast and Accurate Anomaly Detection in Time Series | Emanuele Mele et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02046v1) |
+| RoboVAST: Automated Scenario-Based Validation of Robots at Scale | Frederik Pasch et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06248v1) |
+| Scalable Perturbation Learning for Online Self-Supervised Echo State Networks | Taiki Yamada et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06079v1) |
+| SoFiE: Soft Finger Exoskeleton for Intelligent Grasping | Magnus Malthe Sigsgaard Nielsen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.00397v1) |
 
 ---
 
@@ -34,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 08 July 2026, 16:24 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 08 July 2026, 17:52 WIB</sub>
