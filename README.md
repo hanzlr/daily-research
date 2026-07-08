@@ -19,15 +19,9 @@
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
 | Dithered Gaussian Mechanism for Randomness-Efficient Differential Privacy | Nikita P. Kalinin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06320v1) |
-| Enhancing Road Safety: An IoT-Based Accident Detection and Prevention Mechanism | Prabhu Pugalenthi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.22381v1) |
-| Hypothesis-driven Model Expansion under Uncertainty for Open-World Robot Planning | Anxing Xiao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06501v1) |
-| ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation | Tianjiao Yu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06565v1) |
-| SINR-Aware Base Station Deployment in Wide Area IoT Sensor Networks | Sachin Kadam | 2026 | [📄 Read](http://arxiv.org/abs/2606.15952v1) |
-| The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology | Ghassen Marrakchi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06531v1) |
-| Learning to Throw Objects Safely in Multi-Obstacle Environments | Mohammadreza Kasaei et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06388v1) |
 | Quantitative Gaussian-Process limits of Tensor Programs | Andrea Agazzi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06290v1) |
+| Provable learning separation for predicting time-evolution of quantum many-body systems | Rahul Bandyopadhyay et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06472v1) |
 | EntroPath: Maximum Entropy Path Ensemble Embedding for Manifold Learning | Przemysław Rola | 2026 | [📄 Read](http://arxiv.org/abs/2607.06497v1) |
-| Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion | Shervin Khalafi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06546v1) |
 
 ---
 
@@ -40,4 +34,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 08 July 2026, 15:25 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 08 July 2026, 16:24 WIB</sub>
