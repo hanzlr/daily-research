@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3 | Muhtadin et al. | 2025 | [📄 Read](http://arxiv.org/abs/2512.21219v1) |
-| SoFiE: Soft Finger Exoskeleton for Intelligent Grasping | Magnus Malthe Sigsgaard Nielsen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.00397v1) |
-| Enhanced Feature Extraction for IoT Network Intrusion Detection Using GNNs and KAN | Long Zhao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02981v1) |
-| CREST: Deployment-Realistic Hardware-in-the-Loop NAS for Embedded Sensing Systems | Joseph Q. Zales et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.15004v1) |
-| Scalable Perturbation Learning for Online Self-Supervised Echo State Networks | Taiki Yamada et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06079v1) |
-| A Hardware-Aware Open-Source Framework for Design Space Exploration of Mixed-Signal Spiking Neural Networks | Sayma Nowshin Chowdhury et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06456v1) |
-| TopoBrick: Agentic Topology Sampling of Exogenous Variables for Zero-Shot Building IoT Forecasting | Xiachong Lin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06349v1) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
-| An event-driven framework for fly-inspired visual motion detection | Qinbing Fu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05205v1) |
+| Dithered Gaussian Mechanism for Randomness-Efficient Differential Privacy | Nikita P. Kalinin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06320v1) |
+| Enhancing Road Safety: An IoT-Based Accident Detection and Prevention Mechanism | Prabhu Pugalenthi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.22381v1) |
+| Hypothesis-driven Model Expansion under Uncertainty for Open-World Robot Planning | Anxing Xiao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06501v1) |
+| ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation | Tianjiao Yu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06565v1) |
+| SINR-Aware Base Station Deployment in Wide Area IoT Sensor Networks | Sachin Kadam | 2026 | [📄 Read](http://arxiv.org/abs/2606.15952v1) |
+| The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology | Ghassen Marrakchi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06531v1) |
+| Learning to Throw Objects Safely in Multi-Obstacle Environments | Mohammadreza Kasaei et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06388v1) |
+| Quantitative Gaussian-Process limits of Tensor Programs | Andrea Agazzi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06290v1) |
+| EntroPath: Maximum Entropy Path Ensemble Embedding for Manifold Learning | Przemysław Rola | 2026 | [📄 Read](http://arxiv.org/abs/2607.06497v1) |
+| Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion | Shervin Khalafi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06546v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 08 July 2026, 14:22 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 08 July 2026, 15:25 WIB</sub>
