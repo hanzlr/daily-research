@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Dithered Gaussian Mechanism for Randomness-Efficient Differential Privacy | Nikita P. Kalinin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06320v1) |
-| What Images Cannot Say: Language-Guided Olfactory Representation Learning | Eleftherios Tsonis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06402v1) |
-| LLM for the development of FCM | Alexis Kafantaris | 2026 | [📄 Read](http://arxiv.org/abs/2607.04983v1) |
+| An event-driven framework for fly-inspired visual motion detection | Qinbing Fu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05205v1) |
 | Industry Classification of GitHub Repositories Using the North American Industry Classification System (NAICS) | Kevin Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06505v1) |
-| Threshold Optimization and Dynamic Adaptation of Distributed Optimal Power Flow in 5G Networks | Biswajit Kumar Dash et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27542v1) |
 | A Physics-Informed Neural Network Framework for Elastodynamic Wave Propagation in Bimaterial Systems | Sonal Ankush Chibire et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06479v1) |
-| A Hardware-Aware Open-Source Framework for Design Space Exploration of Mixed-Signal Spiking Neural Networks | Sayma Nowshin Chowdhury et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06456v1) |
-| Real-Time State Estimation in Smart Grids over 5G Networks: Experimental Validation Using Raspberry Pis and Typhoon HIL | Biswajit Kumar Dash et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27642v1) |
+| Video-based detection of cessation of breathing in pre-term infants using machine learning | Dineo Serame et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05230v1) |
+| Localized LoRA-MoE: Block-wise Low-Rank Experts With Adaptive Routing | Babak Barazandeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05114v1) |
+| LLM for the development of FCM | Alexis Kafantaris | 2026 | [📄 Read](http://arxiv.org/abs/2607.04983v1) |
 | EntroPath: Maximum Entropy Path Ensemble Embedding for Manifold Learning | Przemysław Rola | 2026 | [📄 Read](http://arxiv.org/abs/2607.06497v1) |
-| Quantitative Gaussian-Process limits of Tensor Programs | Andrea Agazzi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06290v1) |
+| Provable learning separation for predicting time-evolution of quantum many-body systems | Rahul Bandyopadhyay et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06472v1) |
+| Scalable Perturbation Learning for Online Self-Supervised Echo State Networks | Taiki Yamada et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06079v1) |
+| The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology | Ghassen Marrakchi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06531v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 08 July 2026, 11:14 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 08 July 2026, 12:41 WIB</sub>
