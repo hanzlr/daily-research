@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Wednesday, 08 July 2026
+## 🗓️ Thursday, 09 July 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Learning to Throw Objects Safely in Multi-Obstacle Environments | Mohammadreza Kasaei et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06388v1) |
-| Uncertainty-Aware Velocity Correction for Proprioceptive Vehicle Localization using Evidential Mamba | Abinav Kalyanasundaram et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05669v1) |
-| Real-Time State Estimation in Smart Grids over 5G Networks: Experimental Validation Using Raspberry Pis and Typhoon HIL | Biswajit Kumar Dash et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27642v1) |
-| Dithered Gaussian Mechanism for Randomness-Efficient Differential Privacy | Nikita P. Kalinin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06320v1) |
-| Localized LoRA-MoE: Block-wise Low-Rank Experts With Adaptive Routing | Babak Barazandeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05114v1) |
-| Threshold Optimization and Dynamic Adaptation of Distributed Optimal Power Flow in 5G Networks | Biswajit Kumar Dash et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27542v1) |
-| Monotonic, Minimum-Settling-Time PI Tuning for First-Order-Plus-Dead-Time Plants: A Tangency Characterization | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.22217v1) |
-| EntroPath: Maximum Entropy Path Ensemble Embedding for Manifold Learning | Przemysław Rola | 2026 | [📄 Read](http://arxiv.org/abs/2607.06497v1) |
-| Video-based detection of cessation of breathing in pre-term infants using machine learning | Dineo Serame et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05230v1) |
-| From Stabilizing Regions to Certified Controllers: Closing the Selection Gap in Unified PID/PI Analysis for Time-Delay Plants | Senol Gulgonul | 2026 | [📄 Read](http://arxiv.org/abs/2606.24202v1) |
+| Neural Operator-enabled Topology-informed Evolutionary Strategy for PDE-Constrained Optimization | Xiangming Huang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07682v1) |
+| How the Fusion of Onboard Sensors and V2X Data can Improve (or not) the Cooperative Perception of Connected Automated Vehicles | Amir Mohammadisarab et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07114v1) |
+| Dynamic Object Detection and Tracking in Construction: A Fisheye Camera and LiDAR Sensor Fusion Model | Yilong Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06896v1) |
+| ECGLight: Compute-Light Framework For Paper ECG Digitization and Myocardial Infarction Screening | Shreyasvi Natraj et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07683v1) |
+| Disturbance-aware Motion Planning for Over-actuated Underwater Vehicles Exploiting Actuation Redundancy for High-fidelity 3D Reconstruction | Yuer Gao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07139v1) |
+| Hypothesis-driven Model Expansion under Uncertainty for Open-World Robot Planning | Anxing Xiao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06501v1) |
+| Compositional Motion Generation from Demonstration with Object-Centric Neural Fields | Ahmet Ercan Tekden et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07129v1) |
+| Asymmetric Focal Loss Improves Graph Neural Network Prediction of Drug-Drug Interactions | Faranak Hatami et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07611v1) |
+| Programmable Synchronization Graphs for Adaptive and Fault-Tolerant Modular Miniature Robots | Okan Kulekcioglu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07281v1) |
+| Context-Aware Force Estimation for Deformable Tool Manipulation in Robotic Environmental Swabbing via Few-Shot Continual Adaptation | Siavash Mahmoudi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07574v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 08 July 2026, 22:14 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 09 July 2026, 09:31 WIB</sub>
