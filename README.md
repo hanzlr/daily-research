@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Thursday, 09 July 2026
+## 🗓️ Friday, 10 July 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models | Hyunjae Kim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07673v1) |
-| Disturbance-aware Motion Planning for Over-actuated Underwater Vehicles Exploiting Actuation Redundancy for High-fidelity 3D Reconstruction | Yuer Gao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07139v1) |
-| Reinforcement Learning-Based Traffic Signal Control for IoT-Enabled Intersections | Yousef AlSaqabi | 2026 | [📄 Read](http://arxiv.org/abs/2606.22108v1) |
 | Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| Dynamic neural manifolds for flexible closed-loop control on neuromorphic hardware | Oskar von Seeler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07373v1) |
 | Programmable Synchronization Graphs for Adaptive and Fault-Tolerant Modular Miniature Robots | Okan Kulekcioglu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07281v1) |
 | Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3 | Muhtadin et al. | 2025 | [📄 Read](http://arxiv.org/abs/2512.21219v1) |
-| How Data Shapes RoPE Frequency Usage: From Positional Scale Matching to Length Generalization | Xinyi Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07678v1) |
-| Context-Aware Force Estimation for Deformable Tool Manipulation in Robotic Environmental Swabbing via Few-Shot Continual Adaptation | Siavash Mahmoudi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07574v1) |
-| A Unified Fully Reconfigurable Architecture for Wireless Powered Communication Networks | Bingxin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07447v1) |
-| Neural Operator-enabled Topology-informed Evolutionary Strategy for PDE-Constrained Optimization | Xiangming Huang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07682v1) |
+| Hypothesis-driven Model Expansion under Uncertainty for Open-World Robot Planning | Anxing Xiao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06501v1) |
+| Intrinsic-Noise Consolidation: A Doob-Barrier-Conditioned Diffusion Turns Analog Device Noise into a Continual-Learning Resource | Gunner Levi Howe | 2026 | [📄 Read](http://arxiv.org/abs/2607.06924v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v1) |
+| How the Fusion of Onboard Sensors and V2X Data can Improve (or not) the Cooperative Perception of Connected Automated Vehicles | Amir Mohammadisarab et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07114v1) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| Single-Entity Spiking Neuron Models: Survey | Leon Parepko et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07429v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 09 July 2026, 13:34 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 10 July 2026, 00:22 WIB</sub>
