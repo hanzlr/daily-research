@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
+| MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models | Hyunjae Kim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07673v1) |
+| Disturbance-aware Motion Planning for Over-actuated Underwater Vehicles Exploiting Actuation Redundancy for High-fidelity 3D Reconstruction | Yuer Gao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07139v1) |
+| Reinforcement Learning-Based Traffic Signal Control for IoT-Enabled Intersections | Yousef AlSaqabi | 2026 | [📄 Read](http://arxiv.org/abs/2606.22108v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| Programmable Synchronization Graphs for Adaptive and Fault-Tolerant Modular Miniature Robots | Okan Kulekcioglu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07281v1) |
+| Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3 | Muhtadin et al. | 2025 | [📄 Read](http://arxiv.org/abs/2512.21219v1) |
+| How Data Shapes RoPE Frequency Usage: From Positional Scale Matching to Length Generalization | Xinyi Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07678v1) |
 | Context-Aware Force Estimation for Deformable Tool Manipulation in Robotic Environmental Swabbing via Few-Shot Continual Adaptation | Siavash Mahmoudi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07574v1) |
 | A Unified Fully Reconfigurable Architecture for Wireless Powered Communication Networks | Bingxin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07447v1) |
-| Reinforcement Learning-Based Traffic Signal Control for IoT-Enabled Intersections | Yousef AlSaqabi | 2026 | [📄 Read](http://arxiv.org/abs/2606.22108v1) |
-| InductWave: Inductive Multi-Hop Logical Query Answering on Knowledge Graphs | Mayank Kharbanda et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07422v1) |
-| How the Fusion of Onboard Sensors and V2X Data can Improve (or not) the Cooperative Perception of Connected Automated Vehicles | Amir Mohammadisarab et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07114v1) |
-| Disturbance-aware Motion Planning for Over-actuated Underwater Vehicles Exploiting Actuation Redundancy for High-fidelity 3D Reconstruction | Yuer Gao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07139v1) |
-| Dynamic Object Detection and Tracking in Construction: A Fisheye Camera and LiDAR Sensor Fusion Model | Yilong Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06896v1) |
-| Hypothesis-driven Model Expansion under Uncertainty for Open-World Robot Planning | Anxing Xiao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06501v1) |
-| Programmable Synchronization Graphs for Adaptive and Fault-Tolerant Modular Miniature Robots | Okan Kulekcioglu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07281v1) |
-| When Prompts Ignore Structure: Graph-Based Attribute Reasoning for Calibrated VLMs | Tanay Sodha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07395v1) |
+| Neural Operator-enabled Topology-informed Evolutionary Strategy for PDE-Constrained Optimization | Xiangming Huang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07682v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 09 July 2026, 11:52 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 09 July 2026, 13:34 WIB</sub>
