@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Monocular Vision Based Control Framework for Grasping | Shail Jadav et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07897v1) |
-| RadLoc: Radar-based 3-DoF Global Localization via Fast, Robust, and Lightweight Spatial Descriptor Across Diverse Environmental Scenarios | Hogyun Kim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08115v1) |
-| EVIS: A Physics-Grounded Event Camera Plugin for NVIDIA Isaac Sim | Linli Shi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08098v1) |
-| Sampling on Random Subspaces under Limited Data in the Context of Exploratory Landscape Analysis | Iván Olarte Rodríguez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07854v1) |
-| In vivo feasibility study of humanoid robots in surgery | Zekai Liang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07972v1) |
-| Single-Entity Spiking Neuron Models: Survey | Leon Parepko et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07429v1) |
-| Real-Time State Estimation in Smart Grids over 5G Networks: Experimental Validation Using Raspberry Pis and Typhoon HIL | Biswajit Kumar Dash et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27642v1) |
-| Social-spatial dependencies for learning visual navigation | Patrick Govoni et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07460v1) |
-| SkillPlug: Unsupervised Skill Mining for Few-Shot Adaptation in Robotic Manipulation | Zi-han Ding et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08354v1) |
-| Threshold Optimization and Dynamic Adaptation of Distributed Optimal Power Flow in 5G Networks | Biswajit Kumar Dash et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27542v1) |
+| Secure Decentralized Federated Learning via Gossip and Virtual Voting | Amirhossein Taherpour et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08651v1) |
+| Inertia-1: An Open Exploration of Wearable Motion Foundation Models | Zongzhe Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06617v1) |
+| Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3 | Muhtadin et al. | 2025 | [📄 Read](http://arxiv.org/abs/2512.21219v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v1) |
+| Physical activities enable scalable foundation modelling for broad-spectrum health prediction | Zhenghuang Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06954v1) |
+| GreenBox: Prototyping of an Automatic Road Accident Detection System with Real-Time Notification SMS | Júlio Rocha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.16468v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| EdgeRefine: Privacy-Utility Balance for Graphs via Jaccard Sampling under Edge Differential Privacy | Wenxiu Ding et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08659v1) |
+| SASGeo: Stability-Aware Semantic Map Localization for GNSS-Denied UAVs -- A Framework and Synthetic Proof of Concept | Natalia Trukhina et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07737v1) |
+| Resample or Reroute? Budget-Aware Test-Time Model Selection for Large Language Models | Teng-Ruei Chen | 2026 | [📄 Read](http://arxiv.org/abs/2607.08665v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 11 July 2026, 12:32 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 11 July 2026, 14:04 WIB</sub>
