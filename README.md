@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Secure Decentralized Federated Learning via Gossip and Virtual Voting | Amirhossein Taherpour et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08651v1) |
-| Inertia-1: An Open Exploration of Wearable Motion Foundation Models | Zongzhe Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06617v1) |
-| Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3 | Muhtadin et al. | 2025 | [📄 Read](http://arxiv.org/abs/2512.21219v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v1) |
-| Physical activities enable scalable foundation modelling for broad-spectrum health prediction | Zhenghuang Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06954v1) |
-| GreenBox: Prototyping of an Automatic Road Accident Detection System with Real-Time Notification SMS | Júlio Rocha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.16468v1) |
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
-| EdgeRefine: Privacy-Utility Balance for Graphs via Jaccard Sampling under Edge Differential Privacy | Wenxiu Ding et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08659v1) |
-| SASGeo: Stability-Aware Semantic Map Localization for GNSS-Denied UAVs -- A Framework and Synthetic Proof of Concept | Natalia Trukhina et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07737v1) |
-| Resample or Reroute? Budget-Aware Test-Time Model Selection for Large Language Models | Teng-Ruei Chen | 2026 | [📄 Read](http://arxiv.org/abs/2607.08665v1) |
+| From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond | Spyridon Evangelatos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.05563v1) |
+| Enhanced Feature Extraction for IoT Network Intrusion Detection Using GNNs and KAN | Long Zhao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.02981v1) |
+| MulTTiPop: A Multitrack Transcription Dataset for Pop Music | Nathan Pruyne et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08756v1) |
+| RadLoc: Radar-based 3-DoF Global Localization via Fast, Robust, and Lightweight Spatial Descriptor Across Diverse Environmental Scenarios | Hogyun Kim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08115v1) |
+| Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis | Kristina Schaaff et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08748v1) |
+| Applying JEPA-Style Predictive Learning to JA4-Derived Network Fingerprints | Javier Izquierdo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08465v1) |
+| EVIS: A Physics-Grounded Event Camera Plugin for NVIDIA Isaac Sim | Linli Shi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08098v1) |
+| SLORR: Simple and Efficient In-Training Low-Rank Regularization | David González-Martínez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08754v1) |
+| Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling | Yiwei Zhou | 2026 | [📄 Read](http://arxiv.org/abs/2607.08757v1) |
+| Drift-Aware Temporal Graph Rewiring (DATGR) for Adaptive Semantic Modeling in Biomedical Text | Bharathwaj Vijayakumar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08490v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 11 July 2026, 14:04 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 11 July 2026, 14:53 WIB</sub>
