@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Data-Efficient Deep Learning: Empirical Guidelines for Training Set Size Estimation in Inertial Sensor Classification | Ofir Kruzel et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09402v1) |
-| A Unified Fully Reconfigurable Architecture for Wireless Powered Communication Networks | Bingxin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07447v1) |
-| Foveation-Guided Dynamic Token Selection for Robust and Efficient Vision Transformers | Ibrahim Batuhan Akkaya et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09480v1) |
-| Physical activities enable scalable foundation modelling for broad-spectrum health prediction | Zhenghuang Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06954v1) |
-| SASGeo: Stability-Aware Semantic Map Localization for GNSS-Denied UAVs -- A Framework and Synthetic Proof of Concept | Natalia Trukhina et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.07737v1) |
-| Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls | Saroj Gopali et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09076v1) |
-| VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents | Katherine Swinea et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09653v1) |
-| Reinforcement Learning-Based Traffic Signal Control for IoT-Enabled Intersections | Yousef AlSaqabi | 2026 | [📄 Read](http://arxiv.org/abs/2606.22108v1) |
-| Blockchain-Linked Auditable Decision Management for Telecom/IoT Fraud-Control Requests | Saviz Changizi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09259v1) |
+| Structural Decoupling and Current-Angle Steering for Post-Fault Recovery of Current-Limited Grid-Forming Inverters | Neethu Sajeev et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09058v1) |
+| Real-Time State Estimation in Smart Grids over 5G Networks: Experimental Validation Using Raspberry Pis and Typhoon HIL | Biswajit Kumar Dash et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27642v1) |
+| CoDiMAD: Diffusion-Based Privileged Distillation for Communication-Free Multi-Robot Coordination | Jiyue Tao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09587v1) |
+| PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis | Ren Takahashi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09662v1) |
+| How Mobile Gas Sensor Trajectories Govern Hydrogen Leak Detection: A Safety Gap in Manual Leak Inspection of Hydrogen System Components | Christian Masuhr et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09527v1) |
+| Differential Analysis of Multispectral Images for Terrain Identification | Omar Kashmar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09319v1) |
+| Co-evolution of self-replication and function in a digital primordial soup | Francesco Cicala et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09211v1) |
+| RadLoc: Radar-based 3-DoF Global Localization via Fast, Robust, and Lightweight Spatial Descriptor Across Diverse Environmental Scenarios | Hogyun Kim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08115v1) |
 | Interference and Retention in Continual Learning | Julius Störk | 2026 | [📄 Read](http://arxiv.org/abs/2607.09202v1) |
+| Parameter-Efficient Vision-Language Adaptation with Continuous Metadata Conditioning for Animal Re-Identification | Anil Osman Tur et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09443v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 13 July 2026, 12:58 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 13 July 2026, 15:09 WIB</sub>
