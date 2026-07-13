@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Foveation-Guided Dynamic Token Selection for Robust and Efficient Vision Transformers | Ibrahim Batuhan Akkaya et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09480v1) |
-| Interference and Retention in Continual Learning | Julius Störk | 2026 | [📄 Read](http://arxiv.org/abs/2607.09202v1) |
-| GreenBox: Prototyping of an Automatic Road Accident Detection System with Real-Time Notification SMS | Júlio Rocha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.16468v1) |
-| Structural Decoupling and Current-Angle Steering for Post-Fault Recovery of Current-Limited Grid-Forming Inverters | Neethu Sajeev et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09058v1) |
-| Degradation-Aware Pumping Control of Variable-Speed Pumped Storage via Residual Reinforcement Learning | Kyung-bin Kwon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06911v1) |
-| Reinforcement Learning-Based Traffic Signal Control for IoT-Enabled Intersections | Yousef AlSaqabi | 2026 | [📄 Read](http://arxiv.org/abs/2606.22108v1) |
-| Co-evolution of self-replication and function in a digital primordial soup | Francesco Cicala et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09211v1) |
-| Evolutionary Intelligence for Scientific Discovery: From Evolutionary Computation to Cumulative Discovery Systems | Chao Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09025v1) |
-| Real-Time State Estimation in Smart Grids over 5G Networks: Experimental Validation Using Raspberry Pis and Typhoon HIL | Biswajit Kumar Dash et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27642v1) |
-| An Improved Deep Reinforcement Learning Control Strategy for Traction Dual Rectifiers in EMUs | Zhigang Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09276v1) |
+| How Mobile Gas Sensor Trajectories Govern Hydrogen Leak Detection: A Safety Gap in Manual Leak Inspection of Hydrogen System Components | Christian Masuhr et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09527v1) |
+| Data-Efficient Deep Learning: Empirical Guidelines for Training Set Size Estimation in Inertial Sensor Classification | Ofir Kruzel et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09402v1) |
+| Differential Analysis of Multispectral Images for Terrain Identification | Omar Kashmar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09319v1) |
+| Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3 | Muhtadin et al. | 2025 | [📄 Read](http://arxiv.org/abs/2512.21219v1) |
+| RadLoc: Radar-based 3-DoF Global Localization via Fast, Robust, and Lightweight Spatial Descriptor Across Diverse Environmental Scenarios | Hogyun Kim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08115v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v1) |
+| Vascular Geometry Characterization for AI-Based Endovascular Navigation | Han-Ru Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09130v1) |
+| SkillPlug: Unsupervised Skill Mining for Few-Shot Adaptation in Robotic Manipulation | Zi-han Ding et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08354v1) |
+| TSAI-MetaFraud: A Benchmark Dataset for Financial Fraud Transaction and Behavioral Risk Detection in Metaverse Ecosystems | Refat Ishrak Hemel et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09528v1) |
+| SplatCtrl: Perception-Action Coupling via Gaussian Scene Representations and Reactive Robot Control | Siddarth Jain et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08948v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 13 July 2026, 18:47 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 13 July 2026, 20:13 WIB</sub>
