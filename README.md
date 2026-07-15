@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Tuesday, 14 July 2026
+## 🗓️ Wednesday, 15 July 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Differential Analysis of Multispectral Images for Terrain Identification | Omar Kashmar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09319v1) |
-| LLM for EDA in Front-End Design: Challenges and Opportunities | Kangwei Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09616v1) |
-| Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection | Cláudio Lúcio do Val Lopes et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09641v1) |
-| Beyond Fixed Representations: The Vocabulary and Verifier Gaps in Open-Ended AI | Yuan Cao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09560v1) |
-| SkillPlug: Unsupervised Skill Mining for Few-Shot Adaptation in Robotic Manipulation | Zi-han Ding et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08354v1) |
-| RadLoc: Radar-based 3-DoF Global Localization via Fast, Robust, and Lightweight Spatial Descriptor Across Diverse Environmental Scenarios | Hogyun Kim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08115v1) |
-| How Mobile Gas Sensor Trajectories Govern Hydrogen Leak Detection: A Safety Gap in Manual Leak Inspection of Hydrogen System Components | Christian Masuhr et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09527v1) |
-| Vascular Geometry Characterization for AI-Based Endovascular Navigation | Han-Ru Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09130v1) |
-| All Explanations are Wrong, But Many Are Useful: Exploring the Rashomon Explanation Set with Large Language Models | Pan Li | 2026 | [📄 Read](http://arxiv.org/abs/2607.09502v1) |
-| SplatCtrl: Perception-Action Coupling via Gaussian Scene Representations and Reactive Robot Control | Siddarth Jain et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08948v1) |
+| Real-Time State Estimation in Smart Grids over 5G Networks: Experimental Validation Using Raspberry Pis and Typhoon HIL | Biswajit Kumar Dash et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27642v1) |
+| An Improved Deep Reinforcement Learning Control Strategy for Traction Dual Rectifiers in EMUs | Zhigang Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09276v1) |
+| What Makes a Representational Prior Work? Feature Families, Label-Free Invariances, and Critical Windows in Grokking | Gunner Levi Howe | 2026 | [📄 Read](http://arxiv.org/abs/2607.12735v1) |
+| Compound Interference Recognition for LR-FHSS Satellite IoT Uplinks via Multi-Domain Instance Fusion | H. Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.11488v1) |
+| F-ACVAE: A Federated Adaptive Conditional Variational Auto-Encoder for Privacy-Preserving Intrusion Detection in IoT Networks | Mohammad Ansarimehr et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.04698v1) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| Structural Decoupling and Current-Angle Steering for Post-Fault Recovery of Current-Limited Grid-Forming Inverters | Neethu Sajeev et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09058v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v1) |
+| Contrastive-Collapsed Loss for Flexible and Geometrically Optimal Embeddings and Faster Convergence | Blanca Cano-Camarero et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.12916v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 14 July 2026, 00:11 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 15 July 2026, 08:58 WIB</sub>
