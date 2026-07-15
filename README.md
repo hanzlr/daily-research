@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Real-Time State Estimation in Smart Grids over 5G Networks: Experimental Validation Using Raspberry Pis and Typhoon HIL | Biswajit Kumar Dash et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.27642v1) |
-| An Improved Deep Reinforcement Learning Control Strategy for Traction Dual Rectifiers in EMUs | Zhigang Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09276v1) |
-| What Makes a Representational Prior Work? Feature Families, Label-Free Invariances, and Critical Windows in Grokking | Gunner Levi Howe | 2026 | [📄 Read](http://arxiv.org/abs/2607.12735v1) |
-| Compound Interference Recognition for LR-FHSS Satellite IoT Uplinks via Multi-Domain Instance Fusion | H. Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.11488v1) |
-| F-ACVAE: A Federated Adaptive Conditional Variational Auto-Encoder for Privacy-Preserving Intrusion Detection in IoT Networks | Mohammad Ansarimehr et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.04698v1) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
 | Structural Decoupling and Current-Angle Steering for Post-Fault Recovery of Current-Limited Grid-Forming Inverters | Neethu Sajeev et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09058v1) |
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v1) |
+| Edge-Aware Thermal Infrared UAV Swarm Tracking | Yu-Hsi Chen | 2026 | [📄 Read](http://arxiv.org/abs/2607.12544v1) |
+| The Spectrum Is Not Enough: When Context Helps Time-Series Forecasting | Mert Onur Cakiroglu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.13006v1) |
+| ESBMC-Arduino: Closing the Deployment Gap for Formal Verification of Open-Hardware PLCs | Pierre Dantas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08550v1) |
 | Contrastive-Collapsed Loss for Flexible and Geometrically Optimal Embeddings and Faster Convergence | Blanca Cano-Camarero et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.12916v1) |
+| A Bearing-Strength Method for Motion Estimation of Unknown Energy Emitters | Haoyu Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.12515v1) |
+| CREST: Deployment-Realistic Hardware-in-the-Loop NAS for Embedded Sensing Systems | Joseph Q. Zales et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.15004v1) |
+| MAMMOTH: A Multi-Modal End-to-End Policy for Off-Road Mobility Robust to Missing Modality | Ahaan Kotian et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.12965v1) |
+| An Improved Deep Reinforcement Learning Control Strategy for Traction Dual Rectifiers in EMUs | Zhigang Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09276v1) |
+| Efficient Sequential Calibration with $O(T^{2/3-ε})$ Error Bound | Zihan Zhang | 2026 | [📄 Read](http://arxiv.org/abs/2607.12928v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 15 July 2026, 08:58 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 15 July 2026, 10:57 WIB</sub>
