@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Spectral-Informed Neural Networks Outperform Spectral Methods in High-dimensional PDEs | Tianchi Yu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.13566v1) |
-| Beyond the $d^{2.5}$-mixing bound for Dikin walks on polytopes | Yunbum Kook | 2026 | [📄 Read](http://arxiv.org/abs/2607.13943v1) |
-| ESBMC-Arduino: Closing the Deployment Gap for Formal Verification of Open-Hardware PLCs | Pierre Dantas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08550v1) |
-| Improving Wind and Solar Power Prediction with Efficient Wrapper-based Feature Selection: An Empirical Study | Daniel Grillmeyer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.14024v1) |
+| Lightweight Multi-Scale Anomaly Detection for Resource-Constrained Edge Devices | Raheen Junaid Wani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.12599v1) |
+| Structural Decoupling and Current-Angle Steering for Post-Fault Recovery of Current-Limited Grid-Forming Inverters | Neethu Sajeev et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09058v1) |
 | Plausible Deniability Guarantees for Whistleblowers | Leo Richter et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.13928v1) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
-| CREST: Deployment-Realistic Hardware-in-the-Loop NAS for Embedded Sensing Systems | Joseph Q. Zales et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.15004v1) |
-| Leveraging unlabelled data for generalizable neural population decoding | Ximeng Mao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.14086v1) |
-| Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3 | Muhtadin et al. | 2025 | [📄 Read](http://arxiv.org/abs/2512.21219v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v1) |
+| An Improved Deep Reinforcement Learning Control Strategy for Traction Dual Rectifiers in EMUs | Zhigang Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09276v1) |
+| Beyond the $d^{2.5}$-mixing bound for Dikin walks on polytopes | Yunbum Kook | 2026 | [📄 Read](http://arxiv.org/abs/2607.13943v1) |
+| Linear Independent Component Analysis via Optimal Transport | Ashutosh Jha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.14081v1) |
+| Flow-aware Optimal Navigation in Unsteady Flows through Reinforcement Learning | Andrea Maria Braghin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.13553v1) |
+| Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes | Jeremy Guntoro et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.14070v1) |
+| Degradation-Aware Pumping Control of Variable-Speed Pumped Storage via Residual Reinforcement Learning | Kyung-bin Kwon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06911v1) |
+| MetaPerch: Learning from metadata for bioacoustics foundation models | Mustafa Chasmai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.14072v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 16 July 2026, 11:08 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 16 July 2026, 12:31 WIB</sub>
