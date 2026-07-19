@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Degradation-Aware Pumping Control of Variable-Speed Pumped Storage via Residual Reinforcement Learning | Kyung-bin Kwon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.06911v1) |
-| Human-Robot Interaction in GenAI Architectures via the Agent-Client Protocol | Jesus Moncada-Ramirez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.14919v1) |
-| Structural Decoupling and Current-Angle Steering for Post-Fault Recovery of Current-Limited Grid-Forming Inverters | Neethu Sajeev et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09058v1) |
-| Curvature-Constrained and Constant-Speed Distributed Simultaneous Arrival Control for Multi-Robot Systems | Zhouru Xiao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.14781v1) |
-| Toward Energy-Efficient and Low-Power Arrhythmia Detection for Wearable Devices | Floriaan Bulten et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.14747v1) |
-| The Industrialization of Research ; On AI-Driven Science and Its Consequences | Emmanuel Jeannot | 2026 | [📄 Read](http://arxiv.org/abs/2607.15164v1) |
-| Parameter-efficient Prompt Tuning of Vision Foundation Model With Adaptive Focal Loss for Interpretable MCI Screening | Javad Khoramdel et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.15047v1) |
-| SMC-ES: Automated synthesis of formally verified control policies | Riccardo Curcio et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.15003v1) |
 | NeuronSoup: Evolving Asynchronous, Shared-Neuron Temporal Graphs without Backpropagation | Subodh Kalia | 2026 | [📄 Read](http://arxiv.org/abs/2607.15217v1) |
-| SceneBind: Binding What and Where Across Vision, Audio and Language | Mingfei Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.15265v1) |
+| cGAP: Generalized Association Plots with HOMALS-Guided Heatmaps for Visualization of High-Dimensional Categorical Data | Chun-houh Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.15018v1) |
+| DevicesWorld: Benchmarking Cross-Device Agents in Heterogeneous Environments | Huatao Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.13465v1) |
+| Closing the Loop: An Access-Control Architecture for Automated, Anomaly-Driven Network Revocation in IoT Deployments | Muhammet Emir Korkmaz et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.11649v1) |
+| Multimodality as Supervision: Self-Supervised Specialization to the Test Environment via Multimodality | Kunal Pratap Singh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.14721v1) |
+| Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier | Arthur G. Bubolz et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.15258v1) |
+| Toward Energy-Efficient and Low-Power Arrhythmia Detection for Wearable Devices | Floriaan Bulten et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.14747v1) |
+| Confidence-based Ranking with Adaptive Sampling for Noisy Black-Box Optimisation | Enrico Halim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.14936v1) |
+| Topology-Agnostic Mesh Reconstruction of Deformable Objects from Sparse Touch | Everest Yang | 2026 | [📄 Read](http://arxiv.org/abs/2607.13479v1) |
+| Flow-aware Optimal Navigation in Unsteady Flows through Reinforcement Learning | Andrea Maria Braghin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.13553v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 July 2026, 11:20 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 July 2026, 12:42 WIB</sub>
