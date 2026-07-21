@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Internet of Agentic Things: Networked AI Agents for Closed-Loop IoT Orchestration | Quanyan Zhu | 2026 | [📄 Read](http://arxiv.org/abs/2607.12662v1) |
-| EdgeFaaS: A Function-based Framework for Edge Computing | Neha Vadnere et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.14489v1) |
-| Leveraging Two Robotic Arms for Tight Assembly Performance Gains | Dror Livnat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17876v1) |
-| Compound Interference Recognition for LR-FHSS Satellite IoT Uplinks via Multi-Domain Instance Fusion | H. Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.11488v1) |
-| Lightweight Multi-Scale Anomaly Detection for Resource-Constrained Edge Devices | Raheen Junaid Wani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.12599v1) |
-| A Hardware-oriented Approach for Efficient Bayesian Inference Computation and Deployment | Nikola Pižurica et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17855v1) |
-| F-ACVAE: A Federated Adaptive Conditional Variational Auto-Encoder for Privacy-Preserving Intrusion Detection in IoT Networks | Mohammad Ansarimehr et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.04698v1) |
-| Lifelong Localization in Dynamic Indoor Environments Combining Odometry with Sparse Distance Sampling | Michael M. Bilevich et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17852v1) |
-| Dynamic Defense Profiling Enables Cognitive Jailbreak of Text-to-Image Models | Dongdong Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17779v1) |
-| Closing the Loop: An Access-Control Architecture for Automated, Anomaly-Driven Network Revocation in IoT Deployments | Muhammet Emir Korkmaz et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.11649v1) |
+| RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control | Di Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17951v1) |
+| ESBMC-Arduino: Closing the Deployment Gap for Formal Verification of Open-Hardware PLCs | Pierre Dantas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08550v1) |
+| SynapticOS: An Inference-First Runtime Architecture for Neural Processing Units on Resource-Constrained Microcontrollers | Dimitrios Kafetzis | 2026 | [📄 Read](http://arxiv.org/abs/2607.12606v1) |
+| COLIP-2: Olfaction-Vision-Language Embeddings | Kordel Kade France | 2026 | [📄 Read](http://arxiv.org/abs/2607.17559v1) |
+| Bridging battery design and health assessment through virtual sensing and physics-informed learning | Wendi Guo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16864v1) |
+| The Internet of Things for Smart Manufacturing: A Review | Hui Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16172v1) |
+| A Kalman Filter-Assisted Data-Predictive SAR ADC With Reduced Switching Energy for Low-Power Applications | Xiyuan Feng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16139v1) |
+| The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric | Sheng-Yu Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.18237v1) |
+| Patch Policy: Efficient Embodied Control via Dense Visual Representations | Gaoyue Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.18236v1) |
+| What Do They See? Interpreting Complex Road Scenarios Through the Eyes of Vision-Language-Action Models for Safe and Trustworthy Autonomous Vehicle Learning | Kalpana Panda et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16938v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 July 2026, 15:25 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 July 2026, 16:25 WIB</sub>
