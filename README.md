@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| GreenBox: Prototyping of an Automatic Road Accident Detection System with Real-Time Notification SMS | Júlio Rocha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2606.16468v1) |
-| Dynamic Defense Profiling Enables Cognitive Jailbreak of Text-to-Image Models | Dongdong Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17779v1) |
+| The Internet of Things for Smart Manufacturing: A Review | Hui Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16172v1) |
 | Federated Low-Rank Koopman Learning for Multivariate Time-Series Anomaly Detection in IoT Systems | Tung-Anh Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08978v1) |
-| Anticipate Before Acting: Future-State-Conditioned Vision-Language Navigation | Lingfeng Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.18042v1) |
-| Lightweight Multi-Scale Anomaly Detection for Resource-Constrained Edge Devices | Raheen Junaid Wani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.12599v1) |
-| A Hardware-oriented Approach for Efficient Bayesian Inference Computation and Deployment | Nikola Pižurica et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17855v1) |
-| MEVION: Low-Cost Open-Source Data Collection System for Powerful and High-Speed Dual-Arm Manipulation | Kento Kawaharazuka et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17970v1) |
-| ESBMC-Arduino: Closing the Deployment Gap for Formal Verification of Open-Hardware PLCs | Pierre Dantas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08550v1) |
-| SynapticOS: An Inference-First Runtime Architecture for Neural Processing Units on Resource-Constrained Microcontrollers | Dimitrios Kafetzis | 2026 | [📄 Read](http://arxiv.org/abs/2607.12606v1) |
-| Lifelong Localization in Dynamic Indoor Environments Combining Odometry with Sparse Distance Sampling | Michael M. Bilevich et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17852v1) |
+| The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric | Sheng-Yu Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.18237v1) |
+| Empowering On-Device Model Adaptation with an Edge AI Inference Accelerator | Mateusz Piechocki et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.18101v1) |
+| F-ACVAE: A Federated Adaptive Conditional Variational Auto-Encoder for Privacy-Preserving Intrusion Detection in IoT Networks | Mohammad Ansarimehr et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.04698v1) |
+| Information-Based Exploration via Random Features for Reinforcement Learning | Waris Radji et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17981v1) |
+| Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference | Masahiro Kato et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.18225v1) |
+| Learning to Stay Fresh: A Self-Learning Semantic Framework for Underwater Internet of Things | Ananya Hazarika et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16902v1) |
+| Compound Interference Recognition for LR-FHSS Satellite IoT Uplinks via Multi-Domain Instance Fusion | H. Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.11488v1) |
+| Causal Discovery on Irregular Time Series | Martim Penim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.18226v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 July 2026, 11:14 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 July 2026, 12:41 WIB</sub>
