@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| SLAM in Low-Light Environments: Project Report | Oleh Basystyi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17699v1) |
-| Polar Coordinate-based Differential Evolution for Moving Target Search Using Vision Sensor on Unmanned Aerial Vehicles | Thu Hang Khuat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17771v1) |
-| An Improved Deep Reinforcement Learning Control Strategy for Traction Dual Rectifiers in EMUs | Zhigang Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09276v1) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
-| A PI+R Control Scheme Based on Multi-agent Systems for Economic Dispatch in Isolated BESSs | Yalin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.15572v1) |
-| A Distributed PI+Reset Scheme for Discrete-Time Economic Dispatch of A Grid-connected BESS Network | Yalin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.14508v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v1) |
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
-| A Kalman Filter-Assisted Data-Predictive SAR ADC With Reduced Switching Energy for Low-Power Applications | Xiyuan Feng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16139v1) |
 | Internet of Agentic Things: Networked AI Agents for Closed-Loop IoT Orchestration | Quanyan Zhu | 2026 | [📄 Read](http://arxiv.org/abs/2607.12662v1) |
+| EdgeFaaS: A Function-based Framework for Edge Computing | Neha Vadnere et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.14489v1) |
+| Leveraging Two Robotic Arms for Tight Assembly Performance Gains | Dror Livnat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17876v1) |
+| Compound Interference Recognition for LR-FHSS Satellite IoT Uplinks via Multi-Domain Instance Fusion | H. Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.11488v1) |
+| Lightweight Multi-Scale Anomaly Detection for Resource-Constrained Edge Devices | Raheen Junaid Wani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.12599v1) |
+| A Hardware-oriented Approach for Efficient Bayesian Inference Computation and Deployment | Nikola Pižurica et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17855v1) |
+| F-ACVAE: A Federated Adaptive Conditional Variational Auto-Encoder for Privacy-Preserving Intrusion Detection in IoT Networks | Mohammad Ansarimehr et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.04698v1) |
+| Lifelong Localization in Dynamic Indoor Environments Combining Odometry with Sparse Distance Sampling | Michael M. Bilevich et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17852v1) |
+| Dynamic Defense Profiling Enables Cognitive Jailbreak of Text-to-Image Models | Dongdong Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17779v1) |
+| Closing the Loop: An Access-Control Architecture for Automated, Anomaly-Driven Network Revocation in IoT Deployments | Muhammet Emir Korkmaz et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.11649v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 July 2026, 14:27 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 July 2026, 15:25 WIB</sub>
