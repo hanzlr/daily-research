@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| How the fly holds a single goal: normalization, not selection, in Drosophila FC2 | Gioele Nanni et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.18969v1) |
-| Fundamental limits of distributed multiclass classification from simple binary decisions | Ioannis Papageorgiou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19334v1) |
-| DevicesWorld: Benchmarking Cross-Device Agents in Heterogeneous Environments | Huatao Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.13465v1) |
-| Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3 | Muhtadin et al. | 2025 | [📄 Read](http://arxiv.org/abs/2512.21219v1) |
-| Benchmarking Generalization in Financial Statement Fraud Detection: robust evaluation and novel tasks | Guy Stephane Waffo Dzuyo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19259v1) |
-| Conditioned Direct Feedback Alignment via Activity and Error Geometry | Houman Safaai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.18574v1) |
-| 1-Lipschitz Neural Networks on Hadamard Manifolds | Davide Murari et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19335v1) |
+| Sequential Learner Modeling Using Multi-Relational Graph Convolutional Networks | Rawaa Alatrash et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19253v1) |
 | Internet of Agentic Things: Networked AI Agents for Closed-Loop IoT Orchestration | Quanyan Zhu | 2026 | [📄 Read](http://arxiv.org/abs/2607.12662v1) |
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
-| Towards chemistries in dynamical systems | Martin Biehl et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19090v1) |
+| Structural Decoupling and Current-Angle Steering for Post-Fault Recovery of Current-Limited Grid-Forming Inverters | Neethu Sajeev et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09058v1) |
+| A Kalman Filter-Assisted Data-Predictive SAR ADC With Reduced Switching Energy for Low-Power Applications | Xiyuan Feng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16139v1) |
+| SynapticOS: An Inference-First Runtime Architecture for Neural Processing Units on Resource-Constrained Microcontrollers | Dimitrios Kafetzis | 2026 | [📄 Read](http://arxiv.org/abs/2607.12606v1) |
+| Supra Cognitive Modes: A Routed Architecture for Agent Memory | Joshua Tobkin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19096v1) |
+| A PI+R Control Scheme Based on Multi-agent Systems for Economic Dispatch in Isolated BESSs | Yalin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.15572v1) |
+| ESBMC-Arduino: Closing the Deployment Gap for Formal Verification of Open-Hardware PLCs | Pierre Dantas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08550v1) |
+| Learning to Stay Fresh: A Self-Learning Semantic Framework for Underwater Internet of Things | Ananya Hazarika et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16902v1) |
+| ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D | Lena Libon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19321v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 July 2026, 11:15 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 July 2026, 12:40 WIB</sub>
