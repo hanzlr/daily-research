@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| In-Context Time Series Classification with Random Convolutional Features | Joscha Cüppers et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19234v1) |
-| Conditioned Direct Feedback Alignment via Activity and Error Geometry | Houman Safaai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.18574v1) |
-| GUIDED Network-Agnostic Feature Initialization for Spatial Transferability in GNN-based Models | Alessandro Scalese et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19270v1) |
-| Bayesian Retraction Optimization for Tissue Attachment Mapping in Surgical Dissection | Shing-Hei Ho et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19174v1) |
-| Cognitive Dual-Process Planning for Autonomous Driving with Structured Scene Knowledge and Verifiable Reasoning-Action Consistency | Zhongyao Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19194v1) |
-| Design and stability analysis of an underactuated hand with passively rotating fingers | Léonie Plancoulaine et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.18950v1) |
-| Spiking Neural Networks for fMRI-Based Visual Semantic Decoding | Jiahong Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19170v1) |
-| Two-Stage Extrinsic Calibration of a Static Line-Scanning Lidar with a Rotary Platform | Vikram Shree et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.18578v1) |
-| Now We Know? A Systematic Comparison of TerraMind and THOR | Frederick Schindlegger et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.18504v1) |
-| Supra Cognitive Modes: A Routed Architecture for Agent Memory | Joshua Tobkin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19096v1) |
+| Fundamental limits of distributed multiclass classification from simple binary decisions | Ioannis Papageorgiou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19334v1) |
+| ESBMC-Arduino: Closing the Deployment Gap for Formal Verification of Open-Hardware PLCs | Pierre Dantas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08550v1) |
+| MVP-Tac: A Miniaturized Dual-Modal Vision and Photoelastic Tactile Sensor for Robot-Assisted Minimally Invasive Surgery | Md Rakibul Islam Prince et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.18660v1) |
+| ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling | Chirag Vashist et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19332v1) |
+| Provable diffusion-based posterior sampling for linear inverse problems via DDIM | Yuchen Jiao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19333v1) |
+| A Reinforcement-Learning-Augmented Liquid-Fueled Reactor Network Model for Predicting Lean Blowout in Gas Turbine Combustors | Philip John et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19281v1) |
+| 1-Lipschitz Neural Networks on Hadamard Manifolds | Davide Murari et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19335v1) |
+| SynapticOS: An Inference-First Runtime Architecture for Neural Processing Units on Resource-Constrained Microcontrollers | Dimitrios Kafetzis | 2026 | [📄 Read](http://arxiv.org/abs/2607.12606v1) |
+| NGPS: GPS-Denied Aerial Geo-Localization and 2.5D Reconstruction via Deep Satellite Image Matching and Multi-Rate Sensor Fusion | Sanket Sharma | 2026 | [📄 Read](http://arxiv.org/abs/2607.18936v1) |
+| RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control | Di Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17951v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 July 2026, 14:28 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 July 2026, 15:26 WIB</sub>
