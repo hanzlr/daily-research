@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Sequential Learner Modeling Using Multi-Relational Graph Convolutional Networks | Rawaa Alatrash et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19253v1) |
-| Internet of Agentic Things: Networked AI Agents for Closed-Loop IoT Orchestration | Quanyan Zhu | 2026 | [📄 Read](http://arxiv.org/abs/2607.12662v1) |
-| Structural Decoupling and Current-Angle Steering for Post-Fault Recovery of Current-Limited Grid-Forming Inverters | Neethu Sajeev et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09058v1) |
-| A Kalman Filter-Assisted Data-Predictive SAR ADC With Reduced Switching Energy for Low-Power Applications | Xiyuan Feng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16139v1) |
-| SynapticOS: An Inference-First Runtime Architecture for Neural Processing Units on Resource-Constrained Microcontrollers | Dimitrios Kafetzis | 2026 | [📄 Read](http://arxiv.org/abs/2607.12606v1) |
+| In-Context Time Series Classification with Random Convolutional Features | Joscha Cüppers et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19234v1) |
+| Conditioned Direct Feedback Alignment via Activity and Error Geometry | Houman Safaai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.18574v1) |
+| GUIDED Network-Agnostic Feature Initialization for Spatial Transferability in GNN-based Models | Alessandro Scalese et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19270v1) |
+| Bayesian Retraction Optimization for Tissue Attachment Mapping in Surgical Dissection | Shing-Hei Ho et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19174v1) |
+| Cognitive Dual-Process Planning for Autonomous Driving with Structured Scene Knowledge and Verifiable Reasoning-Action Consistency | Zhongyao Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19194v1) |
+| Design and stability analysis of an underactuated hand with passively rotating fingers | Léonie Plancoulaine et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.18950v1) |
+| Spiking Neural Networks for fMRI-Based Visual Semantic Decoding | Jiahong Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19170v1) |
+| Two-Stage Extrinsic Calibration of a Static Line-Scanning Lidar with a Rotary Platform | Vikram Shree et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.18578v1) |
+| Now We Know? A Systematic Comparison of TerraMind and THOR | Frederick Schindlegger et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.18504v1) |
 | Supra Cognitive Modes: A Routed Architecture for Agent Memory | Joshua Tobkin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19096v1) |
-| A PI+R Control Scheme Based on Multi-agent Systems for Economic Dispatch in Isolated BESSs | Yalin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.15572v1) |
-| ESBMC-Arduino: Closing the Deployment Gap for Formal Verification of Open-Hardware PLCs | Pierre Dantas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08550v1) |
-| Learning to Stay Fresh: A Self-Learning Semantic Framework for Underwater Internet of Things | Ananya Hazarika et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16902v1) |
-| ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D | Lena Libon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19321v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 July 2026, 12:40 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 July 2026, 14:28 WIB</sub>
