@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| RL-MACRO: A Cybernetic Closed-Loop Intelligence Framework for Multimodal Adaptive Robotic Craniotomy | Xiao Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21113v1) |
-| EdgeFaaS: A Function-based Framework for Edge Computing | Neha Vadnere et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.14489v1) |
-| SynapticOS: An Inference-First Runtime Architecture for Neural Processing Units on Resource-Constrained Microcontrollers | Dimitrios Kafetzis | 2026 | [📄 Read](http://arxiv.org/abs/2607.12606v1) |
-| Internet of Agentic Things: Networked AI Agents for Closed-Loop IoT Orchestration | Quanyan Zhu | 2026 | [📄 Read](http://arxiv.org/abs/2607.12662v1) |
-| RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control | Di Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17951v1) |
-| Interaction Dynamics Modeling and Predictive Control for Safe Steerable Catheter--Tissue Interaction | Yongyan Cao | 2026 | [📄 Read](http://arxiv.org/abs/2607.20939v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3 | Muhtadin et al. | 2025 | [📄 Read](http://arxiv.org/abs/2512.21219v1) |
+| Time Series Network Utilization KPI Forecasting Using Advanced AI/ML Models | Niraj Gadhe et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19974v1) |
 | Factorized Spatio-Temporal Convolutions for Human Pose Estimation from Planar Lidar | Simone Arreghini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21309v1) |
-| ESBMC-Arduino: Closing the Deployment Gap for Formal Verification of Open-Hardware PLCs | Pierre Dantas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08550v1) |
-| Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\geq 4$ | Dawei Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21579v1) |
-| Synthetic data generation framework for quality control automation in gravure printing | Korota Arsène Coulibaly et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21577v1) |
+| Interaction Dynamics Modeling and Predictive Control for Safe Steerable Catheter--Tissue Interaction | Yongyan Cao | 2026 | [📄 Read](http://arxiv.org/abs/2607.20939v1) |
+| URF: A Unified Robot Control-Policy Framework for Stable Contact Aware Manipulation | Jiyou Shin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.20912v1) |
+| GS-Agent: Creating 4D Physical Worlds With Generative Simulation | Hongxin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21522v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v1) |
+| RL-MACRO: A Cybernetic Closed-Loop Intelligence Framework for Multimodal Adaptive Robotic Craniotomy | Xiao Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21113v1) |
+| Internet of Agentic Things: Networked AI Agents for Closed-Loop IoT Orchestration | Quanyan Zhu | 2026 | [📄 Read](http://arxiv.org/abs/2607.12662v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 24 July 2026, 14:24 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 24 July 2026, 15:24 WIB</sub>
