@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
-| Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3 | Muhtadin et al. | 2025 | [📄 Read](http://arxiv.org/abs/2512.21219v1) |
-| Time Series Network Utilization KPI Forecasting Using Advanced AI/ML Models | Niraj Gadhe et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19974v1) |
-| Factorized Spatio-Temporal Convolutions for Human Pose Estimation from Planar Lidar | Simone Arreghini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21309v1) |
-| Interaction Dynamics Modeling and Predictive Control for Safe Steerable Catheter--Tissue Interaction | Yongyan Cao | 2026 | [📄 Read](http://arxiv.org/abs/2607.20939v1) |
-| URF: A Unified Robot Control-Policy Framework for Stable Contact Aware Manipulation | Jiyou Shin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.20912v1) |
-| GS-Agent: Creating 4D Physical Worlds With Generative Simulation | Hongxin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21522v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v1) |
-| RL-MACRO: A Cybernetic Closed-Loop Intelligence Framework for Multimodal Adaptive Robotic Craniotomy | Xiao Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21113v1) |
-| Internet of Agentic Things: Networked AI Agents for Closed-Loop IoT Orchestration | Quanyan Zhu | 2026 | [📄 Read](http://arxiv.org/abs/2607.12662v1) |
+| Lightweight Multi-Scale Anomaly Detection for Resource-Constrained Edge Devices | Raheen Junaid Wani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.12599v1) |
+| Compact Latent Coordination for Autonomous Vehicles at Unsignalized Intersections | Gil Lifshits et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21488v1) |
+| Self-organizing Architecture of Receptron Units: a Hardware-Aware Framework for Edge Intelligence | Stefano Radice et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.20162v1) |
+| Toward Generalizable Cognitive Impairment Detection with Speech-Based Multimodal Large Language Models | Yingchao Huang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21496v1) |
+| The Boundaries of Automation: A Theory of Persistent Human Participation | Fares Fourati et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21547v1) |
+| Multimodal Pretraining for Generalizable EEG Representation Learning | Targol Bakhtiarvand et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21384v1) |
+| Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling | Aaron Feller et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21561v1) |
+| Machine Learning for Charge State Characterization of Isolated Double Quantum Dots | Hyma Vallabhapurapu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.20871v1) |
+| M$^3$-Gen: Interpretable Multimodal Generation of Gene Expression Profiles Using Clinical and Imaging Data | Francesca Pia Panaccione et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21343v1) |
+| Transformer-based Diffusion models for Hydrological Time Series Probabilistic Imputation and Forecasting | Ferdinand Bhavsar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21200v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 24 July 2026, 15:24 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 24 July 2026, 16:18 WIB</sub>
