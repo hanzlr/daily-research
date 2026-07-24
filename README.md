@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Multimodal Pretraining for Generalizable EEG Representation Learning | Targol Bakhtiarvand et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21384v1) |
-| Weight-norm Criticality: A Mechanism for Loss Spikes Induced by the Normalization and Weight Decay | Xiaolong Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21005v1) |
-| Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling | Aaron Feller et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21561v1) |
-| Search Hardness-Aware LLM-Based Problem Formulation for Expensive Simulation-Driven Design | Yuchen Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21220v1) |
-| Memoir: Should a Model Write to Its Memory While It Thinks? | Jaber Jaber et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.20792v1) |
-| Error Certificates for KV-Cache Eviction via Randomized Design | Peng Xie | 2026 | [📄 Read](http://arxiv.org/abs/2607.21475v1) |
-| The Giant Hippocampus: From Structural Monoculture to a System of Systems | Jaeho Seol | 2026 | [📄 Read](http://arxiv.org/abs/2607.19973v1) |
-| DINOde: Continuous Vision-Text Alignment for Open-Vocabulary Semantic Segmentation | Sung-Hoon Yoon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21371v1) |
-| Emergent Misalignment Recruits a Pre-existing Persona Subspace | Mohammed Suhail B Nadaf | 2026 | [📄 Read](http://arxiv.org/abs/2607.21356v1) |
-| The Boundaries of Automation: A Theory of Persistent Human Participation | Fares Fourati et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21547v1) |
+| RL-MACRO: A Cybernetic Closed-Loop Intelligence Framework for Multimodal Adaptive Robotic Craniotomy | Xiao Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21113v1) |
+| EdgeFaaS: A Function-based Framework for Edge Computing | Neha Vadnere et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.14489v1) |
+| SynapticOS: An Inference-First Runtime Architecture for Neural Processing Units on Resource-Constrained Microcontrollers | Dimitrios Kafetzis | 2026 | [📄 Read](http://arxiv.org/abs/2607.12606v1) |
+| Internet of Agentic Things: Networked AI Agents for Closed-Loop IoT Orchestration | Quanyan Zhu | 2026 | [📄 Read](http://arxiv.org/abs/2607.12662v1) |
+| RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control | Di Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17951v1) |
+| Interaction Dynamics Modeling and Predictive Control for Safe Steerable Catheter--Tissue Interaction | Yongyan Cao | 2026 | [📄 Read](http://arxiv.org/abs/2607.20939v1) |
+| Factorized Spatio-Temporal Convolutions for Human Pose Estimation from Planar Lidar | Simone Arreghini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21309v1) |
+| ESBMC-Arduino: Closing the Deployment Gap for Formal Verification of Open-Hardware PLCs | Pierre Dantas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08550v1) |
+| Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\geq 4$ | Dawei Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21579v1) |
+| Synthetic data generation framework for quality control automation in gravure printing | Korota Arsène Coulibaly et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21577v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 24 July 2026, 12:40 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 24 July 2026, 14:24 WIB</sub>
