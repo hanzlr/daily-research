@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| The Internet of Things for Smart Manufacturing: A Review | Hui Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16172v1) |
-| Compact Latent Coordination for Autonomous Vehicles at Unsignalized Intersections | Gil Lifshits et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21488v1) |
-| Learning to Stay Fresh: A Self-Learning Semantic Framework for Underwater Internet of Things | Ananya Hazarika et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16902v1) |
-| An Improved Deep Reinforcement Learning Control Strategy for Traction Dual Rectifiers in EMUs | Zhigang Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09276v1) |
-| Internet of Agentic Things: Networked AI Agents for Closed-Loop IoT Orchestration | Quanyan Zhu | 2026 | [📄 Read](http://arxiv.org/abs/2607.12662v1) |
-| A Distributed PI+Reset Scheme for Discrete-Time Economic Dispatch of A Grid-connected BESS Network | Yalin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.14508v1) |
 | AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation | Mengfei Zhao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21588v1) |
-| Interaction Dynamics Modeling and Predictive Control for Safe Steerable Catheter--Tissue Interaction | Yongyan Cao | 2026 | [📄 Read](http://arxiv.org/abs/2607.20939v1) |
-| RL-MACRO: A Cybernetic Closed-Loop Intelligence Framework for Multimodal Adaptive Robotic Craniotomy | Xiao Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21113v1) |
-| Factorized Spatio-Temporal Convolutions for Human Pose Estimation from Planar Lidar | Simone Arreghini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21309v1) |
+| Machine Learning for Charge State Characterization of Isolated Double Quantum Dots | Hyma Vallabhapurapu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.20871v1) |
+| Transformer-based Diffusion models for Hydrological Time Series Probabilistic Imputation and Forecasting | Ferdinand Bhavsar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21200v1) |
+| Time Series Network Utilization KPI Forecasting Using Advanced AI/ML Models | Niraj Gadhe et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19974v1) |
+| TableVerse: A Large-scale Tabletop Dataset with Real-world Grounded Layouts for Generalizable Manipulation | Boyuan Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21017v1) |
+| URF: A Unified Robot Control-Policy Framework for Stable Contact Aware Manipulation | Jiyou Shin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.20912v1) |
+| A PI+R Control Scheme Based on Multi-agent Systems for Economic Dispatch in Isolated BESSs | Yalin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.15572v1) |
+| DevicesWorld: Benchmarking Cross-Device Agents in Heterogeneous Environments | Huatao Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.13465v1) |
+| An LLM-Driven Workflow for Automated Process Control Strategy Generation and Tuning from Dynamic Process Models | Ari Luna Rueda et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21292v1) |
+| An Improved Deep Reinforcement Learning Control Strategy for Traction Dual Rectifiers in EMUs | Zhigang Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.09276v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 25 July 2026, 11:09 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 25 July 2026, 12:34 WIB</sub>
