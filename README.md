@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Attribution and Uncertainty Behavior of Learned Residual Gyro Correction for Gyro-Stellar Estimation | Mariela De Lucas Álvarez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.24608v1) |
-| Beyond Scale and Generation: Understanding Language Model-based Entity Matching | Zeyu Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.24688v1) |
-| Explainable Reinforcement Learning via Physics-Aware Policy Distillation | Shaker Al-Tamari et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.24672v1) |
-| Capacity-Aware Deep Learning for Generalizable Traffic Volume Estimation Across Links and Cities | Léo Hein et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.24056v1) |
-| SILICA: Repurposing Diffusion Priors for Joint Glass Segmentation and Depth Estimation | Tarun R et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.24249v1) |
-| Internet of Agentic Things: Networked AI Agents for Closed-Loop IoT Orchestration | Quanyan Zhu | 2026 | [📄 Read](http://arxiv.org/abs/2607.12662v1) |
-| Learning Traversability-Aware Global Planners for Long Horizon Off-Road Navigation | Kasi Viswanath et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23743v1) |
+| The K-SCAN Clustering Algorithm | Filip Kosiorowski et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.24537v1) |
+| A Kalman Filter-Assisted Data-Predictive SAR ADC With Reduced Switching Energy for Low-Power Applications | Xiyuan Feng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16139v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
 | Learning to Stay Fresh: A Self-Learning Semantic Framework for Underwater Internet of Things | Ananya Hazarika et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16902v1) |
-| Co-Learning for Missing Arbitrary Modalities in Multi-modal Classification | Francisco Mena et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.24683v1) |
-| BeyondFusion: Self-Aligned Latent Diffusion for Calibration-Free Infrared Super-Resolution and Infrared-Visible Fusion | Minchong Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.24110v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v2) |
+| RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control | Di Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17951v1) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| ESBMC-Arduino: Closing the Deployment Gap for Formal Verification of Open-Hardware PLCs | Pierre Dantas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08550v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| The Internet of Things for Smart Manufacturing: A Review | Hui Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16172v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 28 July 2026, 11:08 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 28 July 2026, 12:38 WIB</sub>
