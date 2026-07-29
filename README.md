@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening | Syed Mhamudul Hasan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26042v1) |
-| Distributing Security Controls Through Harness Engineering | William Robert Gore | 2026 | [📄 Read](http://arxiv.org/abs/2607.25890v1) |
-| Fourier Feature Physics-Informed Neural Networks for Elasto-Plastic Analysis of Geomaterials with a Non-Associative Mohr-Coulomb Model | Apisit Robjanghvad et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25150v1) |
-| Mitigating the Impact of Retention Loss on Inference Accuracy in 65 nm Single-Poly Floating-Gate Analog In-Memory Computing | Mirko Brazzini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25058v1) |
-| HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone | Simple AI et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25895v1) |
+| Attribution and Uncertainty Behavior of Learned Residual Gyro Correction for Gyro-Stellar Estimation | Mariela De Lucas Álvarez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.24608v1) |
+| SpectONet: A Physics-Guided Spectral Deep Operator Network for Euler-Bernoulli Beam Dynamics | Shivani Saini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25790v1) |
+| Learning to Stay Fresh: A Self-Learning Semantic Framework for Underwater Internet of Things | Ananya Hazarika et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16902v1) |
 | Co-Learning for Missing Arbitrary Modalities in Multi-modal Classification | Francisco Mena et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.24683v1) |
-| A2TTA: Anchored-and-Agile Test-Time Adaptation for Evolving Traffic Sensor Networks | Du Yin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25875v1) |
-| A Cost-Effective Multimodal LLM Reasoning Framework for Question Answering over Irregular Clinical Time Series | Frank Nie et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25947v1) |
-| Prototype Adaptation for Zero-Shot sEMG Movement Classification | Rui Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25826v1) |
-| The K-SCAN Clustering Algorithm | Filip Kosiorowski et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.24537v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| The Internet of Things for Smart Manufacturing: A Review | Hui Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16172v1) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| Belief-Aware Influence and Trust (BAIT): Shaping Human Belief During Repeated Human-Robot Interaction | Ye-Ji Mun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25327v1) |
+| A Kalman Filter-Assisted Data-Predictive SAR ADC With Reduced Switching Energy for Low-Power Applications | Xiyuan Feng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16139v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 July 2026, 12:42 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 July 2026, 14:36 WIB</sub>
