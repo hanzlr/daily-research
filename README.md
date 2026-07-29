@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| $π\mathbf{R}^2$: Reactive Real-time Flow Policies | Sungjae Park et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26055v1) |
-| Bound-Optimized Task Choice for Path Integral Control | Rylie Anderson et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23866v1) |
-| Can Deep Generative Models Reproduce Non-Stationary Gaussian Random Fields? | Daniel Kua et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25929v1) |
-| Spend Experts Where You Are Unsure: Confidence-Adaptive Routing for Mixture-of-Experts LoRA | Tom Saliencro et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26052v1) |
-| Minimizing Targeted Activations: Input-Only Suppression of Evaluation-Awareness Latents in Large Language Models | Deepanshu Mody et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25907v1) |
-| A PI+R Control Scheme Based on Multi-agent Systems for Economic Dispatch in Isolated BESSs | Yalin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.15572v1) |
-| Stress-Testing EEG Foundation Models for Clinical Decoding: Dataset Identity and Targeted Negative Controls | Marzieh Zare | 2026 | [📄 Read](http://arxiv.org/abs/2607.24519v1) |
-| Re-thinking Mammography Transfer Learning: The Dataset-Informed Transfer Learning (DITL) Framework for Breast Cancer Screening and Lesion Diagnosis | Adarsh Bhandary Panambur et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26043v1) |
-| An LLM-Driven Workflow for Automated Process Control Strategy Generation and Tuning from Dynamic Process Models | Ari Luna Rueda et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21292v1) |
+| RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control | Di Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17951v1) |
 | VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening | Syed Mhamudul Hasan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26042v1) |
+| ESBMC-Arduino: Closing the Deployment Gap for Formal Verification of Open-Hardware PLCs | Pierre Dantas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08550v1) |
+| SynapticOS: An Inference-First Runtime Architecture for Neural Processing Units on Resource-Constrained Microcontrollers | Dimitrios Kafetzis | 2026 | [📄 Read](http://arxiv.org/abs/2607.12606v1) |
+| A PI+R Control Scheme Based on Multi-agent Systems for Economic Dispatch in Isolated BESSs | Yalin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.15572v1) |
+| Re-thinking Mammography Transfer Learning: The Dataset-Informed Transfer Learning (DITL) Framework for Breast Cancer Screening and Lesion Diagnosis | Adarsh Bhandary Panambur et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26043v1) |
+| Attribution and Uncertainty Behavior of Learned Residual Gyro Correction for Gyro-Stellar Estimation | Mariela De Lucas Álvarez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.24608v1) |
+| Co-Learning for Missing Arbitrary Modalities in Multi-modal Classification | Francisco Mena et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.24683v1) |
+| A Distributed PI+Reset Scheme for Discrete-Time Economic Dispatch of A Grid-connected BESS Network | Yalin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.14508v1) |
+| SpectONet: A Physics-Guided Spectral Deep Operator Network for Euler-Bernoulli Beam Dynamics | Shivani Saini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25790v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 July 2026, 16:35 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 July 2026, 18:12 WIB</sub>
