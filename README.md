@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| $π\mathbf{R}^2$: Reactive Real-time Flow Policies | Sungjae Park et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26055v1) |
-| Construction-Driven Injection: Linguistically-Grounded Edit-Based Code-Mixing Fingerprints for Large Language Models | Yongyi Cui et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25633v1) |
-| An LLM-Driven Workflow for Automated Process Control Strategy Generation and Tuning from Dynamic Process Models | Ari Luna Rueda et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21292v1) |
-| Joint Text-Audio Alignment for EEG-to-Text Decoding in Chinese Speech Production and Perception | Tian Zheng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25626v1) |
-| Attribution and Uncertainty Behavior of Learned Residual Gyro Correction for Gyro-Stellar Estimation | Mariela De Lucas Álvarez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.24608v1) |
-| A Distributed PI+Reset Scheme for Discrete-Time Economic Dispatch of A Grid-connected BESS Network | Yalin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.14508v1) |
-| A2TTA: Anchored-and-Agile Test-Time Adaptation for Evolving Traffic Sensor Networks | Du Yin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25875v1) |
+| VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening | Syed Mhamudul Hasan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26042v1) |
 | Distributing Security Controls Through Harness Engineering | William Robert Gore | 2026 | [📄 Read](http://arxiv.org/abs/2607.25890v1) |
-| A PI+R Control Scheme Based on Multi-agent Systems for Economic Dispatch in Isolated BESSs | Yalin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.15572v1) |
-| Spend Experts Where You Are Unsure: Confidence-Adaptive Routing for Mixture-of-Experts LoRA | Tom Saliencro et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26052v1) |
+| Fourier Feature Physics-Informed Neural Networks for Elasto-Plastic Analysis of Geomaterials with a Non-Associative Mohr-Coulomb Model | Apisit Robjanghvad et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25150v1) |
+| Mitigating the Impact of Retention Loss on Inference Accuracy in 65 nm Single-Poly Floating-Gate Analog In-Memory Computing | Mirko Brazzini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25058v1) |
+| HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone | Simple AI et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25895v1) |
+| Co-Learning for Missing Arbitrary Modalities in Multi-modal Classification | Francisco Mena et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.24683v1) |
+| A2TTA: Anchored-and-Agile Test-Time Adaptation for Evolving Traffic Sensor Networks | Du Yin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25875v1) |
+| A Cost-Effective Multimodal LLM Reasoning Framework for Question Answering over Irregular Clinical Time Series | Frank Nie et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25947v1) |
+| Prototype Adaptation for Zero-Shot sEMG Movement Classification | Rui Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25826v1) |
+| The K-SCAN Clustering Algorithm | Filip Kosiorowski et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.24537v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 July 2026, 11:10 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 July 2026, 12:42 WIB</sub>
