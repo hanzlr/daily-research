@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| NEO: NeRF It Once, Edit It Many Times for Continuous Object Manipulation | Mikołaj Zieliński et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.24538v1) |
-| Tripody: An Overconstrained 3-SPR-like Parallel Robot for High-Reach Construction Tasks | Julien Kindle et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25781v1) |
-| The Internet of Things for Smart Manufacturing: A Review | Hui Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16172v1) |
-| Learning to Stay Fresh: A Self-Learning Semantic Framework for Underwater Internet of Things | Ananya Hazarika et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16902v1) |
-| Mitigating the Impact of Retention Loss on Inference Accuracy in 65 nm Single-Poly Floating-Gate Analog In-Memory Computing | Mirko Brazzini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25058v1) |
-| SILICA: Repurposing Diffusion Priors for Joint Glass Segmentation and Depth Estimation | Tarun R et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.24249v1) |
-| Internet of Agentic Things: Networked AI Agents for Closed-Loop IoT Orchestration | Quanyan Zhu | 2026 | [📄 Read](http://arxiv.org/abs/2607.12662v1) |
-| Decentralized Scalable Exploration via Emergent Adaptive Lévy Walks on Minimal-Sensing Platforms | Wai Lun Leong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25195v1) |
-| Fourier Feature Physics-Informed Neural Networks for Elasto-Plastic Analysis of Geomaterials with a Non-Associative Mohr-Coulomb Model | Apisit Robjanghvad et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25150v1) |
+| $π\mathbf{R}^2$: Reactive Real-time Flow Policies | Sungjae Park et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26055v1) |
+| Bound-Optimized Task Choice for Path Integral Control | Rylie Anderson et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23866v1) |
+| Can Deep Generative Models Reproduce Non-Stationary Gaussian Random Fields? | Daniel Kua et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25929v1) |
+| Spend Experts Where You Are Unsure: Confidence-Adaptive Routing for Mixture-of-Experts LoRA | Tom Saliencro et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26052v1) |
+| Minimizing Targeted Activations: Input-Only Suppression of Evaluation-Awareness Latents in Large Language Models | Deepanshu Mody et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25907v1) |
+| A PI+R Control Scheme Based on Multi-agent Systems for Economic Dispatch in Isolated BESSs | Yalin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.15572v1) |
 | Stress-Testing EEG Foundation Models for Clinical Decoding: Dataset Identity and Targeted Negative Controls | Marzieh Zare | 2026 | [📄 Read](http://arxiv.org/abs/2607.24519v1) |
+| Re-thinking Mammography Transfer Learning: The Dataset-Informed Transfer Learning (DITL) Framework for Breast Cancer Screening and Lesion Diagnosis | Adarsh Bhandary Panambur et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26043v1) |
+| An LLM-Driven Workflow for Automated Process Control Strategy Generation and Tuning from Dynamic Process Models | Ari Luna Rueda et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21292v1) |
+| VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening | Syed Mhamudul Hasan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26042v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 July 2026, 15:37 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 July 2026, 16:35 WIB</sub>
