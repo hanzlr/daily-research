@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
+| Time Series Network Utilization KPI Forecasting Using Advanced AI/ML Models | Niraj Gadhe et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19974v1) |
+| TRUAV: Distributed Multi-Agent Reinforcement Learning for Trajectory Planning and Routing Enhancement in UAV-Aided IoT-Enabled VANETs | Muhammad Umar Farooq Qaisar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23734v1) |
+| A Physics-Informed Framework for PID Tuning of Chemical Processes Using Large Language Model Agents | Zhoupeng Shou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26594v1) |
+| An LLM-Driven Workflow for Automated Process Control Strategy Generation and Tuning from Dynamic Process Models | Ari Luna Rueda et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21292v1) |
+| Cooperative Multi-UAV Navigation in Complex Environments via Systematic Multi-Agent Deep Reinforcement Learning | Yu Su et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25754v1) |
+| Robust Unsupervised Network Intrusion Detection via Federated Learning with Selective Aggregation under Anomalous Sample Contamination | Shohei Kamiguchi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25439v1) |
 | A PI+R Control Scheme Based on Multi-agent Systems for Economic Dispatch in Isolated BESSs | Yalin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.15572v1) |
-| Surrogate assisted diversity estimation in neural ensemble search | Alexandr Udeneev et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26940v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v2) |
-| Bound-Optimized Task Choice for Path Integral Control | Rylie Anderson et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23866v1) |
-| Shared Symbolic Backbones for Physically Consistent Multi-Output Symbolic Regression | Manuel Rodriguez | 2026 | [📄 Read](http://arxiv.org/abs/2607.26528v1) |
-| TreeCCA: Canonical Correlation Analysis via Gradient-Boosted Trees | James Chapman | 2026 | [📄 Read](http://arxiv.org/abs/2607.27027v1) |
-| Feature Bagging Provides Stability | Yuheng Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26964v1) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
-| EvoPINN: Agentic Discovery of Executable Algorithms for Physics-Informed Neural Networks | Peng Yin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26490v1) |
-| Reconstructing Backpropagation from Forward Fluctuations in Noise-modulated Neural Networks | Shuhei Ikemoto | 2026 | [📄 Read](http://arxiv.org/abs/2607.26483v1) |
+| When Does Legacy Data Start to Help? Emergent Transfer in Cross-Configuration Robot Learning | Tao Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25593v1) |
+| EdgeFaaS: A Function-based Framework for Edge Computing | Neha Vadnere et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.14489v1) |
+| Neural Architecture Search for Traffic Prediction: A Survey of Methods, Challenges, and Future Directions | Truong Giang Vu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26467v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 July 2026, 08:56 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 July 2026, 10:56 WIB</sub>
