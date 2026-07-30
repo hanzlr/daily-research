@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Time Series Network Utilization KPI Forecasting Using Advanced AI/ML Models | Niraj Gadhe et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19974v1) |
-| TRUAV: Distributed Multi-Agent Reinforcement Learning for Trajectory Planning and Routing Enhancement in UAV-Aided IoT-Enabled VANETs | Muhammad Umar Farooq Qaisar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23734v1) |
-| A Physics-Informed Framework for PID Tuning of Chemical Processes Using Large Language Model Agents | Zhoupeng Shou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26594v1) |
-| An LLM-Driven Workflow for Automated Process Control Strategy Generation and Tuning from Dynamic Process Models | Ari Luna Rueda et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21292v1) |
 | Cooperative Multi-UAV Navigation in Complex Environments via Systematic Multi-Agent Deep Reinforcement Learning | Yu Su et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25754v1) |
-| Robust Unsupervised Network Intrusion Detection via Federated Learning with Selective Aggregation under Anomalous Sample Contamination | Shohei Kamiguchi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25439v1) |
-| A PI+R Control Scheme Based on Multi-agent Systems for Economic Dispatch in Isolated BESSs | Yalin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.15572v1) |
+| When Do Learned Diffusion Proposals Help Constraint Solving? A Controlled Study on Continuous Algebraic Systems | Quang Bui et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27169v1) |
 | When Does Legacy Data Start to Help? Emergent Transfer in Cross-Configuration Robot Learning | Tao Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25593v1) |
-| EdgeFaaS: A Function-based Framework for Edge Computing | Neha Vadnere et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.14489v1) |
-| Neural Architecture Search for Traffic Prediction: A Survey of Methods, Challenges, and Future Directions | Truong Giang Vu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26467v1) |
+| Inverse Learning of Latent Risk-Neutral Densities from Irregular Option Quotes | Lennon J. Shikhman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27188v1) |
+| Internet of Agentic Things: Networked AI Agents for Closed-Loop IoT Orchestration | Quanyan Zhu | 2026 | [📄 Read](http://arxiv.org/abs/2607.12662v1) |
+| Can AI agents conduct open-ended AI research? Early evidence from two case studies | Peter Kirgis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27191v1) |
+| From Classification to Regression: Using a Fruitfly to Solve Equations | Shady E. Ahmed et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27196v1) |
+| Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning? | Perry Dong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27203v1) |
+| Skillful forecasting of offshore winds from satellite scatterometer constellations | Francesco Pinto et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27152v1) |
+| A Kalman Filter-Assisted Data-Predictive SAR ADC With Reduced Switching Energy for Low-Power Applications | Xiyuan Feng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16139v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 July 2026, 10:56 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 July 2026, 12:31 WIB</sub>
