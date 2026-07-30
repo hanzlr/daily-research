@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Wednesday, 29 July 2026
+## 🗓️ Thursday, 30 July 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Time Series Network Utilization KPI Forecasting Using Advanced AI/ML Models | Niraj Gadhe et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19974v1) |
-| The K-SCAN Clustering Algorithm | Filip Kosiorowski et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.24537v1) |
-| Fourier Feature Physics-Informed Neural Networks for Elasto-Plastic Analysis of Geomaterials with a Non-Associative Mohr-Coulomb Model | Apisit Robjanghvad et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25150v1) |
-| EdgeFaaS: A Function-based Framework for Edge Computing | Neha Vadnere et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.14489v1) |
-| Impute On-Demand: Adaptive Correlated Time Series Imputation for Changing Environments | Zhichen Lai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23503v1) |
-| Decompose and Reorganize: Planning with Primitives and Visuomotor Policies Learned from Demonstrations | Yizhou Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25397v1) |
-| NEO: NeRF It Once, Edit It Many Times for Continuous Object Manipulation | Mikołaj Zieliński et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.24538v1) |
-| Distributing Security Controls Through Harness Engineering | William Robert Gore | 2026 | [📄 Read](http://arxiv.org/abs/2607.25890v1) |
-| Stress-Testing EEG Foundation Models for Clinical Decoding: Dataset Identity and Targeted Negative Controls | Marzieh Zare | 2026 | [📄 Read](http://arxiv.org/abs/2607.24519v1) |
-| Tripody: An Overconstrained 3-SPR-like Parallel Robot for High-Reach Construction Tasks | Julien Kindle et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25781v1) |
+| A PI+R Control Scheme Based on Multi-agent Systems for Economic Dispatch in Isolated BESSs | Yalin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.15572v1) |
+| Surrogate assisted diversity estimation in neural ensemble search | Alexandr Udeneev et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26940v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v2) |
+| Bound-Optimized Task Choice for Path Integral Control | Rylie Anderson et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23866v1) |
+| Shared Symbolic Backbones for Physically Consistent Multi-Output Symbolic Regression | Manuel Rodriguez | 2026 | [📄 Read](http://arxiv.org/abs/2607.26528v1) |
+| TreeCCA: Canonical Correlation Analysis via Gradient-Boosted Trees | James Chapman | 2026 | [📄 Read](http://arxiv.org/abs/2607.27027v1) |
+| Feature Bagging Provides Stability | Yuheng Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26964v1) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| EvoPINN: Agentic Discovery of Executable Algorithms for Physics-Informed Neural Networks | Peng Yin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26490v1) |
+| Reconstructing Backpropagation from Forward Fluctuations in Noise-modulated Neural Networks | Shuhei Ikemoto | 2026 | [📄 Read](http://arxiv.org/abs/2607.26483v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 July 2026, 23:20 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 July 2026, 08:56 WIB</sub>
