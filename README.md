@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Cooperative Multi-UAV Navigation in Complex Environments via Systematic Multi-Agent Deep Reinforcement Learning | Yu Su et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25754v1) |
-| When Do Learned Diffusion Proposals Help Constraint Solving? A Controlled Study on Continuous Algebraic Systems | Quang Bui et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27169v1) |
-| When Does Legacy Data Start to Help? Emergent Transfer in Cross-Configuration Robot Learning | Tao Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25593v1) |
-| Inverse Learning of Latent Risk-Neutral Densities from Irregular Option Quotes | Lennon J. Shikhman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27188v1) |
-| Internet of Agentic Things: Networked AI Agents for Closed-Loop IoT Orchestration | Quanyan Zhu | 2026 | [📄 Read](http://arxiv.org/abs/2607.12662v1) |
-| Can AI agents conduct open-ended AI research? Early evidence from two case studies | Peter Kirgis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27191v1) |
-| From Classification to Regression: Using a Fruitfly to Solve Equations | Shady E. Ahmed et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27196v1) |
+| Journey Operators for Structured Multi-Axis Composition | Mahesh Godavarti | 2026 | [📄 Read](http://arxiv.org/abs/2607.26775v1) |
 | Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning? | Perry Dong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27203v1) |
-| Skillful forecasting of offshore winds from satellite scatterometer constellations | Francesco Pinto et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27152v1) |
-| A Kalman Filter-Assisted Data-Predictive SAR ADC With Reduced Switching Energy for Low-Power Applications | Xiyuan Feng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16139v1) |
+| Recover, Decode, Reguard: Guard-Agnostic Defense Amplification againstEncoded VLM Jailbreaks | Haoyu Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26574v1) |
+| HeteroPROPMT: A Real-time and Privacy-Preserving Heterogeneous Collaborative Perception Framework | Armin Maleki et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26283v1) |
+| Inverse Learning of Latent Risk-Neutral Densities from Irregular Option Quotes | Lennon J. Shikhman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27188v1) |
+| ESBMC-Arduino: Closing the Deployment Gap for Formal Verification of Open-Hardware PLCs | Pierre Dantas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08550v1) |
+| When Does Legacy Data Start to Help? Emergent Transfer in Cross-Configuration Robot Learning | Tao Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25593v1) |
+| Sensor-Placement-Agnostic Sonomyography: Toward Continuous High-Dimensional Control by Users with Tetraplegia | Gavin Sueltz et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26401v1) |
+| Can AI agents conduct open-ended AI research? Early evidence from two case studies | Peter Kirgis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27191v1) |
+| SynapticOS: An Inference-First Runtime Architecture for Neural Processing Units on Resource-Constrained Microcontrollers | Dimitrios Kafetzis | 2026 | [📄 Read](http://arxiv.org/abs/2607.12606v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 July 2026, 12:31 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 July 2026, 14:25 WIB</sub>
