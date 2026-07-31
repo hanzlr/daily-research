@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| Machines that know they are aging: a framework for hardware-aware autonomous intelligence | Cheng Siong Chin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28451v1) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| An LLM-Driven Workflow for Automated Process Control Strategy Generation and Tuning from Dynamic Process Models | Ari Luna Rueda et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21292v1) |
 | A Kalman Filter-Assisted Data-Predictive SAR ADC With Reduced Switching Energy for Low-Power Applications | Xiyuan Feng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16139v1) |
-| HealthCAT: An Interpretable Encoder-only Transformer Framework for Health Indicator Prediction and Temporal Interpretation of Wearable Sensor Data | Xiaotong Yu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27635v1) |
-| Filling the Pareto-Optimal Front for Affordance Segmentation on Embedded Devices Using RGB-D Cameras | Edoardo Ragusa et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28293v1) |
 | The Internet of Things for Smart Manufacturing: A Review | Hui Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16172v1) |
-| Robust Unsupervised Network Intrusion Detection via Federated Learning with Selective Aggregation under Anomalous Sample Contamination | Shohei Kamiguchi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25439v1) |
-| Internet of Agentic Things: Networked AI Agents for Closed-Loop IoT Orchestration | Quanyan Zhu | 2026 | [📄 Read](http://arxiv.org/abs/2607.12662v1) |
-| Nanoparticle Networks for Neuromorphic Computing | Jonas Mensing et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27844v1) |
-| Learning to Stay Fresh: A Self-Learning Semantic Framework for Underwater Internet of Things | Ananya Hazarika et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16902v1) |
-| Real-Time Hard Peak Age-of-Information Safety with No-Regret Learning | Wentao Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27626v1) |
-| Shared Symbolic Backbones for Physically Consistent Multi-Output Symbolic Regression | Manuel Rodriguez | 2026 | [📄 Read](http://arxiv.org/abs/2607.26528v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| Learning Social Robot Navigation By Sensing Human Legs | Alberto Vaglio et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27922v1) |
+| A Physics-Informed Framework for PID Tuning of Chemical Processes Using Large Language Model Agents | Zhoupeng Shou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26594v1) |
+| Filling the Pareto-Optimal Front for Affordance Segmentation on Embedded Devices Using RGB-D Cameras | Edoardo Ragusa et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28293v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 31 July 2026, 11:21 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 31 July 2026, 12:56 WIB</sub>
