@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| HealthCAT: An Interpretable Encoder-only Transformer Framework for Health Indicator Prediction and Temporal Interpretation of Wearable Sensor Data | Xiaotong Yu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27635v1) |
-| Failure Detection for Surgical Robot Imitation Policies via Flow-Matching World Modeling | Zhefeng Huang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27511v1) |
-| Tripody: An Overconstrained 3-SPR-like Parallel Robot for High-Reach Construction Tasks | Julien Kindle et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.25781v1) |
-| Real-Time Hard Peak Age-of-Information Safety with No-Regret Learning | Wentao Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27626v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v2) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control | Di Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17951v1) |
+| ReToken: One Token to Improve Vision-Language Models for Visual Retrieval | Yao Xiao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28627v1) |
+| SynapticOS: An Inference-First Runtime Architecture for Neural Processing Units on Resource-Constrained Microcontrollers | Dimitrios Kafetzis | 2026 | [📄 Read](http://arxiv.org/abs/2607.12606v1) |
+| EgoGenesis: Egocentric World-Action Modeling with Online Anchored Projective Memory and Action-3D RoPE | Zexuan Yan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28243v1) |
 | The Role of Causality in Algorithmic Recourse | Srikanth Avasarala et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28497v1) |
-| FasTac: A Curved Multispectral Vision-Based Tactile Sensor for High-Speed High-Precision 3D Shape and Force Perception | Xiaofan Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28416v1) |
-| Machines that know they are aging: a framework for hardware-aware autonomous intelligence | Cheng Siong Chin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28451v1) |
+| Same Graph Cross-Task Transfer in GNNs: Protocols and Predictors | Neelam Akula et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28525v1) |
 | MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers | Md. Mehrab Hossain Opi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28589v1) |
-| ScaFE: Data-Efficient Scar Classification with LLM-Generated Clinical Feature Programs | Ruman Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28538v1) |
-| Controlled Experiments on Lane Changing by Transitional Autonomous Vehicle: Dataset and Behavioral Insights | Abhinav Sharma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27085v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 01 August 2026, 11:20 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 01 August 2026, 12:46 WIB</sub>
