@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| A Kalman Filter-Assisted Data-Predictive SAR ADC With Reduced Switching Energy for Low-Power Applications | Xiyuan Feng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16139v1) |
-| Hash Chemistry: Minimal Models for Evolutionary Growth of Complexity | Ilya Horiguchi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28219v1) |
-| Nanoparticle Networks for Neuromorphic Computing | Jonas Mensing et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27844v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v2) |
-| Learning to Stay Fresh: A Self-Learning Semantic Framework for Underwater Internet of Things | Ananya Hazarika et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16902v1) |
-| The Sparsity Ceiling: Where Spiking Networks Can and Cannot Trade Activity for Energy | Zeyu Wang | 2026 | [📄 Read](http://arxiv.org/abs/2607.26648v1) |
-| Shared Symbolic Backbones for Physically Consistent Multi-Output Symbolic Regression | Manuel Rodriguez | 2026 | [📄 Read](http://arxiv.org/abs/2607.26528v1) |
+| A Physics-Informed Framework for PID Tuning of Chemical Processes Using Large Language Model Agents | Zhoupeng Shou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26594v1) |
+| An LLM-Driven Workflow for Automated Process Control Strategy Generation and Tuning from Dynamic Process Models | Ari Luna Rueda et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21292v1) |
 | The Role of Causality in Algorithmic Recourse | Srikanth Avasarala et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28497v1) |
-| The Internet of Things for Smart Manufacturing: A Review | Hui Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16172v1) |
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| KAISEN: Reproducible Subgroup Fairness Auditing for Clinical Risk Models | Sparsh Roy et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28608v1) |
+| Learning to Trace Seiberg Dualities | Jonathan J. Heckman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28628v1) |
+| Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments | Haomin Qi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28591v1) |
+| AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis | Bing Yan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28618v1) |
+| Self-Evolving Learning for Embodied AI with Criticality Model | Linxuan He et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28251v1) |
+| Same Graph Cross-Task Transfer in GNNs: Protocols and Predictors | Neelam Akula et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28525v1) |
+| ReToken: One Token to Improve Vision-Language Models for Visual Retrieval | Yao Xiao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28627v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 02 August 2026, 16:06 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 02 August 2026, 17:22 WIB</sub>
