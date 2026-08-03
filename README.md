@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| TFGformer: Multivariate Time Series Forecasting via Time-Frequency Graph Learning and Covariate Fusion | Yu Sun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29459v1) |
-| The Internet of Things for Smart Manufacturing: A Review | Hui Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16172v1) |
-| Time Series Network Utilization KPI Forecasting Using Advanced AI/ML Models | Niraj Gadhe et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19974v1) |
-| GQ-FSL: Green Quantized Federated Split Learning | Idan Roth et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29659v1) |
-| A Kalman Filter-Assisted Data-Predictive SAR ADC With Reduced Switching Energy for Low-Power Applications | Xiyuan Feng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16139v1) |
-| TOOD: Task-Aware Out-of-Distribution Score Calibration for Continual Learners | Mostafa ElAraby et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29592v1) |
-| First-order Constrained Trilevel Optimization Over Distributed Networks for Robust Coreset Selection | Yang Jiao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27632v1) |
-| Internet of Agentic Things: Networked AI Agents for Closed-Loop IoT Orchestration | Quanyan Zhu | 2026 | [📄 Read](http://arxiv.org/abs/2607.12662v1) |
-| Neural Architecture Search for Traffic Prediction: A Survey of Methods, Challenges, and Future Directions | Truong Giang Vu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26467v1) |
-| Learning to Stay Fresh: A Self-Learning Semantic Framework for Underwater Internet of Things | Ananya Hazarika et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16902v1) |
+| AquaJEPA: Action-Conditioned Multimodal Predictive Representations for Underwater Robot Dynamics | Alan-Barsag Gazzaev et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29393v1) |
+| LabEvolver: Training-Free Experience Evolution for Safe and Grounded Wet-Lab Agents | Jingya Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27690v2) |
+| Analysis of Memory-Runtime Trade-offs in Caching Strategies for Genetic Programming Symbolic Regression | Jiaming Shi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29116v1) |
+| STAGE: STyle-controllable Action GEneration for personalized autonomous driving | Zihao Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29517v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| Automated Straight-line Sewing of Stretchable Fabrics with Different Lengths | Bingchen Jin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29464v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| CorrelationFlow: A Training-Free Geometric Approach for LiDAR Scene Flow Estimation | Minh-Quan Dao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29237v1) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| TacPrint: A Wearable Fingertip Tactile Sensor for Human-to-Robot Contact Reproduction | Yongxi Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29231v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 03 August 2026, 13:10 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 03 August 2026, 15:19 WIB</sub>
