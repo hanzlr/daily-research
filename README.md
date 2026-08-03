@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Monday, 03 August 2026
+## 🗓️ Tuesday, 04 August 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Self-Evolving Learning for Embodied AI with Criticality Model | Linxuan He et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28251v1) |
-| An LLM-Driven Workflow for Automated Process Control Strategy Generation and Tuning from Dynamic Process Models | Ari Luna Rueda et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21292v1) |
-| LabEvolver: Training-Free Experience Evolution for Safe and Grounded Wet-Lab Agents | Jingya Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27690v2) |
-| SERUM: State Extraction and Refinement for User Modeling | Andy J. Phu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29181v1) |
-| Automated Straight-line Sewing of Stretchable Fabrics with Different Lengths | Bingchen Jin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29464v1) |
 | AgenticRepair: Multi-Faceted Program Context Engineering for Agentic Vulnerability Repair | Michael Fu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29422v1) |
-| A Physics-Informed Framework for PID Tuning of Chemical Processes Using Large Language Model Agents | Zhoupeng Shou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26594v1) |
+| SERUM: State Extraction and Refinement for User Modeling | Andy J. Phu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29181v1) |
+| TerraNova: A Foundation Model for the Anthropocene | Carlos Rodriguez-Pardo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29527v1) |
+| Bound-Optimized Task Choice for Path Integral Control | Rylie Anderson et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23866v1) |
+| An LLM-Driven Workflow for Automated Process Control Strategy Generation and Tuning from Dynamic Process Models | Ari Luna Rueda et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.21292v1) |
 | The persuasive power of large language models does not depend on their perceived national origin | Ningzhi Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29334v1) |
-| TOOD: Task-Aware Out-of-Distribution Score Calibration for Continual Learners | Mostafa ElAraby et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29592v1) |
-| DungeonBench: A Benchmark for Rules-Rich Tactical Reasoning in Dungeons & Dragons Combat | Ismayil Ismayilov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29577v1) |
+| A Physics-Informed Framework for PID Tuning of Chemical Processes Using Large Language Model Agents | Zhoupeng Shou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26594v1) |
+| Real-Time Hard Peak Age-of-Information Safety with No-Regret Learning | Wentao Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27626v1) |
+| Neural Architecture Search for Traffic Prediction: A Survey of Methods, Challenges, and Future Directions | Truong Giang Vu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26467v1) |
+| Self-Evolving Learning for Embodied AI with Criticality Model | Linxuan He et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28251v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 03 August 2026, 22:39 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 04 August 2026, 00:08 WIB</sub>
