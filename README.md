@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| ESBMC-Arduino: Closing the Deployment Gap for Formal Verification of Open-Hardware PLCs | Pierre Dantas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08550v1) |
-| Doubly Robust Functional Representation Learning for Longitudinal Causal Inference with Irregular Histories | Mengfei Ran et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28567v1) |
-| Automated Straight-line Sewing of Stretchable Fabrics with Different Lengths | Bingchen Jin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29464v1) |
-| LabEvolver: Training-Free Experience Evolution for Safe and Grounded Wet-Lab Agents | Jingya Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27690v2) |
-| Filling the Pareto-Optimal Front for Affordance Segmentation on Embedded Devices Using RGB-D Cameras | Edoardo Ragusa et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28293v1) |
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
-| STAGE: STyle-controllable Action GEneration for personalized autonomous driving | Zihao Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29517v1) |
+| GQ-FSL: Green Quantized Federated Split Learning | Idan Roth et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29659v1) |
+| Freeze, Then Select: Structured Field Adapters and Stability-Validated Weak Selection for PDE Discovery from Sparse Observations | Juncheng Zhong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29665v1) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering | Arkajyoti Bhattacharjee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29675v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| TOOD: Task-Aware Out-of-Distribution Score Calibration for Continual Learners | Mostafa ElAraby et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29592v1) |
+| Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback | Maria Smirnova et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29674v1) |
 | DungeonBench: A Benchmark for Rules-Rich Tactical Reasoning in Dungeons & Dragons Combat | Ismayil Ismayilov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29577v1) |
-| TFGformer: Multivariate Time Series Forecasting via Time-Frequency Graph Learning and Covariate Fusion | Yu Sun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29459v1) |
-| SynapticOS: An Inference-First Runtime Architecture for Neural Processing Units on Resource-Constrained Microcontrollers | Dimitrios Kafetzis | 2026 | [📄 Read](http://arxiv.org/abs/2607.12606v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v2) |
+| The Grokked Illusion: True Equilibrium Mitigates Catastrophic Forgetting | Xiaotian Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29503v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 03 August 2026, 17:39 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 03 August 2026, 19:08 WIB</sub>
