@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Data Quality Profiling at Scale with Progressive Sampling: A Benchmark for Data-Centric AI Pipelines | Laure Berti-Equille | 2026 | [📄 Read](http://arxiv.org/abs/2607.25356v1) |
+| TFGformer: Multivariate Time Series Forecasting via Time-Frequency Graph Learning and Covariate Fusion | Yu Sun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29459v1) |
+| The Internet of Things for Smart Manufacturing: A Review | Hui Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16172v1) |
 | Time Series Network Utilization KPI Forecasting Using Advanced AI/ML Models | Niraj Gadhe et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.19974v1) |
-| Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering | Arkajyoti Bhattacharjee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29675v1) |
-| The persuasive power of large language models does not depend on their perceived national origin | Ningzhi Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29334v1) |
-| Doubly Robust Functional Representation Learning for Longitudinal Causal Inference with Irregular Histories | Mengfei Ran et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28567v1) |
-| TerraNova: A Foundation Model for the Anthropocene | Carlos Rodriguez-Pardo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29527v1) |
-| Impute On-Demand: Adaptive Correlated Time Series Imputation for Changing Environments | Zhichen Lai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23503v1) |
-| MBDiff: Multi-view Behavior-aware Diffusion Model for Probabilistic Utility Data Imputation | Rongchao Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29177v1) |
-| Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback | Maria Smirnova et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29674v1) |
 | GQ-FSL: Green Quantized Federated Split Learning | Idan Roth et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29659v1) |
+| A Kalman Filter-Assisted Data-Predictive SAR ADC With Reduced Switching Energy for Low-Power Applications | Xiyuan Feng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16139v1) |
+| TOOD: Task-Aware Out-of-Distribution Score Calibration for Continual Learners | Mostafa ElAraby et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29592v1) |
+| First-order Constrained Trilevel Optimization Over Distributed Networks for Robust Coreset Selection | Yang Jiao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.27632v1) |
+| Internet of Agentic Things: Networked AI Agents for Closed-Loop IoT Orchestration | Quanyan Zhu | 2026 | [📄 Read](http://arxiv.org/abs/2607.12662v1) |
+| Neural Architecture Search for Traffic Prediction: A Survey of Methods, Challenges, and Future Directions | Truong Giang Vu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26467v1) |
+| Learning to Stay Fresh: A Self-Learning Semantic Framework for Underwater Internet of Things | Ananya Hazarika et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16902v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 03 August 2026, 11:28 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 03 August 2026, 13:10 WIB</sub>
