@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v2) |
-| TRACE-TS: Attribution-Grounded and Traceable Sensor-Language Reasoning for Human Activity Understanding | Sparsh Rastogi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.00200v1) |
-| Interpretable MEG Decoding of Perceived Speech: Cortical Sources and the Stimulus Features That Drive Retrieval | Ilia Semenkov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.01481v1) |
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
-| Deep Learning for Cyber Threat Detection and Mitigation in Healthcare-IoT | Mirza Akhi | 2026 | [📄 Read](http://arxiv.org/abs/2608.00118v1) |
-| TFGformer: Multivariate Time Series Forecasting via Time-Frequency Graph Learning and Covariate Fusion | Yu Sun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29459v1) |
-| A Multi-Objective AutoML-based Efficient Intrusion Detection System for EV Charging Networks | Li Yang | 2026 | [📄 Read](http://arxiv.org/abs/2608.02274v1) |
+| LiveMem: Maintaining Memory State Continuity in Long-Running LLM Inference | Zhichen Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.02515v1) |
+| RADAR Perception for Dynamic Obstacle Avoidance onboard small-scale Quadrotor UAVs | Dnyandeep Mandaokar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.01855v1) |
+| Pseudorandom Streams within Diffusion Models Act as Learnable Inputs That Affect Generation Quality | Shengzhi Deng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.02575v1) |
+| A Physics-Informed Framework for PID Tuning of Chemical Processes Using Large Language Model Agents | Zhoupeng Shou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26594v1) |
+| Physically Consistent SINDy (Sparse Identification of Nonlinear Dynamics) for Microgrid Identification and Real-Time Frequency Control | Mohan Du et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.00213v1) |
+| The Condition-Number Barrier in Sparse Least Squares | Honghao Lin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.02588v1) |
+| Structured Memory for Edge Language Models: Persistent Context and Corpus Retrieval via O(1) SSM State Injection | Anusha Madan Gopal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.02560v1) |
 | Deep Learning-Based Estimation of Ground Reaction Forces in Parkinsonian Gait Using an Optimized Set of IMU Data | Run Lin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.02408v1) |
-| Partially-Observable Transmission Control for UAV-Enabled Federated Learning in IoT Networks | Masoud Ghazikor et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.00855v1) |
-| Predictive Maintenance: Deep Learning-Based Remaining Useful Life Prediction for Combat Aircraft Engines | Fatih Ürgen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.01819v1) |
+| Diffusion-Based Body Schema Learning Enabling Abnormal-State Adaptation in Musculoskeletal Robots | Kento Kawaharazuka et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.01029v1) |
+| FRA-NBV: A Fast and Reflectivity-Aware Next-Best-View Strategy | G. F. Preziosa et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.01950v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 04 August 2026, 11:12 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 04 August 2026, 12:39 WIB</sub>
