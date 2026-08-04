@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Benchmarking Sheaf Neural Networks for Inductive Tasks | Stefano Fiorini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.02558v1) |
-| Structured Memory for Edge Language Models: Persistent Context and Corpus Retrieval via O(1) SSM State Injection | Anusha Madan Gopal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.02560v1) |
-| Pseudorandom Streams within Diffusion Models Act as Learnable Inputs That Affect Generation Quality | Shengzhi Deng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.02575v1) |
-| TRACE-TS: Attribution-Grounded and Traceable Sensor-Language Reasoning for Human Activity Understanding | Sparsh Rastogi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.00200v1) |
-| A Kalman Filter-Assisted Data-Predictive SAR ADC With Reduced Switching Energy for Low-Power Applications | Xiyuan Feng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16139v1) |
-| Interpretable MEG Decoding of Perceived Speech: Cortical Sources and the Stimulus Features That Drive Retrieval | Ilia Semenkov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.01481v1) |
-| Predictive Maintenance: Deep Learning-Based Remaining Useful Life Prediction for Combat Aircraft Engines | Fatih Ürgen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.01819v1) |
-| Deep Learning-Based Estimation of Ground Reaction Forces in Parkinsonian Gait Using an Optimized Set of IMU Data | Run Lin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.02408v1) |
-| The Condition-Number Barrier in Sparse Least Squares | Honghao Lin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.02588v1) |
+| SynapticOS: An Inference-First Runtime Architecture for Neural Processing Units on Resource-Constrained Microcontrollers | Dimitrios Kafetzis | 2026 | [📄 Read](http://arxiv.org/abs/2607.12606v1) |
+| Physically Consistent SINDy (Sparse Identification of Nonlinear Dynamics) for Microgrid Identification and Real-Time Frequency Control | Mohan Du et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.00213v1) |
+| Deep Learning for Cyber Threat Detection and Mitigation in Healthcare-IoT | Mirza Akhi | 2026 | [📄 Read](http://arxiv.org/abs/2608.00118v1) |
+| The Internet of Things for Smart Manufacturing: A Review | Hui Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16172v1) |
+| ESBMC-Arduino: Closing the Deployment Gap for Formal Verification of Open-Hardware PLCs | Pierre Dantas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08550v1) |
+| RADAR Perception for Dynamic Obstacle Avoidance onboard small-scale Quadrotor UAVs | Dnyandeep Mandaokar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.01855v1) |
 | Learning to Stay Fresh: A Self-Learning Semantic Framework for Underwater Internet of Things | Ananya Hazarika et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16902v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control | Di Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17951v1) |
+| A Physics-Informed Framework for PID Tuning of Chemical Processes Using Large Language Model Agents | Zhoupeng Shou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.26594v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 04 August 2026, 14:29 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 04 August 2026, 15:33 WIB</sub>
