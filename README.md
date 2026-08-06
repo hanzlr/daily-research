@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Predicting Brain Morphometry with MT-GNN: Mesh Evolution in Continuous Time with Graph-Based Metric Tensor Embeddings | Hao Ding et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.05132v1) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
-| Impute On-Demand: Adaptive Correlated Time Series Imputation for Changing Environments | Zhichen Lai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23503v1) |
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
-| OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling | Indraneil Paul et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.05141v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v2) |
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
-| Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning | Yinghui He et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.05139v1) |
-| TFGformer: Multivariate Time Series Forecasting via Time-Frequency Graph Learning and Covariate Fusion | Yu Sun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29459v1) |
-| The Loss Does Not See the Basis, but Adam Does | Devender Singh | 2026 | [📄 Read](http://arxiv.org/abs/2608.05136v1) |
+| Canonical Joint Energy-Based Model on CIFAR-10: failure modes and practical indistinguishability of Predictor-Corrector and SGLD samplers | Dmytro Knopov | 2026 | [📄 Read](http://arxiv.org/abs/2608.05025v1) |
+| Learning to Stay Fresh: A Self-Learning Semantic Framework for Underwater Internet of Things | Ananya Hazarika et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16902v1) |
+| Tropical Algebraic Geometry for Neuronal Representations: An Arakelov-Green Measure Based Descriptor for Graph Learning | Yuyang Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.04460v1) |
+| Eigenius: A Typed Knowledge-Graph DBMS with Epistemic Stratification and Institution-Mediated Reasoning | Hans-Martin Will et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.04457v1) |
+| Representational separation between unitary and channel quantum generative models via shared classical randomness at shallow depth | Arunava Majumder et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.05110v1) |
+| The Internet of Things for Smart Manufacturing: A Review | Hui Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16172v1) |
+| A Kalman Filter-Assisted Data-Predictive SAR ADC With Reduced Switching Energy for Low-Power Applications | Xiyuan Feng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16139v1) |
+| SynapticOS: An Inference-First Runtime Architecture for Neural Processing Units on Resource-Constrained Microcontrollers | Dimitrios Kafetzis | 2026 | [📄 Read](http://arxiv.org/abs/2607.12606v1) |
+| InsightEmb: Learning Action-Intent Embeddings for Agentic Insight Retrieval | Tsz Ting Chung et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.04761v1) |
+| Easy to Complete, Hard to Choose: Investigating LLM Performance on the ProverbIT Benchmark | Enrico Mensa et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.04670v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 06 August 2026, 14:31 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 06 August 2026, 15:33 WIB</sub>
