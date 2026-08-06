@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Canonical Joint Energy-Based Model on CIFAR-10: failure modes and practical indistinguishability of Predictor-Corrector and SGLD samplers | Dmytro Knopov | 2026 | [📄 Read](http://arxiv.org/abs/2608.05025v1) |
-| Learning to Stay Fresh: A Self-Learning Semantic Framework for Underwater Internet of Things | Ananya Hazarika et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16902v1) |
-| Tropical Algebraic Geometry for Neuronal Representations: An Arakelov-Green Measure Based Descriptor for Graph Learning | Yuyang Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.04460v1) |
 | Eigenius: A Typed Knowledge-Graph DBMS with Epistemic Stratification and Institution-Mediated Reasoning | Hans-Martin Will et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.04457v1) |
-| Representational separation between unitary and channel quantum generative models via shared classical randomness at shallow depth | Arunava Majumder et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.05110v1) |
 | The Internet of Things for Smart Manufacturing: A Review | Hui Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16172v1) |
-| A Kalman Filter-Assisted Data-Predictive SAR ADC With Reduced Switching Energy for Low-Power Applications | Xiyuan Feng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16139v1) |
-| SynapticOS: An Inference-First Runtime Architecture for Neural Processing Units on Resource-Constrained Microcontrollers | Dimitrios Kafetzis | 2026 | [📄 Read](http://arxiv.org/abs/2607.12606v1) |
 | InsightEmb: Learning Action-Intent Embeddings for Agentic Insight Retrieval | Tsz Ting Chung et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.04761v1) |
-| Easy to Complete, Hard to Choose: Investigating LLM Performance on the ProverbIT Benchmark | Enrico Mensa et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.04670v1) |
+| Stable Density Ridges: Consistency and Convergence of Subspace Constrained Mean Shift | Wanli Qiao | 2026 | [📄 Read](http://arxiv.org/abs/2608.05112v1) |
+| Predicting Brain Morphometry with MT-GNN: Mesh Evolution in Continuous Time with Graph-Based Metric Tensor Embeddings | Hao Ding et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.05132v1) |
+| A Multi-Sensor Dataset for Monitoring the Operational Environment of Rail Vehicles | Claudio Diotallevi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.04704v1) |
+| Tropical Algebraic Geometry for Neuronal Representations: An Arakelov-Green Measure Based Descriptor for Graph Learning | Yuyang Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.04460v1) |
+| Chained Recursive Language Models for Multi-Iteration Reasoning | Purbesh Mitra et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.05124v1) |
+| Lightweight 3D Object Detection via Mamba-Based Knowledge Distillation | Quoc Cuong Ninh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.03490v1) |
+| Learning to Stay Fresh: A Self-Learning Semantic Framework for Underwater Internet of Things | Ananya Hazarika et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16902v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 06 August 2026, 15:33 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 06 August 2026, 16:37 WIB</sub>
