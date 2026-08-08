@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Surv-IPTB: An Attention-Based Model for Estimating Individual Probability of Treatment Benefit with Survival Data | Lev V. Utkin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06288v1) |
-| VIDP: Variable Impedance Diffusion Policy for Compliant Robot Manipulation from Diverse Demonstrations | Hisham Khalil et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06210v1) |
-| MetaboLLM: a metabolomics-specialized large language model for biochemical knowledge integration and predictive metabolite graph construction | Dohyun Ku et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06253v1) |
-| TFGformer: Multivariate Time Series Forecasting via Time-Frequency Graph Learning and Covariate Fusion | Yu Sun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29459v1) |
-| From Passive Mirrors to Active Agents: Holonic Digital Twins for Physical AI over Networks | Christo Kurisummoottil Thomas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06227v1) |
-| Near-sensor Computing for Rapid Visuotactile Perception | Zhengying Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.05725v1) |
-| Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations | Sagar Tamang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06305v1) |
-| Prior-SG: Task and Prior Driven Region Segmentation for Scene Graphs in Arbitrarily-Structured Environments | Giorgio Tonetti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06170v1) |
-| Bias Analysis of L2 Speaking Assessment Systems Using Concept Activation Vectors | Arya Labroo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06300v1) |
-| Comparative Approaches to Agent Retrieval over Large Skill Libraries | Indivara Kolluru et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06196v1) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| Self-Evolving Learning for Embodied AI with Criticality Model | Linxuan He et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28251v1) |
+| RADAR Perception for Dynamic Obstacle Avoidance onboard small-scale Quadrotor UAVs | Dnyandeep Mandaokar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.01855v1) |
+| ESBMC-Arduino: Closing the Deployment Gap for Formal Verification of Open-Hardware PLCs | Pierre Dantas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08550v1) |
+| A Physics-Informed Hybrid Neural Operator for Transient Magnetization Prediction in Power Magnetics | Yachao Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.02965v1) |
+| Hypothesis Testing with Conditional Queries: Learnability and the Value of Interaction | Zonghuan Xu | 2026 | [📄 Read](http://arxiv.org/abs/2608.06262v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| Minimax Optimal Early-Stopped Gradient Descent for Gaussian Mixture Classification | Alex Buna et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06250v1) |
+| Physically Consistent SINDy (Sparse Identification of Nonlinear Dynamics) for Microgrid Identification and Real-Time Frequency Control | Mohan Du et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.00213v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 08 August 2026, 13:50 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 08 August 2026, 14:45 WIB</sub>
