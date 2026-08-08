@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Relay, Don't Route: Adaptive Population Handoff for Cost-Efficient LLM-Driven Evolution | Sichun Luo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.05651v1) |
-| Internet of Agentic Things: Networked AI Agents for Closed-Loop IoT Orchestration | Quanyan Zhu | 2026 | [📄 Read](http://arxiv.org/abs/2607.12662v1) |
-| A Kalman Filter-Assisted Data-Predictive SAR ADC With Reduced Switching Energy for Low-Power Applications | Xiyuan Feng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16139v1) |
-| Convergent Evolution in Neural Representation Space: Emergent Order in Deep Belief Networks | Patrick Krauss et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.05996v1) |
-| The Internet of Things for Smart Manufacturing: A Review | Hui Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16172v1) |
-| From Passive Mirrors to Active Agents: Holonic Digital Twins for Physical AI over Networks | Christo Kurisummoottil Thomas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06227v1) |
-| Hypothesis Testing with Conditional Queries: Learnability and the Value of Interaction | Zonghuan Xu | 2026 | [📄 Read](http://arxiv.org/abs/2608.06262v1) |
-| Threshold-Based Early Stopping of Accumulations in Neural Networks with Binary Activation | Quentin Luquet de Saint-Germain et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06177v1) |
-| Bias Analysis of L2 Speaking Assessment Systems Using Concept Activation Vectors | Arya Labroo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06300v1) |
-| Surv-IPTB: An Attention-Based Model for Estimating Individual Probability of Treatment Benefit with Survival Data | Lev V. Utkin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06288v1) |
+| CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks | Fanzhe Meng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06352v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| VIDP: Variable Impedance Diffusion Policy for Compliant Robot Manipulation from Diverse Demonstrations | Hisham Khalil et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06210v1) |
+| Prior-SG: Task and Prior Driven Region Segmentation for Scene Graphs in Arbitrarily-Structured Environments | Giorgio Tonetti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06170v1) |
+| SEAM: Global consistency beyond local accuracy in scientific machine learning | Gnankan Landry Regis N'guessan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.05702v1) |
+| Near-sensor Computing for Rapid Visuotactile Perception | Zhengying Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.05725v1) |
+| HarnessOpt-Bench: Evaluating LLMs at Harness Optimization | Varun Ursekar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06301v1) |
+| VSMP-IMU: Video-Grounded Semantic Motion Programs for Sensor-Aware Synthetic IMU Generation | Lala Shakti Swarup Ray et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.05782v1) |
+| A Low-Power Wearable Respiratory Sensor for Non-Invasive Stress Monitoring | Mohammad Hosseini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.05697v1) |
+| Nonvisual Classification of Ground-Condition by Artificial Proprioception in an Amoeba-Inspired Autonomous Walking Robot | Hyoto Yamaguchi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.05684v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 08 August 2026, 11:04 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 08 August 2026, 12:34 WIB</sub>
