@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
+| Failing Gracefully: Mitigating Impact of Inevitable Robot Failures | Duc M. Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.05313v1) |
+| Nonvisual Classification of Ground-Condition by Artificial Proprioception in an Amoeba-Inspired Autonomous Walking Robot | Hyoto Yamaguchi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.05684v1) |
+| Partially-Observable Transmission Control for UAV-Enabled Federated Learning in IoT Networks | Masoud Ghazikor et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.00855v1) |
 | A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
-| Self-Evolving Learning for Embodied AI with Criticality Model | Linxuan He et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28251v1) |
-| RADAR Perception for Dynamic Obstacle Avoidance onboard small-scale Quadrotor UAVs | Dnyandeep Mandaokar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.01855v1) |
-| ESBMC-Arduino: Closing the Deployment Gap for Formal Verification of Open-Hardware PLCs | Pierre Dantas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08550v1) |
-| A Physics-Informed Hybrid Neural Operator for Transient Magnetization Prediction in Power Magnetics | Yachao Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.02965v1) |
-| Hypothesis Testing with Conditional Queries: Learnability and the Value of Interaction | Zonghuan Xu | 2026 | [📄 Read](http://arxiv.org/abs/2608.06262v1) |
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
-| Minimax Optimal Early-Stopped Gradient Descent for Gaussian Mixture Classification | Alex Buna et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06250v1) |
-| Physically Consistent SINDy (Sparse Identification of Nonlinear Dynamics) for Microgrid Identification and Real-Time Frequency Control | Mohan Du et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.00213v1) |
+| Near-sensor Computing for Rapid Visuotactile Perception | Zhengying Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.05725v1) |
+| Search-Aided Joint Agent-Environment Reinforcement Learning for Robust Lifelong Multi-Agent Path Finding with Rotations | He Jiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.05588v1) |
+| Prior-SG: Task and Prior Driven Region Segmentation for Scene Graphs in Arbitrarily-Structured Environments | Giorgio Tonetti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06170v1) |
+| FBID: Adaptive Personalized Federated Learning for Robust Out-of-Distribution Attack Detection in IoT Networks | An Khanh Bui et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.04073v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v2) |
+| A Multi-Objective AutoML-based Efficient Intrusion Detection System for EV Charging Networks | Li Yang | 2026 | [📄 Read](http://arxiv.org/abs/2608.02274v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 08 August 2026, 14:45 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 08 August 2026, 16:24 WIB</sub>
