@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Physically Consistent SINDy (Sparse Identification of Nonlinear Dynamics) for Microgrid Identification and Real-Time Frequency Control | Mohan Du et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.00213v1) |
-| A Physics-Informed Hybrid Neural Operator for Transient Magnetization Prediction in Power Magnetics | Yachao Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.02965v1) |
-| Learning to Stay Fresh: A Self-Learning Semantic Framework for Underwater Internet of Things | Ananya Hazarika et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16902v1) |
-| Timestep-Conditioned Transformers for Global Weather Forecasting | Sam Levang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06241v1) |
-| Self-Evolving Learning for Embodied AI with Criticality Model | Linxuan He et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28251v1) |
-| A Kalman Filter-Assisted Data-Predictive SAR ADC With Reduced Switching Energy for Low-Power Applications | Xiyuan Feng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16139v1) |
+| HarnessOpt-Bench: Evaluating LLMs at Harness Optimization | Varun Ursekar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06301v1) |
+| MetaboLLM: a metabolomics-specialized large language model for biochemical knowledge integration and predictive metabolite graph construction | Dohyun Ku et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06253v1) |
 | Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering | Soorya Ram Shimgekar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06366v1) |
-| The Internet of Things for Smart Manufacturing: A Review | Hui Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16172v1) |
-| Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations | Sagar Tamang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06305v1) |
-| Comparative Approaches to Agent Retrieval over Large Skill Libraries | Indivara Kolluru et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06196v1) |
+| AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games | Boning Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06362v1) |
+| Near-sensor Computing for Rapid Visuotactile Perception | Zhengying Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.05725v1) |
+| Timestep-Conditioned Transformers for Global Weather Forecasting | Sam Levang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06241v1) |
+| Minimax Optimal Early-Stopped Gradient Descent for Gaussian Mixture Classification | Alex Buna et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06250v1) |
+| Nonvisual Classification of Ground-Condition by Artificial Proprioception in an Amoeba-Inspired Autonomous Walking Robot | Hyoto Yamaguchi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.05684v1) |
+| CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks | Fanzhe Meng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06352v1) |
+| An Optimal Agnostic PAC Algorithm | Markus Engelund Mathiasen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06363v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 09 August 2026, 11:10 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 09 August 2026, 12:39 WIB</sub>
