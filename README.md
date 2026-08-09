@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
+| Physically Consistent SINDy (Sparse Identification of Nonlinear Dynamics) for Microgrid Identification and Real-Time Frequency Control | Mohan Du et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.00213v1) |
+| A Physics-Informed Hybrid Neural Operator for Transient Magnetization Prediction in Power Magnetics | Yachao Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.02965v1) |
+| Learning to Stay Fresh: A Self-Learning Semantic Framework for Underwater Internet of Things | Ananya Hazarika et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16902v1) |
+| Timestep-Conditioned Transformers for Global Weather Forecasting | Sam Levang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06241v1) |
+| Self-Evolving Learning for Embodied AI with Criticality Model | Linxuan He et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.28251v1) |
+| A Kalman Filter-Assisted Data-Predictive SAR ADC With Reduced Switching Energy for Low-Power Applications | Xiyuan Feng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16139v1) |
+| Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering | Soorya Ram Shimgekar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06366v1) |
+| The Internet of Things for Smart Manufacturing: A Review | Hui Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16172v1) |
 | Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations | Sagar Tamang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06305v1) |
 | Comparative Approaches to Agent Retrieval over Large Skill Libraries | Indivara Kolluru et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06196v1) |
-| Partially-Observable Transmission Control for UAV-Enabled Federated Learning in IoT Networks | Masoud Ghazikor et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.00855v1) |
-| Bias Analysis of L2 Speaking Assessment Systems Using Concept Activation Vectors | Arya Labroo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06300v1) |
-| Impute On-Demand: Adaptive Correlated Time Series Imputation for Changing Environments | Zhichen Lai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23503v1) |
-| A Low-Power Wearable Respiratory Sensor for Non-Invasive Stress Monitoring | Mohammad Hosseini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.05697v1) |
-| TFGformer: Multivariate Time Series Forecasting via Time-Frequency Graph Learning and Covariate Fusion | Yu Sun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29459v1) |
-| Nonvisual Classification of Ground-Condition by Artificial Proprioception in an Amoeba-Inspired Autonomous Walking Robot | Hyoto Yamaguchi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.05684v1) |
-| Data Quality Profiling at Scale with Progressive Sampling: A Benchmark for Data-Centric AI Pipelines | Laure Berti-Equille | 2026 | [📄 Read](http://arxiv.org/abs/2607.25356v1) |
-| From Passive Mirrors to Active Agents: Holonic Digital Twins for Physical AI over Networks | Christo Kurisummoottil Thomas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06227v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 09 August 2026, 10:01 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 09 August 2026, 11:10 WIB</sub>
