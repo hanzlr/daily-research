@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control | Di Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17951v1) |
-| A foundation-model approach to pediatric headache classification from rs-fMRI | Guilherme S. Imai Aldeia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.07287v1) |
-| Omni-modal decomposition autoencoders learn full-stack wearable disentangled representations | Ioannis Ziogas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.07385v1) |
-| SynapticOS: An Inference-First Runtime Architecture for Neural Processing Units on Resource-Constrained Microcontrollers | Dimitrios Kafetzis | 2026 | [📄 Read](http://arxiv.org/abs/2607.12606v1) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
-| Data Quality Profiling at Scale with Progressive Sampling: A Benchmark for Data-Centric AI Pipelines | Laure Berti-Equille | 2026 | [📄 Read](http://arxiv.org/abs/2607.25356v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v2) |
-| FBID: Adaptive Personalized Federated Learning for Robust Out-of-Distribution Attack Detection in IoT Networks | An Khanh Bui et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.04073v1) |
-| Stochastic Autoregressive Learning | Ilan Doron-Arad et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.07224v1) |
-| TFGformer: Multivariate Time Series Forecasting via Time-Frequency Graph Learning and Covariate Fusion | Yu Sun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29459v1) |
+| Uncovering expert objectives in production planning via inverse optimization: An industrial case study | Shivi Dixit et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.07398v1) |
+| Impute On-Demand: Adaptive Correlated Time Series Imputation for Changing Environments | Zhichen Lai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23503v1) |
+| Automated Terminal-to-Housing Assembly System for Flat Ribbon Cable Harness | Eunkyu Choi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06996v1) |
+| Addressable Memory for Video World Models | Xindi Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.07408v1) |
+| Are Visual Place Recognition Models Recognizing Places or Conditions? Distractor-Augmented Evaluation and Condition Suppression | Beomsu Kim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06847v1) |
+| Post-Grokking Collapse at the Representation-Readout Interface in Muon-Trained Transformers | Ali Janati et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.07436v1) |
+| C2Dex: Contact-Consistent Reconstruction and Retargeting for Dexterous Manipulation from Monocular Video | Jie Ren et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.07045v1) |
+| Threshold-Based Early Stopping of Accumulations in Neural Networks with Binary Activation | Quentin Luquet de Saint-Germain et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06177v1) |
+| LyEvO: Lyapunov-Guided Evolutionary Optimization for Safe and Robust Sim-to-Real Policy Learning | Riccardo Curcio et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06481v1) |
+| A Special Point Skeleton Reconstruction Algorithm for Dynamic Multiobjective Optimization | GuangXian Gan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06096v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 10 August 2026, 18:42 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 10 August 2026, 21:17 WIB</sub>
