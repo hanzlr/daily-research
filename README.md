@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Synthetic LiDAR Data Generation and Deterministic Downsampling for Point Cloud Classification on the Edge | Niclas Meyer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.07106v1) |
-| Detection and Ranging of Transient Extrinsic Contacts Based on 6D Dynamic Tactile Sensing | Haowen Zheng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.07075v1) |
-| A Physics-Informed Hybrid Neural Operator for Transient Magnetization Prediction in Power Magnetics | Yachao Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.02965v1) |
-| Representation Handoffs for OpenArm-Based Laboratory Mobile Manipulation | Yang Shen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.07154v1) |
-| LSEAD: A Privacy-Preserving LLM-Based Speech Analysis Framework for Early Alzheimer's Disease Screening | Xin Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.07378v1) |
-| RADAR Perception for Dynamic Obstacle Avoidance onboard small-scale Quadrotor UAVs | Dnyandeep Mandaokar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.01855v1) |
-| Automated Terminal-to-Housing Assembly System for Flat Ribbon Cable Harness | Eunkyu Choi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06996v1) |
-| QFCQT: A Chaotically Gated Quantformer Framework for Volatile Time-Series Forecasting | Junkai Lin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.07363v1) |
-| CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG | Gyuwan Kim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.07458v1) |
-| Physically Consistent SINDy (Sparse Identification of Nonlinear Dynamics) for Microgrid Identification and Real-Time Frequency Control | Mohan Du et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.00213v1) |
+| RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control | Di Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17951v1) |
+| A foundation-model approach to pediatric headache classification from rs-fMRI | Guilherme S. Imai Aldeia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.07287v1) |
+| Omni-modal decomposition autoencoders learn full-stack wearable disentangled representations | Ioannis Ziogas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.07385v1) |
+| SynapticOS: An Inference-First Runtime Architecture for Neural Processing Units on Resource-Constrained Microcontrollers | Dimitrios Kafetzis | 2026 | [📄 Read](http://arxiv.org/abs/2607.12606v1) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| Data Quality Profiling at Scale with Progressive Sampling: A Benchmark for Data-Centric AI Pipelines | Laure Berti-Equille | 2026 | [📄 Read](http://arxiv.org/abs/2607.25356v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v2) |
+| FBID: Adaptive Personalized Federated Learning for Robust Out-of-Distribution Attack Detection in IoT Networks | An Khanh Bui et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.04073v1) |
+| Stochastic Autoregressive Learning | Ilan Doron-Arad et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.07224v1) |
+| TFGformer: Multivariate Time Series Forecasting via Time-Frequency Graph Learning and Covariate Fusion | Yu Sun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29459v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 10 August 2026, 17:06 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 10 August 2026, 18:42 WIB</sub>
