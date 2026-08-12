@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| When Your State Estimator Has Lost The Plot: Detecting Estimator Failures Via Spectral Analysis | Christian Lanegger et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.10623v1) |
-| How to Verify Consistency of Probabilistic Claims | Orr Paradise et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.11181v1) |
-| FBID: Adaptive Personalized Federated Learning for Robust Out-of-Distribution Attack Detection in IoT Networks | An Khanh Bui et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.04073v1) |
-| FedA2L: Adaptive layer-wise learning rate adjustment in decentralized federated learning | Van Truong Vo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.09208v1) |
-| AlbumentationsX: One Augmentation Pipeline for Images and Related Annotations | Vladimir Iglovikov | 2026 | [📄 Read](http://arxiv.org/abs/2608.11123v1) |
-| TFGformer: Multivariate Time Series Forecasting via Time-Frequency Graph Learning and Covariate Fusion | Yu Sun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29459v1) |
+| Learning to Stay Fresh: A Self-Learning Semantic Framework for Underwater Internet of Things | Ananya Hazarika et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16902v1) |
+| Flex-$π$: A Multi-Stream World-Action Model with Compute Flexibility | Ge Yan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.10860v1) |
 | Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders | Nikolai Bolik et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.11197v1) |
-| Seeing above the waves: A modular sensing framework for data acquisition at sea | Jonathan E. Schmidt et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.10997v1) |
-| ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls | Chen Lyu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.11200v1) |
-| GARLIC: Graph Attention-based Relational Learning of Multivariate Time Series in Intensive Care | Ruirui Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.10969v1) |
+| Batch Size or Negatives? A Selection Rule for Memory-Constrained Recommender Training | Artyom Sabitov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.11061v1) |
+| SynapticOS: An Inference-First Runtime Architecture for Neural Processing Units on Resource-Constrained Microcontrollers | Dimitrios Kafetzis | 2026 | [📄 Read](http://arxiv.org/abs/2607.12606v1) |
+| A Kalman Filter-Assisted Data-Predictive SAR ADC With Reduced Switching Energy for Low-Power Applications | Xiyuan Feng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16139v1) |
+| A Recommendation System Approach for Interference-Robust Sensor Subset Selection | Kaan Buyukkalayci et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.11143v1) |
+| When Your State Estimator Has Lost The Plot: Detecting Estimator Failures Via Spectral Analysis | Christian Lanegger et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.10623v1) |
+| The Internet of Things for Smart Manufacturing: A Review | Hui Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16172v1) |
+| Enabling Scalable Kinesthetic Teaching via Observer-based Hand-guiding with Active Support | Anna Tuma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.10847v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 12 August 2026, 10:22 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 12 August 2026, 11:40 WIB</sub>
