@@ -14,20 +14,10 @@
 
 ---
 
-## 🗓️ Wednesday, 12 August 2026
+## 🗓️ Thursday, 13 August 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Learning to Stay Fresh: A Self-Learning Semantic Framework for Underwater Internet of Things | Ananya Hazarika et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16902v1) |
-| Flex-$π$: A Multi-Stream World-Action Model with Compute Flexibility | Ge Yan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.10860v1) |
-| Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders | Nikolai Bolik et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.11197v1) |
-| Batch Size or Negatives? A Selection Rule for Memory-Constrained Recommender Training | Artyom Sabitov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.11061v1) |
-| SynapticOS: An Inference-First Runtime Architecture for Neural Processing Units on Resource-Constrained Microcontrollers | Dimitrios Kafetzis | 2026 | [📄 Read](http://arxiv.org/abs/2607.12606v1) |
-| A Kalman Filter-Assisted Data-Predictive SAR ADC With Reduced Switching Energy for Low-Power Applications | Xiyuan Feng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16139v1) |
-| A Recommendation System Approach for Interference-Robust Sensor Subset Selection | Kaan Buyukkalayci et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.11143v1) |
-| When Your State Estimator Has Lost The Plot: Detecting Estimator Failures Via Spectral Analysis | Christian Lanegger et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.10623v1) |
-| The Internet of Things for Smart Manufacturing: A Review | Hui Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16172v1) |
-| Enabling Scalable Kinesthetic Teaching via Observer-based Hand-guiding with Active Support | Anna Tuma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.10847v1) |
 
 ---
 
@@ -40,4 +30,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 12 August 2026, 11:40 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 13 August 2026, 08:28 WIB</sub>
