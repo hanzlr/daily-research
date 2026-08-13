@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| When Your State Estimator Has Lost The Plot: Detecting Estimator Failures Via Spectral Analysis | Christian Lanegger et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.10623v1) |
-| Enabling Scalable Kinesthetic Teaching via Observer-based Hand-guiding with Active Support | Anna Tuma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.10847v1) |
-| D3D-GEN: Robot-Aware Domain-Grounded Interactive 3D World Generation for Social Robotics | Anh Duc Do et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.11876v1) |
-| Flex-$π$: A Multi-Stream World-Action Model with Compute Flexibility | Ge Yan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.10860v1) |
-| Learning Loco-Manipulation From SMPC Demonstrations With Sparse Offline-to-Online RL | Martin Schuck et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12063v1) |
-| Defining Decentralization: An Ontological Perspective | Jakub Kacper Szeląg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.09748v1) |
-| IoT-Enabled Autonomous Maritime Navigation in Smart Ports: A Curriculum-Guided Shared Policy Learning Framework | Yuqing Lin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.11597v1) |
 | Seeing above the waves: A modular sensing framework for data acquisition at sea | Jonathan E. Schmidt et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.10997v1) |
-| StellaVLA: In-Context Structured Demonstration for Generalizable Vision-Language-Action Models | Siyu Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.11671v1) |
-| Predictive Allostatic Organization in Recurrent and Spiking Agents Under Partial Observability | Frederick Hayes | 2026 | [📄 Read](http://arxiv.org/abs/2608.11506v1) |
+| Enabling Scalable Kinesthetic Teaching via Observer-based Hand-guiding with Active Support | Anna Tuma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.10847v1) |
+| Trajectory-Induced Self-Calibration for Hidden-Target Localization Through an Unknown-Pose Range-Bearing Relay | Yash Bagla | 2026 | [📄 Read](http://arxiv.org/abs/2608.09464v1) |
+| When Your State Estimator Has Lost The Plot: Detecting Estimator Failures Via Spectral Analysis | Christian Lanegger et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.10623v1) |
+| FBID: Adaptive Personalized Federated Learning for Robust Out-of-Distribution Attack Detection in IoT Networks | An Khanh Bui et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.04073v1) |
+| TFGformer: Multivariate Time Series Forecasting via Time-Frequency Graph Learning and Covariate Fusion | Yu Sun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29459v1) |
+| Earth observation embeddings are effective sub-grid descriptors for probabilistic weather downscaling | Pedro Sousa et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12271v1) |
+| Price Information Is Not Enough: Ordering and Decision Rules in Storage Bidding | Brieuc Le roux Tardif | 2026 | [📄 Read](http://arxiv.org/abs/2608.08377v1) |
+| A Physics-Informed Hybrid Neural Operator for Transient Magnetization Prediction in Power Magnetics | Yachao Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.02965v1) |
+| Autonomous Telerehabilitation via Skeletal Motion Prediction and Joint-Level Performance Assessment | Lara Pereira et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12145v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 13 August 2026, 14:23 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 13 August 2026, 15:17 WIB</sub>
