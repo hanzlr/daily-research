@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Seeing above the waves: A modular sensing framework for data acquisition at sea | Jonathan E. Schmidt et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.10997v1) |
-| Enabling Scalable Kinesthetic Teaching via Observer-based Hand-guiding with Active Support | Anna Tuma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.10847v1) |
-| Trajectory-Induced Self-Calibration for Hidden-Target Localization Through an Unknown-Pose Range-Bearing Relay | Yash Bagla | 2026 | [📄 Read](http://arxiv.org/abs/2608.09464v1) |
-| When Your State Estimator Has Lost The Plot: Detecting Estimator Failures Via Spectral Analysis | Christian Lanegger et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.10623v1) |
-| FBID: Adaptive Personalized Federated Learning for Robust Out-of-Distribution Attack Detection in IoT Networks | An Khanh Bui et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.04073v1) |
-| TFGformer: Multivariate Time Series Forecasting via Time-Frequency Graph Learning and Covariate Fusion | Yu Sun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29459v1) |
+| ESBMC-Arduino: Closing the Deployment Gap for Formal Verification of Open-Hardware PLCs | Pierre Dantas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08550v1) |
+| Contextual Quality-Diversity Evolutionary Reinforcement Learning for HVAC Control in Tropical Commercial Buildings | Tran Le Vu | 2026 | [📄 Read](http://arxiv.org/abs/2608.11324v1) |
 | Earth observation embeddings are effective sub-grid descriptors for probabilistic weather downscaling | Pedro Sousa et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12271v1) |
-| Price Information Is Not Enough: Ordering and Decision Rules in Storage Bidding | Brieuc Le roux Tardif | 2026 | [📄 Read](http://arxiv.org/abs/2608.08377v1) |
-| A Physics-Informed Hybrid Neural Operator for Transient Magnetization Prediction in Power Magnetics | Yachao Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.02965v1) |
-| Autonomous Telerehabilitation via Skeletal Motion Prediction and Joint-Level Performance Assessment | Lara Pereira et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12145v1) |
+| Regime-Gated Residual Mixture-of-Experts for Cross-Sectional Volatility Forecasting | Junyi Ye et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12251v1) |
+| Predictive Allostatic Organization in Recurrent and Spiking Agents Under Partial Observability | Frederick Hayes | 2026 | [📄 Read](http://arxiv.org/abs/2608.11506v1) |
+| EvoMem: Memory-Augmented Evolution for Code Optimization | Viktor Volkov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.10795v1) |
+| Redistribution-based Cost Inference Improves Sparse Safe Offline RL | Ebenezer Gelo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12306v1) |
+| RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control | Di Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17951v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| Look What the Probes Dragged In! Real-World Chest X-ray Shortcuts in MedCLIP | Nikolette Pedersen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12086v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 13 August 2026, 15:17 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 13 August 2026, 16:51 WIB</sub>
