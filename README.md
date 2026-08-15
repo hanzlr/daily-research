@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| DARTree: Speculative Diffusion Decoding with Autoregressive Draft Trees | Tianyi Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13524v1) |
-| Seeing above the waves: A modular sensing framework for data acquisition at sea | Jonathan E. Schmidt et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.10997v1) |
-| Defensive Boosting for Online Probabilistic Forecasting | Georgy Noarov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13554v1) |
+| FedA2L: Adaptive layer-wise learning rate adjustment in decentralized federated learning | Van Truong Vo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.09208v1) |
 | Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| IoT-Enabled Autonomous Maritime Navigation in Smart Ports: A Curriculum-Guided Shared Policy Learning Framework | Yuqing Lin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.11597v1) |
+| Trajectory-Induced Self-Calibration for Hidden-Target Localization Through an Unknown-Pose Range-Bearing Relay | Yash Bagla | 2026 | [📄 Read](http://arxiv.org/abs/2608.09464v1) |
+| Price Information Is Not Enough: Ordering and Decision Rules in Storage Bidding | Brieuc Le roux Tardif | 2026 | [📄 Read](http://arxiv.org/abs/2608.08377v1) |
 | Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
-| Keeping Data Centers Online in Weak Grids: PLL-Free VM-DPC With Adaptive Reactive-Power Support for Centralized UPS Systems | Jesus D. Vasquez-Plaza et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06521v1) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v2) |
-| RGB-D Video Generation for Improving Human-to-Robot Object Handover Prediction | Tianyu Sun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13028v1) |
-| LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure | Fanfei Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13545v1) |
+| Multi-perspective Imbalance-Conscious 6G Beamforming Optimization and Performance | Chukwunonso Henry Nwokoye et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12929v1) |
+| Sinkhorn Linearization and the Spectral Proxy: Unifying the Statistical and Algorithmic Theory of Feature-Parameterized Inverse Optimal Transport via a Single Spectral Sandwich | Han Dong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13201v1) |
+| Defining Decentralization: An Ontological Perspective | Jakub Kacper Szeląg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.09748v1) |
+| FBID: Adaptive Personalized Federated Learning for Robust Out-of-Distribution Attack Detection in IoT Networks | An Khanh Bui et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.04073v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 15 August 2026, 07:57 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 15 August 2026, 09:13 WIB</sub>
