@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Friday, 14 August 2026
+## 🗓️ Saturday, 15 August 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Predictive Allostatic Organization in Recurrent and Spiking Agents Under Partial Observability | Frederick Hayes | 2026 | [📄 Read](http://arxiv.org/abs/2608.11506v1) |
-| D3D-GEN: Robot-Aware Domain-Grounded Interactive 3D World Generation for Social Robotics | Anh Duc Do et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.11876v1) |
-| Beyond the Best Guess: Improving LLM Solution Coverage with Evolution Strategies | Conor F. Hayes et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12679v1) |
-| ASPIRE-VINS: Adaptive Spline-based Visual-inertial Navigation System With Robust 3D Measurement Residuals | Kwangyik Jung et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12840v1) |
-| TFGformer: Multivariate Time Series Forecasting via Time-Frequency Graph Learning and Covariate Fusion | Yu Sun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29459v1) |
-| Insights from Multi-tasking the EAX Algorithm for the Travelling Salesperson Problem | Liam Wigney et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12772v1) |
-| FedA2L: Adaptive layer-wise learning rate adjustment in decentralized federated learning | Van Truong Vo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.09208v1) |
-| Learning Loco-Manipulation From SMPC Demonstrations With Sparse Offline-to-Online RL | Martin Schuck et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12063v1) |
-| Learning-Based Behavior Planning for Automated Driving: Real-World Integration and Deployment | Jean-Pierre Busch et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12198v1) |
-| FBID: Adaptive Personalized Federated Learning for Robust Out-of-Distribution Attack Detection in IoT Networks | An Khanh Bui et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.04073v1) |
+| DARTree: Speculative Diffusion Decoding with Autoregressive Draft Trees | Tianyi Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13524v1) |
+| Seeing above the waves: A modular sensing framework for data acquisition at sea | Jonathan E. Schmidt et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.10997v1) |
+| Defensive Boosting for Online Probabilistic Forecasting | Georgy Noarov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13554v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| Keeping Data Centers Online in Weak Grids: PLL-Free VM-DPC With Adaptive Reactive-Power Support for Centralized UPS Systems | Jesus D. Vasquez-Plaza et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06521v1) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v2) |
+| RGB-D Video Generation for Improving Human-to-Robot Object Handover Prediction | Tianyu Sun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13028v1) |
+| LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure | Fanfei Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13545v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 14 August 2026, 13:07 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 15 August 2026, 07:57 WIB</sub>
