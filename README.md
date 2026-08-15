@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Capstan-driven Continuum Surgical Robot: Design, Modeling, and Perception | Gang Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13396v1) |
-| Sinkhorn Linearization and the Spectral Proxy: Unifying the Statistical and Algorithmic Theory of Feature-Parameterized Inverse Optimal Transport via a Single Spectral Sandwich | Han Dong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13201v1) |
-| Multi-perspective Imbalance-Conscious 6G Beamforming Optimization and Performance | Chukwunonso Henry Nwokoye et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12929v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v2) |
-| Defining Decentralization: An Ontological Perspective | Jakub Kacper Szeląg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.09748v1) |
-| Flex-$π$: A Multi-Stream World-Action Model with Compute Flexibility | Ge Yan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.10860v2) |
-| The Internet of Things for Smart Manufacturing: A Review | Hui Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16172v1) |
-| IoT-Enabled Autonomous Maritime Navigation in Smart Ports: A Curriculum-Guided Shared Policy Learning Framework | Yuqing Lin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.11597v1) |
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
-| Learning to Stay Fresh: A Self-Learning Semantic Framework for Underwater Internet of Things | Ananya Hazarika et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16902v1) |
+| Insights from Multi-tasking the EAX Algorithm for the Travelling Salesperson Problem | Liam Wigney et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12772v1) |
+| ASPIRE-VINS: Adaptive Spline-based Visual-inertial Navigation System With Robust 3D Measurement Residuals | Kwangyik Jung et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12840v1) |
+| Predictive Allostatic Organization in Recurrent and Spiking Agents Under Partial Observability | Frederick Hayes | 2026 | [📄 Read](http://arxiv.org/abs/2608.11506v1) |
+| A Physics-Informed Hybrid Neural Operator for Transient Magnetization Prediction in Power Magnetics | Yachao Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.02965v1) |
+| Beyond the Best Guess: Improving LLM Solution Coverage with Evolution Strategies | Conor F. Hayes et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12679v1) |
+| Beyond Simulated Benchmarks: Evaluating Motion Representations for Fall Detection Under Real-World Data Scarcity | Timilehin B. Aderinola et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13197v1) |
+| Learning-Based Behavior Planning for Automated Driving: Real-World Integration and Deployment | Jean-Pierre Busch et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12198v1) |
+| Lapis: Laplacian Spiking Attention via First-Spike Timing and Membrane Leakage | Kaiwen Tang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.11865v1) |
+| Virtual Temperature Sensors in Power Transformers Using Neural Ordinary Differential Equations | Berk Hadzhamolla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13260v1) |
+| D3D-GEN: Robot-Aware Domain-Grounded Interactive 3D World Generation for Social Robotics | Anh Duc Do et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.11876v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 15 August 2026, 14:26 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 15 August 2026, 16:13 WIB</sub>
