@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Exponential quantum advantage for learning signals with a single qubit | Ishaan Kannan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13521v1) |
-| Beyond Simulated Benchmarks: Evaluating Motion Representations for Fall Detection Under Real-World Data Scarcity | Timilehin B. Aderinola et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13197v1) |
-| Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure | Mingyuan Zhang | 2026 | [📄 Read](http://arxiv.org/abs/2608.13549v1) |
+| ESBMC-Arduino: Closing the Deployment Gap for Formal Verification of Open-Hardware PLCs | Pierre Dantas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08550v1) |
+| Vero: Can AI Agents Build Formally Verified Software Repositories? | Zhe Ye et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13522v1) |
+| On the Structural Limits of Machine Learning Decision Systems: An Information-Theoretic, Interaction-Based, and Stochastic-Dynamical Perspective | Nestor R. Barraza et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13510v1) |
 | Insights from Multi-tasking the EAX Algorithm for the Travelling Salesperson Problem | Liam Wigney et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12772v1) |
+| Equivariant learning of a transferable three-dimensional classical density functional | Bingqing Cheng | 2026 | [📄 Read](http://arxiv.org/abs/2608.13506v1) |
+| Learning-Based Behavior Planning for Automated Driving: Real-World Integration and Deployment | Jean-Pierre Busch et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12198v1) |
+| SynapticOS: An Inference-First Runtime Architecture for Neural Processing Units on Resource-Constrained Microcontrollers | Dimitrios Kafetzis | 2026 | [📄 Read](http://arxiv.org/abs/2607.12606v1) |
+| RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control | Di Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17951v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
 | Predictive Allostatic Organization in Recurrent and Spiking Agents Under Partial Observability | Frederick Hayes | 2026 | [📄 Read](http://arxiv.org/abs/2608.11506v1) |
-| Foundation models for movement data: Are they ready for prime-time? | Alexander Bräuer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13316v1) |
-| Defensive Boosting for Online Probabilistic Forecasting | Georgy Noarov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13554v1) |
-| Beyond the Best Guess: Improving LLM Solution Coverage with Evolution Strategies | Conor F. Hayes et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12679v1) |
-| Trajectory-Induced Self-Calibration for Hidden-Target Localization Through an Unknown-Pose Range-Bearing Relay | Yash Bagla | 2026 | [📄 Read](http://arxiv.org/abs/2608.09464v1) |
-| DARTree: Speculative Diffusion Decoding with Autoregressive Draft Trees | Tianyi Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13524v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 16 August 2026, 14:27 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 16 August 2026, 16:14 WIB</sub>
