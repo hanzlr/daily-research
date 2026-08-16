@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Insights from Multi-tasking the EAX Algorithm for the Travelling Salesperson Problem | Liam Wigney et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12772v1) |
-| SynapticOS: An Inference-First Runtime Architecture for Neural Processing Units on Resource-Constrained Microcontrollers | Dimitrios Kafetzis | 2026 | [📄 Read](http://arxiv.org/abs/2607.12606v1) |
-| A Kalman Filter-Assisted Data-Predictive SAR ADC With Reduced Switching Energy for Low-Power Applications | Xiyuan Feng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16139v1) |
-| RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control | Di Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17951v1) |
-| Predictive Allostatic Organization in Recurrent and Spiking Agents Under Partial Observability | Frederick Hayes | 2026 | [📄 Read](http://arxiv.org/abs/2608.11506v1) |
-| Cross-Corpus Evaluation of Generalizable Vulnerability Detection in IoT Firmware | Sadib Hassan Rumman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.11492v1) |
-| Sinkhorn Linearization and the Spectral Proxy: Unifying the Statistical and Algorithmic Theory of Feature-Parameterized Inverse Optimal Transport via a Single Spectral Sandwich | Han Dong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13201v1) |
-| Multi-perspective Imbalance-Conscious 6G Beamforming Optimization and Performance | Chukwunonso Henry Nwokoye et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12929v1) |
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
-| Lapis: Laplacian Spiking Attention via First-Spike Timing and Membrane Leakage | Kaiwen Tang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.11865v1) |
+| On the Structural Limits of Machine Learning Decision Systems: An Information-Theoretic, Interaction-Based, and Stochastic-Dynamical Perspective | Nestor R. Barraza et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13510v1) |
+| Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure | Mingyuan Zhang | 2026 | [📄 Read](http://arxiv.org/abs/2608.13549v1) |
+| Foundation models for movement data: Are they ready for prime-time? | Alexander Bräuer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13316v1) |
+| TFGformer: Multivariate Time Series Forecasting via Time-Frequency Graph Learning and Covariate Fusion | Yu Sun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29459v1) |
+| Defensive Boosting for Online Probabilistic Forecasting | Georgy Noarov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13554v1) |
+| A Physics-Informed Hybrid Neural Operator for Transient Magnetization Prediction in Power Magnetics | Yachao Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.02965v1) |
+| Beyond Simulated Benchmarks: Evaluating Motion Representations for Fall Detection Under Real-World Data Scarcity | Timilehin B. Aderinola et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13197v1) |
+| FedA2L: Adaptive layer-wise learning rate adjustment in decentralized federated learning | Van Truong Vo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.09208v1) |
+| Defining Decentralization: An Ontological Perspective | Jakub Kacper Szeląg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.09748v1) |
+| Trajectory-Induced Self-Calibration for Hidden-Target Localization Through an Unknown-Pose Range-Bearing Relay | Yash Bagla | 2026 | [📄 Read](http://arxiv.org/abs/2608.09464v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 16 August 2026, 12:17 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 16 August 2026, 13:36 WIB</sub>
