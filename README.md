@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
-| ESBMC-Arduino: Closing the Deployment Gap for Formal Verification of Open-Hardware PLCs | Pierre Dantas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08550v1) |
-| The Internet of Things for Smart Manufacturing: A Review | Hui Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16172v1) |
-| Beyond the Best Guess: Improving LLM Solution Coverage with Evolution Strategies | Conor F. Hayes et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12679v1) |
-| Equivariant learning of a transferable three-dimensional classical density functional | Bingqing Cheng | 2026 | [📄 Read](http://arxiv.org/abs/2608.13506v1) |
-| A Kalman Filter-Assisted Data-Predictive SAR ADC With Reduced Switching Energy for Low-Power Applications | Xiyuan Feng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16139v1) |
+| Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure | Mingyuan Zhang | 2026 | [📄 Read](http://arxiv.org/abs/2608.13549v1) |
+| Exponential quantum advantage for learning signals with a single qubit | Ishaan Kannan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13521v1) |
+| LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure | Fanfei Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13545v1) |
 | Insights from Multi-tasking the EAX Algorithm for the Travelling Salesperson Problem | Liam Wigney et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12772v1) |
-| Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology | Yunsung Chung et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13518v1) |
-| Defining Decentralization: An Ontological Perspective | Jakub Kacper Szeląg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.09748v1) |
-| RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control | Di Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17951v1) |
+| Equivariant learning of a transferable three-dimensional classical density functional | Bingqing Cheng | 2026 | [📄 Read](http://arxiv.org/abs/2608.13506v1) |
+| Beyond Simulated Benchmarks: Evaluating Motion Representations for Fall Detection Under Real-World Data Scarcity | Timilehin B. Aderinola et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13197v1) |
+| Beyond the Best Guess: Improving LLM Solution Coverage with Evolution Strategies | Conor F. Hayes et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12679v1) |
+| Defensive Boosting for Online Probabilistic Forecasting | Georgy Noarov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13554v1) |
+| Predictive Allostatic Organization in Recurrent and Spiking Agents Under Partial Observability | Frederick Hayes | 2026 | [📄 Read](http://arxiv.org/abs/2608.11506v1) |
+| Lapis: Laplacian Spiking Attention via First-Spike Timing and Membrane Leakage | Kaiwen Tang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.11865v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 16 August 2026, 09:20 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 16 August 2026, 10:39 WIB</sub>
