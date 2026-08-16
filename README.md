@@ -18,10 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Multi-perspective Imbalance-Conscious 6G Beamforming Optimization and Performance | Chukwunonso Henry Nwokoye et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12929v1) |
-| Sinkhorn Linearization and the Spectral Proxy: Unifying the Statistical and Algorithmic Theory of Feature-Parameterized Inverse Optimal Transport via a Single Spectral Sandwich | Han Dong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13201v1) |
-| Cross-Corpus Evaluation of Generalizable Vulnerability Detection in IoT Firmware | Sadib Hassan Rumman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.11492v1) |
-| IoT-Enabled Autonomous Maritime Navigation in Smart Ports: A Curriculum-Guided Shared Policy Learning Framework | Yuqing Lin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.11597v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| ESBMC-Arduino: Closing the Deployment Gap for Formal Verification of Open-Hardware PLCs | Pierre Dantas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08550v1) |
+| The Internet of Things for Smart Manufacturing: A Review | Hui Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16172v1) |
+| Beyond the Best Guess: Improving LLM Solution Coverage with Evolution Strategies | Conor F. Hayes et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12679v1) |
+| Equivariant learning of a transferable three-dimensional classical density functional | Bingqing Cheng | 2026 | [📄 Read](http://arxiv.org/abs/2608.13506v1) |
+| A Kalman Filter-Assisted Data-Predictive SAR ADC With Reduced Switching Energy for Low-Power Applications | Xiyuan Feng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.16139v1) |
+| Insights from Multi-tasking the EAX Algorithm for the Travelling Salesperson Problem | Liam Wigney et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12772v1) |
+| Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology | Yunsung Chung et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13518v1) |
+| Defining Decentralization: An Ontological Perspective | Jakub Kacper Szeląg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.09748v1) |
+| RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control | Di Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17951v1) |
 
 ---
 
@@ -34,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 16 August 2026, 08:01 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 16 August 2026, 09:20 WIB</sub>
