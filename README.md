@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Learning-to-Transition for Large-scale and High-Order MIMO Detection | Yubo Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.14511v1) |
-| Price Information Is Not Enough: Ordering and Decision Rules in Storage Bidding | Brieuc Le roux Tardif | 2026 | [📄 Read](http://arxiv.org/abs/2608.08377v1) |
-| Retrieval Grounding Latent Reasoning for Dense Retrieval | Gang Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.14107v1) |
-| Keeping Data Centers Online in Weak Grids: PLL-Free VM-DPC With Adaptive Reactive-Power Support for Centralized UPS Systems | Jesus D. Vasquez-Plaza et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06521v1) |
-| FedA2L: Adaptive layer-wise learning rate adjustment in decentralized federated learning | Van Truong Vo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.09208v1) |
+| Defining Decentralization: An Ontological Perspective | Jakub Kacper Szeląg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.09748v1) |
+| Emergent Models: Intelligence from Tiny Substrates | Giacomo Bocchese et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.14019v1) |
+| Reducing ANN-SNN Conversion Error via Residual Membrane Potential Alignment | Zirui Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13952v1) |
 | TFGformer: Multivariate Time Series Forecasting via Time-Frequency Graph Learning and Covariate Fusion | Yu Sun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.29459v1) |
-| Seeing above the waves: A modular sensing framework for data acquisition at sea | Jonathan E. Schmidt et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.10997v1) |
 | FBID: Adaptive Personalized Federated Learning for Robust Out-of-Distribution Attack Detection in IoT Networks | An Khanh Bui et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.04073v1) |
-| Capstan-driven Continuum Surgical Robot: Design, Modeling, and Perception | Gang Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13396v1) |
-| Removing Temporal Note Redundancy Improves Multimodal Reinforcement Learning for Medicine | Chenran Weng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.14157v1) |
+| You Only Pass Once: Answering and Abstaining Together in a Single Forward Pass of a Frozen Language Model | Ziyang Luo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.14465v1) |
+| Accelerating Large-scale Bundle Adjustment for LiDAR Mapping via Parallel Computing | Yixi Cai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.14266v1) |
+| Adaptive Protection for Evolutionary Feature Construction in Symbolic Regression with Application to Credit Classification | Hengzhe Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.14209v1) |
+| Spatiotemporal Tube-Based Safety-Certificate for Autonomous Navigation of Articulated Vehicles | Mohd. Faizuddin Faruqui et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.14531v1) |
+| SAGE: Surrogate-gradient Adaptation via Attention-Guided Entropy for Spiking Transformers | Kiran Nair et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13702v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 17 August 2026, 10:40 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 17 August 2026, 12:25 WIB</sub>
