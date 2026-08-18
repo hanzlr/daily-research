@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Sinkhorn Linearization and the Spectral Proxy: Unifying the Statistical and Algorithmic Theory of Feature-Parameterized Inverse Optimal Transport via a Single Spectral Sandwich | Han Dong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13201v1) |
-| ViTaR: Visuo-Tactile Residual Adaptation for Foundation VLA Manipulation | Yi Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.15816v1) |
-| Maintaining IoT Device Identification under Concept Drift via Budget-Aware Traffic Labeling | Shayan Azizi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.15465v1) |
-| Drive, Pack, Fly: The Travelling Thief Problem with Drone | Kabir Murjani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.16435v1) |
+| Defining Decentralization: An Ontological Perspective | Jakub Kacper Szeląg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.09748v1) |
+| UniDot: A Unified Network for Sequence Modeling and Feature Interaction in Large-scale Recommendation | Rongcheng Lin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.16797v1) |
+| FedA2L: Adaptive layer-wise learning rate adjustment in decentralized federated learning | Van Truong Vo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.09208v1) |
+| Topological Attribution Distance (TAD): Revealing Segment-Level RAG Influence on LLM Output Geometry for Incident Log Analysis | Reza Fayyazi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.16775v1) |
+| Degenerate in Whose Frame? An Equivariance Condition for Degeneracy Detection in LiDAR Registration | Yujie Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.15532v1) |
+| HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL | Langzhe Gu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.16837v1) |
+| ScenarioCharacterization: A Modular Toolkit for Characterizing Safety across Trajectory Datasets | Ingrid Navarro et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.16041v1) |
+| LAVA: Logic-Aware Validation and Augmentation Framework for Large-Scale Financial Document Auditing | Ruoqi Shu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.16763v1) |
+| Beyond Thresholds: A Quality-Aware Decision Intelligence Framework for Cold Chain IoT Systems | Aashna Sofat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.15082v1) |
 | Multi-perspective Imbalance-Conscious 6G Beamforming Optimization and Performance | Chukwunonso Henry Nwokoye et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12929v1) |
-| TransfHAR: Self-Supervised Wrist Representations for On-Demand Activity Recognition | Aidan Bradshaw et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.15861v1) |
-| Tac4Loco: Learning Spatiotemporal Plantar Pressure Representations for Humanoid Locomotion | Ziyun Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.15766v1) |
-| Tactile Sim2Real without Tactile Simulation via Bottlenecked Latent Reconstruction | Fan Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.15897v1) |
-| ATLAS: Scaffold-Free Algorithm Synthesis by LLMs via Embedding-Guided Quality-Diversity Search | Danial Yazdani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.15546v1) |
-| Reliable Piezoresistive Strain Sensing Through Physical Limits and Uncertainty Monitoring | Carmen Ballester et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.15784v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 18 August 2026, 09:14 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 18 August 2026, 10:36 WIB</sub>
