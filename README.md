@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Fourth-Moment Geometry of Rademacher Sums | Peigan Gao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17802v1) |
-| Spatially explicit feature importance for building height estimation using research-access high-resolution SAR and optical sensors | Guilherme Iablonovski et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17822v1) |
-| Thinking in a Low-Resource Language: What SFT Builds, What RL Fixes, What Accuracy Cannot See | Ayoub Kirouane et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17744v1) |
-| RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control | Di Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17951v1) |
-| US-VLA: An Ultrasound Vision-Language-Action Model for Embodied Abdomina | Cheng Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.16074v1) |
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
-| ESBMC-Arduino: Closing the Deployment Gap for Formal Verification of Open-Hardware PLCs | Pierre Dantas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08550v1) |
-| FBID: Adaptive Personalized Federated Learning for Robust Out-of-Distribution Attack Detection in IoT Networks | An Khanh Bui et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.04073v1) |
-| MANIGUARD: A Benchmark and Data Suite for Specification-Grounded Safety Evaluation and Improvement of Robotic Manipulation | Yiyan Peng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17386v1) |
-| FedA2L: Adaptive layer-wise learning rate adjustment in decentralized federated learning | Van Truong Vo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.09208v1) |
+| ScenarioCharacterization: A Modular Toolkit for Characterizing Safety across Trajectory Datasets | Ingrid Navarro et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.16041v1) |
+| Beyond Thresholds: A Quality-Aware Decision Intelligence Framework for Cold Chain IoT Systems | Aashna Sofat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.15082v1) |
+| Collective Ranking of Environmental Signals through Gaussian Belief Propagation in a Patrolling Robot Swarm | Zachary R. Madin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17690v1) |
+| Defining Decentralization: An Ontological Perspective | Jakub Kacper Szeląg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.09748v1) |
+| Training with synthetic data for drone detection in thermal imagery | Tanel Liiv et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17799v1) |
+| Learnware for CSI Feedback: Scene-specific Small Models Can Do Big | Xiangyi Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17760v1) |
+| HarnessRisk: A Lifecycle-Oriented Benchmark for Agent Harness Safety | Yajing Bai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17597v1) |
+| FlexWorm: Primitive-augmented Hybrid Contact-motion Planning for Suction-based Multi-segment Deformable Robots | Zili Tang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.16853v1) |
+| Evaluating the Diversity of AI-Generated Content with Diversity Profiles | Xiuyuan Hu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17731v1) |
+| Force-Based Offset Estimation for Keyed Peg-in-Hole Assembly Using Local Gaussian Process Regression | Chandra Yuvesh Aubeeluck et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17691v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 August 2026, 12:19 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 August 2026, 13:39 WIB</sub>
