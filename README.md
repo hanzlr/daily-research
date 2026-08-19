@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Keeping Data Centers Online in Weak Grids: PLL-Free VM-DPC With Adaptive Reactive-Power Support for Centralized UPS Systems | Jesus D. Vasquez-Plaza et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.06521v1) |
-| Incorporating Bounded Rationality into Electric Vehicle Highway Charging Decisions: A Bayesian Game Analysis | Huanyu Yan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.16132v1) |
-| US-VLA: An Ultrasound Vision-Language-Action Model for Embodied Abdomina | Cheng Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.16074v1) |
+| TokEval: A Tokenizer Evaluation Suite | Clara Meister | 2026 | [📄 Read](http://arxiv.org/abs/2608.18062v1) |
 | ScenarioCharacterization: A Modular Toolkit for Characterizing Safety across Trajectory Datasets | Ingrid Navarro et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.16041v1) |
-| Drive, Pack, Fly: The Travelling Thief Problem with Drone | Kabir Murjani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.16435v1) |
-| A Physics-Informed Hybrid Neural Operator for Transient Magnetization Prediction in Power Magnetics | Yachao Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.02965v2) |
-| Price Information Is Not Enough: Ordering and Decision Rules in Storage Bidding | Brieuc Le roux Tardif | 2026 | [📄 Read](http://arxiv.org/abs/2608.08377v1) |
-| Degenerate in Whose Frame? An Equivariance Condition for Degeneracy Detection in LiDAR Registration | Yujie Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.15532v1) |
-| ATLAS: Scaffold-Free Algorithm Synthesis by LLMs via Embedding-Guided Quality-Diversity Search | Danial Yazdani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.15546v1) |
-| A Control-Theoretic Formulation of Global Workspace Theory | Ryota Kanai | 2026 | [📄 Read](http://arxiv.org/abs/2608.15926v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v2) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| Maintaining IoT Device Identification under Concept Drift via Budget-Aware Traffic Labeling | Shayan Azizi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.15465v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| The concentration game: Bayesian updating, regret, and information | Akshay Balsubramani | 2026 | [📄 Read](http://arxiv.org/abs/2608.18061v1) |
+| Sinkhorn Linearization and the Spectral Proxy: Unifying the Statistical and Algorithmic Theory of Feature-Parameterized Inverse Optimal Transport via a Single Spectral Sandwich | Han Dong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13201v1) |
+| MANIGUARD: A Benchmark and Data Suite for Specification-Grounded Safety Evaluation and Improvement of Robotic Manipulation | Yiyan Peng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17386v1) |
+| FlexWorm: Primitive-augmented Hybrid Contact-motion Planning for Suction-based Multi-segment Deformable Robots | Zili Tang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.16853v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 August 2026, 07:56 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 August 2026, 09:17 WIB</sub>
