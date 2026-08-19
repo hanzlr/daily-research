@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| TokEval: A Tokenizer Evaluation Suite | Clara Meister | 2026 | [📄 Read](http://arxiv.org/abs/2608.18062v1) |
-| Price Information Is Not Enough: Ordering and Decision Rules in Storage Bidding | Brieuc Le roux Tardif | 2026 | [📄 Read](http://arxiv.org/abs/2608.08377v1) |
-| Computational Prosopography across a Millennium: Mathematically Oriented Lineages Traced from the Fields Medalists | Hiroyuki Chuma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17915v1) |
+| FBID: Adaptive Personalized Federated Learning for Robust Out-of-Distribution Attack Detection in IoT Networks | An Khanh Bui et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.04073v1) |
+| FedA2L: Adaptive layer-wise learning rate adjustment in decentralized federated learning | Van Truong Vo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.09208v1) |
+| Spatially explicit feature importance for building height estimation using research-access high-resolution SAR and optical sensors | Guilherme Iablonovski et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17822v1) |
 | The concentration game: Bayesian updating, regret, and information | Akshay Balsubramani | 2026 | [📄 Read](http://arxiv.org/abs/2608.18061v1) |
-| Optically Writable Atomic Vapor Memory as a Substrate for Optical Reservoir Computing | Elizabeth Robertson et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17807v1) |
-| Automating Parent Selection Configuration in Genetic Programming with Agentic AI | Jose Guadalupe Hernandez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17172v1) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
-| Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction | Veronika Spieker et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18055v1) |
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v2) |
+| Defining Decentralization: An Ontological Perspective | Jakub Kacper Szeląg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.09748v1) |
+| TokEval: A Tokenizer Evaluation Suite | Clara Meister | 2026 | [📄 Read](http://arxiv.org/abs/2608.18062v1) |
+| Teach and Grow: An Agent-Centered Architecture for General Robot Learning | Chang Nie et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17209v1) |
+| Fourth-Moment Geometry of Rademacher Sums | Peigan Gao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17802v1) |
+| One Residual with Three Reuses: A Wristband Front End for Gesture Sensing | Sam Rifaki | 2026 | [📄 Read](http://arxiv.org/abs/2608.16542v1) |
+| On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification | Qinyuan Ye et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18066v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 August 2026, 14:34 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 August 2026, 16:20 WIB</sub>
