@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| ScenarioCharacterization: A Modular Toolkit for Characterizing Safety across Trajectory Datasets | Ingrid Navarro et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.16041v1) |
-| Beyond Thresholds: A Quality-Aware Decision Intelligence Framework for Cold Chain IoT Systems | Aashna Sofat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.15082v1) |
-| Collective Ranking of Environmental Signals through Gaussian Belief Propagation in a Patrolling Robot Swarm | Zachary R. Madin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17690v1) |
-| Defining Decentralization: An Ontological Perspective | Jakub Kacper Szeląg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.09748v1) |
-| Training with synthetic data for drone detection in thermal imagery | Tanel Liiv et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17799v1) |
-| Learnware for CSI Feedback: Scene-specific Small Models Can Do Big | Xiangyi Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17760v1) |
-| HarnessRisk: A Lifecycle-Oriented Benchmark for Agent Harness Safety | Yajing Bai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17597v1) |
-| FlexWorm: Primitive-augmented Hybrid Contact-motion Planning for Suction-based Multi-segment Deformable Robots | Zili Tang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.16853v1) |
-| Evaluating the Diversity of AI-Generated Content with Diversity Profiles | Xiuyuan Hu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17731v1) |
-| Force-Based Offset Estimation for Keyed Peg-in-Hole Assembly Using Local Gaussian Process Regression | Chandra Yuvesh Aubeeluck et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17691v1) |
+| TokEval: A Tokenizer Evaluation Suite | Clara Meister | 2026 | [📄 Read](http://arxiv.org/abs/2608.18062v1) |
+| Price Information Is Not Enough: Ordering and Decision Rules in Storage Bidding | Brieuc Le roux Tardif | 2026 | [📄 Read](http://arxiv.org/abs/2608.08377v1) |
+| Computational Prosopography across a Millennium: Mathematically Oriented Lineages Traced from the Fields Medalists | Hiroyuki Chuma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17915v1) |
+| The concentration game: Bayesian updating, regret, and information | Akshay Balsubramani | 2026 | [📄 Read](http://arxiv.org/abs/2608.18061v1) |
+| Optically Writable Atomic Vapor Memory as a Substrate for Optical Reservoir Computing | Elizabeth Robertson et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17807v1) |
+| Automating Parent Selection Configuration in Genetic Programming with Agentic AI | Jose Guadalupe Hernandez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17172v1) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction | Veronika Spieker et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18055v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v2) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 August 2026, 13:39 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 August 2026, 14:34 WIB</sub>
