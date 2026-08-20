@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Wednesday, 19 August 2026
+## 🗓️ Thursday, 20 August 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| FBID: Adaptive Personalized Federated Learning for Robust Out-of-Distribution Attack Detection in IoT Networks | An Khanh Bui et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.04073v1) |
-| FedA2L: Adaptive layer-wise learning rate adjustment in decentralized federated learning | Van Truong Vo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.09208v1) |
-| Spatially explicit feature importance for building height estimation using research-access high-resolution SAR and optical sensors | Guilherme Iablonovski et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17822v1) |
-| The concentration game: Bayesian updating, regret, and information | Akshay Balsubramani | 2026 | [📄 Read](http://arxiv.org/abs/2608.18061v1) |
-| Defining Decentralization: An Ontological Perspective | Jakub Kacper Szeląg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.09748v1) |
-| TokEval: A Tokenizer Evaluation Suite | Clara Meister | 2026 | [📄 Read](http://arxiv.org/abs/2608.18062v1) |
-| Teach and Grow: An Agent-Centered Architecture for General Robot Learning | Chang Nie et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17209v1) |
 | Fourth-Moment Geometry of Rademacher Sums | Peigan Gao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17802v1) |
-| One Residual with Three Reuses: A Wristband Front End for Gesture Sensing | Sam Rifaki | 2026 | [📄 Read](http://arxiv.org/abs/2608.16542v1) |
-| On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification | Qinyuan Ye et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18066v1) |
+| Thinking in a Low-Resource Language: What SFT Builds, What RL Fixes, What Accuracy Cannot See | Ayoub Kirouane et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17744v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction | Veronika Spieker et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18055v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| TokEval: A Tokenizer Evaluation Suite | Clara Meister | 2026 | [📄 Read](http://arxiv.org/abs/2608.18062v1) |
+| Spatially explicit feature importance for building height estimation using research-access high-resolution SAR and optical sensors | Guilherme Iablonovski et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17822v1) |
+| Where A Small Language Model Helps in Invoice Categorisation, Understood Through Embedding Geometry | Emma Ceccherini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18033v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v2) |
+| The concentration game: Bayesian updating, regret, and information | Akshay Balsubramani | 2026 | [📄 Read](http://arxiv.org/abs/2608.18061v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 August 2026, 16:20 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 20 August 2026, 07:56 WIB</sub>
