@@ -18,15 +18,15 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| How Quantum Is the Advantage? A Fair, Calibration- and Noise-Aware Benchmark and Attribution Audit of Quantum Machine Learning for Network Intrusion Detection | Syeda Anshrah Gillani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18155v1) |
+| DevGRU: Depth-guided Visual Navigation using a Collision-aware Recurrent Model | Kyung Min Han et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18470v1) |
+| Beyond receptive fields: sequence-pooled normalization can supply most of a sequence labeler's context | Qing Tian | 2026 | [📄 Read](http://arxiv.org/abs/2608.18576v1) |
+| Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning | Zhu Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19181v1) |
 | Beyond Thresholds: A Quality-Aware Decision Intelligence Framework for Cold Chain IoT Systems | Aashna Sofat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.15082v1) |
-| PGFS++: Molecular Property Improvement under Synthesis and Diversity Constraints | Boqiao Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19121v1) |
-| Sinkhorn Linearization and the Spectral Proxy: Unifying the Statistical and Algorithmic Theory of Feature-Parameterized Inverse Optimal Transport via a Single Spectral Sandwich | Han Dong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13201v1) |
-| Composed Historical Image Retrieval by Modeling Temporal Representations | Adrià Molina Rodríguez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18694v1) |
-| Price Information Is Not Enough: Ordering and Decision Rules in Storage Bidding | Brieuc Le roux Tardif | 2026 | [📄 Read](http://arxiv.org/abs/2608.08377v1) |
-| Multi-perspective Imbalance-Conscious 6G Beamforming Optimization and Performance | Chukwunonso Henry Nwokoye et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12929v1) |
-| Trajectory-Induced Self-Calibration for Hidden-Target Localization Through an Unknown-Pose Range-Bearing Relay | Yash Bagla | 2026 | [📄 Read](http://arxiv.org/abs/2608.09464v2) |
-| Policy Iteration for Linear-Quadratic Stochastic Differential Games with State- and Control-Dependent Noise | Karl Handwerker et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17940v1) |
+| Real-Time Control-Constrained DDP for Underactuated Balancing of Legged Robots | SeongWon Nam et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18552v1) |
+| Continuous-Time Reinforcement Learning for Controlled Hawkes Jump-Diffusions | Tomasz R. Bielecki et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19151v1) |
+| Performance Drift Detection in Machine Learning as a Service (MLaaS) for IoT Environments | Deepak Kanneganti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18555v1) |
+| Lévy Attention: Single-Pass Predictive Uncertainty for Continuous-Time Attention | Sotirios P. Chatzis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19171v1) |
+| How Quantum Is the Advantage? A Fair, Calibration- and Noise-Aware Benchmark and Attribution Audit of Quantum Machine Learning for Network Intrusion Detection | Syeda Anshrah Gillani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18155v1) |
 | Defining Decentralization: An Ontological Perspective | Jakub Kacper Szeląg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.09748v1) |
 
 ---
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 20 August 2026, 18:19 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 20 August 2026, 20:41 WIB</sub>
