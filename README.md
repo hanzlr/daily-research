@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| DevGRU: Depth-guided Visual Navigation using a Collision-aware Recurrent Model | Kyung Min Han et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18470v1) |
-| Spatially explicit feature importance for building height estimation using research-access high-resolution SAR and optical sensors | Guilherme Iablonovski et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17822v1) |
-| An Experimental Study of Downwash Effects on a Continuum Manipulator Integrated with a Multirotor UAV | Anuraj Uthayasooriyan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18507v1) |
-| Epistemic Subordination: Generative AI and the Infrastructure of Knowledge | Gilad Abiri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18758v1) |
-| General Semantic Knowledge Infusion for Spatio-Temporal Traffic Forecasting | Mattis thor Straten et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17440v1) |
-| MANIGUARD: A Benchmark and Data Suite for Specification-Grounded Safety Evaluation and Improvement of Robotic Manipulation | Yiyan Peng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17386v1) |
-| Real-Time Control-Constrained DDP for Underactuated Balancing of Legged Robots | SeongWon Nam et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18552v1) |
-| A systematic review of machine learning techniques to address diagnosis and treatment of autism: challenges and opportunities | Rafael Muñoz-Terol et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18188v1) |
+| ESBMC-Arduino: Closing the Deployment Gap for Formal Verification of Open-Hardware PLCs | Pierre Dantas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08550v1) |
 | PGFS++: Molecular Property Improvement under Synthesis and Diversity Constraints | Boqiao Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19121v1) |
-| Geometric Iterative Retrieval for Neural Audio Codec Resynthesis | Leo Schmidt-Traub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19141v1) |
+| SynapticOS: An Inference-First Runtime Architecture for Neural Processing Units on Resource-Constrained Microcontrollers | Dimitrios Kafetzis | 2026 | [📄 Read](http://arxiv.org/abs/2607.12606v1) |
+| Graphical Design of Interpretable Architectures | Pietro Barbiero | 2026 | [📄 Read](http://arxiv.org/abs/2608.18936v1) |
+| Discretizing Continuous Time Series for Imputation with Masked Diffusion Training | Dongbin Kim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19119v1) |
+| Biological-Hybrid Intelligence: A Conceptual Framework for Distributed Biological--Artificial Computation | Michael Taynnan Barros et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18748v1) |
+| Sinkhorn Linearization and the Spectral Proxy: Unifying the Statistical and Algorithmic Theory of Feature-Parameterized Inverse Optimal Transport via a Single Spectral Sandwich | Han Dong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13201v1) |
+| Performance Drift Detection in Machine Learning as a Service (MLaaS) for IoT Environments | Deepak Kanneganti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18555v1) |
+| RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control | Di Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17951v1) |
+| Multi-perspective Imbalance-Conscious 6G Beamforming Optimization and Performance | Chukwunonso Henry Nwokoye et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12929v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 20 August 2026, 13:41 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 20 August 2026, 14:37 WIB</sub>
