@@ -18,10 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Performance Drift Detection in Machine Learning as a Service (MLaaS) for IoT Environments | Deepak Kanneganti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18555v1) |
-| Defining Decentralization: An Ontological Perspective | Jakub Kacper Szeląg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.09748v1) |
-| How Quantum Is the Advantage? A Fair, Calibration- and Noise-Aware Benchmark and Attribution Audit of Quantum Machine Learning for Network Intrusion Detection | Syeda Anshrah Gillani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18155v1) |
-| Beyond Thresholds: A Quality-Aware Decision Intelligence Framework for Cold Chain IoT Systems | Aashna Sofat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.15082v1) |
+| Multi-Source Wasserstein Distributionally Robust Graph Learning | Chuansen Peng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19914v1) |
+| DevGRU: Depth-guided Visual Navigation using a Collision-aware Recurrent Model | Kyung Min Han et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18470v1) |
+| Beyond Multimodal Alignment: Certifying Physical Language through Response Substitution and Ordered Execution | Kaizhen Tan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19492v1) |
+| Real-Time Control-Constrained DDP for Underactuated Balancing of Legged Robots | SeongWon Nam et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18552v1) |
+| Multi-Method Causal Evidence Synthesis: Ranking Candidate Drivers by Convergent Cross-Method Evidence from Observational Data | Manish Gupta et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20187v1) |
+| A Real-Time Tsetlin Machine-based Non-intrusive Load Monitoring System on MCUs | Tianhang Tan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18780v1) |
+| Spike-based Belief Propagation in Nonlinear Dynamical Systems | Sepideh Adamiat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19907v1) |
+| Petri Net Description of Biological Neural Circuits for Fast Hardware Prototyping | Carlo daCunha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20147v1) |
+| The Forward-Backward Disconnect: State Dynamics, Credit Assignment, and Biological Grounding in Neural Computation | Hadi Al Mubasher et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19995v1) |
+| Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation | Adam Fisch et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20316v1) |
 
 ---
 
@@ -34,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 August 2026, 08:01 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 August 2026, 09:22 WIB</sub>
