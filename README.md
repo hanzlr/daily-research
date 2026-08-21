@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| LiDAR-Derived Surface Priors for Multimodal Sensing-Assisted NLoS Beam Search in Indoor 60-GHz Networks | Amod Ashtekar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18396v1) |
+| Spike-based Belief Propagation in Nonlinear Dynamical Systems | Sepideh Adamiat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19907v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v2) |
 | Price Information Is Not Enough: Ordering and Decision Rules in Storage Bidding | Brieuc Le roux Tardif | 2026 | [📄 Read](http://arxiv.org/abs/2608.08377v1) |
-| DevGRU: Depth-guided Visual Navigation using a Collision-aware Recurrent Model | Kyung Min Han et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18470v1) |
-| Magnetically Self-Sealed MR Haptic Actuator With PWM-Based Excitation and High-Fidelity Torque Control | Dong Qiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19635v1) |
-| AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement | Yizhe Chi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20318v1) |
-| Defining Decentralization: An Ontological Perspective | Jakub Kacper Szeląg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.09748v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| Petri Net Description of Biological Neural Circuits for Fast Hardware Prototyping | Carlo daCunha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20147v1) |
 | Policy Iteration for Linear-Quadratic Stochastic Differential Games with State- and Control-Dependent Noise | Karl Handwerker et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17940v1) |
-| A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection | Anton Lambrecht et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20322v1) |
-| $TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval | Parampreet Singh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20326v1) |
-| MILD: Tractable Terrain Modeling for Learning Improved Bipedal Locomotion on Deformable Surfaces | Zeren Luo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19955v1) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| Magnetically Self-Sealed MR Haptic Actuator With PWM-Based Excitation and High-Fidelity Torque Control | Dong Qiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19635v1) |
+| Evidence Before Expansion: Reuse, Spawn, or Defer in Lifelong Expert Pools | Kentaro Oda | 2026 | [📄 Read](http://arxiv.org/abs/2608.19888v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 August 2026, 13:41 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 August 2026, 14:39 WIB</sub>
