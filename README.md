@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Multi-Source Wasserstein Distributionally Robust Graph Learning | Chuansen Peng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19914v1) |
-| DevGRU: Depth-guided Visual Navigation using a Collision-aware Recurrent Model | Kyung Min Han et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18470v1) |
-| Beyond Multimodal Alignment: Certifying Physical Language through Response Substitution and Ordered Execution | Kaizhen Tan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19492v1) |
-| Real-Time Control-Constrained DDP for Underactuated Balancing of Legged Robots | SeongWon Nam et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18552v1) |
-| Multi-Method Causal Evidence Synthesis: Ranking Candidate Drivers by Convergent Cross-Method Evidence from Observational Data | Manish Gupta et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20187v1) |
-| A Real-Time Tsetlin Machine-based Non-intrusive Load Monitoring System on MCUs | Tianhang Tan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18780v1) |
-| Spike-based Belief Propagation in Nonlinear Dynamical Systems | Sepideh Adamiat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19907v1) |
-| Petri Net Description of Biological Neural Circuits for Fast Hardware Prototyping | Carlo daCunha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20147v1) |
-| The Forward-Backward Disconnect: State Dynamics, Credit Assignment, and Biological Grounding in Neural Computation | Hadi Al Mubasher et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19995v1) |
-| Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation | Adam Fisch et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20316v1) |
+| SynapticOS: An Inference-First Runtime Architecture for Neural Processing Units on Resource-Constrained Microcontrollers | Dimitrios Kafetzis | 2026 | [📄 Read](http://arxiv.org/abs/2607.12606v1) |
+| RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control | Di Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17951v1) |
+| A Standardized Framework for Machine Learning in Power System Protection | Julian Oelhaf et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20181v1) |
+| A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection | Anton Lambrecht et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20322v1) |
+| $TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval | Parampreet Singh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20326v1) |
+| Task-CoEvolve: Efficient Harness Optimization via Adaptive Validation Task Selection | Atsuyuki Miyai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20169v1) |
+| SAGE: Ergodic Control for Autonomous and Adaptive Inspection of Subsea Infrastructure | Markus Buchholz et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19671v1) |
+| World-Model-Grounded LLM Planning for AUV and ASV Navigation Near Offshore Wind Farms | Markus Buchholz et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19661v1) |
+| Information on trajectories: martingales and random times | Akshay Balsubramani | 2026 | [📄 Read](http://arxiv.org/abs/2608.20337v1) |
+| CVSD-Reg: Cross-Modal Visual Semantic Prior Distillation for Robust LiDAR Registration | Eunsoo Im et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19536v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 August 2026, 09:22 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 August 2026, 10:41 WIB</sub>
