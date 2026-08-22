@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| LF-GICP: Parameter-Free Degeneracy-Aware LiDAR Odometry via a Voxel-Normal Localizability Field | Eunsoo Im | 2026 | [📄 Read](http://arxiv.org/abs/2608.19522v1) |
-| Defining Decentralization: An Ontological Perspective | Jakub Kacper Szeląg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.09748v1) |
-| World-Model-Grounded LLM Planning for AUV and ASV Navigation Near Offshore Wind Farms | Markus Buchholz et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19661v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| SABET-QA: Temporal Knowledge Graph Question Answering | Brahim Touayouch et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20083v1) |
 | AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement | Yizhe Chi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20318v1) |
-| Beyond Multimodal Alignment: Certifying Physical Language through Response Substitution and Ordered Execution | Kaizhen Tan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19492v1) |
-| SAGE: Ergodic Control for Autonomous and Adaptive Inspection of Subsea Infrastructure | Markus Buchholz et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19671v1) |
-| Multi-Source Wasserstein Distributionally Robust Graph Learning | Chuansen Peng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19914v1) |
-| Spatially explicit feature importance for building height estimation using research-access high-resolution SAR and optical sensors | Guilherme Iablonovski et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17822v1) |
-| LiDAR-Derived Surface Priors for Multimodal Sensing-Assisted NLoS Beam Search in Indoor 60-GHz Networks | Amod Ashtekar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18396v1) |
-| $TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval | Parampreet Singh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20326v1) |
+| Trajectory-Induced Self-Calibration for Hidden-Target Localization Through an Unknown-Pose Range-Bearing Relay | Yash Bagla | 2026 | [📄 Read](http://arxiv.org/abs/2608.09464v2) |
+| Which Eviction Policy Should an LLM Cache Use? A Systematic Study Across Workloads, Capacities, and Encoders | Yash Kulkarni et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20280v1) |
+| Price Information Is Not Enough: Ordering and Decision Rules in Storage Bidding | Brieuc Le roux Tardif | 2026 | [📄 Read](http://arxiv.org/abs/2608.08377v1) |
+| Electronic Navigational Chart Change Classification | Jacob Arndt et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20218v1) |
+| Policy Iteration for Linear-Quadratic Stochastic Differential Games with State- and Control-Dependent Noise | Karl Handwerker et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17940v1) |
+| RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control | Di Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17951v1) |
+| SynapticOS: An Inference-First Runtime Architecture for Neural Processing Units on Resource-Constrained Microcontrollers | Dimitrios Kafetzis | 2026 | [📄 Read](http://arxiv.org/abs/2607.12606v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 August 2026, 20:26 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 August 2026, 22:18 WIB</sub>
