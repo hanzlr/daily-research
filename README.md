@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Friday, 21 August 2026
+## 🗓️ Saturday, 22 August 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| LiDAR-Derived Surface Priors for Multimodal Sensing-Assisted NLoS Beam Search in Indoor 60-GHz Networks | Amod Ashtekar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18396v1) |
-| The Forward-Backward Disconnect: State Dynamics, Credit Assignment, and Biological Grounding in Neural Computation | Hadi Al Mubasher et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19995v1) |
-| Evidence Before Expansion: Reuse, Spawn, or Defer in Lifelong Expert Pools | Kentaro Oda | 2026 | [📄 Read](http://arxiv.org/abs/2608.19888v1) |
-| Petri Net Description of Biological Neural Circuits for Fast Hardware Prototyping | Carlo daCunha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20147v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v2) |
-| Which Eviction Policy Should an LLM Cache Use? A Systematic Study Across Workloads, Capacities, and Encoders | Yash Kulkarni et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20280v1) |
 | Decoding silent reading from non-invasive EEG | Ingo Marquardt et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20186v1) |
+| An Experimental Study of Downwash Effects on a Continuum Manipulator Integrated with a Multirotor UAV | Anuraj Uthayasooriyan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18507v1) |
+| LiDAR-Derived Surface Priors for Multimodal Sensing-Assisted NLoS Beam Search in Indoor 60-GHz Networks | Amod Ashtekar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18396v1) |
+| Information on trajectories: martingales and random times | Akshay Balsubramani | 2026 | [📄 Read](http://arxiv.org/abs/2608.20337v1) |
+| Python-based RTL Generator Demonstrated on a Low-IF 2-FSK Wireless Communication System | Brandon P. Hippe et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17042v1) |
+| Real-Time Control-Constrained DDP for Underactuated Balancing of Legged Robots | SeongWon Nam et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18552v1) |
+| MILD: Tractable Terrain Modeling for Learning Improved Bipedal Locomotion on Deformable Surfaces | Zeren Luo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19955v1) |
+| AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement | Yizhe Chi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20318v1) |
 | Incorporating Bounded Rationality into Electric Vehicle Highway Charging Decisions: A Bayesian Game Analysis | Huanyu Yan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.16132v1) |
 | Defining Decentralization: An Ontological Perspective | Jakub Kacper Szeląg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.09748v1) |
-| Spike-based Belief Propagation in Nonlinear Dynamical Systems | Sepideh Adamiat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19907v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 August 2026, 20:40 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 August 2026, 07:56 WIB</sub>
