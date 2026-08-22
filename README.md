@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Beyond Multimodal Alignment: Certifying Physical Language through Response Substitution and Ordered Execution | Kaizhen Tan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19492v1) |
-| Spatially explicit feature importance for building height estimation using research-access high-resolution SAR and optical sensors | Guilherme Iablonovski et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17822v1) |
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
-| Information on trajectories: martingales and random times | Akshay Balsubramani | 2026 | [📄 Read](http://arxiv.org/abs/2608.20337v1) |
-| Decoding silent reading from non-invasive EEG | Ingo Marquardt et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20186v1) |
-| RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control | Di Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17951v1) |
-| A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection | Anton Lambrecht et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20322v1) |
-| SynapticOS: An Inference-First Runtime Architecture for Neural Processing Units on Resource-Constrained Microcontrollers | Dimitrios Kafetzis | 2026 | [📄 Read](http://arxiv.org/abs/2607.12606v1) |
-| AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement | Yizhe Chi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20318v1) |
-| Which Eviction Policy Should an LLM Cache Use? A Systematic Study Across Workloads, Capacities, and Encoders | Yash Kulkarni et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20280v1) |
+| Electronic Navigational Chart Change Classification | Jacob Arndt et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20218v1) |
+| LiDAR-Derived Surface Priors for Multimodal Sensing-Assisted NLoS Beam Search in Indoor 60-GHz Networks | Amod Ashtekar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18396v1) |
+| Multi-perspective Imbalance-Conscious 6G Beamforming Optimization and Performance | Chukwunonso Henry Nwokoye et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12929v1) |
+| SABET-QA: Temporal Knowledge Graph Question Answering | Brahim Touayouch et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20083v1) |
+| Performance Drift Detection in Machine Learning as a Service (MLaaS) for IoT Environments | Deepak Kanneganti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18555v1) |
+| Multi-Method Causal Evidence Synthesis: Ranking Candidate Drivers by Convergent Cross-Method Evidence from Observational Data | Manish Gupta et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20187v1) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| Maintaining IoT Device Identification under Concept Drift via Budget-Aware Traffic Labeling | Shayan Azizi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.15465v1) |
+| Sinkhorn Linearization and the Spectral Proxy: Unifying the Statistical and Algorithmic Theory of Feature-Parameterized Inverse Optimal Transport via a Single Spectral Sandwich | Han Dong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13201v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 August 2026, 14:28 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 August 2026, 16:15 WIB</sub>
