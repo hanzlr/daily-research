@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Sinkhorn Linearization and the Spectral Proxy: Unifying the Statistical and Algorithmic Theory of Feature-Parameterized Inverse Optimal Transport via a Single Spectral Sandwich | Han Dong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13201v1) |
+| Beyond Thresholds: A Quality-Aware Decision Intelligence Framework for Cold Chain IoT Systems | Aashna Sofat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.15082v1) |
+| SynapticOS: An Inference-First Runtime Architecture for Neural Processing Units on Resource-Constrained Microcontrollers | Dimitrios Kafetzis | 2026 | [📄 Read](http://arxiv.org/abs/2607.12606v1) |
+| The Forward-Backward Disconnect: State Dynamics, Credit Assignment, and Biological Grounding in Neural Computation | Hadi Al Mubasher et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19995v1) |
 | Performance Drift Detection in Machine Learning as a Service (MLaaS) for IoT Environments | Deepak Kanneganti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18555v1) |
-| Trajectory-Induced Self-Calibration for Hidden-Target Localization Through an Unknown-Pose Range-Bearing Relay | Yash Bagla | 2026 | [📄 Read](http://arxiv.org/abs/2608.09464v2) |
-| Electronic Navigational Chart Change Classification | Jacob Arndt et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20218v1) |
-| Multi-perspective Imbalance-Conscious 6G Beamforming Optimization and Performance | Chukwunonso Henry Nwokoye et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12929v1) |
-| AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement | Yizhe Chi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20318v1) |
-| Which Eviction Policy Should an LLM Cache Use? A Systematic Study Across Workloads, Capacities, and Encoders | Yash Kulkarni et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20280v1) |
-| Policy Iteration for Linear-Quadratic Stochastic Differential Games with State- and Control-Dependent Noise | Karl Handwerker et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17940v1) |
-| A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection | Anton Lambrecht et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20322v1) |
-| SABET-QA: Temporal Knowledge Graph Question Answering | Brahim Touayouch et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20083v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v2) |
+| Evidence Before Expansion: Reuse, Spawn, or Defer in Lifelong Expert Pools | Kentaro Oda | 2026 | [📄 Read](http://arxiv.org/abs/2608.19888v1) |
+| Spike-based Belief Propagation in Nonlinear Dynamical Systems | Sepideh Adamiat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19907v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| Petri Net Description of Biological Neural Circuits for Fast Hardware Prototyping | Carlo daCunha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20147v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 23 August 2026, 10:41 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 23 August 2026, 12:18 WIB</sub>
