@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| MILD: Tractable Terrain Modeling for Learning Improved Bipedal Locomotion on Deformable Surfaces | Zeren Luo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19955v1) |
-| Asymmetric Capacity Allocation in Self-Refinement Pipelines | Zhuoyi Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21345v1) |
-| Multi-Source Wasserstein Distributionally Robust Graph Learning | Chuansen Peng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19914v1) |
-| RiskTraf: Risk-Extrapolated Residual Learning for Multi-Variate Traffic Flow Prediction | Guangyu Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20656v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v2) |
-| PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction | Yoshitaka Inoue et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21349v1) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
 | Scalable Distributed Simulation-Based Testing for Automated Driving Systems | Christian Geller et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20904v1) |
-| Beyond Multimodal Alignment: Certifying Physical Language through Response Substitution and Ordered Execution | Kaizhen Tan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19492v1) |
+| TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems | Vladimir Bataev et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21343v1) |
+| Trajectory-Induced Self-Calibration for Hidden-Target Localization Through an Unknown-Pose Range-Bearing Relay | Yash Bagla | 2026 | [📄 Read](http://arxiv.org/abs/2608.09464v2) |
+| RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control | Di Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17951v1) |
+| Price Information Is Not Enough: Ordering and Decision Rules in Storage Bidding | Brieuc Le roux Tardif | 2026 | [📄 Read](http://arxiv.org/abs/2608.08377v1) |
+| Asymmetric Capacity Allocation in Self-Refinement Pipelines | Zhuoyi Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21345v1) |
+| Magnetically Self-Sealed MR Haptic Actuator With PWM-Based Excitation and High-Fidelity Torque Control | Dong Qiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19635v1) |
 | An Experimental Study of Downwash Effects on a Continuum Manipulator Integrated with a Multirotor UAV | Anuraj Uthayasooriyan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18507v1) |
+| SynapticOS: An Inference-First Runtime Architecture for Neural Processing Units on Resource-Constrained Microcontrollers | Dimitrios Kafetzis | 2026 | [📄 Read](http://arxiv.org/abs/2607.12606v1) |
+| Primal Acceleration of Newton's Method | Nikita Doikov | 2026 | [📄 Read](http://arxiv.org/abs/2608.21359v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 24 August 2026, 12:28 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 24 August 2026, 13:54 WIB</sub>
