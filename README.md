@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Policy Iteration for Linear-Quadratic Stochastic Differential Games with State- and Control-Dependent Noise | Karl Handwerker et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17940v1) |
-| Event-triggered Implicit Perturbation for Zeroth-Order Fine-Tuning of Spiking Transformers | Tengteng Lei et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21223v1) |
-| Trajectory-Induced Self-Calibration for Hidden-Target Localization Through an Unknown-Pose Range-Bearing Relay | Yash Bagla | 2026 | [📄 Read](http://arxiv.org/abs/2608.09464v2) |
-| Price Information Is Not Enough: Ordering and Decision Rules in Storage Bidding | Brieuc Le roux Tardif | 2026 | [📄 Read](http://arxiv.org/abs/2608.08377v1) |
-| Curriculum-Aware Interpolate-then-Refine: Learned Physiological Time-Series Imputation under Realistic Missingness | Yu-Chao Huang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21207v1) |
-| Magnetically Self-Sealed MR Haptic Actuator With PWM-Based Excitation and High-Fidelity Torque Control | Dong Qiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19635v1) |
-| Beyond Multimodal Alignment: Certifying Physical Language through Response Substitution and Ordered Execution | Kaizhen Tan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19492v1) |
-| A Real-Time Tsetlin Machine-based Non-intrusive Load Monitoring System on MCUs | Tianhang Tan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18780v1) |
-| Multi-Source Wasserstein Distributionally Robust Graph Learning | Chuansen Peng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19914v1) |
-| PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction | Yoshitaka Inoue et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21349v1) |
+| An Experimental Study of Downwash Effects on a Continuum Manipulator Integrated with a Multirotor UAV | Anuraj Uthayasooriyan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18507v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| Real-Time Control-Constrained DDP for Underactuated Balancing of Legged Robots | SeongWon Nam et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18552v1) |
+| Certified Multi-Turn Robustness for LLM Safety via Compositional Bounds and Safety Persistence | Yang Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20820v1) |
+| MILD: Tractable Terrain Modeling for Learning Improved Bipedal Locomotion on Deformable Surfaces | Zeren Luo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19955v1) |
+| RAG Deserves an Index: Why Ingest-Time Compilation Beats Query-Time Interpretation | Kyle Wild et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20845v1) |
+| Asymmetric Capacity Allocation in Self-Refinement Pipelines | Zhuoyi Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21345v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems | Vladimir Bataev et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21343v1) |
+| EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering | Xuanyu Meng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21252v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 24 August 2026, 20:45 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 24 August 2026, 22:37 WIB</sub>
