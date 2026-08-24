@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Asymmetric Capacity Allocation in Self-Refinement Pipelines | Zhuoyi Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21345v1) |
-| Maintaining IoT Device Identification under Concept Drift via Budget-Aware Traffic Labeling | Shayan Azizi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.15465v1) |
-| Scalable Distributed Simulation-Based Testing for Automated Driving Systems | Christian Geller et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20904v1) |
-| Sinkhorn Linearization and the Spectral Proxy: Unifying the Statistical and Algorithmic Theory of Feature-Parameterized Inverse Optimal Transport via a Single Spectral Sandwich | Han Dong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13201v1) |
-| Real-Time Control-Constrained DDP for Underactuated Balancing of Legged Robots | SeongWon Nam et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18552v1) |
-| Multi-perspective Imbalance-Conscious 6G Beamforming Optimization and Performance | Chukwunonso Henry Nwokoye et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.12929v1) |
-| Performance Drift Detection in Machine Learning as a Service (MLaaS) for IoT Environments | Deepak Kanneganti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18555v1) |
-| Primal Acceleration of Newton's Method | Nikita Doikov | 2026 | [📄 Read](http://arxiv.org/abs/2608.21359v1) |
-| Truthful Calibration Measures for Sequential Prediction | Anagha Gokul et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21348v1) |
 | PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction | Yoshitaka Inoue et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21349v1) |
+| An Experimental Study of Downwash Effects on a Continuum Manipulator Integrated with a Multirotor UAV | Anuraj Uthayasooriyan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18507v1) |
+| Primal Acceleration of Newton's Method | Nikita Doikov | 2026 | [📄 Read](http://arxiv.org/abs/2608.21359v1) |
+| MILD: Tractable Terrain Modeling for Learning Improved Bipedal Locomotion on Deformable Surfaces | Zeren Luo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19955v1) |
+| Event-triggered Implicit Perturbation for Zeroth-Order Fine-Tuning of Spiking Transformers | Tengteng Lei et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21223v1) |
+| Policy Iteration for Linear-Quadratic Stochastic Differential Games with State- and Control-Dependent Noise | Karl Handwerker et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17940v1) |
+| Asymmetric Capacity Allocation in Self-Refinement Pipelines | Zhuoyi Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21345v1) |
+| Trajectory-Induced Self-Calibration for Hidden-Target Localization Through an Unknown-Pose Range-Bearing Relay | Yash Bagla | 2026 | [📄 Read](http://arxiv.org/abs/2608.09464v2) |
+| Scalable Distributed Simulation-Based Testing for Automated Driving Systems | Christian Geller et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20904v1) |
+| Basin-Preserving Discretizations of Modern Hopfield Retrieval Dynamics: Energy Cells, Dissipation, and the Attention Limit | Francisco R. Villatoro | 2026 | [📄 Read](http://arxiv.org/abs/2608.21304v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 24 August 2026, 14:54 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 24 August 2026, 16:33 WIB</sub>
