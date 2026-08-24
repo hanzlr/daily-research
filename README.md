@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
+| Curriculum-Aware Interpolate-then-Refine: Learned Physiological Time-Series Imputation under Realistic Missingness | Yu-Chao Huang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21207v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| Performance Drift Detection in Machine Learning as a Service (MLaaS) for IoT Environments | Deepak Kanneganti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18555v1) |
+| ESBMC-Arduino: Closing the Deployment Gap for Formal Verification of Open-Hardware PLCs | Pierre Dantas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.08550v1) |
 | PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction | Yoshitaka Inoue et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21349v1) |
-| An Experimental Study of Downwash Effects on a Continuum Manipulator Integrated with a Multirotor UAV | Anuraj Uthayasooriyan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18507v1) |
+| SynapticOS: An Inference-First Runtime Architecture for Neural Processing Units on Resource-Constrained Microcontrollers | Dimitrios Kafetzis | 2026 | [📄 Read](http://arxiv.org/abs/2607.12606v1) |
+| Truthful Calibration Measures for Sequential Prediction | Anagha Gokul et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21348v1) |
 | Primal Acceleration of Newton's Method | Nikita Doikov | 2026 | [📄 Read](http://arxiv.org/abs/2608.21359v1) |
-| MILD: Tractable Terrain Modeling for Learning Improved Bipedal Locomotion on Deformable Surfaces | Zeren Luo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19955v1) |
-| Event-triggered Implicit Perturbation for Zeroth-Order Fine-Tuning of Spiking Transformers | Tengteng Lei et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21223v1) |
-| Policy Iteration for Linear-Quadratic Stochastic Differential Games with State- and Control-Dependent Noise | Karl Handwerker et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17940v1) |
-| Asymmetric Capacity Allocation in Self-Refinement Pipelines | Zhuoyi Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21345v1) |
-| Trajectory-Induced Self-Calibration for Hidden-Target Localization Through an Unknown-Pose Range-Bearing Relay | Yash Bagla | 2026 | [📄 Read](http://arxiv.org/abs/2608.09464v2) |
-| Scalable Distributed Simulation-Based Testing for Automated Driving Systems | Christian Geller et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.20904v1) |
-| Basin-Preserving Discretizations of Modern Hopfield Retrieval Dynamics: Energy Cells, Dissipation, and the Attention Limit | Francisco R. Villatoro | 2026 | [📄 Read](http://arxiv.org/abs/2608.21304v1) |
+| RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control | Di Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17951v1) |
+| Time-Aware Tranformer-Based Prediction Model for AECOPD | Weihao Qu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21324v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 24 August 2026, 16:33 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 24 August 2026, 18:19 WIB</sub>
