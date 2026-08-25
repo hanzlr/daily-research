@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Contact-Rich Robotic Manipulation in Construction via Zero-Shot Learning: A Diffusion Policy-Guided Adaptive Control | Roman Ibrahimov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22100v1) |
-| Trajectory-Induced Self-Calibration for Hidden-Target Localization Through an Unknown-Pose Range-Bearing Relay | Yash Bagla | 2026 | [📄 Read](http://arxiv.org/abs/2608.09464v2) |
-| DELTA: Deformable Elevation-Based Local Terrain Attention Encoder for Sparse-Terrain Quadrupedal Locomotion | Sanghyun Park et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22033v1) |
-| ROS2SmolVLA: Enabling Small Vision-Language-Action Models for Integration into Industrial-Grade Lightweight Robots | Nils Mandischer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.23320v1) |
-| RoboRacer Arena: Scaling High-Fidelity Autonomous Racing in Isaac Sim | Mihaela-Larisa Clement et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.23040v1) |
-| Policy Iteration for Linear-Quadratic Stochastic Differential Games with State- and Control-Dependent Noise | Karl Handwerker et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17940v1) |
-| Python-based RTL Generator Demonstrated on a Low-IF 2-FSK Wireless Communication System | Brandon P. Hippe et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17042v1) |
-| Price Information Is Not Enough: Ordering and Decision Rules in Storage Bidding | Brieuc Le roux Tardif | 2026 | [📄 Read](http://arxiv.org/abs/2608.08377v1) |
-| Magnetically Self-Sealed MR Haptic Actuator With PWM-Based Excitation and High-Fidelity Torque Control | Dong Qiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19635v1) |
-| Real-Time Transient Response Optimization | Anahida Kanade et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21886v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| Privileged Critic Training Enables Sensor-Free Thruster Fault Adaptation in End-to-End RL | Ricard Marsal I Castan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22976v1) |
+| Primal--Dual Alternating Neural Learning for Timely Classification with Performance Guarantees | Jiaming Qiu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.23480v1) |
+| Incorporating Bounded Rationality into Electric Vehicle Highway Charging Decisions: A Bayesian Game Analysis | Huanyu Yan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.16132v1) |
+| LiDAR-Derived Surface Priors for Multimodal Sensing-Assisted NLoS Beam Search in Indoor 60-GHz Networks | Amod Ashtekar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18396v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v3) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| A Unified Neural-Aided Alignment and Calibration Method for AUVs | Guy Damari et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22496v1) |
+| Interpretable AI with Local Distillation | Erin Craig et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.23538v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 25 August 2026, 10:39 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 25 August 2026, 12:22 WIB</sub>
