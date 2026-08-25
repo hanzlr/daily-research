@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
-| Privileged Critic Training Enables Sensor-Free Thruster Fault Adaptation in End-to-End RL | Ricard Marsal I Castan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22976v1) |
-| Primal--Dual Alternating Neural Learning for Timely Classification with Performance Guarantees | Jiaming Qiu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.23480v1) |
-| Incorporating Bounded Rationality into Electric Vehicle Highway Charging Decisions: A Bayesian Game Analysis | Huanyu Yan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.16132v1) |
-| LiDAR-Derived Surface Priors for Multimodal Sensing-Assisted NLoS Beam Search in Indoor 60-GHz Networks | Amod Ashtekar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18396v1) |
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v3) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
-| A Unified Neural-Aided Alignment and Calibration Method for AUVs | Guy Damari et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22496v1) |
-| Interpretable AI with Local Distillation | Erin Craig et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.23538v1) |
+| Mycelial Search: A Graph-Structured Metaheuristic for Continuous Optimisation | Mohammad Mahdi Dehshibi | 2026 | [📄 Read](http://arxiv.org/abs/2608.23323v1) |
+| Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography | Yuanyuan Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.23562v1) |
+| Maintaining IoT Device Identification under Concept Drift via Budget-Aware Traffic Labeling | Shayan Azizi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.15465v2) |
+| ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings | Na Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.23551v1) |
+| DeMixPert: Decomposed Response Modeling with Gaussian Mixtures for OOD Single-Cell Perturbation Prediction | Jiawen Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.23114v1) |
+| DELTA: Deformable Elevation-Based Local Terrain Attention Encoder for Sparse-Terrain Quadrupedal Locomotion | Sanghyun Park et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22033v1) |
+| RoboRacer Arena: Scaling High-Fidelity Autonomous Racing in Isaac Sim | Mihaela-Larisa Clement et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.23040v1) |
+| Performance Drift Detection in Machine Learning as a Service (MLaaS) for IoT Environments | Deepak Kanneganti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18555v1) |
+| FormuEvo: LLM-Guided Evolution for Discovering Solver-Efficient Mixed-Integer Programming Formulations | Haofeng Yuan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.23353v1) |
+| Spicing up Genetic Netlist Generation with LLMs | Stefan Uhlich et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.23317v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 25 August 2026, 12:22 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 25 August 2026, 13:42 WIB</sub>
