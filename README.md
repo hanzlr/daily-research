@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Reproducible Vision-Guided 6-DoF Robotic Manipulator with a Mixed Stepper-Driver Architecture and Browser-Native Control | Lasan Perera et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22799v1) |
-| Graph Representation Learning of Lightweight IoT Ciphers | Jonathan Cook et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.23054v1) |
-| Maintaining IoT Device Identification under Concept Drift via Budget-Aware Traffic Labeling | Shayan Azizi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.15465v2) |
-| Sinkhorn Linearization and the Spectral Proxy: Unifying the Statistical and Algorithmic Theory of Feature-Parameterized Inverse Optimal Transport via a Single Spectral Sandwich | Han Dong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.13201v1) |
-| Magnetically Self-Sealed MR Haptic Actuator With PWM-Based Excitation and High-Fidelity Torque Control | Dong Qiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19635v1) |
-| RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control | Di Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17951v1) |
-| Policy Iteration for Linear-Quadratic Stochastic Differential Games with State- and Control-Dependent Noise | Karl Handwerker et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17940v1) |
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v3) |
+| Single State Update Predictive Coding training for Time Series Forecasting and Anomaly Detection | Matteo Cardoni et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.24697v1) |
+| Performance Drift Detection in Machine Learning as a Service (MLaaS) for IoT Environments | Deepak Kanneganti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18555v1) |
+| Learning Whom to Trust : Decision-Generated Credibility in Social Learning | Gabriel Bontemps et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.24851v1) |
 | Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| Python-based RTL Generator Demonstrated on a Low-IF 2-FSK Wireless Communication System | Brandon P. Hippe et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17042v1) |
+| How Quantum Is the Advantage? A Fair, Calibration- and Noise-Aware Benchmark and Attribution Audit of Quantum Machine Learning for Network Intrusion Detection | Syeda Anshrah Gillani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18155v1) |
+| Incorporating Bounded Rationality into Electric Vehicle Highway Charging Decisions: A Bayesian Game Analysis | Huanyu Yan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.16132v1) |
+| Deep Learning-Based Multi-User Communication Design for Dense IoT Networks: Interference-Aware Finite-Blocklength Communication and Preliminary MIMO Extensions | Arkadeep Sinha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22923v1) |
+| RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for UAV Control | Di Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.17951v1) |
+| On Scaling Coordinate-Based Neuroevolution: The Quadtree Bottleneck in ES-HyperNEAT | Romain Claret et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.24480v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 26 August 2026, 09:23 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 26 August 2026, 10:44 WIB</sub>
