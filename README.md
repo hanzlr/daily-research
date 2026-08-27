@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Deep Learning-Based Multi-User Communication Design for Dense IoT Networks: Interference-Aware Finite-Blocklength Communication and Preliminary MIMO Extensions | Arkadeep Sinha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22923v1) |
-| Graph Representation Learning of Lightweight IoT Ciphers | Jonathan Cook et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.23054v1) |
-| Performance Drift Detection in Machine Learning as a Service (MLaaS) for IoT Environments | Deepak Kanneganti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18555v1) |
-| FRAME: separating sampling variation from representational cause in medical imaging fairness | Mahshad Lotfinia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25981v1) |
-| How Robust Are Automated Fact-Checking Systems? A Cross-Benchmark Evaluation | Aida Usmanova et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25934v1) |
-| How Quantum Is the Advantage? A Fair, Calibration- and Noise-Aware Benchmark and Attribution Audit of Quantum Machine Learning for Network Intrusion Detection | Syeda Anshrah Gillani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18155v1) |
-| Directed walks shape a universal square-root law of entropy production rate in nonreciprocal systems | Thiparat Chotibut et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25030v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v3) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| Price Information Is Not Enough: Ordering and Decision Rules in Storage Bidding | Brieuc Le roux Tardif | 2026 | [📄 Read](http://arxiv.org/abs/2608.08377v1) |
+| Reproducible Vision-Guided 6-DoF Robotic Manipulator with a Mixed Stepper-Driver Architecture and Browser-Native Control | Lasan Perera et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22799v1) |
+| Trajectory-Induced Self-Calibration for Hidden-Target Localization Through an Unknown-Pose Range-Bearing Relay | Yash Bagla | 2026 | [📄 Read](http://arxiv.org/abs/2608.09464v2) |
 | Synthesis of Hopfield Neural Network: Novel Results | Garimella Rama Murthy | 2026 | [📄 Read](http://arxiv.org/abs/2608.25481v1) |
-| Maintaining IoT Device Identification under Concept Drift via Budget-Aware Traffic Labeling | Shayan Azizi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.15465v2) |
-| MetaSieve: Faster Relational Deep Learning through SQL-Based Metapath Selection | Fahim Shahriar Khan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25903v1) |
+| Development of a Voice-Controlled Tendon-Driven Bionic Hand | Urja Kohli et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25222v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| Magnetically Self-Sealed MR Haptic Actuator With PWM-Based Excitation and High-Fidelity Torque Control | Dong Qiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19635v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 28 August 2026, 01:03 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 28 August 2026, 02:17 WIB</sub>
