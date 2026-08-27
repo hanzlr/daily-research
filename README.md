@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Modeling spatio-temporal locality in multi-step forecasting of geo-referenced time series | Annunziata D'Aversa et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25698v1) |
-| How Quantum Is the Advantage? A Fair, Calibration- and Noise-Aware Benchmark and Attribution Audit of Quantum Machine Learning for Network Intrusion Detection | Syeda Anshrah Gillani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18155v1) |
-| Reproducible Vision-Guided 6-DoF Robotic Manipulator with a Mixed Stepper-Driver Architecture and Browser-Native Control | Lasan Perera et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22799v1) |
-| CardioFusion-AI: Robust ECG--PPG Fusion for Multimodal Physiological Monitoring Under Signal Degradation | Navaneetha Krishnan Kamalakannan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26000v1) |
 | Learning from waste: Machine Learning for health risk prediction and computer vision-based sorting in Ghana | Hilda Adwubi Osei et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25759v1) |
-| Development of a Voice-Controlled Tendon-Driven Bionic Hand | Urja Kohli et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25222v1) |
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
-| Performance Drift Detection in Machine Learning as a Service (MLaaS) for IoT Environments | Deepak Kanneganti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18555v1) |
-| LDAC-Net: A Learnable Multi-Lag Differencing Attention-Convolution Network for Drift-Robust Recognition with Low-Cost MOX Gas Sensors | Xin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25646v1) |
-| Deep Learning-Based Multi-User Communication Design for Dense IoT Networks: Interference-Aware Finite-Blocklength Communication and Preliminary MIMO Extensions | Arkadeep Sinha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22923v1) |
+| Homo-RAG: Homology-Guided Retrieval-Augmented Generation for Cross-Species Gene Function Prediction | Azrin Sultana | 2026 | [📄 Read](http://arxiv.org/abs/2608.25466v1) |
+| Magnetically Self-Sealed MR Haptic Actuator With PWM-Based Excitation and High-Fidelity Torque Control | Dong Qiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19635v1) |
+| Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings | Evelyn Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26088v1) |
+| CardioFusion-AI: Robust ECG--PPG Fusion for Multimodal Physiological Monitoring Under Signal Degradation | Navaneetha Krishnan Kamalakannan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26000v1) |
+| Towards A Unified Information Bottleneck Framework for Time Series Explanations | Xu Zheng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25897v1) |
+| PANDA - Prototype-Anchored Alignment for Partially Unpaired Multimodal Learning, with Applications to Alzheimers MRI and TCGA Pathology | Sheethal Bhat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25970v1) |
+| Directed walks shape a universal square-root law of entropy production rate in nonreciprocal systems | Thiparat Chotibut et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25030v1) |
+| MoganBert-TR: A Turkish Encoder Foundation Model Trained from Scratch with a CLM-to-MLM Curriculum | Furkan Yilmaz et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25768v1) |
+| Synthesis of Hopfield Neural Network: Novel Results | Garimella Rama Murthy | 2026 | [📄 Read](http://arxiv.org/abs/2608.25481v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 27 August 2026, 13:54 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 27 August 2026, 17:54 WIB</sub>
