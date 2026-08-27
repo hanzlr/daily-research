@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Learning from waste: Machine Learning for health risk prediction and computer vision-based sorting in Ghana | Hilda Adwubi Osei et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25759v1) |
-| Homo-RAG: Homology-Guided Retrieval-Augmented Generation for Cross-Species Gene Function Prediction | Azrin Sultana | 2026 | [📄 Read](http://arxiv.org/abs/2608.25466v1) |
-| Magnetically Self-Sealed MR Haptic Actuator With PWM-Based Excitation and High-Fidelity Torque Control | Dong Qiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19635v1) |
+| LDAC-Net: A Learnable Multi-Lag Differencing Attention-Convolution Network for Drift-Robust Recognition with Low-Cost MOX Gas Sensors | Xin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25646v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v3) |
+| LiDAR-Derived Surface Priors for Multimodal Sensing-Assisted NLoS Beam Search in Indoor 60-GHz Networks | Amod Ashtekar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18396v1) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| Python-based RTL Generator Demonstrated on a Low-IF 2-FSK Wireless Communication System | Brandon P. Hippe et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17042v1) |
+| Real-Time Transient Response Optimization | Anahida Kanade et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21886v1) |
+| How Robust Are Automated Fact-Checking Systems? A Cross-Benchmark Evaluation | Aida Usmanova et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25934v1) |
 | Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings | Evelyn Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26088v1) |
 | CardioFusion-AI: Robust ECG--PPG Fusion for Multimodal Physiological Monitoring Under Signal Degradation | Navaneetha Krishnan Kamalakannan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26000v1) |
-| Towards A Unified Information Bottleneck Framework for Time Series Explanations | Xu Zheng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25897v1) |
-| PANDA - Prototype-Anchored Alignment for Partially Unpaired Multimodal Learning, with Applications to Alzheimers MRI and TCGA Pathology | Sheethal Bhat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25970v1) |
-| Directed walks shape a universal square-root law of entropy production rate in nonreciprocal systems | Thiparat Chotibut et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25030v1) |
-| MoganBert-TR: A Turkish Encoder Foundation Model Trained from Scratch with a CLM-to-MLM Curriculum | Furkan Yilmaz et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25768v1) |
-| Synthesis of Hopfield Neural Network: Novel Results | Garimella Rama Murthy | 2026 | [📄 Read](http://arxiv.org/abs/2608.25481v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 27 August 2026, 17:54 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 27 August 2026, 20:20 WIB</sub>
