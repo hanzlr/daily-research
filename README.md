@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
+| ANTShapes Benchmarking Datasets for Event-Based Neuromorphic Object Classification | M. Middleton et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27150v1) |
 | Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
-| Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer Encoders in JEPA World Models | Frederik Berenz | 2026 | [📄 Read](http://arxiv.org/abs/2608.27367v1) |
-| Omni-Interactive Universal Embedder | Wei-Yao Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27044v1) |
-| GraphMemix: Query-Aware Evidence Forests for Long-Term Multimodal Agent Memory | Geng Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26983v1) |
-| Beyond Thresholds: A Quality-Aware Decision Intelligence Framework for Cold Chain IoT Systems | Aashna Sofat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.15082v1) |
-| Deep Learning-Based Multi-User Communication Design for Dense IoT Networks: Interference-Aware Finite-Blocklength Communication and Preliminary MIMO Extensions | Arkadeep Sinha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22923v1) |
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
-| Development of a Voice-Controlled Tendon-Driven Bionic Hand | Urja Kohli et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25222v1) |
 | Real-Time Transient Response Optimization | Anahida Kanade et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21886v1) |
+| Energy-Neutral Coverage Optimization by Joint Deployment and Scheduling in Ambient IoT Devices with Directional Sensing | David E. Ruíz-Guirola et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26944v1) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v3) |
+| Asymmetric Coupling Anisotropy for Causal Information Filtering in Physical Reservoirs | Takashi Hikihara et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26741v1) |
+| Reproducible Vision-Guided 6-DoF Robotic Manipulator with a Mixed Stepper-Driver Architecture and Browser-Native Control | Lasan Perera et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22799v1) |
+| Beyond Edge Cuts: Activity-Weighted Multicast Hypergraph Mapping for Spiking Neural Networks on Mesh NoCs | Amirreza Khorasanian | 2026 | [📄 Read](http://arxiv.org/abs/2608.26223v1) |
+| Python-based RTL Generator Demonstrated on a Low-IF 2-FSK Wireless Communication System | Brandon P. Hippe et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17042v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 August 2026, 05:50 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 August 2026, 06:51 WIB</sub>
