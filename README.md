@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Scaling Graph Neural Networks for Friend Recommendation: Multi-Hash User Embeddings and Temporal Neighbor Sampling | Maksim Utushkin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27413v1) |
-| Universality and sharp thresholds for ellipsoid fitting | Frederic Koehler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27372v1) |
-| Importance Scoring of Transformer Attention Heads in Learning Tabular Data | Ahmad Jad Allah et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27241v1) |
+| Embodied Scene Rearrangement Planning | Canzhi Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27371v1) |
+| Energy-Neutral Coverage Optimization by Joint Deployment and Scheduling in Ambient IoT Devices with Directional Sensing | David E. Ruíz-Guirola et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26944v1) |
 | GraphMemix: Query-Aware Evidence Forests for Long-Term Multimodal Agent Memory | Geng Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26983v1) |
-| CorporateBench: Large-Scale Q&A Benchmarking with Temporal Knowledge Bases | Sil Hamilton et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27391v1) |
-| Counterfactual Bias Testing for Application Tracking System | Sai Yashwant et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26899v1) |
-| Common Geodesics Do Not Guarantee Fisher Consistency of the Structured SVM: Minimal Counterexamples and a Tree-Metric Classification | Jintao Fei et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27203v1) |
-| Omni-Interactive Universal Embedder | Wei-Yao Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27044v1) |
+| Python-based RTL Generator Demonstrated on a Low-IF 2-FSK Wireless Communication System | Brandon P. Hippe et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17042v1) |
+| Planning a Shared Modular Fixture Layout Across Robotic Disassembly Stages | Haohui Pan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27151v1) |
+| LiDAR-Derived Surface Priors for Multimodal Sensing-Assisted NLoS Beam Search in Indoor 60-GHz Networks | Amod Ashtekar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18396v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| Reproducible Vision-Guided 6-DoF Robotic Manipulator with a Mixed Stepper-Driver Architecture and Browser-Native Control | Lasan Perera et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22799v1) |
+| Real-Time Transient Response Optimization | Anahida Kanade et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21886v1) |
 | Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer Encoders in JEPA World Models | Frederik Berenz | 2026 | [📄 Read](http://arxiv.org/abs/2608.27367v1) |
-| Bug Localization from Bug Reports: A Multi-Objective Approach | Waleed Ahmad et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27089v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 August 2026, 02:13 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 August 2026, 03:26 WIB</sub>
