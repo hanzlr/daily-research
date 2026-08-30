@@ -18,16 +18,6 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| HALO: A Heterogeneity-Aware Language-Aligned IMU Foundation Model for Open-Set Human Activity Recognition | Zihan Ding et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27233v1) |
-| Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer Encoders in JEPA World Models | Frederik Berenz | 2026 | [📄 Read](http://arxiv.org/abs/2608.27367v1) |
-| GraphMemix: Query-Aware Evidence Forests for Long-Term Multimodal Agent Memory | Geng Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26983v1) |
-| Performance Drift Detection in Machine Learning as a Service (MLaaS) for IoT Environments | Deepak Kanneganti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18555v1) |
-| Graph Representation Learning of Lightweight IoT Ciphers | Jonathan Cook et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.23054v1) |
-| A Point-of-Prescription Safety-Check System for Adverse Drug Reactions in Rural Bangladeshi Hospitals: A Feasibility Study | Shahir Abdullah | 2026 | [📄 Read](http://arxiv.org/abs/2608.27239v1) |
-| Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study | Kevin Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27421v1) |
-| Maintaining IoT Device Identification under Concept Drift via Budget-Aware Traffic Labeling | Shayan Azizi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.15465v2) |
-| Resilient Decentralized Wireless Federated Learning via Gradient Tracking with AdamW | Nguyen Van Thieu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25535v1) |
-| Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models | Xiaoxiao Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27259v1) |
 
 ---
 
@@ -40,4 +30,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 August 2026, 01:10 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 August 2026, 10:14 WIB</sub>
