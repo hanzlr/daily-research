@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Energy-Neutral Coverage Optimization by Joint Deployment and Scheduling in Ambient IoT Devices with Directional Sensing | David E. Ruíz-Guirola et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26944v1) |
-| Python-based RTL Generator Demonstrated on a Low-IF 2-FSK Wireless Communication System | Brandon P. Hippe et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17042v1) |
-| Marine Autonomous Vehicle Fleet Scheduling to Maximise Scientific Impact | Mehdi El Krari et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27271v1) |
-| Embodied Scene Rearrangement Planning | Canzhi Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27371v1) |
-| QuantumBoostNet: A Hybrid Classical-Quantum Architecture for Enhanced Accuracy in Cardiac Ultrasound View Identification | Mihai Udrescu-Milosav et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27302v1) |
-| Real-Time Transient Response Optimization | Anahida Kanade et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21886v1) |
-| HALO: A Heterogeneity-Aware Language-Aligned IMU Foundation Model for Open-Set Human Activity Recognition | Zihan Ding et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27233v1) |
-| FedCMAPSS: A Benchmark for Federated Learning in Remaining Useful Life Estimation | Amelia Sorrenti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26433v1) |
-| Planning a Shared Modular Fixture Layout Across Robotic Disassembly Stages | Haohui Pan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27151v1) |
-| Hyperspectral Diffusion Equivariant Imaging (HyDiff-EI): A Self-supervised Framework for Hyperspectral Image Inpainting | Shuo Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26812v1) |
+| Asymmetric Coupling Anisotropy for Causal Information Filtering in Physical Reservoirs | Takashi Hikihara et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26741v1) |
+| Magnetically Self-Sealed MR Haptic Actuator With PWM-Based Excitation and High-Fidelity Torque Control | Dong Qiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19635v1) |
+| Physics-Informed Stochastic Configuration Machine: A Backpropagation-Free Neural Network with Fast Training for Nonlinear Differential Equations | Yuehao Song et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26549v1) |
+| VirTooS: A ROS 2 - Unity Virtualization Toolkit for Fleet Management of Autonomous Mobile Robots | Andrea Drudi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26066v1) |
+| Phantom Navigator: Stealthy and Precise Unmanned Aerial Vehicle Redirection with Real-Time Tracking and GPS Spoofing | Haocheng Meng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26011v1) |
+| Bug Localization from Bug Reports: A Multi-Objective Approach | Waleed Ahmad et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27089v1) |
+| Development of a Voice-Controlled Tendon-Driven Bionic Hand | Urja Kohli et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25222v1) |
+| Policy Iteration for Linear-Quadratic Stochastic Differential Games with State- and Control-Dependent Noise | Karl Handwerker et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17940v1) |
+| Trajectory-Induced Self-Calibration for Hidden-Target Localization Through an Unknown-Pose Range-Bearing Relay | Yash Bagla | 2026 | [📄 Read](http://arxiv.org/abs/2608.09464v2) |
+| Contact-Aided Factor-Graph Localization for Underwater Sampling | Michele Grimaldi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26932v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 31 August 2026, 00:07 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 31 August 2026, 01:24 WIB</sub>
