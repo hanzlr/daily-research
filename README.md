@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| A Point-of-Prescription Safety-Check System for Adverse Drug Reactions in Rural Bangladeshi Hospitals: A Feasibility Study | Shahir Abdullah | 2026 | [📄 Read](http://arxiv.org/abs/2608.27239v1) |
-| Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study | Kevin Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27421v1) |
+| FedCMAPSS: A Benchmark for Federated Learning in Remaining Useful Life Estimation | Amelia Sorrenti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26433v1) |
+| HALO: A Heterogeneity-Aware Language-Aligned IMU Foundation Model for Open-Set Human Activity Recognition | Zihan Ding et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27233v1) |
 | Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models | Xiaoxiao Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27259v1) |
-| GraphMemix: Query-Aware Evidence Forests for Long-Term Multimodal Agent Memory | Geng Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26983v1) |
-| Graph Representation Learning of Lightweight IoT Ciphers | Jonathan Cook et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.23054v1) |
-| Maintaining IoT Device Identification under Concept Drift via Budget-Aware Traffic Labeling | Shayan Azizi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.15465v2) |
-| Omni-Interactive Universal Embedder | Wei-Yao Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27044v1) |
+| Resilient Decentralized Wireless Federated Learning via Gradient Tracking with AdamW | Nguyen Van Thieu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25535v1) |
+| Hyperspectral Diffusion Equivariant Imaging (HyDiff-EI): A Self-supervised Framework for Hyperspectral Image Inpainting | Shuo Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26812v1) |
 | Performance Drift Detection in Machine Learning as a Service (MLaaS) for IoT Environments | Deepak Kanneganti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18555v1) |
-| Scaling Graph Neural Networks for Friend Recommendation: Multi-Hash User Embeddings and Temporal Neighbor Sampling | Maksim Utushkin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27413v1) |
-| Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer Encoders in JEPA World Models | Frederik Berenz | 2026 | [📄 Read](http://arxiv.org/abs/2608.27367v1) |
+| Graph Representation Learning of Lightweight IoT Ciphers | Jonathan Cook et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.23054v1) |
+| Python-based RTL Generator Demonstrated on a Low-IF 2-FSK Wireless Communication System | Brandon P. Hippe et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17042v1) |
+| Bayesian methods and Markov chain Monte Carlo algorithms for curve reconstruction and point cloud data analysis | Asir Intesar Tushar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26490v1) |
+| Energy-Neutral Coverage Optimization by Joint Deployment and Scheduling in Ambient IoT Devices with Directional Sensing | David E. Ruíz-Guirola et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26944v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 August 2026, 15:40 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 August 2026, 17:10 WIB</sub>
