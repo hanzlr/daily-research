@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Sunday, 30 August 2026
+## 🗓️ Monday, 31 August 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| FedCMAPSS: A Benchmark for Federated Learning in Remaining Useful Life Estimation | Amelia Sorrenti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26433v1) |
-| HALO: A Heterogeneity-Aware Language-Aligned IMU Foundation Model for Open-Set Human Activity Recognition | Zihan Ding et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27233v1) |
-| Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models | Xiaoxiao Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27259v1) |
-| Resilient Decentralized Wireless Federated Learning via Gradient Tracking with AdamW | Nguyen Van Thieu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25535v1) |
-| Hyperspectral Diffusion Equivariant Imaging (HyDiff-EI): A Self-supervised Framework for Hyperspectral Image Inpainting | Shuo Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26812v1) |
-| Performance Drift Detection in Machine Learning as a Service (MLaaS) for IoT Environments | Deepak Kanneganti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18555v1) |
-| Graph Representation Learning of Lightweight IoT Ciphers | Jonathan Cook et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.23054v1) |
-| Python-based RTL Generator Demonstrated on a Low-IF 2-FSK Wireless Communication System | Brandon P. Hippe et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17042v1) |
-| Bayesian methods and Markov chain Monte Carlo algorithms for curve reconstruction and point cloud data analysis | Asir Intesar Tushar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26490v1) |
 | Energy-Neutral Coverage Optimization by Joint Deployment and Scheduling in Ambient IoT Devices with Directional Sensing | David E. Ruíz-Guirola et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26944v1) |
+| Python-based RTL Generator Demonstrated on a Low-IF 2-FSK Wireless Communication System | Brandon P. Hippe et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17042v1) |
+| Marine Autonomous Vehicle Fleet Scheduling to Maximise Scientific Impact | Mehdi El Krari et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27271v1) |
+| Embodied Scene Rearrangement Planning | Canzhi Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27371v1) |
+| QuantumBoostNet: A Hybrid Classical-Quantum Architecture for Enhanced Accuracy in Cardiac Ultrasound View Identification | Mihai Udrescu-Milosav et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27302v1) |
+| Real-Time Transient Response Optimization | Anahida Kanade et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21886v1) |
+| HALO: A Heterogeneity-Aware Language-Aligned IMU Foundation Model for Open-Set Human Activity Recognition | Zihan Ding et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27233v1) |
+| FedCMAPSS: A Benchmark for Federated Learning in Remaining Useful Life Estimation | Amelia Sorrenti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26433v1) |
+| Planning a Shared Modular Fixture Layout Across Robotic Disassembly Stages | Haohui Pan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27151v1) |
+| Hyperspectral Diffusion Equivariant Imaging (HyDiff-EI): A Self-supervised Framework for Hyperspectral Image Inpainting | Shuo Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26812v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 August 2026, 17:10 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 31 August 2026, 00:07 WIB</sub>
