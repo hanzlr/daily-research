@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Trajectory-Induced Self-Calibration for Hidden-Target Localization Through an Unknown-Pose Range-Bearing Relay | Yash Bagla | 2026 | [📄 Read](http://arxiv.org/abs/2608.09464v2) |
-| LiDAR-Derived Surface Priors for Multimodal Sensing-Assisted NLoS Beam Search in Indoor 60-GHz Networks | Amod Ashtekar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18396v1) |
-| Energy-Neutral Coverage Optimization by Joint Deployment and Scheduling in Ambient IoT Devices with Directional Sensing | David E. Ruíz-Guirola et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26944v1) |
-| Generalized Splines and Gaussian Processes | Michael Unser | 2026 | [📄 Read](http://arxiv.org/abs/2608.28446v1) |
+| Expert Knowledge & Machine Understanding: Bridging Reactome's Ontology with LLM Semantic Embeddings | Susanna Bravi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28178v1) |
+| Real-Time Monitoring of MHD Liquid Metal Flows with Shallow Recurrent Decoders | Claudio Scardino et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28366v1) |
 | Real-Time Transient Response Optimization | Anahida Kanade et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21886v1) |
-| Physics-Informed Stochastic Configuration Machine: A Backpropagation-Free Neural Network with Fast Training for Nonlinear Differential Equations | Yuehao Song et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26549v1) |
-| Magnetically Self-Sealed MR Haptic Actuator With PWM-Based Excitation and High-Fidelity Torque Control | Dong Qiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19635v1) |
-| Policy Iteration for Linear-Quadratic Stochastic Differential Games with State- and Control-Dependent Noise | Karl Handwerker et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17940v1) |
-| Residual-Guided Randomized Neural Networks | Mushir Akhtar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28267v1) |
-| Python-based RTL Generator Demonstrated on a Low-IF 2-FSK Wireless Communication System | Brandon P. Hippe et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17042v1) |
+| PhyMamba: Physics-Modulated Mamba for Robust Battery Health Prognostics | Sara Sameer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27978v1) |
+| Spectral Features Dominate BCG Respiratory-Event Detection: A Large-Scale Patient-Independent Comparison of Feature Groups in Sleep Apnea Patients | Israel Campero Jurado et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28242v1) |
+| AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction | Yafei Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28491v1) |
+| Reproducible Vision-Guided 6-DoF Robotic Manipulator with a Mixed Stepper-Driver Architecture and Browser-Native Control | Lasan Perera et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22799v1) |
+| QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs | Vaibhav Mehandiratta et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28589v1) |
+| ARC-CT: Anatomy-Routed Contrastive Vision-Language Learning for 3D Chest CT | Huseyin Umut Isik et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28455v1) |
+| Advancing Interaction-Sensitive Feature Selection: Novel Relief-Based Algorithms, Expanded Comparisons, and Recommendations for Biomedical Data Mining | Kia Kazemi-Nia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28552v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 01 September 2026, 02:21 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 01 September 2026, 03:39 WIB</sub>
