@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| On two proofs of $d^2$ mixing of weighted Dikin walks | Yuansi Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28566v1) |
-| Embodied Scene Rearrangement Planning | Canzhi Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27371v1) |
-| Spectral Features Dominate BCG Respiratory-Event Detection: A Large-Scale Patient-Independent Comparison of Feature Groups in Sleep Apnea Patients | Israel Campero Jurado et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28242v1) |
-| QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs | Vaibhav Mehandiratta et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28589v1) |
+| Generalized Splines and Gaussian Processes | Michael Unser | 2026 | [📄 Read](http://arxiv.org/abs/2608.28446v1) |
 | Localizing Global Discrepancies: Marginal Contributions and Contextual Anomaly Detection | Tommaso dorigo | 2026 | [📄 Read](http://arxiv.org/abs/2608.28375v1) |
-| Magnetically Self-Sealed MR Haptic Actuator With PWM-Based Excitation and High-Fidelity Torque Control | Dong Qiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19635v1) |
+| Performance Drift Detection in Machine Learning as a Service (MLaaS) for IoT Environments | Deepak Kanneganti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18555v1) |
+| AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction | Yafei Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28491v1) |
+| Spectral Features Dominate BCG Respiratory-Event Detection: A Large-Scale Patient-Independent Comparison of Feature Groups in Sleep Apnea Patients | Israel Campero Jurado et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28242v1) |
+| Deep Learning-Based Multi-User Communication Design for Dense IoT Networks: Interference-Aware Finite-Blocklength Communication and Preliminary MIMO Extensions | Arkadeep Sinha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22923v1) |
+| BanglaMed-QA: A Question Answering System for Healthcare Support in Bangla | Rowzatul Zannat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28329v1) |
 | Residual-Guided Randomized Neural Networks | Mushir Akhtar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28267v1) |
-| Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning | Nan Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28578v1) |
-| Marine Autonomous Vehicle Fleet Scheduling to Maximise Scientific Impact | Mehdi El Krari et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27271v1) |
-| Physics-Informed Stochastic Configuration Machine: A Backpropagation-Free Neural Network with Fast Training for Nonlinear Differential Equations | Yuehao Song et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26549v1) |
+| Effectiveness of IoT and Deep Learning for Detection and Severity Assessment of Postelectrotermes militaris in Tea Plantations | D. K. C. Senevirathna et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27480v1) |
+| Embedding Models for Stance-Aware Argument Retrieval | Angelo Sparacino et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28283v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 31 August 2026, 13:41 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 31 August 2026, 16:03 WIB</sub>
