@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Generalized Splines and Gaussian Processes | Michael Unser | 2026 | [📄 Read](http://arxiv.org/abs/2608.28446v1) |
-| Localizing Global Discrepancies: Marginal Contributions and Contextual Anomaly Detection | Tommaso dorigo | 2026 | [📄 Read](http://arxiv.org/abs/2608.28375v1) |
-| Performance Drift Detection in Machine Learning as a Service (MLaaS) for IoT Environments | Deepak Kanneganti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18555v1) |
-| AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction | Yafei Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28491v1) |
-| Spectral Features Dominate BCG Respiratory-Event Detection: A Large-Scale Patient-Independent Comparison of Feature Groups in Sleep Apnea Patients | Israel Campero Jurado et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28242v1) |
-| Deep Learning-Based Multi-User Communication Design for Dense IoT Networks: Interference-Aware Finite-Blocklength Communication and Preliminary MIMO Extensions | Arkadeep Sinha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22923v1) |
-| BanglaMed-QA: A Question Answering System for Healthcare Support in Bangla | Rowzatul Zannat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28329v1) |
-| Residual-Guided Randomized Neural Networks | Mushir Akhtar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28267v1) |
+| Energy-Neutral Coverage Optimization by Joint Deployment and Scheduling in Ambient IoT Devices with Directional Sensing | David E. Ruíz-Guirola et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26944v1) |
+| Policy Iteration for Linear-Quadratic Stochastic Differential Games with State- and Control-Dependent Noise | Karl Handwerker et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17940v1) |
+| Magnetically Self-Sealed MR Haptic Actuator With PWM-Based Excitation and High-Fidelity Torque Control | Dong Qiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19635v1) |
+| Trajectory-Induced Self-Calibration for Hidden-Target Localization Through an Unknown-Pose Range-Bearing Relay | Yash Bagla | 2026 | [📄 Read](http://arxiv.org/abs/2608.09464v2) |
 | Effectiveness of IoT and Deep Learning for Detection and Severity Assessment of Postelectrotermes militaris in Tea Plantations | D. K. C. Senevirathna et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27480v1) |
-| Embedding Models for Stance-Aware Argument Retrieval | Angelo Sparacino et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28283v1) |
+| Physics-Informed Stochastic Configuration Machine: A Backpropagation-Free Neural Network with Fast Training for Nonlinear Differential Equations | Yuehao Song et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26549v1) |
+| BanglaMed-QA: A Question Answering System for Healthcare Support in Bangla | Rowzatul Zannat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28329v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| Real-Time Transient Response Optimization | Anahida Kanade et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21886v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v3) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 31 August 2026, 16:03 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 31 August 2026, 18:12 WIB</sub>
