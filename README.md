@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Driving on Memory | Christian Löwens et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.31029v1) |
-| A Hybrid PEM-GP Framework for Uncertainty-Aware System Identification of Quadcopters | Abdallah Ghoul et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30433v1) |
-| Magnetically Self-Sealed MR Haptic Actuator With PWM-Based Excitation and High-Fidelity Torque Control | Dong Qiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19635v1) |
-| Graph Representation Learning of Lightweight IoT Ciphers | Jonathan Cook et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.23054v1) |
-| Effectiveness of IoT and Deep Learning for Detection and Severity Assessment of Postelectrotermes militaris in Tea Plantations | D. K. C. Senevirathna et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27480v1) |
-| Generalizable Multi-Agent Planning from Signal Temporal Logic Specifications via Diffusion | Joe Eappen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.29490v1) |
-| Towards Stream Learning on Embedded Systems: Benchmarking the Memory Consumption of Stream Learning Methods | Sebastian Buschjäger et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30923v1) |
-| MiBOT: A head-worn robot that modulates cardiovascular responses through human-like soft massage | Alice Mylaeus et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30055v1) |
-| Physics-Informed Stochastic Configuration Machine: A Backpropagation-Free Neural Network with Fast Training for Nonlinear Differential Equations | Yuehao Song et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26549v1) |
-| Anomaly Detection on Small Industrial Components via Vision-Based Tactile Sensing | G. F. Preziosa et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30506v1) |
+| Implementing neural network mixed-effects models in Template Model Builder (TMB) | Nan Zheng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.31133v1) |
+| When Does Bigger Help? A Controlled Study of LLM Scale for Ontology Learning | Hamed Babaei Giglou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.31118v1) |
+| Cross-Regional Grapevine Cold Hardiness Prediction via Learned Multimodal Latent Representations | William Solow et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.31097v1) |
+| Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data | Milad Rezaei Hajidehi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.31082v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| Constant Individual Regret in General Games | Mingyang Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.31166v1) |
+| On the Complexity of the Compatibility Problem for Succinctly Encoded Conditional Distributions | Guy Emerson | 2026 | [📄 Read](http://arxiv.org/abs/2608.31120v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v3) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 01 September 2026, 13:01 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 01 September 2026, 15:06 WIB</sub>
