@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Tuesday, 01 September 2026
+## 🗓️ Wednesday, 02 September 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
+| Towards Stream Learning on Embedded Systems: Benchmarking the Memory Consumption of Stream Learning Methods | Sebastian Buschjäger et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30923v1) |
+| CIG-RL: Curiosity-Driven Information-Guided Reinforcement Learning for Source Term Estimation in Uncertain Environments | Junhee Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30673v1) |
+| Universal Transformers for Circuit Computations: Perfect Length Generalization in Tiny Transformers | Takuya Ito et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.31067v1) |
+| Geometric Attractor Monitoring: A Robust and Frugal Framework for Multi-modal Industrial Robotic Cycles | Martin Bonsergent-Brachet et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30804v1) |
+| Learning the Geometry of Admissible Hypotheses through Inductive Bias in Training Distributions | James Crowley et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.31028v1) |
+| Failure or Drift? Evaluating Monocular SLAM under Synthetic and Real-World Corruptions | Abhay Skaria Thomas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30690v1) |
+| A Model with No Head and Many Thoughts | Nikita Koriagin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.31069v1) |
 | Conjoint Audio-to-Spikes Encoding and Processing for Efficient Neuromorphic Speech Recognition | Valentin M. Meunier et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30792v1) |
 | TSPFN: A Temporal Tabular Foundation Model for Physiological Time Series Classification | Jérémie Stym-Popper et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.31013v1) |
-| Geometric Attractor Monitoring: A Robust and Frugal Framework for Multi-modal Industrial Robotic Cycles | Martin Bonsergent-Brachet et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30804v1) |
-| "More Is Different'' in Neural Circuits: Algebraic Emergence of Effective Theories in Canonical Recurrent Motifs of Biological Neuronal Networks | Nima Dehghani | 2026 | [📄 Read](http://arxiv.org/abs/2608.30231v1) |
-| Event-Driven Language Models with Sparse Neural Activity for Neuromorphic Hardware | Simon Richter et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30439v1) |
-| Towards Stream Learning on Embedded Systems: Benchmarking the Memory Consumption of Stream Learning Methods | Sebastian Buschjäger et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30923v1) |
-| Implementing neural network mixed-effects models in Template Model Builder (TMB) | Nan Zheng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.31133v1) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
-| Multiclass Linear Perceptrons with Multiplicative Margins | Dmitri Rachkovskij et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30028v1) |
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| Driving on Memory | Christian Löwens et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.31029v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 01 September 2026, 18:07 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 02 September 2026, 00:06 WIB</sub>
