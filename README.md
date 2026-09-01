@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
+| Policy Iteration for Linear-Quadratic Stochastic Differential Games with State- and Control-Dependent Noise | Karl Handwerker et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17940v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v3) |
+| Constant Individual Regret in General Games | Mingyang Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.31166v1) |
 | Towards Stream Learning on Embedded Systems: Benchmarking the Memory Consumption of Stream Learning Methods | Sebastian Buschjäger et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30923v1) |
-| CIG-RL: Curiosity-Driven Information-Guided Reinforcement Learning for Source Term Estimation in Uncertain Environments | Junhee Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30673v1) |
-| Universal Transformers for Circuit Computations: Perfect Length Generalization in Tiny Transformers | Takuya Ito et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.31067v1) |
-| Geometric Attractor Monitoring: A Robust and Frugal Framework for Multi-modal Industrial Robotic Cycles | Martin Bonsergent-Brachet et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30804v1) |
-| Learning the Geometry of Admissible Hypotheses through Inductive Bias in Training Distributions | James Crowley et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.31028v1) |
-| Failure or Drift? Evaluating Monocular SLAM under Synthetic and Real-World Corruptions | Abhay Skaria Thomas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30690v1) |
-| A Model with No Head and Many Thoughts | Nikita Koriagin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.31069v1) |
 | Conjoint Audio-to-Spikes Encoding and Processing for Efficient Neuromorphic Speech Recognition | Valentin M. Meunier et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30792v1) |
-| TSPFN: A Temporal Tabular Foundation Model for Physiological Time Series Classification | Jérémie Stym-Popper et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.31013v1) |
-| Driving on Memory | Christian Löwens et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.31029v1) |
+| Geometric Attractor Monitoring: A Robust and Frugal Framework for Multi-modal Industrial Robotic Cycles | Martin Bonsergent-Brachet et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30804v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| Implementing neural network mixed-effects models in Template Model Builder (TMB) | Nan Zheng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.31133v1) |
+| Sharp Approximation Rates for Neural Networks with Affine Latent Parameterizations | Shijun Zhang | 2026 | [📄 Read](http://arxiv.org/abs/2608.31157v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 02 September 2026, 00:06 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 02 September 2026, 01:09 WIB</sub>
