@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Thursday, 03 September 2026
+## 🗓️ Friday, 04 September 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Context-Aware Intelligent Vehicles | Liangkai Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00682v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v3) |
+| Model-Free Surrogate-Assisted Neural Architecture Search for Evolving Variable-Length Dense Blocks | Asif Ameer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.02460v1) |
+| Exposing the Invisible: Detecting Stealthy Parameter-Based Cyber-Attacks on Inverter Synchronization Loops | Zaint A. Alexakis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30574v1) |
+| A Modular IoT-Enabled Remote Laboratory Platform for Hybrid Energy System Research and Engineering Education | Lamine Chalal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00815v1) |
+| Real-Time Transient Response Optimization | Anahida Kanade et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21886v1) |
+| GRADSOLVE: fast exact gradients for ODE ensembles on GPUs | Alessio Spurio Mancini | 2026 | [📄 Read](http://arxiv.org/abs/2609.02876v1) |
+| The Implications of Linguistic Illegibility for LLM Security | James Mickens | 2026 | [📄 Read](http://arxiv.org/abs/2609.02852v1) |
+| Trajectory-Induced Self-Calibration for Hidden-Target Localization Through an Unknown-Pose Range-Bearing Relay | Yash Bagla | 2026 | [📄 Read](http://arxiv.org/abs/2608.09464v2) |
 | Semantics-Guided Automatic Tensorization for Multiobjective Evolutionary Algorithms: A Multi-Agent Framework | Zhenyu Liang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.02387v1) |
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
-| Deep Learning-Based Multi-User Communication Design for Dense IoT Networks: Interference-Aware Finite-Blocklength Communication and Preliminary MIMO Extensions | Arkadeep Sinha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22923v1) |
-| Anomaly Detection on Small Industrial Components via Vision-Based Tactile Sensing | G. F. Preziosa et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30506v1) |
-| Effectiveness of IoT and Deep Learning for Detection and Severity Assessment of Postelectrotermes militaris in Tea Plantations | D. K. C. Senevirathna et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27480v1) |
-| H3DNAS: Hardware-Aware ONNX-Native 3D Point Cloud Model Compression | Anchit Mulye et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.02684v1) |
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
-| LLM-Driven Joint Evolution of Coupled Heuristics Components for Routing Optimization | Juntao Wei et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.02353v1) |
+| Physics-Informed Stochastic Configuration Machine: A Backpropagation-Free Neural Network with Fast Training for Nonlinear Differential Equations | Yuehao Song et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26549v1) |
+| Policy Iteration for Linear-Quadratic Stochastic Differential Games with State- and Control-Dependent Noise | Karl Handwerker et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17940v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 03 September 2026, 23:51 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 04 September 2026, 01:20 WIB</sub>
