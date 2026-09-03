@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Reproducible Vision-Guided 6-DoF Robotic Manipulator with a Mixed Stepper-Driver Architecture and Browser-Native Control | Lasan Perera et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22799v1) |
-| Trajectory-Induced Self-Calibration for Hidden-Target Localization Through an Unknown-Pose Range-Bearing Relay | Yash Bagla | 2026 | [📄 Read](http://arxiv.org/abs/2608.09464v2) |
-| Policy Iteration for Linear-Quadratic Stochastic Differential Games with State- and Control-Dependent Noise | Karl Handwerker et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17940v1) |
-| Scene Graph-based Driving Scenario Extraction for Automotive Egocentric Datasets | Stefan Ramdhan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00333v1) |
+| Context-Aware Intelligent Vehicles | Liangkai Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00682v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v3) |
+| Semantics-Guided Automatic Tensorization for Multiobjective Evolutionary Algorithms: A Multi-Agent Framework | Zhenyu Liang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.02387v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| Deep Learning-Based Multi-User Communication Design for Dense IoT Networks: Interference-Aware Finite-Blocklength Communication and Preliminary MIMO Extensions | Arkadeep Sinha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22923v1) |
 | Anomaly Detection on Small Industrial Components via Vision-Based Tactile Sensing | G. F. Preziosa et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30506v1) |
-| Physics-Informed Stochastic Configuration Machine: A Backpropagation-Free Neural Network with Fast Training for Nonlinear Differential Equations | Yuehao Song et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26549v1) |
-| Development of a Voice-Controlled Tendon-Driven Bionic Hand | Urja Kohli et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25222v1) |
-| A Hybrid PEM-GP Framework for Uncertainty-Aware System Identification of Quadcopters | Abdallah Ghoul et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30433v1) |
-| Magnetically Self-Sealed MR Haptic Actuator With PWM-Based Excitation and High-Fidelity Torque Control | Dong Qiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19635v1) |
-| Adaptive RIS-aided Communications through ML-based Generation of Phase Masks | Corwin Carpenter et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28890v1) |
+| Effectiveness of IoT and Deep Learning for Detection and Severity Assessment of Postelectrotermes militaris in Tea Plantations | D. K. C. Senevirathna et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27480v1) |
+| H3DNAS: Hardware-Aware ONNX-Native 3D Point Cloud Model Compression | Anchit Mulye et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.02684v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| LLM-Driven Joint Evolution of Coupled Heuristics Components for Routing Optimization | Juntao Wei et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.02353v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 03 September 2026, 21:50 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 03 September 2026, 23:51 WIB</sub>
