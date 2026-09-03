@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| From Multi-Fisheye Sensing to Panoramic Perception: A Parallax-Aware Onboard Platform for Ultra-Low-Altitude UAVs | Dun Dai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.02319v1) |
-| FORGE: Forward-Only Test-Time Adaptation for Integer-Only Vision Models on Microcontrollers | Muhammad Rehan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.01683v1) |
-| HarmoCore: Functional Latent Diffusion for Sparse Reconstruction of Oscillatory Wave Fields | Lihao Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00679v1) |
-| BanglaMed-QA: A Question Answering System for Healthcare Support in Bangla | Rowzatul Zannat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28329v1) |
-| Towards Effective Physical Reservoir Computing with a Pneumatic Soft Robot | Jeevan Hebbal Manjunath et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.02157v1) |
-| Graph Representation Learning of Lightweight IoT Ciphers | Jonathan Cook et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.23054v1) |
-| Resilient Decentralized Wireless Federated Learning via Gradient Tracking with AdamW | Nguyen Van Thieu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25535v1) |
-| Contribution-Aware Bandwidth Allocation for Multimodal Split Learning | Iason Ofeidis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.01406v1) |
-| Toward Robust LiDAR Semantic Segmentation for Real-World Deployment: Evaluation under Coarse Labels, Adverse Conditions, and Domain Shifts | Samir Abou Haidar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.02830v1) |
-| Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework | Cagri Temel | 2026 | [📄 Read](http://arxiv.org/abs/2609.02861v1) |
+| Reproducible Vision-Guided 6-DoF Robotic Manipulator with a Mixed Stepper-Driver Architecture and Browser-Native Control | Lasan Perera et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22799v1) |
+| Trajectory-Induced Self-Calibration for Hidden-Target Localization Through an Unknown-Pose Range-Bearing Relay | Yash Bagla | 2026 | [📄 Read](http://arxiv.org/abs/2608.09464v2) |
+| Policy Iteration for Linear-Quadratic Stochastic Differential Games with State- and Control-Dependent Noise | Karl Handwerker et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17940v1) |
+| Scene Graph-based Driving Scenario Extraction for Automotive Egocentric Datasets | Stefan Ramdhan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00333v1) |
+| Anomaly Detection on Small Industrial Components via Vision-Based Tactile Sensing | G. F. Preziosa et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30506v1) |
+| Physics-Informed Stochastic Configuration Machine: A Backpropagation-Free Neural Network with Fast Training for Nonlinear Differential Equations | Yuehao Song et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26549v1) |
+| Development of a Voice-Controlled Tendon-Driven Bionic Hand | Urja Kohli et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25222v1) |
+| A Hybrid PEM-GP Framework for Uncertainty-Aware System Identification of Quadcopters | Abdallah Ghoul et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30433v1) |
+| Magnetically Self-Sealed MR Haptic Actuator With PWM-Based Excitation and High-Fidelity Torque Control | Dong Qiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19635v1) |
+| Adaptive RIS-aided Communications through ML-based Generation of Phase Masks | Corwin Carpenter et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28890v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 03 September 2026, 20:03 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 03 September 2026, 21:50 WIB</sub>
