@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Friday, 04 September 2026
+## 🗓️ Saturday, 05 September 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| BanglaMed-QA: A Question Answering System for Healthcare Support in Bangla | Rowzatul Zannat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28329v1) |
-| Magnetically Self-Sealed MR Haptic Actuator With PWM-Based Excitation and High-Fidelity Torque Control | Dong Qiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19635v1) |
-| Physics-Informed Stochastic Configuration Machine: A Backpropagation-Free Neural Network with Fast Training for Nonlinear Differential Equations | Yuehao Song et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26549v1) |
-| Policy Iteration for Linear-Quadratic Stochastic Differential Games with State- and Control-Dependent Noise | Karl Handwerker et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17940v1) |
-| Privacy Leakage in Federated Learning: Gradient-Based Client Identity Inference and Defenses for Inertial Sensing in Vehicular Edge Networks | Ali Akarma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.02971v1) |
-| Predictive Zonotope Reduction: Precise Runtime Monitoring under Uncertainty | Vladimir Krsmanovic et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03699v1) |
-| Performance Drift Detection in Machine Learning as a Service (MLaaS) for IoT Environments | Deepak Kanneganti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18555v1) |
-| Contribution-Aware Bandwidth Allocation for Multimodal Split Learning | Iason Ofeidis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.01406v1) |
-| Effectiveness of IoT and Deep Learning for Detection and Severity Assessment of Postelectrotermes militaris in Tea Plantations | D. K. C. Senevirathna et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27480v1) |
-| FORGE: Forward-Only Test-Time Adaptation for Integer-Only Vision Models on Microcontrollers | Muhammad Rehan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.01683v1) |
+| Synthetic Semantic Supervision for Contrastive Code Representation Learning in Small Transformers: An Empirical Study | Kenneth Paulsen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03702v1) |
+| The Dually Flat Geometry of Planning as Inference | Nikola Milosevic et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04005v1) |
+| Compile by Training: Turning Natural-Language Specifications into Local Neural Functions | Yuntian Deng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04199v1) |
+| A Low-Cost, Open Platform for End-to-End Autonomous Driving on a Miniature Ackermann Vehicle | Gustavo Claudio Karl Couto et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04147v1) |
+| Virtual Testing of Automated Driving Systems through Credible Simulations | Riccardo Dona et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03760v1) |
+| The Head Complexity of Boolean Functions in Single-Layer Attention | Rajmohan Rajaraman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04046v1) |
+| ENEAS: Embedding-guided Neural Ensemble for Adaptive Segmentation | Javier del Pino et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03756v1) |
+| DropClick: Semi-Automated One-Click Segmentation for Agricultural Robotic Data | Patrick Zimmer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03680v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v3) |
+| Automated Weld Seam Recognition and 3D Mapping for Robotic Post Processing Using Photogrammetry and Semantic Segmentation | Augustin Raju et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03970v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 04 September 2026, 17:36 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 05 September 2026, 01:06 WIB</sub>
