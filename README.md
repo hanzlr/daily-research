@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Network-Aware Forecasting on Wireless Access Points | Niloo Bahadori et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.01957v1) |
-| Design and Implementation of a Kalman Filter-Infused Algorithm for Tilt Estimation | Yuehan Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00730v1) |
-| Reproducible Vision-Guided 6-DoF Robotic Manipulator with a Mixed Stepper-Driver Architecture and Browser-Native Control | Lasan Perera et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22799v1) |
-| Development of a Voice-Controlled Tendon-Driven Bionic Hand | Urja Kohli et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25222v1) |
-| Adaptive RIS-aided Communications through ML-based Generation of Phase Masks | Corwin Carpenter et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28890v1) |
-| A Low-Cost, Open Platform for End-to-End Autonomous Driving on a Miniature Ackermann Vehicle | Gustavo Claudio Karl Couto et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04147v1) |
-| Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning | Kevin Du et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04194v1) |
-| Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints | Haoyaun Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04198v1) |
-| Para-Pipe: Exploiting Hierarchical Operator Parallelism of ML Computational Graphs on SoCs | Yujie Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04168v1) |
-| Robust PAC Learning of Concurrent Stochastic Games | Angel Y. He et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04189v1) |
+| Privacy Leakage in Federated Learning: Gradient-Based Client Identity Inference and Defenses for Inertial Sensing in Vehicular Edge Networks | Ali Akarma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.02971v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| FORGE: Forward-Only Test-Time Adaptation for Integer-Only Vision Models on Microcontrollers | Muhammad Rehan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.01683v1) |
+| Automated Weld Seam Recognition and 3D Mapping for Robotic Post Processing Using Photogrammetry and Semantic Segmentation | Augustin Raju et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03970v1) |
+| BanglaMed-QA: A Question Answering System for Healthcare Support in Bangla | Rowzatul Zannat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28329v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v3) |
+| Contribution-Aware Bandwidth Allocation for Multimodal Split Learning | Iason Ofeidis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.01406v1) |
+| An Adversarial Zero-Shot Learning Approach for Anomaly Detection in Multivariate IoT Traffic Data | Mahshid Rezakhani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03505v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 04 September 2026, 14:31 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 04 September 2026, 16:10 WIB</sub>
