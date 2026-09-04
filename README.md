@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Privacy Leakage in Federated Learning: Gradient-Based Client Identity Inference and Defenses for Inertial Sensing in Vehicular Edge Networks | Ali Akarma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.02971v1) |
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
-| FORGE: Forward-Only Test-Time Adaptation for Integer-Only Vision Models on Microcontrollers | Muhammad Rehan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.01683v1) |
-| Automated Weld Seam Recognition and 3D Mapping for Robotic Post Processing Using Photogrammetry and Semantic Segmentation | Augustin Raju et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03970v1) |
 | BanglaMed-QA: A Question Answering System for Healthcare Support in Bangla | Rowzatul Zannat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28329v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v3) |
+| Magnetically Self-Sealed MR Haptic Actuator With PWM-Based Excitation and High-Fidelity Torque Control | Dong Qiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.19635v1) |
+| Physics-Informed Stochastic Configuration Machine: A Backpropagation-Free Neural Network with Fast Training for Nonlinear Differential Equations | Yuehao Song et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26549v1) |
+| Policy Iteration for Linear-Quadratic Stochastic Differential Games with State- and Control-Dependent Noise | Karl Handwerker et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17940v1) |
+| Privacy Leakage in Federated Learning: Gradient-Based Client Identity Inference and Defenses for Inertial Sensing in Vehicular Edge Networks | Ali Akarma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.02971v1) |
+| Predictive Zonotope Reduction: Precise Runtime Monitoring under Uncertainty | Vladimir Krsmanovic et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03699v1) |
+| Performance Drift Detection in Machine Learning as a Service (MLaaS) for IoT Environments | Deepak Kanneganti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.18555v1) |
 | Contribution-Aware Bandwidth Allocation for Multimodal Split Learning | Iason Ofeidis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.01406v1) |
-| An Adversarial Zero-Shot Learning Approach for Anomaly Detection in Multivariate IoT Traffic Data | Mahshid Rezakhani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03505v1) |
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| Effectiveness of IoT and Deep Learning for Detection and Severity Assessment of Postelectrotermes militaris in Tea Plantations | D. K. C. Senevirathna et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27480v1) |
+| FORGE: Forward-Only Test-Time Adaptation for Integer-Only Vision Models on Microcontrollers | Muhammad Rehan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.01683v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 04 September 2026, 16:10 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 04 September 2026, 17:36 WIB</sub>
