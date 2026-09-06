@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| ENEAS: Embedding-guided Neural Ensemble for Adaptive Segmentation | Javier del Pino et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03756v1) |
-| Exposing the Invisible: Detecting Stealthy Parameter-Based Cyber-Attacks on Inverter Synchronization Loops | Zaint A. Alexakis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30574v1) |
-| A Modular IoT-Enabled Remote Laboratory Platform for Hybrid Energy System Research and Engineering Education | Lamine Chalal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00815v1) |
-| CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation | Tingyu Song et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04083v1) |
+| Reproducible Vision-Guided 6-DoF Robotic Manipulator with a Mixed Stepper-Driver Architecture and Browser-Native Control | Lasan Perera et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22799v1) |
+| Development of a Voice-Controlled Tendon-Driven Bionic Hand | Urja Kohli et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25222v1) |
 | Automated Weld Seam Recognition and 3D Mapping for Robotic Post Processing Using Photogrammetry and Semantic Segmentation | Augustin Raju et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03970v1) |
-| Policy Iteration for Linear-Quadratic Stochastic Differential Games with State- and Control-Dependent Noise | Karl Handwerker et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17940v1) |
-| Energy-Neutral Coverage Optimization by Joint Deployment and Scheduling in Ambient IoT Devices with Directional Sensing | David E. Ruíz-Guirola et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26944v1) |
-| Physics-Informed Stochastic Configuration Machine: A Backpropagation-Free Neural Network with Fast Training for Nonlinear Differential Equations | Yuehao Song et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26549v1) |
 | Predictive Zonotope Reduction: Precise Runtime Monitoring under Uncertainty | Vladimir Krsmanovic et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03699v1) |
-| Virtual Testing of Automated Driving Systems through Credible Simulations | Riccardo Dona et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03760v1) |
+| Design and Implementation of a Kalman Filter-Infused Algorithm for Tilt Estimation | Yuehan Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00730v1) |
+| The Head Complexity of Boolean Functions in Single-Layer Attention | Rajmohan Rajaraman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04046v1) |
+| Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints | Haoyaun Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04198v1) |
+| Robust PAC Learning of Concurrent Stochastic Games | Angel Y. He et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04189v1) |
+| A Low-Cost, Open Platform for End-to-End Autonomous Driving on a Miniature Ackermann Vehicle | Gustavo Claudio Karl Couto et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04147v1) |
+| A Multi-Vine Soft Robot Enabling Accessible Working Channel and Steering | Reza Kashef et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03758v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 06 September 2026, 12:31 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 06 September 2026, 14:25 WIB</sub>
