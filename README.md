@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Sunday, 06 September 2026
+## 🗓️ Monday, 07 September 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Reproducible Vision-Guided 6-DoF Robotic Manipulator with a Mixed Stepper-Driver Architecture and Browser-Native Control | Lasan Perera et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22799v1) |
-| Development of a Voice-Controlled Tendon-Driven Bionic Hand | Urja Kohli et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25222v1) |
-| Automated Weld Seam Recognition and 3D Mapping for Robotic Post Processing Using Photogrammetry and Semantic Segmentation | Augustin Raju et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03970v1) |
-| Predictive Zonotope Reduction: Precise Runtime Monitoring under Uncertainty | Vladimir Krsmanovic et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03699v1) |
-| Design and Implementation of a Kalman Filter-Infused Algorithm for Tilt Estimation | Yuehan Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00730v1) |
+| Genetic Algorithms for Tractable Bayesian Network Fusion via Pre-Fusion Edge Pruning | Pablo Torrijos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03724v1) |
+| Network-Aware Forecasting on Wireless Access Points | Niloo Bahadori et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.01957v1) |
+| Understanding Autonomous Driving Datasets by Describing Differences between Image Subsets in Natural Language | Julian Truetsch et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03677v1) |
 | The Head Complexity of Boolean Functions in Single-Layer Attention | Rajmohan Rajaraman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04046v1) |
-| Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints | Haoyaun Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04198v1) |
-| Robust PAC Learning of Concurrent Stochastic Games | Angel Y. He et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04189v1) |
-| A Low-Cost, Open Platform for End-to-End Autonomous Driving on a Miniature Ackermann Vehicle | Gustavo Claudio Karl Couto et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04147v1) |
-| A Multi-Vine Soft Robot Enabling Accessible Working Channel and Steering | Reza Kashef et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03758v1) |
+| Axonal delay dispersion decides whether a neuron detects an event or a sequence, and predicts cortical column diameter | Cheng Bi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04195v1) |
+| CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation | Tingyu Song et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04083v1) |
+| Prospective Coding Improves Learning in Deep Continuous-Time Recurrent Networks | Shivang Rawat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04134v1) |
+| Para-Pipe: Exploiting Hierarchical Operator Parallelism of ML Computational Graphs on SoCs | Yujie Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04168v1) |
+| BanglaMed-QA: A Question Answering System for Healthcare Support in Bangla | Rowzatul Zannat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28329v1) |
+| An Adversarial Zero-Shot Learning Approach for Anomaly Detection in Multivariate IoT Traffic Data | Mahshid Rezakhani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03505v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 06 September 2026, 14:25 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 07 September 2026, 00:30 WIB</sub>
