@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| An Adversarial Zero-Shot Learning Approach for Anomaly Detection in Multivariate IoT Traffic Data | Mahshid Rezakhani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03505v1) |
-| On-board ML for Trace Gas detection in Imaging Spectroscopy data | Vít Růžička et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04458v1) |
-| Adaptive RIS-aided Communications through ML-based Generation of Phase Masks | Corwin Carpenter et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28890v1) |
-| Development of a Voice-Controlled Tendon-Driven Bionic Hand | Urja Kohli et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25222v1) |
-| BanglaMed-QA: A Question Answering System for Healthcare Support in Bangla | Rowzatul Zannat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28329v1) |
-| Exposing the Invisible: Detecting Stealthy Parameter-Based Cyber-Attacks on Inverter Synchronization Loops | Zaint A. Alexakis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30574v1) |
-| A Differentiable Neural Surrogate for Photon Propagation in Neutrino Telescopes | Felix J. Yu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04695v1) |
+| Deep Learning-Based Multi-User Communication Design for Dense IoT Networks: Interference-Aware Finite-Blocklength Communication and Preliminary MIMO Extensions | Arkadeep Sinha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22923v1) |
+| Design and Implementation of a Kalman Filter-Infused Algorithm for Tilt Estimation | Yuehan Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00730v1) |
 | Real-Time Transient Response Optimization | Anahida Kanade et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21886v1) |
-| A Hybrid Predictive Ensemble of Machine Learning and Deep Neural Networks for Early Cardiovascular Disease Risk Assessment | Balaji Venkateswaran | 2026 | [📄 Read](http://arxiv.org/abs/2609.05146v1) |
+| Development of a Voice-Controlled Tendon-Driven Bionic Hand | Urja Kohli et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25222v1) |
+| Effectiveness of IoT and Deep Learning for Detection and Severity Assessment of Postelectrotermes militaris in Tea Plantations | D. K. C. Senevirathna et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.27480v1) |
+| Network-Aware Forecasting on Wireless Access Points | Niloo Bahadori et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.01957v1) |
+| Reproducible Vision-Guided 6-DoF Robotic Manipulator with a Mixed Stepper-Driver Architecture and Browser-Native Control | Lasan Perera et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.22799v1) |
 | Energy-Neutral Coverage Optimization by Joint Deployment and Scheduling in Ambient IoT Devices with Directional Sensing | David E. Ruíz-Guirola et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26944v1) |
+| Exposing the Invisible: Detecting Stealthy Parameter-Based Cyber-Attacks on Inverter Synchronization Loops | Zaint A. Alexakis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30574v1) |
+| Candidate Comparability Before Promotion: Conditional Validation in Adaptive Network Intrusion Detection | Roberto Fernández-Barrios et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04388v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 08 September 2026, 01:02 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 08 September 2026, 01:59 WIB</sub>
