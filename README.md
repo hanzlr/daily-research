@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
+| Strict Modes Everywhere - Bringing Order Into Dynamics of Mechanical Systems by a Potential Compatible With the Geodesic Flow | Arne Sachtler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04817v1) |
+| ToPos: Automated Optimal Positioning on Topographic Manifolds using Constrained Geodesic Voronoi Decomposition | Rajesh Raveendran et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05084v1) |
+| FedDRAW: Federated Dual Reputation Annealing Weighting for Heterogeneous Multi-Institutional Chest Radiograph Classification | Maryam Moradpour et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05223v1) |
+| Learning from VAE Errors to support ECG-based Differential Diagnosis of Myocardial Scar | Shayan Sharifi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05294v1) |
+| Continuous Cognitive Coverage for Autonomous Robots via Event-Dependent Cognitive Treatment and Learning | Hong Su | 2026 | [📄 Read](http://arxiv.org/abs/2609.04770v1) |
+| Variational Continuation for Double Pendulum Periodic Orbits | Leo Yao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05337v1) |
 | RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments | Quoc H. Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05403v1) |
-| A Modular IoT-Enabled Remote Laboratory Platform for Hybrid Energy System Research and Engineering Education | Lamine Chalal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00815v1) |
-| Beyond Co-purchase Relation: Evolution of Complementary Recommendations at Allegro | Aleksandra Osowska-Kurczab et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05063v1) |
-| An Adversarial Zero-Shot Learning Approach for Anomaly Detection in Multivariate IoT Traffic Data | Mahshid Rezakhani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03505v1) |
-| Design and Implementation of a Kalman Filter-Infused Algorithm for Tilt Estimation | Yuehan Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00730v1) |
-| Technical Manual for a Toolkit for Measuring Contextual Individuation in Transformer Language Models | José Luciano Verçosa Marques et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05333v1) |
-| Real-Time Transient Response Optimization | Anahida Kanade et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21886v1) |
-| Exposing the Invisible: Detecting Stealthy Parameter-Based Cyber-Attacks on Inverter Synchronization Loops | Zaint A. Alexakis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30574v1) |
-| Adaptive RIS-aided Communications through ML-based Generation of Phase Masks | Corwin Carpenter et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28890v1) |
-| Network-Aware Forecasting on Wireless Access Points | Niloo Bahadori et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.01957v1) |
+| Distill Globally, Adapt Locally: Reasoning Distillation and Product-Type Test-Time Training for Scalable Trade-Up Recommendation | Siliang Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05363v1) |
+| Lightweight Vision Transformer Compression for On-Device Plant Disease Detection in Resource-Constrained Agricultural Field Conditions | Mahadev Sunil Kumar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05334v1) |
+| APEX-RBD: Mixed-Precision Exploration Framework for Hardware-Efficient Robot Dynamics Accelerator Design | Xingyu Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05161v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 07 September 2026, 14:40 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 07 September 2026, 16:49 WIB</sub>
