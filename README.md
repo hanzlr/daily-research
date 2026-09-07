@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Monday, 07 September 2026
+## 🗓️ Tuesday, 08 September 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
-| Distill Globally, Adapt Locally: Reasoning Distillation and Product-Type Test-Time Training for Scalable Trade-Up Recommendation | Siliang Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05363v1) |
-| Candidate Comparability Before Promotion: Conditional Validation in Adaptive Network Intrusion Detection | Roberto Fernández-Barrios et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04388v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v3) |
-| BanglaMed-QA: A Question Answering System for Healthcare Support in Bangla | Rowzatul Zannat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28329v1) |
-| UniMate: One Unified Model to Animate Diverse Skeletons | Linzhan Mou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05415v1) |
-| Variational Continuation for Double Pendulum Periodic Orbits | Leo Yao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05337v1) |
-| Lightweight Vision Transformer Compression for On-Device Plant Disease Detection in Resource-Constrained Agricultural Field Conditions | Mahadev Sunil Kumar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05334v1) |
 | An Adversarial Zero-Shot Learning Approach for Anomaly Detection in Multivariate IoT Traffic Data | Mahshid Rezakhani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03505v1) |
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| On-board ML for Trace Gas detection in Imaging Spectroscopy data | Vít Růžička et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04458v1) |
+| Adaptive RIS-aided Communications through ML-based Generation of Phase Masks | Corwin Carpenter et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28890v1) |
+| Development of a Voice-Controlled Tendon-Driven Bionic Hand | Urja Kohli et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.25222v1) |
+| BanglaMed-QA: A Question Answering System for Healthcare Support in Bangla | Rowzatul Zannat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28329v1) |
+| Exposing the Invisible: Detecting Stealthy Parameter-Based Cyber-Attacks on Inverter Synchronization Loops | Zaint A. Alexakis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30574v1) |
+| A Differentiable Neural Surrogate for Photon Propagation in Neutrino Telescopes | Felix J. Yu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04695v1) |
+| Real-Time Transient Response Optimization | Anahida Kanade et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.21886v1) |
+| A Hybrid Predictive Ensemble of Machine Learning and Deep Neural Networks for Early Cardiovascular Disease Risk Assessment | Balaji Venkateswaran | 2026 | [📄 Read](http://arxiv.org/abs/2609.05146v1) |
+| Energy-Neutral Coverage Optimization by Joint Deployment and Scheduling in Ambient IoT Devices with Directional Sensing | David E. Ruíz-Guirola et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26944v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 07 September 2026, 20:14 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 08 September 2026, 01:02 WIB</sub>
