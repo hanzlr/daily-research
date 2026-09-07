@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| A Differentiable Neural Surrogate for Photon Propagation in Neutrino Telescopes | Felix J. Yu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04695v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
 | Distill Globally, Adapt Locally: Reasoning Distillation and Product-Type Test-Time Training for Scalable Trade-Up Recommendation | Siliang Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05363v1) |
-| An Adversarial Zero-Shot Learning Approach for Anomaly Detection in Multivariate IoT Traffic Data | Mahshid Rezakhani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03505v1) |
-| RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments | Quoc H. Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05403v1) |
-| A Hybrid Predictive Ensemble of Machine Learning and Deep Neural Networks for Early Cardiovascular Disease Risk Assessment | Balaji Venkateswaran | 2026 | [📄 Read](http://arxiv.org/abs/2609.05146v1) |
-| On-board ML for Trace Gas detection in Imaging Spectroscopy data | Vít Růžička et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04458v1) |
-| Methane Detection On Board Satellites from Unorthorectified Imagery | Luca Marini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04906v1) |
-| Technical Manual for a Toolkit for Measuring Contextual Individuation in Transformer Language Models | José Luciano Verçosa Marques et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05333v1) |
-| Variational Continuation for Double Pendulum Periodic Orbits | Leo Yao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05337v1) |
+| Candidate Comparability Before Promotion: Conditional Validation in Adaptive Network Intrusion Detection | Roberto Fernández-Barrios et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04388v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v3) |
+| BanglaMed-QA: A Question Answering System for Healthcare Support in Bangla | Rowzatul Zannat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28329v1) |
 | UniMate: One Unified Model to Animate Diverse Skeletons | Linzhan Mou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05415v1) |
+| Variational Continuation for Double Pendulum Periodic Orbits | Leo Yao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05337v1) |
+| Lightweight Vision Transformer Compression for On-Device Plant Disease Detection in Resource-Constrained Agricultural Field Conditions | Mahadev Sunil Kumar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05334v1) |
+| An Adversarial Zero-Shot Learning Approach for Anomaly Detection in Multivariate IoT Traffic Data | Mahshid Rezakhani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03505v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 07 September 2026, 18:37 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 07 September 2026, 20:14 WIB</sub>
