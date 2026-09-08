@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Tuesday, 08 September 2026
+## 🗓️ Wednesday, 09 September 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| A Hybrid Predictive Ensemble of Machine Learning and Deep Neural Networks for Early Cardiovascular Disease Risk Assessment | Balaji Venkateswaran | 2026 | [📄 Read](http://arxiv.org/abs/2609.05146v1) |
-| Predictive Zonotope Reduction: Precise Runtime Monitoring under Uncertainty | Vladimir Krsmanovic et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03699v1) |
+| Lightweight Vision Transformer Compression for On-Device Plant Disease Detection in Resource-Constrained Agricultural Field Conditions | Mahadev Sunil Kumar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05334v1) |
 | Large Language Models with At Most One Spike per Neuron | Zhuoya Zhao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05151v1) |
+| Learning from VAE Errors to support ECG-based Differential Diagnosis of Myocardial Scar | Shayan Sharifi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05294v1) |
+| Variational Continuation for Double Pendulum Periodic Orbits | Leo Yao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05337v1) |
+| Distill Globally, Adapt Locally: Reasoning Distillation and Product-Type Test-Time Training for Scalable Trade-Up Recommendation | Siliang Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05363v1) |
+| Energy-Neutral Coverage Optimization by Joint Deployment and Scheduling in Ambient IoT Devices with Directional Sensing | David E. Ruíz-Guirola et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26944v1) |
 | RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments | Quoc H. Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05403v1) |
-| Physics-Informed Stochastic Configuration Machine: A Backpropagation-Free Neural Network with Fast Training for Nonlinear Differential Equations | Yuehao Song et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26549v1) |
-| Technical Manual for a Toolkit for Measuring Contextual Individuation in Transformer Language Models | José Luciano Verçosa Marques et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05333v1) |
-| A Differentiable Neural Surrogate for Photon Propagation in Neutrino Telescopes | Felix J. Yu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04695v1) |
-| What Makes a Redundant Representation Remember? Lineage Isolation, Not Masking | Jia Huang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05304v1) |
-| Policy Iteration for Linear-Quadratic Stochastic Differential Games with State- and Control-Dependent Noise | Karl Handwerker et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.17940v1) |
-| On-board ML for Trace Gas detection in Imaging Spectroscopy data | Vít Růžička et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04458v1) |
+| Optimal Rates for Agentic Networked Information Aggregation | MohammadHossein Bateni et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05318v1) |
+| A Modular IoT-Enabled Remote Laboratory Platform for Hybrid Energy System Research and Engineering Education | Lamine Chalal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00815v1) |
+| UniMate: One Unified Model to Animate Diverse Skeletons | Linzhan Mou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.05415v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 08 September 2026, 12:37 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 09 September 2026, 01:18 WIB</sub>
