@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| From Protocols to Evidence: Bounded Claims for AI in Service of the Common Good | Nitesh V. Chawla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11910v1) |
-| Adaptive RIS-aided Communications through ML-based Generation of Phase Masks | Corwin Carpenter et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28890v1) |
-| TART: A Modular Tool for Technique-Aware Audio-to-Tablature Guitar Transcription | Akshaj Gupta et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11904v1) |
-| CAP: Continuously Adaptive Perception-Blind Humanoid Locomotion via Learned Denoising | Hongjin Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11553v1) |
-| CougarTail & CUB: A General-Purpose Mast and Central Utility Board for Cylindrical Underwater Enclosures | Ben Washburn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10230v1) |
-| AccelMPC: High-Rate, Low-Power FPGA-Accelerated Model Predictive Control for Tiny Drones | Andrea Grillo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.09380v1) |
+| Predictive Zonotope Reduction: Precise Runtime Monitoring under Uncertainty | Vladimir Krsmanovic et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03699v1) |
+| An Adversarial Zero-Shot Learning Approach for Anomaly Detection in Multivariate IoT Traffic Data | Mahshid Rezakhani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.03505v1) |
+| Candidate Comparability Before Promotion: Conditional Validation in Adaptive Network Intrusion Detection | Roberto Fernández-Barrios et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.04388v1) |
 | Constrained Bayesian Optimization for Hierarchical Federated Learning in IoT Networks for Plant Disease Classification | Athanasios Papanikolaou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.06830v1) |
-| The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement | Yi Duan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11873v1) |
-| Design and Implementation of a Kalman Filter-Infused Algorithm for Tilt Estimation | Yuehan Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00730v2) |
-| GRADE: Single-Frame Generative Radar Depth Estimation Under Visual Degradation | Bin Zhao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10756v1) |
+| Deep operator learning for efficient sampling from invariant measures of stochastic differential equations | Lin Guo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11376v1) |
+| Critic-Free Policy Iteration for Continuous-Time Zero-Sum Games: A Policy-Space Riccati Approach | Jiacheng Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11564v1) |
+| Estimating Inconsistency Response Surfaces under Uncertainty in Cyber-Physical System Development | Johannes Mäkelburg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11331v1) |
+| Testing Between the Test Cases: Proving End-to-End Steering in Conditions You Never Drove | Menuka Ghalan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10951v1) |
+| SwarmNxt: Open-source Software-Hardware Platform for Fast and Agile Aerial Swarms | Charbel Toumieh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11382v1) |
+| Predicting Train Delays in Finland Using Machine Learning and Weather Data | Vinicius Pozzobon Borin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11277v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 11 September 2026, 14:35 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 11 September 2026, 16:14 WIB</sub>
