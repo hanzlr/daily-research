@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Exposing the Invisible: Detecting Stealthy Parameter-Based Cyber-Attacks on Inverter Synchronization Loops | Zaint A. Alexakis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30574v1) |
-| Predicting Privacy Leakage from Weight Spectral Density | Richard J. Preen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11780v1) |
+| CougarTail & CUB: A General-Purpose Mast and Central Utility Board for Cylindrical Underwater Enclosures | Ben Washburn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10230v1) |
+| Exact PID and PI Gain Regions for Uncertain Non-Affine MIMO Systems | Cheng Zhao | 2026 | [📄 Read](http://arxiv.org/abs/2609.11130v1) |
 | Domain-Specific Hallucination Detection in Large Language Models | Varun Teja Chundru et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11878v1) |
-| Assessing Fixed-Batch Reporting for Deadline-constrained Inference in Intermittently Powered IoT | Onel L. A. López | 2026 | [📄 Read](http://arxiv.org/abs/2609.06585v1) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
-| A Modular IoT-Enabled Remote Laboratory Platform for Hybrid Energy System Research and Engineering Education | Lamine Chalal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00815v1) |
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| Predicting Train Delays in Finland Using Machine Learning and Weather Data | Vinicius Pozzobon Borin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11277v1) |
 | General Quantification of Covariate and Concept Shifts | Hongbo Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11918v1) |
-| Near-Optimal Reinforcement Learning with Multi-Step Transition Lookahead | Corentin Pla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11807v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v3) |
+| A Dataset and Model for Imputing Water Surface Elevation on a Large and Extremely Sparse Spatiotemporal Graph | Ruben Cartuyvels et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11580v1) |
+| From Protocols to Evidence: Bounded Claims for AI in Service of the Common Good | Nitesh V. Chawla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11910v1) |
+| A Unified Per-Token Gating Family for On-Policy Distillation: FKL/RKL Mixing with Multi-Channel and Bias Coefficients | Suwan Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11768v1) |
+| Predicting Privacy Leakage from Weight Spectral Density | Richard J. Preen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11780v1) |
+| Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data | Atindra Jha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11917v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 11 September 2026, 19:00 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 11 September 2026, 20:03 WIB</sub>
