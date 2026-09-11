@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
-| Assessing Fixed-Batch Reporting for Deadline-constrained Inference in Intermittently Powered IoT | Onel L. A. López | 2026 | [📄 Read](http://arxiv.org/abs/2609.06585v1) |
-| Energy-Neutral Coverage Optimization by Joint Deployment and Scheduling in Ambient IoT Devices with Directional Sensing | David E. Ruíz-Guirola et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.26944v1) |
-| GRADE: Single-Frame Generative Radar Depth Estimation Under Visual Degradation | Bin Zhao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10756v1) |
-| Deep operator learning for efficient sampling from invariant measures of stochastic differential equations | Lin Guo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11376v1) |
-| Exposing the Invisible: Detecting Stealthy Parameter-Based Cyber-Attacks on Inverter Synchronization Loops | Zaint A. Alexakis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.30574v1) |
-| EVPeriscope: Extended Perception across Aerial and Ground Vehicles with Event-based Propeller Tracking | Dexter Ong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11920v1) |
-| A Dataset and Model for Imputing Water Surface Elevation on a Large and Extremely Sparse Spatiotemporal Graph | Ruben Cartuyvels et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11580v1) |
+| From Protocols to Evidence: Bounded Claims for AI in Service of the Common Good | Nitesh V. Chawla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11910v1) |
+| Adaptive RIS-aided Communications through ML-based Generation of Phase Masks | Corwin Carpenter et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28890v1) |
+| TART: A Modular Tool for Technique-Aware Audio-to-Tablature Guitar Transcription | Akshaj Gupta et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11904v1) |
 | CAP: Continuously Adaptive Perception-Blind Humanoid Locomotion via Learned Denoising | Hongjin Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11553v1) |
-| Estimating Inconsistency Response Surfaces under Uncertainty in Cyber-Physical System Development | Johannes Mäkelburg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11331v1) |
+| CougarTail & CUB: A General-Purpose Mast and Central Utility Board for Cylindrical Underwater Enclosures | Ben Washburn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10230v1) |
+| AccelMPC: High-Rate, Low-Power FPGA-Accelerated Model Predictive Control for Tiny Drones | Andrea Grillo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.09380v1) |
+| Constrained Bayesian Optimization for Hierarchical Federated Learning in IoT Networks for Plant Disease Classification | Athanasios Papanikolaou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.06830v1) |
+| The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement | Yi Duan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11873v1) |
+| Design and Implementation of a Kalman Filter-Infused Algorithm for Tilt Estimation | Yuehan Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00730v2) |
+| GRADE: Single-Frame Generative Radar Depth Estimation Under Visual Degradation | Bin Zhao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10756v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 11 September 2026, 12:37 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 11 September 2026, 14:35 WIB</sub>
