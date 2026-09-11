@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| CougarTail & CUB: A General-Purpose Mast and Central Utility Board for Cylindrical Underwater Enclosures | Ben Washburn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10230v1) |
-| Exact PID and PI Gain Regions for Uncertain Non-Affine MIMO Systems | Cheng Zhao | 2026 | [📄 Read](http://arxiv.org/abs/2609.11130v1) |
-| Domain-Specific Hallucination Detection in Large Language Models | Varun Teja Chundru et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11878v1) |
-| Predicting Train Delays in Finland Using Machine Learning and Weather Data | Vinicius Pozzobon Borin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11277v1) |
-| General Quantification of Covariate and Concept Shifts | Hongbo Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11918v1) |
-| A Dataset and Model for Imputing Water Surface Elevation on a Large and Extremely Sparse Spatiotemporal Graph | Ruben Cartuyvels et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11580v1) |
-| From Protocols to Evidence: Bounded Claims for AI in Service of the Common Good | Nitesh V. Chawla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11910v1) |
-| A Unified Per-Token Gating Family for On-Policy Distillation: FKL/RKL Mixing with Multi-Channel and Bias Coefficients | Suwan Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11768v1) |
-| Predicting Privacy Leakage from Weight Spectral Density | Richard J. Preen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11780v1) |
 | Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data | Atindra Jha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11917v1) |
+| Planning along Differentiable Charts of Constraint Manifolds with General-Purpose IK Solvers | Thomas Cohn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10905v1) |
+| From Protocols to Evidence: Bounded Claims for AI in Service of the Common Good | Nitesh V. Chawla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11910v1) |
+| CAP: Continuously Adaptive Perception-Blind Humanoid Locomotion via Learned Denoising | Hongjin Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11553v1) |
+| GRADE: Single-Frame Generative Radar Depth Estimation Under Visual Degradation | Bin Zhao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10756v1) |
+| The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement | Yi Duan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11873v1) |
+| Using Automated Vehicles Operational Data to Confirm Safety and Anticipate Threats | Riccardo Donà et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11549v1) |
+| General Quantification of Covariate and Concept Shifts | Hongbo Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11918v1) |
+| SwarmNxt: Open-source Software-Hardware Platform for Fast and Agile Aerial Swarms | Charbel Toumieh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11382v1) |
+| Visual-SLAM for the detection of hidden tomatoes in greenhouses by Hierarchical Localization and GLOMAPfor robotized harvesting | Fernando Cañadas-Aránega et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.11766v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 11 September 2026, 20:03 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 11 September 2026, 21:45 WIB</sub>
