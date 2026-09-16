@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Wednesday, 16 September 2026
+## 🗓️ Thursday, 17 September 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Bridging the Confidence Gap: Temperature Scaling for Calibrating Test-Time Prompt Tuning | Yuwei Liang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17386v1) |
-| ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation | Vicky Feliren et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17499v1) |
-| Bridging the Gap Between Homogeneous and Heterogeneous Asynchronous Optimization Is Surprisingly Difficult | Alexander Tyurin | 2026 | [📄 Read](http://arxiv.org/abs/2609.17483v1) |
-| HoliBench: A Cross-Platform Benchmarking and Deployment Toolkit for Foundation Models in CPS-IoT Applications | Inesh Chakrabarti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.12412v1) |
-| Bias-Induced Crossover in Absolute Capacity of Dense Associative Memory | Yuto Sakurai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17477v1) |
-| FreqSpaNet: Frequency and Spatial Learning of SFPF for Physical Layer Hardware Integrity Detection | Xiaoxuan Huang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17491v1) |
-| Event-based Selective Attention for Multi-resolution Fast Region of Interest (ROI) Detection | Luca Peres et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17134v1) |
-| Cross-Domain Inference for Human Localization: Applying Wi-Fi RSSI Data to CSI-Trained Models | Ariel Duschanek-Myers et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17204v1) |
+| Bio-Inspired Palette Evolution in Indirectly Encoded Substrates: Timescale Compatibility Shapes Activation Function Discovery | Romain Claret et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17067v1) |
 | Learning-Guided Planning in Large Dynamic Action Spaces: Budgeted Tree Search for One-to-Many Mobile Charging | Liang-Ching Tao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17429v1) |
-| Beyond Noise: Understanding and Overcoming Temperature Effects in Analog DNN Inference | Niklas Summ et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.15527v1) |
+| Machine Zygote: Causal Biparental Heredity Before Learning in a Germline--Soma Artificial Agent | Lyes Saad Saoud | 2026 | [📄 Read](http://arxiv.org/abs/2609.17300v1) |
+| AccelMPC: High-Rate, Low-Power FPGA-Accelerated Model Predictive Control for Tiny Drones | Andrea Grillo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.09380v1) |
+| CougarTail & CUB: A General-Purpose Mast and Central Utility Board for Cylindrical Underwater Enclosures | Ben Washburn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10230v1) |
+| Online Geometric Change Detection via Scene Decomposition | David Thorne et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17302v1) |
+| AsyncCouple-Flow: Asynchronous Cross-Modal Coupling and Flow Matching for Spatio-Temporal Forecasting | Zhixiang Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.16573v1) |
+| Adaptive RIS-aided Communications through ML-based Generation of Phase Masks | Corwin Carpenter et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28890v1) |
+| Design and Implementation of a Kalman Filter-Infused Algorithm for Tilt Estimation | Yuehan Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00730v2) |
+| TIO-Former: Ultra-Lightweight 6-Directional ToF-Inertial Odometry for Nano-UAVs via a Streaming Causal Transformer | Yang Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17198v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 16 September 2026, 15:03 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 17 September 2026, 00:25 WIB</sub>
