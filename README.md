@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Bio-Inspired Palette Evolution in Indirectly Encoded Substrates: Timescale Compatibility Shapes Activation Function Discovery | Romain Claret et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17067v1) |
-| Learning-Guided Planning in Large Dynamic Action Spaces: Budgeted Tree Search for One-to-Many Mobile Charging | Liang-Ching Tao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17429v1) |
-| Machine Zygote: Causal Biparental Heredity Before Learning in a Germline--Soma Artificial Agent | Lyes Saad Saoud | 2026 | [📄 Read](http://arxiv.org/abs/2609.17300v1) |
-| AccelMPC: High-Rate, Low-Power FPGA-Accelerated Model Predictive Control for Tiny Drones | Andrea Grillo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.09380v1) |
-| CougarTail & CUB: A General-Purpose Mast and Central Utility Board for Cylindrical Underwater Enclosures | Ben Washburn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10230v1) |
-| Online Geometric Change Detection via Scene Decomposition | David Thorne et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17302v1) |
-| AsyncCouple-Flow: Asynchronous Cross-Modal Coupling and Flow Matching for Spatio-Temporal Forecasting | Zhixiang Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.16573v1) |
-| Adaptive RIS-aided Communications through ML-based Generation of Phase Masks | Corwin Carpenter et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28890v1) |
-| Design and Implementation of a Kalman Filter-Infused Algorithm for Tilt Estimation | Yuehan Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00730v2) |
+| Cross-Domain Inference for Human Localization: Applying Wi-Fi RSSI Data to CSI-Trained Models | Ariel Duschanek-Myers et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17204v1) |
 | TIO-Former: Ultra-Lightweight 6-Directional ToF-Inertial Odometry for Nano-UAVs via a Streaming Causal Transformer | Yang Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17198v1) |
+| A Modular IoT-Enabled Remote Laboratory Platform for Hybrid Energy System Research and Engineering Education | Lamine Chalal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00815v1) |
+| The Robot Data Factory | Sami Haddadin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.16705v1) |
+| Online Geometric Change Detection via Scene Decomposition | David Thorne et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17302v1) |
+| A Mechanical Antenna for Improving Capacity Fairness in Dynamic Multi-Station Scenarios | Akihito Taya et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.16877v1) |
+| RobResilience: Implementing and Evaluating a Resilience Framework for Cyber-Physical Embodied Systems | Gysella Imrell et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17349v1) |
+| Learning-Guided Planning in Large Dynamic Action Spaces: Budgeted Tree Search for One-to-Many Mobile Charging | Liang-Ching Tao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17429v1) |
+| From Foundation Embeddings to Cropland Maps: Label Efficiency, Temporal Transferability and Independent Human Validation | Mohammad Ammar Mughees et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17138v1) |
+| Assessing Fixed-Batch Reporting for Deadline-constrained Inference in Intermittently Powered IoT | Onel L. A. López | 2026 | [📄 Read](http://arxiv.org/abs/2609.06585v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 17 September 2026, 00:25 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 17 September 2026, 01:39 WIB</sub>
