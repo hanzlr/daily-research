@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Thursday, 17 September 2026
+## 🗓️ Friday, 18 September 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| ReDIL-GNN: Resynthesis Domain Incremental Learning for Circuit Graph Neural Networks | Rupesh Raj Karn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18595v1) |
+| WeaveRL: Weaving Reconstruction into Scene-Aware Fabrics for Perceptive Reinforcement Learning | Remo Steiner et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18685v1) |
+| Beyond Pixel Similarity: Task-Aware Evaluation of GAN-Based Synthetic Sonar Data for Robotic Perception | Hannan Ejaz Keen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18100v1) |
 | The evolution of sex for artificial intelligence: a population-genetic framework for multigenerational model populations | Giorgio F. Gilestro | 2026 | [📄 Read](http://arxiv.org/abs/2609.18560v1) |
-| Exponential Hardness of Off-Policy Evaluation under History-Dependent Logging | Pranaya Jajoo | 2026 | [📄 Read](http://arxiv.org/abs/2609.19135v1) |
+| Transformation Laws in Neural Representations: Structure, Realisability, and Construction | Yuan Sun | 2026 | [📄 Read](http://arxiv.org/abs/2609.18190v1) |
+| SOL-SLAM: Inverse Compositional Gauss-Newton Direct Registration for Fast Sonar-Only Local SLAM | Kalvik Jakkala et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18893v1) |
+| Model-Free PID Tuning by Step-Response Inspection | Daniel Pachner et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.15711v1) |
+| ReDIL-GNN: Resynthesis Domain Incremental Learning for Circuit Graph Neural Networks | Rupesh Raj Karn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18595v1) |
 | Active perception for robotic harvesting: 3D reconstruction and localisation of tomatoes hidden within clusters in a Mediterranean greenhouse | Fernando Cañadas-Aránega et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18738v1) |
-| How Model Growth, Recursion, and Boundary Operators Influence Scaling Exponents | Zixi Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.19107v1) |
-| Benchmarking Visual-Inertial Odometry in Subterranean Environments Under Sensor Degradation, Miscalibration, and Dynamic Occlusion | Yueying Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18628v1) |
-| Risk-Aware World Modeling with Flow-Guided Occupancy Evolution for Selective Trajectory Planning in Automated Driving | Rongxiang Zeng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18442v1) |
-| A Zeroth-Order Paradigm for LLM Preference Alignment | Peter Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.19144v1) |
-| DeformSmith: Physics Harness-Guided Hierarchical Generation of Deformable Assets for Robot Manipulation | Can Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18620v1) |
-| A Metaheuristic Optimization Framework for Discrete Optimization under Strict Time Limits | Umut Çalıkyılmaz et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18702v1) |
+| Beyond Direct Sensing: Harnessing Indirect Observations from Third-Party Sensors in Vehicle Tracking | Gaofeng Dong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18173v1) |
+| Data-Driven Policy Iteration Without an Initial Stabilizing Policy: A Finite-Horizon Bootstrap Method | Jiacheng Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17191v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 17 September 2026, 12:46 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 18 September 2026, 00:25 WIB</sub>
