@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| WeaveRL: Weaving Reconstruction into Scene-Aware Fabrics for Perceptive Reinforcement Learning | Remo Steiner et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18685v1) |
-| Beyond Pixel Similarity: Task-Aware Evaluation of GAN-Based Synthetic Sonar Data for Robotic Perception | Hannan Ejaz Keen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18100v1) |
-| The evolution of sex for artificial intelligence: a population-genetic framework for multigenerational model populations | Giorgio F. Gilestro | 2026 | [📄 Read](http://arxiv.org/abs/2609.18560v1) |
-| Transformation Laws in Neural Representations: Structure, Realisability, and Construction | Yuan Sun | 2026 | [📄 Read](http://arxiv.org/abs/2609.18190v1) |
-| SOL-SLAM: Inverse Compositional Gauss-Newton Direct Registration for Fast Sonar-Only Local SLAM | Kalvik Jakkala et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18893v1) |
-| Model-Free PID Tuning by Step-Response Inspection | Daniel Pachner et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.15711v1) |
-| ReDIL-GNN: Resynthesis Domain Incremental Learning for Circuit Graph Neural Networks | Rupesh Raj Karn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18595v1) |
-| Active perception for robotic harvesting: 3D reconstruction and localisation of tomatoes hidden within clusters in a Mediterranean greenhouse | Fernando Cañadas-Aránega et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18738v1) |
-| Beyond Direct Sensing: Harnessing Indirect Observations from Third-Party Sensors in Vehicle Tracking | Gaofeng Dong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18173v1) |
-| Data-Driven Policy Iteration Without an Initial Stabilizing Policy: A Finite-Horizon Bootstrap Method | Jiacheng Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17191v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| VoiceTrace: A Benchmark and Retrieval Framework for Who-Said-What Speech Retrieval | Aaron Yee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18521v1) |
+| A Comprehensive Review of Generative Physical Artificial Intelligence | Satyam Gaba et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18111v1) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| LLM-Enhanced Multi-Agent Reinforcement Learning for Unified Electric Vehicles-Charging Station-Grid Optimization in Public Charging Systems | Yang Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.13805v1) |
+| Comprehensive reconstruction of collider events with hypergraph representation learning and graph-conditioned diffusion | Lining Mao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18928v1) |
+| Beyond EER: Multi-Dimensional Evaluation of Information Leakage in Speaker De-Identification | Seungmin Seo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18673v1) |
+| CoAdapt: An LLM-based Framework for Adaptive Collaborative Perception in IIoT Robotic Swarms | Houssam Hajj Hassan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.16852v1) |
+| Beyond Truncation: Rethinking LLM Decoding as Ensemble Pruning | Dunyao Xue et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18723v1) |
+| MANE: A Multi-Path Adaptive Network for Edge Onloading of Deep Neural Networks | Sokratis Nikolaidis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.14660v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 18 September 2026, 00:25 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 18 September 2026, 01:49 WIB</sub>
