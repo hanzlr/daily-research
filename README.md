@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Calibrated RF-Fingerprinting Under Interference With Heterogeneous Transmission Protocols | Tariq Abdul-Quddoos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20765v1) |
-| OPTED: On-Policy Fine-Tuning for End-to-End Driving using a Render-Free Teacher | Damiano Da Col et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20756v1) |
-| When Do Language-Grounded Explanations Help? A Graph-Bottleneck for Farm Monitoring Interpretable Sheep Facial Pain | Alam Noor et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20427v1) |
-| A Mechanical Antenna for Improving Capacity Fairness in Dynamic Multi-Station Scenarios | Akihito Taya et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.16877v1) |
-| RTK-Vision PPO for Autonomous Micro UAV Recovery on an Airborne Carrier | Aashish Sahu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20629v1) |
 | Accelerating Visual Policy Learning with Sampling-Based Model Predictive Control | Yilang Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20575v1) |
-| The Missing Complement: State-Conditioned Minimal Sufficient Evidence for Coding Agents | Zhexi Feng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20050v1) |
-| A Modular IoT-Enabled Remote Laboratory Platform for Hybrid Energy System Research and Engineering Education | Lamine Chalal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00815v1) |
-| DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation | Yan Qin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20649v1) |
-| Towards Scaling Marine Perception with Synthetic Data | Haoyu Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20680v1) |
+| AccelMPC: High-Rate, Low-Power FPGA-Accelerated Model Predictive Control for Tiny Drones | Andrea Grillo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.09380v1) |
+| CougarTail & CUB: A General-Purpose Mast and Central Utility Board for Cylindrical Underwater Enclosures | Ben Washburn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10230v1) |
+| Adaptive RIS-aided Communications through ML-based Generation of Phase Masks | Corwin Carpenter et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28890v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v3) |
+| NS3Learn: Transferring 5G NR Mode-2 Reception Realism from ns-3 to the Veins/SUMO Stack for Connected-Vehicle Safety Assessment | Rasheed Bello et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20578v1) |
+| Calibrated RF-Fingerprinting Under Interference With Heterogeneous Transmission Protocols | Tariq Abdul-Quddoos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20765v1) |
+| Design and Implementation of a Kalman Filter-Infused Algorithm for Tilt Estimation | Yuehan Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00730v2) |
+| A Comprehensive Review of Generative Physical Artificial Intelligence | Satyam Gaba et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18111v1) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 18 September 2026, 16:16 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 18 September 2026, 17:35 WIB</sub>
