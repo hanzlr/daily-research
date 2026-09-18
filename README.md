@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
-| VoiceTrace: A Benchmark and Retrieval Framework for Who-Said-What Speech Retrieval | Aaron Yee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18521v1) |
-| A Comprehensive Review of Generative Physical Artificial Intelligence | Satyam Gaba et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18111v1) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
-| LLM-Enhanced Multi-Agent Reinforcement Learning for Unified Electric Vehicles-Charging Station-Grid Optimization in Public Charging Systems | Yang Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.13805v1) |
-| Comprehensive reconstruction of collider events with hypergraph representation learning and graph-conditioned diffusion | Lining Mao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18928v1) |
-| Beyond EER: Multi-Dimensional Evaluation of Information Leakage in Speaker De-Identification | Seungmin Seo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18673v1) |
-| CoAdapt: An LLM-based Framework for Adaptive Collaborative Perception in IIoT Robotic Swarms | Houssam Hajj Hassan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.16852v1) |
-| Beyond Truncation: Rethinking LLM Decoding as Ensemble Pruning | Dunyao Xue et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18723v1) |
-| MANE: A Multi-Path Adaptive Network for Edge Onloading of Deep Neural Networks | Sokratis Nikolaidis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.14660v1) |
+| How Does Distribution Shift Shape Pretraining Gains in Neural PDE Surrogates? | Pochinapeddi Sai Bhargav et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20814v1) |
+| Quantifying Overclaiming Propensity in Frontier LLM Agents | Nolan Smyth et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20812v1) |
+| A Metaheuristic Optimization Framework for Discrete Optimization under Strict Time Limits | Umut Çalıkyılmaz et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18702v1) |
+| Accelerating Visual Policy Learning with Sampling-Based Model Predictive Control | Yilang Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20575v1) |
+| Adaptive RIS-aided Communications through ML-based Generation of Phase Masks | Corwin Carpenter et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28890v1) |
+| NS3Learn: Transferring 5G NR Mode-2 Reception Realism from ns-3 to the Veins/SUMO Stack for Connected-Vehicle Safety Assessment | Rasheed Bello et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20578v1) |
+| Self-Replicating Neural Cellular Automata: Quantifying Emergent Phenotypic and Genotypic Diversity in an OpenEnded Substrate | Sanyam Jain et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.19902v1) |
+| Paint-Anything: Unified Any-Color Control for Image Generation and Editing | Ji Xie et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20816v1) |
+| Embedding Models Measure in Peculiar Ways | Juri Opitz et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20821v1) |
+| CougarTail & CUB: A General-Purpose Mast and Central Utility Board for Cylindrical Underwater Enclosures | Ben Washburn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10230v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 18 September 2026, 01:49 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 18 September 2026, 09:51 WIB</sub>
