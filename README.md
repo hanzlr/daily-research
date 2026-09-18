@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| How Does Distribution Shift Shape Pretraining Gains in Neural PDE Surrogates? | Pochinapeddi Sai Bhargav et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20814v1) |
-| Quantifying Overclaiming Propensity in Frontier LLM Agents | Nolan Smyth et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20812v1) |
-| A Metaheuristic Optimization Framework for Discrete Optimization under Strict Time Limits | Umut Çalıkyılmaz et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18702v1) |
+| A Mechanical Antenna for Improving Capacity Fairness in Dynamic Multi-Station Scenarios | Akihito Taya et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.16877v1) |
+| RISC-V and machine learning: a survey | Shriman Keshri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20677v1) |
+| RobResilience: Implementing and Evaluating a Resilience Framework for Cyber-Physical Embodied Systems | Gysella Imrell et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17349v1) |
+| Graph-Based Design of Soft Grippers with Multi-Objective Quality-Diversity Optimisation | Andre Farinha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20087v1) |
+| An Empirical Study of Harness Design for Coding Agents | Run-Ze Fan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20804v1) |
 | Accelerating Visual Policy Learning with Sampling-Based Model Predictive Control | Yilang Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20575v1) |
-| Adaptive RIS-aided Communications through ML-based Generation of Phase Masks | Corwin Carpenter et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28890v1) |
-| NS3Learn: Transferring 5G NR Mode-2 Reception Realism from ns-3 to the Veins/SUMO Stack for Connected-Vehicle Safety Assessment | Rasheed Bello et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20578v1) |
-| Self-Replicating Neural Cellular Automata: Quantifying Emergent Phenotypic and Genotypic Diversity in an OpenEnded Substrate | Sanyam Jain et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.19902v1) |
-| Paint-Anything: Unified Any-Color Control for Image Generation and Editing | Ji Xie et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20816v1) |
+| GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies | Xin Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20776v1) |
 | Embedding Models Measure in Peculiar Ways | Juri Opitz et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20821v1) |
-| CougarTail & CUB: A General-Purpose Mast and Central Utility Board for Cylindrical Underwater Enclosures | Ben Washburn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10230v1) |
+| Navi-Agent: Unlocalized Monocular Navigation Agent | Wenyuan Xie et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20388v1) |
+| Mechanical Precision Weeding with a Quadruped Robot | Ruben Beumer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20048v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 18 September 2026, 09:51 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 18 September 2026, 12:33 WIB</sub>
