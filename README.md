@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies | Xin Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20776v1) |
-| When Do Language-Grounded Explanations Help? A Graph-Bottleneck for Farm Monitoring Interpretable Sheep Facial Pain | Alam Noor et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20427v1) |
+| Embedding Models Measure in Peculiar Ways | Juri Opitz et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20821v1) |
+| Paint-Anything: Unified Any-Color Control for Image Generation and Editing | Ji Xie et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20816v1) |
+| CoAdapt: An LLM-based Framework for Adaptive Collaborative Perception in IIoT Robotic Swarms | Houssam Hajj Hassan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.16852v1) |
+| Quantifying Overclaiming Propensity in Frontier LLM Agents | Nolan Smyth et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20812v1) |
 | Graph-Based Design of Soft Grippers with Multi-Objective Quality-Diversity Optimisation | Andre Farinha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20087v1) |
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
-| RobResilience: Implementing and Evaluating a Resilience Framework for Cyber-Physical Embodied Systems | Gysella Imrell et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17349v1) |
-| A Mechanical Antenna for Improving Capacity Fairness in Dynamic Multi-Station Scenarios | Akihito Taya et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.16877v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v3) |
-| Assessing Fixed-Batch Reporting for Deadline-constrained Inference in Intermittently Powered IoT | Onel L. A. López | 2026 | [📄 Read](http://arxiv.org/abs/2609.06585v1) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
-| E-AVI: Evidence-Grounded Multimodal Assessment for Automated Video Interviews | Haoshen Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20001v1) |
+| A Comprehensive Review of Generative Physical Artificial Intelligence | Satyam Gaba et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18111v1) |
+| Mechanical Precision Weeding with a Quadruped Robot | Ruben Beumer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20048v1) |
+| MANE: A Multi-Path Adaptive Network for Edge Onloading of Deep Neural Networks | Sokratis Nikolaidis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.14660v1) |
+| GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies | Xin Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20776v1) |
+| Navi-Agent: Unlocalized Monocular Navigation Agent | Wenyuan Xie et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20388v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 18 September 2026, 20:11 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 18 September 2026, 21:43 WIB</sub>
