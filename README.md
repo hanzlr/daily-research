@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Accelerating Visual Policy Learning with Sampling-Based Model Predictive Control | Yilang Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20575v1) |
-| AccelMPC: High-Rate, Low-Power FPGA-Accelerated Model Predictive Control for Tiny Drones | Andrea Grillo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.09380v1) |
-| CougarTail & CUB: A General-Purpose Mast and Central Utility Board for Cylindrical Underwater Enclosures | Ben Washburn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10230v1) |
-| Adaptive RIS-aided Communications through ML-based Generation of Phase Masks | Corwin Carpenter et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28890v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v3) |
-| NS3Learn: Transferring 5G NR Mode-2 Reception Realism from ns-3 to the Veins/SUMO Stack for Connected-Vehicle Safety Assessment | Rasheed Bello et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20578v1) |
-| Calibrated RF-Fingerprinting Under Interference With Heterogeneous Transmission Protocols | Tariq Abdul-Quddoos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20765v1) |
-| Design and Implementation of a Kalman Filter-Infused Algorithm for Tilt Estimation | Yuehan Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00730v2) |
-| A Comprehensive Review of Generative Physical Artificial Intelligence | Satyam Gaba et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18111v1) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| A Functional Pilot for Certified Freshness-Aware Semantic--Spatial Range Retrieval | Taimoor Ahmad | 2026 | [📄 Read](http://arxiv.org/abs/2609.19855v1) |
+| E-AVI: Evidence-Grounded Multimodal Assessment for Automated Video Interviews | Haoshen Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20001v1) |
+| An Empirical Study of Harness Design for Coding Agents | Run-Ze Fan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20804v1) |
+| Paint-Anything: Unified Any-Color Control for Image Generation and Editing | Ji Xie et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20816v1) |
+| Quantifying Overclaiming Propensity in Frontier LLM Agents | Nolan Smyth et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20812v1) |
+| Seismic Site Response Prediction from Sparse Observations Using Finite-Element-Pretrained Latent Dynamics | Yi Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20451v1) |
+| Embedding Models Measure in Peculiar Ways | Juri Opitz et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20821v1) |
+| The Missing Complement: State-Conditioned Minimal Sufficient Evidence for Coding Agents | Zhexi Feng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20050v1) |
+| QoS-Aware Federated Learning for Multimodal In-Cabin Interaction in Smart Vehicles | Baran Can Gül et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20123v1) |
+| COIN-GP: Cooperative Online Learning in Networked Distributed Systems with Partial Measurements via Gaussian Process Regression | Zewen Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20598v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 18 September 2026, 17:35 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 18 September 2026, 19:02 WIB</sub>
