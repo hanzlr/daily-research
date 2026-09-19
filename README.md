@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| RTK-Vision PPO for Autonomous Micro UAV Recovery on an Airborne Carrier | Aashish Sahu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20629v1) |
-| OPTED: On-Policy Fine-Tuning for End-to-End Driving using a Render-Free Teacher | Damiano Da Col et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20756v1) |
-| Towards Scaling Marine Perception with Synthetic Data | Haoyu Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20680v1) |
-| COIN-GP: Cooperative Online Learning in Networked Distributed Systems with Partial Measurements via Gaussian Process Regression | Zewen Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20598v1) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
-| Self-Replicating Neural Cellular Automata: Quantifying Emergent Phenotypic and Genotypic Diversity in an OpenEnded Substrate | Sanyam Jain et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.19902v1) |
+| Opinion Dynamics-based Coalition Formation for Federated Learning in Heterogeneous IoT Systems | Mohammed El Hanjri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.19695v1) |
 | Seismic Site Response Prediction from Sparse Observations Using Finite-Element-Pretrained Latent Dynamics | Yi Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20451v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v3) |
+| A Comprehensive Review of Generative Physical Artificial Intelligence | Satyam Gaba et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18111v1) |
+| Cross-Domain Inference for Human Localization: Applying Wi-Fi RSSI Data to CSI-Trained Models | Ariel Duschanek-Myers et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17204v1) |
 | A Metaheuristic Optimization Framework for Discrete Optimization under Strict Time Limits | Umut Çalıkyılmaz et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18702v1) |
-| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| Accelerating Visual Policy Learning with Sampling-Based Model Predictive Control | Yilang Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20575v1) |
+| Self-Replicating Neural Cellular Automata: Quantifying Emergent Phenotypic and Genotypic Diversity in an OpenEnded Substrate | Sanyam Jain et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.19902v1) |
+| COIN-GP: Cooperative Online Learning in Networked Distributed Systems with Partial Measurements via Gaussian Process Regression | Zewen Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20598v1) |
+| Recursive Quantum Long Short-Term Memory for Stable Short-Horizon Temperature Forecasting | Mu-En Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20594v1) |
+| Calibrated RF-Fingerprinting Under Interference With Heterogeneous Transmission Protocols | Tariq Abdul-Quddoos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20765v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 September 2026, 17:19 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 September 2026, 18:45 WIB</sub>
