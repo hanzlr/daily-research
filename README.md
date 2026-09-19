@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| A Comprehensive Review of Generative Physical Artificial Intelligence | Satyam Gaba et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18111v1) |
+| RTK-Vision PPO for Autonomous Micro UAV Recovery on an Airborne Carrier | Aashish Sahu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20629v1) |
+| A Functional Pilot for Certified Freshness-Aware Semantic--Spatial Range Retrieval | Taimoor Ahmad | 2026 | [📄 Read](http://arxiv.org/abs/2609.19855v1) |
+| E-AVI: Evidence-Grounded Multimodal Assessment for Automated Video Interviews | Haoshen Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20001v1) |
 | LLM-Enhanced Multi-Agent Reinforcement Learning for Unified Electric Vehicles-Charging Station-Grid Optimization in Public Charging Systems | Yang Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.13805v1) |
-| RISC-V and machine learning: a survey | Shriman Keshri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20677v1) |
-| Design of Economic Dispatch Schemes of An Isolated BESS Network Based on Distributed Discrete-time PI+Rest Consensus | Yalin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.19804v1) |
-| QoS-Aware Federated Learning for Multimodal In-Cabin Interaction in Smart Vehicles | Baran Can Gül et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20123v1) |
-| Equivalent-Agent Guidance for Cooperative UAV Payload Transportation | Saurabh Kumar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.19312v1) |
-| Prediction-Powered Smoothing and Validation for Disaggregated AI Evaluation | Sho Kawano et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20758v1) |
 | MANE: A Multi-Path Adaptive Network for Edge Onloading of Deep Neural Networks | Sokratis Nikolaidis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.14660v1) |
-| An Empirical Study of Harness Design for Coding Agents | Run-Ze Fan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20804v1) |
-| Embedding Models Measure in Peculiar Ways | Juri Opitz et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20821v1) |
+| A Comprehensive Review of Generative Physical Artificial Intelligence | Satyam Gaba et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18111v1) |
+| The Missing Complement: State-Conditioned Minimal Sufficient Evidence for Coding Agents | Zhexi Feng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20050v1) |
+| DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation | Yan Qin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20649v1) |
+| Towards Scaling Marine Perception with Synthetic Data | Haoyu Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20680v1) |
+| OPTED: On-Policy Fine-Tuning for End-to-End Driving using a Render-Free Teacher | Damiano Da Col et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20756v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 September 2026, 12:30 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 September 2026, 14:39 WIB</sub>
