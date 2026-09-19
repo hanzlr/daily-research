@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| A Comprehensive Review of Generative Physical Artificial Intelligence | Satyam Gaba et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18111v1) |
-| MANE: A Multi-Path Adaptive Network for Edge Onloading of Deep Neural Networks | Sokratis Nikolaidis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.14660v1) |
-| CoAdapt: An LLM-based Framework for Adaptive Collaborative Perception in IIoT Robotic Swarms | Houssam Hajj Hassan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.16852v1) |
-| Equivalent-Agent Guidance for Cooperative UAV Payload Transportation | Saurabh Kumar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.19312v1) |
-| Data-Driven Policy Iteration Without an Initial Stabilizing Policy: A Finite-Horizon Bootstrap Method | Jiacheng Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17191v1) |
-| LLM-Enhanced Multi-Agent Reinforcement Learning for Unified Electric Vehicles-Charging Station-Grid Optimization in Public Charging Systems | Yang Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.13805v1) |
-| DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation | Yan Qin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20649v1) |
-| Seismic Site Response Prediction from Sparse Observations Using Finite-Element-Pretrained Latent Dynamics | Yi Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20451v1) |
-| QoS-Aware Federated Learning for Multimodal In-Cabin Interaction in Smart Vehicles | Baran Can Gül et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20123v1) |
 | RTK-Vision PPO for Autonomous Micro UAV Recovery on an Airborne Carrier | Aashish Sahu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20629v1) |
+| OPTED: On-Policy Fine-Tuning for End-to-End Driving using a Render-Free Teacher | Damiano Da Col et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20756v1) |
+| Towards Scaling Marine Perception with Synthetic Data | Haoyu Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20680v1) |
+| COIN-GP: Cooperative Online Learning in Networked Distributed Systems with Partial Measurements via Gaussian Process Regression | Zewen Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20598v1) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| Self-Replicating Neural Cellular Automata: Quantifying Emergent Phenotypic and Genotypic Diversity in an OpenEnded Substrate | Sanyam Jain et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.19902v1) |
+| Seismic Site Response Prediction from Sparse Observations Using Finite-Element-Pretrained Latent Dynamics | Yi Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20451v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v3) |
+| A Metaheuristic Optimization Framework for Discrete Optimization under Strict Time Limits | Umut Çalıkyılmaz et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18702v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 September 2026, 16:02 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 September 2026, 17:19 WIB</sub>
