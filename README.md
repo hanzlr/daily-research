@@ -18,14 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Calibrated RF-Fingerprinting Under Interference With Heterogeneous Transmission Protocols | Tariq Abdul-Quddoos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20765v1) |
+| When Do Language-Grounded Explanations Help? A Graph-Bottleneck for Farm Monitoring Interpretable Sheep Facial Pain | Alam Noor et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20427v1) |
+| DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation | Yan Qin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20649v1) |
+| OPTED: On-Policy Fine-Tuning for End-to-End Driving using a Render-Free Teacher | Damiano Da Col et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20756v1) |
 | Accelerating Visual Policy Learning with Sampling-Based Model Predictive Control | Yilang Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20575v1) |
-| Cross-Domain Inference for Human Localization: Applying Wi-Fi RSSI Data to CSI-Trained Models | Ariel Duschanek-Myers et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17204v1) |
+| GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies | Xin Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20776v1) |
+| Graph-Based Design of Soft Grippers with Multi-Objective Quality-Diversity Optimisation | Andre Farinha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20087v1) |
+| Towards Scaling Marine Perception with Synthetic Data | Haoyu Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20680v1) |
 | NS3Learn: Transferring 5G NR Mode-2 Reception Realism from ns-3 to the Veins/SUMO Stack for Connected-Vehicle Safety Assessment | Rasheed Bello et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20578v1) |
-| A Comprehensive Review of Generative Physical Artificial Intelligence | Satyam Gaba et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18111v1) |
-| Opinion Dynamics-based Coalition Formation for Federated Learning in Heterogeneous IoT Systems | Mohammed El Hanjri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.19695v1) |
-| Recursive Quantum Long Short-Term Memory for Stable Short-Horizon Temperature Forecasting | Mu-En Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20594v1) |
-| Beyond Noise: Understanding and Overcoming Temperature Effects in Analog DNN Inference | Niklas Summ et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.15527v1) |
+| Mechanical Precision Weeding with a Quadruped Robot | Ruben Beumer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20048v1) |
+| Navi-Agent: Unlocalized Monocular Navigation Agent | Wenyuan Xie et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20388v1) |
 
 ---
 
@@ -38,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 September 2026, 01:05 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 September 2026, 09:50 WIB</sub>
