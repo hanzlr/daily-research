@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Opinion Dynamics-based Coalition Formation for Federated Learning in Heterogeneous IoT Systems | Mohammed El Hanjri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.19695v1) |
-| Seismic Site Response Prediction from Sparse Observations Using Finite-Element-Pretrained Latent Dynamics | Yi Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20451v1) |
-| A Comprehensive Review of Generative Physical Artificial Intelligence | Satyam Gaba et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18111v1) |
-| Cross-Domain Inference for Human Localization: Applying Wi-Fi RSSI Data to CSI-Trained Models | Ariel Duschanek-Myers et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17204v1) |
-| A Metaheuristic Optimization Framework for Discrete Optimization under Strict Time Limits | Umut Çalıkyılmaz et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18702v1) |
-| Accelerating Visual Policy Learning with Sampling-Based Model Predictive Control | Yilang Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20575v1) |
-| Self-Replicating Neural Cellular Automata: Quantifying Emergent Phenotypic and Genotypic Diversity in an OpenEnded Substrate | Sanyam Jain et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.19902v1) |
-| COIN-GP: Cooperative Online Learning in Networked Distributed Systems with Partial Measurements via Gaussian Process Regression | Zewen Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20598v1) |
-| Recursive Quantum Long Short-Term Memory for Stable Short-Horizon Temperature Forecasting | Mu-En Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20594v1) |
-| Calibrated RF-Fingerprinting Under Interference With Heterogeneous Transmission Protocols | Tariq Abdul-Quddoos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20765v1) |
+| AccelMPC: High-Rate, Low-Power FPGA-Accelerated Model Predictive Control for Tiny Drones | Andrea Grillo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.09380v1) |
+| Mechanical Precision Weeding with a Quadruped Robot | Ruben Beumer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20048v1) |
+| How Does Distribution Shift Shape Pretraining Gains in Neural PDE Surrogates? | Pochinapeddi Sai Bhargav et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20814v1) |
+| Design and Implementation of a Kalman Filter-Infused Algorithm for Tilt Estimation | Yuehan Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00730v2) |
+| Graph-Based Design of Soft Grippers with Multi-Objective Quality-Diversity Optimisation | Andre Farinha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20087v1) |
+| Quantifying Overclaiming Propensity in Frontier LLM Agents | Nolan Smyth et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20812v1) |
+| CougarTail & CUB: A General-Purpose Mast and Central Utility Board for Cylindrical Underwater Enclosures | Ben Washburn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10230v1) |
+| Adaptive RIS-aided Communications through ML-based Generation of Phase Masks | Corwin Carpenter et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28890v1) |
+| Paint-Anything: Unified Any-Color Control for Image Generation and Editing | Ji Xie et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20816v1) |
+| GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies | Xin Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20776v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 September 2026, 18:45 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 September 2026, 19:43 WIB</sub>
