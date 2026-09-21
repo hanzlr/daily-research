@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| A Functional Pilot for Certified Freshness-Aware Semantic--Spatial Range Retrieval | Taimoor Ahmad | 2026 | [📄 Read](http://arxiv.org/abs/2609.19855v1) |
-| Accelerating Visual Policy Learning with Sampling-Based Model Predictive Control | Yilang Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20575v1) |
-| Design of Economic Dispatch Schemes of An Isolated BESS Network Based on Distributed Discrete-time PI+Rest Consensus | Yalin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.19804v1) |
-| MANE: A Multi-Path Adaptive Network for Edge Onloading of Deep Neural Networks | Sokratis Nikolaidis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.14660v1) |
-| NS3Learn: Transferring 5G NR Mode-2 Reception Realism from ns-3 to the Veins/SUMO Stack for Connected-Vehicle Safety Assessment | Rasheed Bello et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20578v1) |
-| E-AVI: Evidence-Grounded Multimodal Assessment for Automated Video Interviews | Haoshen Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20001v1) |
-| Calibrated RF-Fingerprinting Under Interference With Heterogeneous Transmission Protocols | Tariq Abdul-Quddoos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20765v1) |
-| LLM-Enhanced Multi-Agent Reinforcement Learning for Unified Electric Vehicles-Charging Station-Grid Optimization in Public Charging Systems | Yang Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.13805v1) |
-| Equivalent-Agent Guidance for Cooperative UAV Payload Transportation | Saurabh Kumar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.19312v1) |
-| Recursive Quantum Long Short-Term Memory for Stable Short-Horizon Temperature Forecasting | Mu-En Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20594v1) |
+| BrainWideBench: Benchmarking large-scale pretraining and across-animal transfer in multi-region neural recordings | Alexandre Andre et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.22064v1) |
+| Benchmarking World Models for Continual Learning on Compositional Tasks | Haoyu Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.22055v1) |
+| Emergent Intelligence: Resonant Oscillators Produce Proactive Adaptive Behavior | Alex Fedosov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.21161v1) |
+| Position Paper: Neurotransmitters as a Missing Dimension in Artificial Neural Networks | Yupei Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.20083v1) |
+| Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise | Fabricio Breve | 2026 | [📄 Read](http://arxiv.org/abs/2609.22053v1) |
+| Cross-Domain Inference for Human Localization: Applying Wi-Fi RSSI Data to CSI-Trained Models | Ariel Duschanek-Myers et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17204v1) |
+| Opinion Dynamics-based Coalition Formation for Federated Learning in Heterogeneous IoT Systems | Mohammed El Hanjri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.19695v1) |
+| Predictive Suppression Layers for Communication-Efficient Spiking Neural Networks | Aidin Attar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.21583v1) |
+| A Comprehensive Review of Generative Physical Artificial Intelligence | Satyam Gaba et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18111v1) |
+| Implicit Rule Induction with Test-Time Task Embeddings in ARC-like Tasks | Adrien Deliège et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.21181v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 September 2026, 00:58 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 September 2026, 09:59 WIB</sub>
