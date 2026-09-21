@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| BrainWideBench: Benchmarking large-scale pretraining and across-animal transfer in multi-region neural recordings | Alexandre Andre et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.22064v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v3) |
-| Benchmarking World Models for Continual Learning on Compositional Tasks | Haoyu Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.22055v1) |
-| AccelMPC: High-Rate, Low-Power FPGA-Accelerated Model Predictive Control for Tiny Drones | Andrea Grillo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.09380v1) |
-| Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise | Fabricio Breve | 2026 | [📄 Read](http://arxiv.org/abs/2609.22053v1) |
+| Dual-Interest Sequential Product Recommendation With Multi-Granular SSM | Shuiying Liao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.21548v1) |
 | Predictive Suppression Layers for Communication-Efficient Spiking Neural Networks | Aidin Attar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.21583v1) |
-| Emergent Intelligence: Resonant Oscillators Produce Proactive Adaptive Behavior | Alex Fedosov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.21161v1) |
-| Adaptive RIS-aided Communications through ML-based Generation of Phase Masks | Corwin Carpenter et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28890v1) |
-| A Confidence-Driven Evolutionary Algorithm for Noisy Optimization with Joint Chance Constraints | Enrico Halim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.21318v1) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| Learning to Move Cities: Deep Meta-Models and Reinforcement Policies for Calibration and Control in Urban Networks | Adewumi Augustine Adepitan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.21945v1) |
+| Available Guardrails: Certifying Selective Prediction across ML Systems | Parivesh Priye et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.22048v1) |
+| Design and Implementation of a Kalman Filter-Infused Algorithm for Tilt Estimation | Yuehan Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00730v2) |
+| Implicit Rule Induction with Test-Time Task Embeddings in ARC-like Tasks | Adrien Deliège et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.21181v1) |
+| A Comprehensive Review of Generative Physical Artificial Intelligence | Satyam Gaba et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18111v1) |
+| Cross-Domain Inference for Human Localization: Applying Wi-Fi RSSI Data to CSI-Trained Models | Ariel Duschanek-Myers et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17204v1) |
+| Opinion Dynamics-based Coalition Formation for Federated Learning in Heterogeneous IoT Systems | Mohammed El Hanjri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.19695v1) |
+| RACER: Role-Aligned Competence Estimation for Human-AI Routing | Joshua Strong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.21953v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 September 2026, 01:25 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 September 2026, 02:52 WIB</sub>
