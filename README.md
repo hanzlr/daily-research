@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Monday, 21 September 2026
+## 🗓️ Tuesday, 22 September 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Predictable Failure in Multi-Hop Retrieval: Score-Distributional Confidence Scoring and Abstention | Andre Bacellar | 2026 | [📄 Read](http://arxiv.org/abs/2609.22056v1) |
-| ZeroTouch: Tactile-Supervised Visual Contact Estimation for Contact-Rich Manipulation | Dmitriy Kosenkov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.21726v1) |
+| BrainWideBench: Benchmarking large-scale pretraining and across-animal transfer in multi-region neural recordings | Alexandre Andre et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.22064v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v3) |
 | Benchmarking World Models for Continual Learning on Compositional Tasks | Haoyu Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.22055v1) |
-| Calibration electronics for the 30 and 40 GHz instrument (TFGI) of the QUIJOTE experiment | Jorge Luis Díaz-Acosta et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.21127v1) |
 | AccelMPC: High-Rate, Low-Power FPGA-Accelerated Model Predictive Control for Tiny Drones | Andrea Grillo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.09380v1) |
-| CougarTail & CUB: A General-Purpose Mast and Central Utility Board for Cylindrical Underwater Enclosures | Ben Washburn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10230v1) |
-| Design of Economic Dispatch Schemes of An Isolated BESS Network Based on Distributed Discrete-time PI+Rest Consensus | Yalin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.19804v1) |
-| When Should a Failing Robot Ask? Initiating Corrective Human-Robot Dialogue from Audited Sensor Evidence | Eshika Pathak et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.21942v1) |
-| Design and Implementation of a Kalman Filter-Infused Algorithm for Tilt Estimation | Yuehan Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00730v2) |
 | Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise | Fabricio Breve | 2026 | [📄 Read](http://arxiv.org/abs/2609.22053v1) |
+| Predictive Suppression Layers for Communication-Efficient Spiking Neural Networks | Aidin Attar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.21583v1) |
+| Emergent Intelligence: Resonant Oscillators Produce Proactive Adaptive Behavior | Alex Fedosov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.21161v1) |
+| Adaptive RIS-aided Communications through ML-based Generation of Phase Masks | Corwin Carpenter et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28890v1) |
+| A Confidence-Driven Evolutionary Algorithm for Noisy Optimization with Joint Chance Constraints | Enrico Halim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.21318v1) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 September 2026, 12:55 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 September 2026, 01:25 WIB</sub>
