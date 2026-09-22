@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| A Monolithic Force-Proprioception Soft Acutuator Enabled by Single-Material 3D printing | Nan Huang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.24499v1) |
+| Trust in Edge-Enabled IoT Security: Features, Challenges and Research Directions | Esin Ece Aydın et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.24669v1) |
+| A Comprehensive Review of Generative Physical Artificial Intelligence | Satyam Gaba et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18111v1) |
+| A Mechanical Antenna for Improving Capacity Fairness in Dynamic Multi-Station Scenarios | Akihito Taya et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.16877v1) |
+| Assessing Fixed-Batch Reporting for Deadline-constrained Inference in Intermittently Powered IoT | Onel L. A. López | 2026 | [📄 Read](http://arxiv.org/abs/2609.06585v1) |
 | Predictive Suppression Layers for Communication-Efficient Spiking Neural Networks | Aidin Attar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.21583v1) |
-| Toward a foundation model for forest point clouds | Yuanwen Yue et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.24787v1) |
-| Learning tactile perception from high-bandwidth single-point sensing | Joseph Rigal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.24621v1) |
-| MiTHras: Task-specific Hierarchical Semi-supervised Contrastive Masked Autoencoder for Mitotic Figure Analysis | Trinh T. L. Vuong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.24736v1) |
-| MCP-GRANITE Benchmark: GRANularity Interface TEsting for MCP-Based LLM Agents | Demetris Paschalides et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.24161v1) |
 | Opinion Dynamics-based Coalition Formation for Federated Learning in Heterogeneous IoT Systems | Mohammed El Hanjri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.19695v1) |
-| RRSI: Regularized Recursive Self-Improvement of Agent Harnesses | Peng Xia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.24972v1) |
-| An Exact Junction-Tree Extended Formulation for Optimal Classification Trees | Jiancheng TU et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.24741v1) |
-| JAREX: An Acquisition Function for Multi-Objective Algorithmic Process Characterization | Xinyang Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.24954v1) |
+| vla.simd: Efficient CPU Inference for Language-Conditioned Manipulation | Khanh D. Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.24274v1) |
+| Design of Economic Dispatch Schemes of An Isolated BESS Network Based on Distributed Discrete-time PI+Rest Consensus | Yalin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.19804v1) |
+| Calibration electronics for the 30 and 40 GHz instrument (TFGI) of the QUIJOTE experiment | Jorge Luis Díaz-Acosta et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.21127v1) |
+| A Modular IoT-Enabled Remote Laboratory Platform for Hybrid Energy System Research and Engineering Education | Lamine Chalal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00815v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 September 2026, 12:52 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 September 2026, 15:03 WIB</sub>
