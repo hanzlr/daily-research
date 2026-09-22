@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Adaptive RIS-aided Communications through ML-based Generation of Phase Masks | Corwin Carpenter et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28890v1) |
-| MiTHras: Task-specific Hierarchical Semi-supervised Contrastive Masked Autoencoder for Mitotic Figure Analysis | Trinh T. L. Vuong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.24736v1) |
-| CESBench: Benchmarking Large Language Models on Cryptographic Engineering Security for IoT Devices | Wenquan Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.21344v1) |
-| Genetic Programming with Behaviour-based Niching for Learning Guided Local Search in Vehicle Routing Problems | Saining Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.24104v1) |
 | CougarTail & CUB: A General-Purpose Mast and Central Utility Board for Cylindrical Underwater Enclosures | Ben Washburn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10230v1) |
-| MCP-GRANITE Benchmark: GRANularity Interface TEsting for MCP-Based LLM Agents | Demetris Paschalides et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.24161v1) |
-| Critical-State RL: Diagnosing Trainable States for Multi-Turn Tool Use | Zixiang Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.24985v1) |
-| Trust in Edge-Enabled IoT Security: Features, Challenges and Research Directions | Esin Ece Aydın et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.24669v1) |
+| Learning tactile perception from high-bandwidth single-point sensing | Joseph Rigal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.24621v1) |
+| AccelMPC: High-Rate, Low-Power FPGA-Accelerated Model Predictive Control for Tiny Drones | Andrea Grillo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.09380v1) |
+| Design and Implementation of a Kalman Filter-Infused Algorithm for Tilt Estimation | Yuehan Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00730v2) |
+| Opinion Dynamics-based Coalition Formation for Federated Learning in Heterogeneous IoT Systems | Mohammed El Hanjri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.19695v1) |
+| Toward a foundation model for forest point clouds | Yuanwen Yue et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.24787v1) |
+| CESBench: Benchmarking Large Language Models on Cryptographic Engineering Security for IoT Devices | Wenquan Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.21344v1) |
 | A Comprehensive Review of Generative Physical Artificial Intelligence | Satyam Gaba et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18111v1) |
-| DCL-GPGLS: Dynamic Curriculum Learning for Genetic Programming Guided Local Search in Large-Scale Vehicle Routing | Saining Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.24105v1) |
+| A Monolithic Force-Proprioception Soft Acutuator Enabled by Single-Material 3D printing | Nan Huang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.24499v1) |
+| Predictive Suppression Layers for Communication-Efficient Spiking Neural Networks | Aidin Attar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.21583v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 23 September 2026, 00:29 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 23 September 2026, 01:29 WIB</sub>
