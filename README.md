@@ -14,14 +14,20 @@
 
 ---
 
-## 🗓️ Wednesday, 23 September 2026
+## 🗓️ Thursday, 24 September 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Destination Support Restoration for Finite-Set Multimodal Trajectory Prediction | Fengrui Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.25942v1) |
-| Wheel-loader V-Cycle Automation with Deep Koopman MPC | Armin Abdolmohammadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.26580v1) |
-| Underwater Navigation in Unsteady Flows Using Measurement Histories from a Single Sensing Unit | Linhao Jin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.26753v1) |
-| Manipulation of Deformable Linear Objects Using Model Predictive Path Integral Control with Bidirectional Long Short-Term Memory Learning | Lukas Zeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.26238v1) |
+| Adaptive RIS-aided Communications through ML-based Generation of Phase Masks | Corwin Carpenter et al. | 2026 | [📄 Read](http://arxiv.org/abs/2608.28890v1) |
+| SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue | Haobo Zheng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.26780v1) |
+| A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing | Xiaoxing Ren et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.26783v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
+| AccelMPC: High-Rate, Low-Power FPGA-Accelerated Model Predictive Control for Tiny Drones | Andrea Grillo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.09380v1) |
+| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
+| CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents | Trang Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.26779v1) |
+| A Spectral Theory of Grokking: Weight Decay induces Feature Learning | Lenz Pracher et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.26679v1) |
+| Design and Quantitative Evaluation of an Embedded EEG Instrumentation Platform for Real-Time SSVEP Decoding | Manh-Dat Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2601.01772v2) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
 
 ---
 
@@ -34,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 23 September 2026, 10:00 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 24 September 2026, 00:39 WIB</sub>
