@@ -18,16 +18,10 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| CougarTail & CUB: A General-Purpose Mast and Central Utility Board for Cylindrical Underwater Enclosures | Ben Washburn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10230v1) |
-| Learning tactile perception from high-bandwidth single-point sensing | Joseph Rigal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.24621v1) |
-| AccelMPC: High-Rate, Low-Power FPGA-Accelerated Model Predictive Control for Tiny Drones | Andrea Grillo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.09380v1) |
-| Design and Implementation of a Kalman Filter-Infused Algorithm for Tilt Estimation | Yuehan Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00730v2) |
-| Opinion Dynamics-based Coalition Formation for Federated Learning in Heterogeneous IoT Systems | Mohammed El Hanjri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.19695v1) |
-| Toward a foundation model for forest point clouds | Yuanwen Yue et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.24787v1) |
-| CESBench: Benchmarking Large Language Models on Cryptographic Engineering Security for IoT Devices | Wenquan Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.21344v1) |
-| A Comprehensive Review of Generative Physical Artificial Intelligence | Satyam Gaba et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.18111v1) |
-| A Monolithic Force-Proprioception Soft Acutuator Enabled by Single-Material 3D printing | Nan Huang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.24499v1) |
-| Predictive Suppression Layers for Communication-Efficient Spiking Neural Networks | Aidin Attar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.21583v1) |
+| Destination Support Restoration for Finite-Set Multimodal Trajectory Prediction | Fengrui Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.25942v1) |
+| Wheel-loader V-Cycle Automation with Deep Koopman MPC | Armin Abdolmohammadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.26580v1) |
+| Underwater Navigation in Unsteady Flows Using Measurement Histories from a Single Sensing Unit | Linhao Jin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.26753v1) |
+| Manipulation of Deformable Linear Objects Using Model Predictive Path Integral Control with Bidirectional Long Short-Term Memory Learning | Lukas Zeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.26238v1) |
 
 ---
 
@@ -40,4 +34,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 23 September 2026, 01:29 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 23 September 2026, 10:00 WIB</sub>
