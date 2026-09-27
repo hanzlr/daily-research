@@ -14,7 +14,7 @@
 
 ---
 
-## 🗓️ Sunday, 27 September 2026
+## 🗓️ Monday, 28 September 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
@@ -30,4 +30,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 27 September 2026, 17:15 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 28 September 2026, 00:23 WIB</sub>
