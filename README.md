@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| CMDO: A Cognitive Memory-Driven Optimization Algorithm for Adaptive Population-Based Search | Mohammed Yusuf Mujawar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.35657v1) |
-| CougarTail & CUB: A General-Purpose Mast and Central Utility Board for Cylindrical Underwater Enclosures | Ben Washburn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10230v1) |
-| Deep Learning Methods in Neuroscience: From Modeling Molecular Mechanisms to Classifying States of Consciousness | Elena Benderskaya et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.35372v1) |
+| Do Temporal Link Predictors Need Learned Memory? A Smoothed-Count Baseline with a Handful of Parameters | Lisi Qarkaxhija et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.35364v1) |
+| Prediction-Aware Structured Resource Control for Partitioned IRS-Assisted Mobile IoT Uplinks With Semi-Blind Cascaded-Channel Acquisition | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.26601v1) |
+| PhoneCLI: From App Interfaces to Callable Commands for Mobile Agents | Yangqin Jiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.35671v1) |
+| Trust in Edge-Enabled IoT Security: Features, Challenges and Research Directions | Esin Ece Aydın et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.24669v1) |
+| RobResilience: Implementing and Evaluating a Resilience Framework for Cyber-Physical Embodied Systems | Gysella Imrell et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17349v1) |
+| Hierarchical Edge Computing in SAGSIN: Multi-Layer Network Architecture and Multi-Level Information Processing | Jiajie Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.29467v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
+| MCP-GRANITE Benchmark: GRANularity Interface TEsting for MCP-Based LLM Agents | Demetris Paschalides et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.24161v1) |
+| Quantum-Aided Active Device Detection in Energy-Harvesting Symbiotic Radio Networks | Remon Polus et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.26565v1) |
 | A Unified Uncertainty Representation for Graph Neural Networks via Doubly-Spectral Stochastic Expansion | Fred Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.35703v1) |
-| Robust Variable-Horizon MPC for Landing a Multirotor UAV on a Moving Platform | Sander Doodeman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.34574v1) |
-| Learned Preconditioning for a Primal-Dual Interior-Point Method | Abhinav Madabhushi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.35665v1) |
-| EvE: An Alternate Optimizer to Adam | Shashank Raj et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.35614v1) |
-| Rethinking Personalized Generation: Test-Time Alignment via Factorized Ranking Models | Qiyao Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.35695v1) |
-| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
-| Statistical Learning of Contractive Dynamical Representations for Composite Adaptive Control | Min Kim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.35758v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 September 2026, 01:25 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 September 2026, 02:47 WIB</sub>
