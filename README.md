@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Tuesday, 29 September 2026
+## 🗓️ Wednesday, 30 September 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| ReG-SAM: Reference Graph-Driven SAM for 2D Foundational Vessel Segmentation | Donghang Lyu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.31160v1) |
-| Online Learning via Learned Latent Bayesian Tracking | Guy Gerson et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.31559v1) |
-| Common-Mode Collapse and Recovery in Direct Feedback Alignment | Varun Reddy et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.31589v1) |
-| Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency | Parsa Hosseini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.31619v1) |
-| A Systems-Engineered ESP32 DAQ Architecture and FAIR Data Workflow for Small-Scale Wind Turbine Performance Measurement in Tropical Environments | Asitha Lakruwan Kulasekera | 2026 | [📄 Read](http://arxiv.org/abs/2601.03867v1) |
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
-| BAT-CLIP: Trimodal Alignment of Brain, Audio and Text | Suhyun Kim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.31180v1) |
-| Uncertainty-Aware Federated Learning for Infant Movement Analysis | Edmond S. L. Ho | 2026 | [📄 Read](http://arxiv.org/abs/2609.31463v1) |
-| Rethinking Data Quality for AI-Driven Systems: Evidence from Practitioner Interviews | Hariharan Gopinath et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.31191v1) |
-| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
+| CMDO: A Cognitive Memory-Driven Optimization Algorithm for Adaptive Population-Based Search | Mohammed Yusuf Mujawar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.35657v1) |
+| CougarTail & CUB: A General-Purpose Mast and Central Utility Board for Cylindrical Underwater Enclosures | Ben Washburn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10230v1) |
+| Deep Learning Methods in Neuroscience: From Modeling Molecular Mechanisms to Classifying States of Consciousness | Elena Benderskaya et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.35372v1) |
+| A Unified Uncertainty Representation for Graph Neural Networks via Doubly-Spectral Stochastic Expansion | Fred Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.35703v1) |
+| Robust Variable-Horizon MPC for Landing a Multirotor UAV on a Moving Platform | Sander Doodeman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.34574v1) |
+| Learned Preconditioning for a Primal-Dual Interior-Point Method | Abhinav Madabhushi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.35665v1) |
+| EvE: An Alternate Optimizer to Adam | Shashank Raj et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.35614v1) |
+| Rethinking Personalized Generation: Test-Time Alignment via Factorized Ranking Models | Qiyao Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.35695v1) |
+| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
+| Statistical Learning of Contractive Dynamical Representations for Composite Adaptive Control | Min Kim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.35758v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 September 2026, 02:57 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 September 2026, 01:25 WIB</sub>
