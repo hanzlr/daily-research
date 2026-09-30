@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| A Priority-Aware Dual-Channel Feature Fusion Method for Urban Rail Service Traffic Classification | Xinpeng Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.32168v1) |
-| Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI | Cheng Qian et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38143v1) |
-| AdviSD: Learning to Advise Frontier LLMs via Targeted Multi-Turn Self-Distillation | Rishabh Agrawal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38142v1) |
-| STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization | Bingchen Yao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38169v1) |
+| AccelMPC: High-Rate, Low-Power FPGA-Accelerated Model Predictive Control for Tiny Drones | Andrea Grillo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.09380v1) |
+| CougarTail & CUB: A General-Purpose Mast and Central Utility Board for Cylindrical Underwater Enclosures | Ben Washburn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10230v1) |
+| Design and Implementation of a Kalman Filter-Infused Algorithm for Tilt Estimation | Yuehan Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00730v2) |
+| Hybrid Joint-Selective Optimization: Reduced-Space Levenberg-Marquardt Refinement of Low-Dimensional Parameters of Interest | Muhammad Luthfi Shahab et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.37308v1) |
+| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
+| A neural network that maintains and retrieves memories based on context | Hayoung Song et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.37791v1) |
+| Multi-Agent Flow Matching with Decoupled Generative Guidance | Ruoyu Lin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38133v1) |
+| Breakdown of Local Denoising as Semantic Speciation | Guangkuo Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38176v1) |
+| Multi-Marginal Inverse Optimal Transport for Contrastive Learning Via Explicit Anchor-Positive-Negative Coupling | Ngoc-Hai Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33741v1) |
 | Skill-Space Shooting for Autonomous Robot Policy Improvement | Zihang Rui et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38178v1) |
-| RobResilience: Implementing and Evaluating a Resilience Framework for Cyber-Physical Embodied Systems | Gysella Imrell et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17349v1) |
-| Probe-Space Preconditioning for Fast and Stable Zero-Order Training | Francois Chaubard et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38095v1) |
-| LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization | Yi Pan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38166v1) |
-| ReCIRC: Rectified Conformal Risk Control | Bruno Marcondes e Resende et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38112v1) |
-| Hierarchical Edge Computing in SAGSIN: Multi-Layer Network Architecture and Multi-Level Information Processing | Jiajie Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.29467v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 01 October 2026, 01:14 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 01 October 2026, 02:50 WIB</sub>
