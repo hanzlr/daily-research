@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Wednesday, 30 September 2026
+## 🗓️ Thursday, 01 October 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Brain-SAD: A Brain-Inspired Safe Autonomous Driving Control Framework with Dynamic Fear-Oriented Constraint on Dual-Policy | Huan Rong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38016v1) |
-| Hybrid Joint-Selective Optimization: Reduced-Space Levenberg-Marquardt Refinement of Low-Dimensional Parameters of Interest | Muhammad Luthfi Shahab et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.37308v1) |
-| Quantum-Aided Active Device Detection in Energy-Harvesting Symbiotic Radio Networks | Remon Polus et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.26565v1) |
-| SPPID: Saddle-Point PID for Constrained Optimization | Veronica Centorrino et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.31086v1) |
-| Design and Implementation of a Kalman Filter-Infused Algorithm for Tilt Estimation | Yuehan Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00730v2) |
-| A Second Torque Port for Series Elastic Actuators: Parallel-Integrated Design and Time-Scale Torque Allocation | Donghao Jia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.30873v1) |
-| Nutri-ATLAS: Embodied Agent for Tabulated Lookup and Assistance for Smarter nutrition | Uttej Kallakuri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.32803v1) |
-| AccelMPC: High-Rate, Low-Power FPGA-Accelerated Model Predictive Control for Tiny Drones | Andrea Grillo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.09380v1) |
-| A neural network that maintains and retrieves memories based on context | Hayoung Song et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.37791v1) |
-| Kolmogorov-Arnold Classifier Systems as Universal Approximators | Hiroki Shiraishi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.37958v1) |
+| A Priority-Aware Dual-Channel Feature Fusion Method for Urban Rail Service Traffic Classification | Xinpeng Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.32168v1) |
+| Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI | Cheng Qian et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38143v1) |
+| AdviSD: Learning to Advise Frontier LLMs via Targeted Multi-Turn Self-Distillation | Rishabh Agrawal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38142v1) |
+| STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization | Bingchen Yao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38169v1) |
+| Skill-Space Shooting for Autonomous Robot Policy Improvement | Zihang Rui et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38178v1) |
+| RobResilience: Implementing and Evaluating a Resilience Framework for Cyber-Physical Embodied Systems | Gysella Imrell et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17349v1) |
+| Probe-Space Preconditioning for Fast and Stable Zero-Order Training | Francois Chaubard et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38095v1) |
+| LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization | Yi Pan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38166v1) |
+| ReCIRC: Rectified Conformal Risk Control | Bruno Marcondes e Resende et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38112v1) |
+| Hierarchical Edge Computing in SAGSIN: Multi-Layer Network Architecture and Multi-Level Information Processing | Jiajie Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.29467v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 September 2026, 18:56 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 01 October 2026, 01:14 WIB</sub>
