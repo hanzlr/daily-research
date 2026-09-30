@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Hybrid Joint-Selective Optimization: Reduced-Space Levenberg-Marquardt Refinement of Low-Dimensional Parameters of Interest | Muhammad Luthfi Shahab et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.37308v1) |
-| ReCIRC: Rectified Conformal Risk Control | Bruno Marcondes e Resende et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38112v1) |
-| Flattening the Connectome Spectrum: A Spectral Filter for FC Induces a Pretraining Target for fMRI Encoders | Giovanni Marraffini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.37642v1) |
-| LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization | Yi Pan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38166v1) |
-| Gender bias across LLMs is common and highly heterogenous | Edoardo Bolzoni et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38036v1) |
-| Spatiotemporal Hyperedges for EEG Seizure Detection and Prediction | Hyunju Kim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.37730v1) |
-| PE-EK-PINN: Physics Embedding with Evolving Kernel for Scalable Physics-Informed Neural Networks | Huiwen Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38023v1) |
-| STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization | Bingchen Yao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38169v1) |
-| Skill-Space Shooting for Autonomous Robot Policy Improvement | Zihang Rui et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38178v1) |
 | Brain-SAD: A Brain-Inspired Safe Autonomous Driving Control Framework with Dynamic Fear-Oriented Constraint on Dual-Policy | Huan Rong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38016v1) |
+| Hybrid Joint-Selective Optimization: Reduced-Space Levenberg-Marquardt Refinement of Low-Dimensional Parameters of Interest | Muhammad Luthfi Shahab et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.37308v1) |
+| Quantum-Aided Active Device Detection in Energy-Harvesting Symbiotic Radio Networks | Remon Polus et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.26565v1) |
+| SPPID: Saddle-Point PID for Constrained Optimization | Veronica Centorrino et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.31086v1) |
+| Design and Implementation of a Kalman Filter-Infused Algorithm for Tilt Estimation | Yuehan Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00730v2) |
+| A Second Torque Port for Series Elastic Actuators: Parallel-Integrated Design and Time-Scale Torque Allocation | Donghao Jia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.30873v1) |
+| Nutri-ATLAS: Embodied Agent for Tabulated Lookup and Assistance for Smarter nutrition | Uttej Kallakuri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.32803v1) |
+| AccelMPC: High-Rate, Low-Power FPGA-Accelerated Model Predictive Control for Tiny Drones | Andrea Grillo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.09380v1) |
+| A neural network that maintains and retrieves memories based on context | Hayoung Song et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.37791v1) |
+| Kolmogorov-Arnold Classifier Systems as Universal Approximators | Hiroki Shiraishi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.37958v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 September 2026, 17:47 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 September 2026, 18:56 WIB</sub>
