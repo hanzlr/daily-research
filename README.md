@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| DQ-MPCC: Dual-Quaternion MPCC for Quadrotor Racing | Bryan S. Guevara et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.36482v1) |
-| Multi-Agent Flow Matching with Decoupled Generative Guidance | Ruoyu Lin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38133v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
-| Where Root Cause Analysis Fails: A Retrieval-Reranking Decomposition | Hada Melino Muhammad et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.36686v1) |
-| DROM: A Language-Guided Diffusion Framework for Multi-Skill Robotic Manipulation | Vincenzo Pomponi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.37348v1) |
-| An Effective, Reliable, and Robust Framework for Human Activity Recognition Using Wearable Sensors | Nafees Ahmad et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.36848v1) |
-| Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI | Cheng Qian et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38143v1) |
-| Breakdown of Local Denoising as Semantic Speciation | Guangkuo Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38176v1) |
-| A QCQP-Representable IMU Pre-Integration Factor for Certifiable State Estimation | Utkarsh Rai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38048v1) |
-| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
+| Hybrid Joint-Selective Optimization: Reduced-Space Levenberg-Marquardt Refinement of Low-Dimensional Parameters of Interest | Muhammad Luthfi Shahab et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.37308v1) |
+| ReCIRC: Rectified Conformal Risk Control | Bruno Marcondes e Resende et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38112v1) |
+| Flattening the Connectome Spectrum: A Spectral Filter for FC Induces a Pretraining Target for fMRI Encoders | Giovanni Marraffini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.37642v1) |
+| LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization | Yi Pan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38166v1) |
+| Gender bias across LLMs is common and highly heterogenous | Edoardo Bolzoni et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38036v1) |
+| Spatiotemporal Hyperedges for EEG Seizure Detection and Prediction | Hyunju Kim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.37730v1) |
+| PE-EK-PINN: Physics Embedding with Evolving Kernel for Scalable Physics-Informed Neural Networks | Huiwen Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38023v1) |
+| STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization | Bingchen Yao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38169v1) |
+| Skill-Space Shooting for Autonomous Robot Policy Improvement | Zihang Rui et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38178v1) |
+| Brain-SAD: A Brain-Inspired Safe Autonomous Driving Control Framework with Dynamic Fear-Oriented Constraint on Dual-Policy | Huan Rong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38016v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 September 2026, 16:08 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 September 2026, 17:47 WIB</sub>
