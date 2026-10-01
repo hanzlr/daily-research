@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Exploiting Vulnerabilities: Universal Adversarial Attacks on Vision-Language-Action Models in Robotics | Songhua Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39178v1) |
-| UniWAM Technical Report: Unified Mobile Manipulation via Mixed-Stream World-Action Modeling and Manipulation Anchor Pose Supervision | Wei Xue et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39388v1) |
-| Hierarchical Edge Computing in SAGSIN: Multi-Layer Network Architecture and Multi-Level Information Processing | Jiajie Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.29467v1) |
+| Multi-Marginal Inverse Optimal Transport for Contrastive Learning Via Explicit Anchor-Positive-Negative Coupling | Ngoc-Hai Nguyen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33741v1) |
+| Graph Residual Conjugate Diffusion: SNR-Equalized Heat Flow for Graph Signals | Jinwei Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39658v1) |
 | EdgeCraft: Automated Model Crafting for Edge IoT | Genglin Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.35167v1) |
-| Prediction-Aware Structured Resource Control for Partitioned IRS-Assisted Mobile IoT Uplinks With Semi-Blind Cascaded-Channel Acquisition | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.26601v1) |
+| TRACE: Trajectory Selection for Parallel Scaling of Search Agents | Qisheng Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39912v1) |
+| Kinematic signatures of impairment: Detecting alcohol intoxication in e-scooter riders using sensor data and machine learning | Rahul Rajendra Pai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38276v1) |
 | Cybersecurity in Edge Computing: A Trust-Aware Federated Hybrid Intrusion Detection Framework | Zawad Yalmie Sazid et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39584v1) |
-| RL-Guided PAC-NMPC for Probabilistically-Safe Perception-Based Navigation in Unknown Environments | Adam Polevoy et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39854v1) |
-| Tool-Policy Co-Design for Powder Weighing in Laboratory Automation | Nikola Radulov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39797v1) |
-| Benchmarking EMlog Calibration for Autonomous Surface Vehicles | Samuel Cohen-Salmon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39203v1) |
-| RobResilience: Implementing and Evaluating a Resilience Framework for Cyber-Physical Embodied Systems | Gysella Imrell et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17349v1) |
+| Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis | Tian Xia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.40361v1) |
+| Image Classifiers are Efficient Self-Supervised Video Representation Learners | Owais Iqbal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.40347v1) |
+| WARP: A Unified Benchmark for Invisible Image Watermarking -- Robustness and Protection Against Attacks | Khaled Abud et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.40031v1) |
+| Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text | Dulhan Jayalath et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.40359v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 01 October 2026, 19:27 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 01 October 2026, 21:08 WIB</sub>
