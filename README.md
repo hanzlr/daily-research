@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| WARP: A Unified Benchmark for Invisible Image Watermarking -- Robustness and Protection Against Attacks | Khaled Abud et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.40031v1) |
-| From Spectra to Joint Schedules in LLM Pre-training: 3+3(+2) Scaling-Law Regimes | Yichen Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.40148v1) |
-| Image Classifiers are Efficient Self-Supervised Video Representation Learners | Owais Iqbal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.40347v1) |
-| CoVisco: Codec-Native Vision Encoder with Native Token Compression for Unified Image-Video Understanding | Yulong Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39924v1) |
-| Design and Implementation of a Kalman Filter-Infused Algorithm for Tilt Estimation | Yuehan Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00730v2) |
 | Active Mapping of Underwater Litter Using Camera-Sonar Fusion | David Rete et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39898v1) |
-| Benchmarking EMlog Calibration for Autonomous Surface Vehicles | Samuel Cohen-Salmon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39203v1) |
-| RL-Guided PAC-NMPC for Probabilistically-Safe Perception-Based Navigation in Unknown Environments | Adam Polevoy et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39854v1) |
-| Learning Skills from Historical Action Trajectories: Action Experience Dictionary for World Action Models | Qi Lyu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.40219v1) |
 | Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
+| Graph Residual Conjugate Diffusion: SNR-Equalized Heat Flow for Graph Signals | Jinwei Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39658v1) |
+| Tool-Policy Co-Design for Powder Weighing in Laboratory Automation | Nikola Radulov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39797v1) |
+| Design and Implementation of a Kalman Filter-Infused Algorithm for Tilt Estimation | Yuehan Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00730v2) |
+| EFormer: Temporally Aligned Local Correction for Continuous sEMG-Based Hand Pose Tracking | JiaCheng Ge et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38932v1) |
+| A differentiability framework for zigzag persistent homology via linear interpolation | Enrico Maria Ferrari et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39242v1) |
+| CougarTail & CUB: A General-Purpose Mast and Central Utility Board for Cylindrical Underwater Enclosures | Ben Washburn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10230v1) |
+| Kinematic signatures of impairment: Detecting alcohol intoxication in e-scooter riders using sensor data and machine learning | Rahul Rajendra Pai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38276v1) |
+| UniWAM Technical Report: Unified Mobile Manipulation via Mixed-Stream World-Action Modeling and Manipulation Anchor Pose Supervision | Wei Xue et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39388v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 01 October 2026, 16:35 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 01 October 2026, 18:14 WIB</sub>
