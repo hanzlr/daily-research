@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Active Mapping of Underwater Litter Using Camera-Sonar Fusion | David Rete et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39898v1) |
-| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
-| Graph Residual Conjugate Diffusion: SNR-Equalized Heat Flow for Graph Signals | Jinwei Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39658v1) |
-| Tool-Policy Co-Design for Powder Weighing in Laboratory Automation | Nikola Radulov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39797v1) |
-| Design and Implementation of a Kalman Filter-Infused Algorithm for Tilt Estimation | Yuehan Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00730v2) |
-| EFormer: Temporally Aligned Local Correction for Continuous sEMG-Based Hand Pose Tracking | JiaCheng Ge et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38932v1) |
-| A differentiability framework for zigzag persistent homology via linear interpolation | Enrico Maria Ferrari et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39242v1) |
-| CougarTail & CUB: A General-Purpose Mast and Central Utility Board for Cylindrical Underwater Enclosures | Ben Washburn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10230v1) |
-| Kinematic signatures of impairment: Detecting alcohol intoxication in e-scooter riders using sensor data and machine learning | Rahul Rajendra Pai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38276v1) |
+| Exploiting Vulnerabilities: Universal Adversarial Attacks on Vision-Language-Action Models in Robotics | Songhua Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39178v1) |
 | UniWAM Technical Report: Unified Mobile Manipulation via Mixed-Stream World-Action Modeling and Manipulation Anchor Pose Supervision | Wei Xue et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39388v1) |
+| Hierarchical Edge Computing in SAGSIN: Multi-Layer Network Architecture and Multi-Level Information Processing | Jiajie Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.29467v1) |
+| EdgeCraft: Automated Model Crafting for Edge IoT | Genglin Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.35167v1) |
+| Prediction-Aware Structured Resource Control for Partitioned IRS-Assisted Mobile IoT Uplinks With Semi-Blind Cascaded-Channel Acquisition | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.26601v1) |
+| Cybersecurity in Edge Computing: A Trust-Aware Federated Hybrid Intrusion Detection Framework | Zawad Yalmie Sazid et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39584v1) |
+| RL-Guided PAC-NMPC for Probabilistically-Safe Perception-Based Navigation in Unknown Environments | Adam Polevoy et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39854v1) |
+| Tool-Policy Co-Design for Powder Weighing in Laboratory Automation | Nikola Radulov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39797v1) |
+| Benchmarking EMlog Calibration for Autonomous Surface Vehicles | Samuel Cohen-Salmon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39203v1) |
+| RobResilience: Implementing and Evaluating a Resilience Framework for Cyber-Physical Embodied Systems | Gysella Imrell et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17349v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 01 October 2026, 18:14 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 01 October 2026, 19:27 WIB</sub>
