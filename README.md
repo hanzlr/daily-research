@@ -18,14 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| EFormer: Temporally Aligned Local Correction for Continuous sEMG-Based Hand Pose Tracking | JiaCheng Ge et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38932v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
-| A differentiability framework for zigzag persistent homology via linear interpolation | Enrico Maria Ferrari et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39242v1) |
-| Graph Residual Conjugate Diffusion: SNR-Equalized Heat Flow for Graph Signals | Jinwei Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39658v1) |
-| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
-| Kinematic signatures of impairment: Detecting alcohol intoxication in e-scooter riders using sensor data and machine learning | Rahul Rajendra Pai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38276v1) |
-| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
+| Semifactual Credit-Augmented Policy Optimization | Junshu Pan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.40360v1) |
+| Quantum Computing for Network Security Classification: Near-Term Classification and Long-Term Memory Efficiency | Yuqing Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.36479v1) |
+| Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD? | Razan El Mais et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.40335v1) |
+| Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text | Dulhan Jayalath et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.40359v1) |
+| Nutri-ATLAS: Embodied Agent for Tabulated Lookup and Assistance for Smarter nutrition | Uttej Kallakuri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.32803v1) |
+| RobResilience: Implementing and Evaluating a Resilience Framework for Cyber-Physical Embodied Systems | Gysella Imrell et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17349v1) |
+| Hierarchical Edge Computing in SAGSIN: Multi-Layer Network Architecture and Multi-Level Information Processing | Jiajie Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.29467v1) |
+| Efficient Expert-Parallel Communication on PCIe-Connected Consumer GPUs | Jaehwan Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.40093v1) |
+| DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents | Haoyuan Deng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.40306v1) |
+| Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis | Tian Xia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.40361v1) |
 
 ---
 
@@ -38,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 02 October 2026, 00:13 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 02 October 2026, 01:39 WIB</sub>
