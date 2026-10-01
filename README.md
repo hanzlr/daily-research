@@ -14,20 +14,18 @@
 
 ---
 
-## 🗓️ Thursday, 01 October 2026
+## 🗓️ Friday, 02 October 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Prediction-Aware Structured Resource Control for Partitioned IRS-Assisted Mobile IoT Uplinks With Semi-Blind Cascaded-Channel Acquisition | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.26601v1) |
-| A Second Torque Port for Series Elastic Actuators: Parallel-Integrated Design and Time-Scale Torque Allocation | Donghao Jia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.30873v1) |
-| RobResilience: Implementing and Evaluating a Resilience Framework for Cyber-Physical Embodied Systems | Gysella Imrell et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17349v1) |
-| RL-Guided PAC-NMPC for Probabilistically-Safe Perception-Based Navigation in Unknown Environments | Adam Polevoy et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39854v1) |
-| Active Mapping of Underwater Litter Using Camera-Sonar Fusion | David Rete et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39898v1) |
-| MVP-SLAM: Multi-Camera Visual-Inertial Floorplan-Prior SLAM | Asier Bikandi-Noya et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39596v1) |
+| EFormer: Temporally Aligned Local Correction for Continuous sEMG-Based Hand Pose Tracking | JiaCheng Ge et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38932v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
+| A differentiability framework for zigzag persistent homology via linear interpolation | Enrico Maria Ferrari et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39242v1) |
+| Graph Residual Conjugate Diffusion: SNR-Equalized Heat Flow for Graph Signals | Jinwei Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39658v1) |
 | Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
-| SPPID: Saddle-Point PID for Constrained Optimization | Veronica Centorrino et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.31086v1) |
-| Hierarchical Edge Computing in SAGSIN: Multi-Layer Network Architecture and Multi-Level Information Processing | Jiajie Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.29467v1) |
-| Benchmarking EMlog Calibration for Autonomous Surface Vehicles | Samuel Cohen-Salmon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39203v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| Kinematic signatures of impairment: Detecting alcohol intoxication in e-scooter riders using sensor data and machine learning | Rahul Rajendra Pai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.38276v1) |
+| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
 
 ---
 
@@ -40,4 +38,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 01 October 2026, 22:45 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 02 October 2026, 00:13 WIB</sub>
