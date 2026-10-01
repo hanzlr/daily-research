@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| An Island-Based Parallel Biased Random-Key Genetic Algorithm for the Three-Dimensional Trailer Loading Problem | A. del Río et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39272v1) |
-| From DNA Design to DNA Slimming: Auditable Agentic Discovery of a Deletion-Only Designer | Joel Shor | 2026 | [📄 Read](http://arxiv.org/abs/2609.40143v1) |
-| Prediction-Aware Structured Resource Control for Partitioned IRS-Assisted Mobile IoT Uplinks With Semi-Blind Cascaded-Channel Acquisition | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.26601v1) |
-| Large Language Model-Guided Evolutionary Discovery of Native Neural Architectures for Spiking Sequence Modeling | Ruoyu Zhao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.40258v1) |
-| DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents | Haoyuan Deng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.40306v1) |
-| A Second Torque Port for Series Elastic Actuators: Parallel-Integrated Design and Time-Scale Torque Allocation | Donghao Jia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.30873v1) |
-| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
-| Null-model treatment of the sensory-motor boundary changes an evolutionary connectome comparison | Gyujeong Park | 2026 | [📄 Read](http://arxiv.org/abs/2609.39248v1) |
+| WARP: A Unified Benchmark for Invisible Image Watermarking -- Robustness and Protection Against Attacks | Khaled Abud et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.40031v1) |
+| From Spectra to Joint Schedules in LLM Pre-training: 3+3(+2) Scaling-Law Regimes | Yichen Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.40148v1) |
 | Image Classifiers are Efficient Self-Supervised Video Representation Learners | Owais Iqbal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.40347v1) |
-| A Priority-Aware Dual-Channel Feature Fusion Method for Urban Rail Service Traffic Classification | Xinpeng Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.32168v1) |
+| CoVisco: Codec-Native Vision Encoder with Native Token Compression for Unified Image-Video Understanding | Yulong Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39924v1) |
+| Design and Implementation of a Kalman Filter-Infused Algorithm for Tilt Estimation | Yuehan Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00730v2) |
+| Active Mapping of Underwater Litter Using Camera-Sonar Fusion | David Rete et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39898v1) |
+| Benchmarking EMlog Calibration for Autonomous Surface Vehicles | Samuel Cohen-Salmon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39203v1) |
+| RL-Guided PAC-NMPC for Probabilistically-Safe Perception-Based Navigation in Unknown Environments | Adam Polevoy et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39854v1) |
+| Learning Skills from Historical Action Trajectories: Action Experience Dictionary for World Action Models | Qi Lyu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.40219v1) |
+| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 01 October 2026, 13:51 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 01 October 2026, 16:35 WIB</sub>
