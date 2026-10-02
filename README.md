@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Prediction-Aware Structured Resource Control for Partitioned IRS-Assisted Mobile IoT Uplinks With Semi-Blind Cascaded-Channel Acquisition | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.26601v1) |
-| A Hybrid Approach to Malware Detection: Integrating Few-Shot Model-Agnostic Meta-Learning with Autoencoders | Emmanuela Andam et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.01949v1) |
-| Pooling Helps, Learned Weighting Hurts In-Context: Decomposing Group Attention | Michael Fore et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.01831v1) |
-| RobResilience: Implementing and Evaluating a Resilience Framework for Cyber-Physical Embodied Systems | Gysella Imrell et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.17349v1) |
-| Ex vivo breach detection using electrical conductivity during robotic pedicle drilling in the spine | Jorge Andrés Pérez Velásquez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.01310v1) |
-| A Priority-Aware Dual-Channel Feature Fusion Method for Urban Rail Service Traffic Classification | Xinpeng Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.32168v1) |
-| Towards a Cloud Fog Edge System for Smart Building | Christophe Cérin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.01647v1) |
-| Foundations without Fundamentals: Zero-Shot Blind Spots in Time Series FMs | Nafiseh Ghoroghchian et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.02058v1) |
-| Online Planning for Sparse Ground Target Search from a High-Altitude UAV under Partial Observability | Ashik E Rasul et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.01067v1) |
-| Learning PDE Dynamics between Submanifolds Using Green's Observation Operators | Jan Tauberschmidt et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.01697v1) |
+| ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research | Sohyeon Kim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.02202v1) |
+| Design and Implementation of a Kalman Filter-Infused Algorithm for Tilt Estimation | Yuehan Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.00730v3) |
+| Cybersecurity in Edge Computing: A Trust-Aware Federated Hybrid Intrusion Detection Framework | Zawad Yalmie Sazid et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.39584v1) |
+| AccelMPC: High-Rate, Low-Power FPGA-Accelerated Model Predictive Control for Tiny Drones | Andrea Grillo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.09380v1) |
+| Muon meets Tamed Langevin: Momentum Preconditioning beyond Convex and gradient-Lipschitz Potentials | Nikolaos Makras et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.02158v1) |
+| A Structured State Space Sequence Model for Multi-Class Classification of Malware | Emmanuela Andam et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.01893v1) |
+| Higher-Order Molecular Grammars for Generative and Foundation Models in Chemistry | Yiming Huang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.02186v1) |
+| CougarTail & CUB: A General-Purpose Mast and Central Utility Board for Cylindrical Underwater Enclosures | Ben Washburn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10230v1) |
+| Quantum Computing for Network Security Classification: Near-Term Classification and Long-Term Memory Efficiency | Yuqing Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.36479v1) |
+| From Knowledge Access to Source Learning: Developing Source-Specific Competence | Lucheng Fu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.02150v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 02 October 2026, 20:31 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 02 October 2026, 22:07 WIB</sub>
