@@ -14,10 +14,20 @@
 
 ---
 
-## 🗓️ Monday, 05 October 2026
+## 🗓️ Tuesday, 06 October 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
+| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
+| From Benchmarks to Production: A Text-to-SQL System for Complex Financial Data | Arijit Sehanobish et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.03524v1) |
+| Forecasting from Counterfactual Simulator Rollouts: A Sim2Real Evaluation | Angel Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.03662v1) |
+| Rethinking Epistemic Uncertainty in Node Classification through Information Growth | Emma Meneghini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.03418v1) |
+| Planning to Learn | Ian Osband | 2026 | [📄 Read](http://arxiv.org/abs/2610.03667v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| On-Board Anomaly Detection for Efficient Marine Environmental Monitoring | Thomas Goudemant et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.03649v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
+| Cephalonauts One: A deep fMRI dataset for decoding naturalistic speech in the human brain | Antoine Collas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.03558v1) |
+| PoCoFL: POlicy-COmpliant Federated Learning | Dominik Roy George et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.03650v1) |
 
 ---
 
@@ -30,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 05 October 2026, 10:43 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 06 October 2026, 00:29 WIB</sub>
