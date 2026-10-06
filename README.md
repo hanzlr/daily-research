@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
-| Prediction-Aware Structured Resource Control for Partitioned IRS-Assisted Mobile IoT Uplinks With Semi-Blind Cascaded-Channel Acquisition | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.26601v1) |
-| A Second Torque Port for Series Elastic Actuators: Parallel-Integrated Design and Time-Scale Torque Allocation | Donghao Jia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.30873v1) |
-| A Priority-Aware Dual-Channel Feature Fusion Method for Urban Rail Service Traffic Classification | Xinpeng Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.32168v1) |
-| Robust Variable-Horizon MPC for Landing a Multirotor UAV on a Moving Platform | Sander Doodeman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.34574v1) |
-| Emission-Aware Optimization of Container Handling Vehicles: A HaminaKotka Port Case Study | Hafiz Majid Hussain et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.05963v1) |
-| Inspect Robots: Evaluating the Capabilities and Safety of Embodied AI | Christopher Leet et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06306v1) |
 | Hierarchical Edge Computing in SAGSIN: Multi-Layer Network Architecture and Multi-Level Information Processing | Jiajie Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.29467v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
 | Adaptive Mean Flow for Responsive Closed-Loop Robot Control | Aksel Vaaler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06089v1) |
+| Online AutoML: Evaluating Poisoning Attacks on Adversarial Training Defense Strategy in IoT Networks | Chukwunonso Henry Nwokoye et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.05810v1) |
+| Emission-Aware Optimization of Container Handling Vehicles: A HaminaKotka Port Case Study | Hafiz Majid Hussain et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.05963v1) |
+| A Solvable Model of Adaptive Learning Rate Rescaling: Acceleration, Stability & Scaling | Itay Lavie et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06701v1) |
+| Visual Swarm Navigation via Deep Reinforcement Learning and Evolutionary Hybrid Design | Álvaro Díez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06400v1) |
+| Propagating Elevation-Map Uncertainty Through the Contact Maximum in Closed Form | Aleš Kučera et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06103v1) |
+| Inspect Robots: Evaluating the Capabilities and Safety of Embodied AI | Christopher Leet et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06306v1) |
+| A Structured State Space Sequence Model for Multi-Class Classification of Malware | Emmanuela Andam et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.01893v1) |
+| Efficient Secure Federated Learning via Information-Theoretically Secure Key Distribution: A Medical Imaging Case Study | Ivan Donà et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06420v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 06 October 2026, 18:34 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 06 October 2026, 19:46 WIB</sub>
