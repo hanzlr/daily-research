@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Signature-Based Feature Learning for Human Activity Recognition: A Reproducible Machine Learning Study of Representation, Depth, and Model Choice | Kamal Jarrar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06553v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
-| Base Models Can Reason By Taking a Cue From Training Data | Sophie L. Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06851v1) |
-| A Response Theory Probe for Learned Stochastic AI Simulators, Tested on Lorenz-63 | João Böger et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06798v1) |
-| ARO: Aligned Representation learning for multi-Omics data | Amogh Singh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06443v1) |
-| polyview: A Python package for multi-view machine learning | Gwendal Debaussart-Joniec et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06491v1) |
-| Block Disentanglement in CRL: Bridging Identifiability and Visual State Estimation | Emre Acartürk et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06809v1) |
-| MatrixFormer: A Foundation Model for Matrix Completion | Dwaipayan Saha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06751v1) |
-| MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents | Haozhen Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06830v1) |
 | A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
+| Prediction-Aware Structured Resource Control for Partitioned IRS-Assisted Mobile IoT Uplinks With Semi-Blind Cascaded-Channel Acquisition | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.26601v1) |
+| A Second Torque Port for Series Elastic Actuators: Parallel-Integrated Design and Time-Scale Torque Allocation | Donghao Jia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.30873v1) |
+| A Priority-Aware Dual-Channel Feature Fusion Method for Urban Rail Service Traffic Classification | Xinpeng Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.32168v1) |
+| Robust Variable-Horizon MPC for Landing a Multirotor UAV on a Moving Platform | Sander Doodeman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.34574v1) |
+| Emission-Aware Optimization of Container Handling Vehicles: A HaminaKotka Port Case Study | Hafiz Majid Hussain et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.05963v1) |
+| Inspect Robots: Evaluating the Capabilities and Safety of Embodied AI | Christopher Leet et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06306v1) |
+| Hierarchical Edge Computing in SAGSIN: Multi-Layer Network Architecture and Multi-Level Information Processing | Jiajie Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.29467v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
+| Adaptive Mean Flow for Responsive Closed-Loop Robot Control | Aksel Vaaler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06089v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 06 October 2026, 16:36 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 06 October 2026, 18:34 WIB</sub>
