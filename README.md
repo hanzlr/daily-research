@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| ExoBridge: Learning a Bare Hand to Hand-Worn Exoskeleton Mapping through Human Limb Coupling | Ruitong Tian et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.07692v1) |
-| Offline AI Modules: Voice-First Offline Architecture, Hardware Reference Stack, Quantization and Benchmarking | Sunday Afariogun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.07026v1) |
-| Sensor-Layout-Agnostic Navigation via Geometric Observation Canonicalization | Welf Rehberg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08306v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
+| GCTAuto-encoder: A Cross modal Framework for Security Flaw Detection in IoT Networks | Najmieh Sadat Safarabadi | 2026 | [📄 Read](http://arxiv.org/abs/2610.06517v1) |
+| How Many Independent Samples Does a Satellite Image Contain? Generalization Bounds for Spatially Dependent Data | Robin Young | 2026 | [📄 Read](http://arxiv.org/abs/2610.08227v1) |
+| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
+| CRAFTER: Causality-based Self-adaptation for Autonomous IoT Systems | Houssam Hajj Hassan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06320v1) |
+| Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study | Dimitrios Nikou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08771v1) |
 | Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
-| Evolutionary One-Step Generators: Fast and Diverse Sampling for Discrete Design | Marcus Vukojevic et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08367v1) |
-| Magnet-Aware Control of Legged Robots | J. Playan Garai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08653v1) |
-| CougarTail & CUB: A General-Purpose Mast and Central Utility Board for Cylindrical Underwater Enclosures | Ben Washburn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10230v1) |
-| ReGraph: A Computational Account of Emergent Generalization in the "what" and "where" Dual Visual Streams | Hyewon Kang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.07962v1) |
-| MIM-VLA: Learning Physical Interaction Representations from Gripper Motor Feedback | Jaeyoung Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08425v1) |
-| From the Drosophila Visual Connectome to General-Purpose Computer Vision | Zongyu Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08418v1) |
+| Sensor Geometry as a Flow-Matching Prior for Multi-Channel Brain Signals | Jaedong Hwang | 2026 | [📄 Read](http://arxiv.org/abs/2610.08355v1) |
+| AccelMPC: High-Rate, Low-Power FPGA-Accelerated Model Predictive Control for Tiny Drones | Andrea Grillo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.09380v1) |
+| MemFLoRA: Memory-Floor LoRA for CNN Adaptation at the Edge | Mehmet Emre Akbulut et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08669v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 08 October 2026, 00:37 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 08 October 2026, 02:10 WIB</sub>
