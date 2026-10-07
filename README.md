@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Wednesday, 07 October 2026
+## 🗓️ Thursday, 08 October 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Inspect Robots: Evaluating the Capabilities and Safety of Embodied AI | Christopher Leet et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06306v1) |
-| A Solvable Model of Adaptive Learning Rate Rescaling: Acceleration, Stability & Scaling | Itay Lavie et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06701v1) |
-| SPDAlign: Interpretable Riemannian Alignment for EEG Forward Modeling Shifts | Shanglin Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06315v1) |
-| On Learning Optimal Corners in Orthogonal Partially Observable Cooperative Guard Art Galleries | Yassin Ben Mansour et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06777v1) |
-| BRANCH-MoE: Balance-Aware Tree Routing for Large Embedding Models | Gang Fu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06725v1) |
-| Propagating Elevation-Map Uncertainty Through the Contact Maximum in Closed Form | Aleš Kučera et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06103v1) |
-| Adaptive Mean Flow for Responsive Closed-Loop Robot Control | Aksel Vaaler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06089v1) |
-| Environmental sensor readings in two crop disease image datasets identify the session in which each image was taken | Sungwoo Kang | 2026 | [📄 Read](http://arxiv.org/abs/2610.06369v1) |
-| Signature-Based Feature Learning for Human Activity Recognition: A Reproducible Machine Learning Study of Representation, Depth, and Model Choice | Kamal Jarrar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06553v1) |
-| Deep Learning for Sleep Heart Rate Estimation from Accelerometers: Toward Population-Scale Cardiac Insight Without Optical Sensors | Tanbin Islam Rohan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06823v1) |
+| ExoBridge: Learning a Bare Hand to Hand-Worn Exoskeleton Mapping through Human Limb Coupling | Ruitong Tian et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.07692v1) |
+| Offline AI Modules: Voice-First Offline Architecture, Hardware Reference Stack, Quantization and Benchmarking | Sunday Afariogun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.07026v1) |
+| Sensor-Layout-Agnostic Navigation via Geometric Observation Canonicalization | Welf Rehberg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08306v1) |
+| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
+| Evolutionary One-Step Generators: Fast and Diverse Sampling for Discrete Design | Marcus Vukojevic et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08367v1) |
+| Magnet-Aware Control of Legged Robots | J. Playan Garai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08653v1) |
+| CougarTail & CUB: A General-Purpose Mast and Central Utility Board for Cylindrical Underwater Enclosures | Ben Washburn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10230v1) |
+| ReGraph: A Computational Account of Emergent Generalization in the "what" and "where" Dual Visual Streams | Hyewon Kang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.07962v1) |
+| MIM-VLA: Learning Physical Interaction Representations from Gripper Motor Feedback | Jaeyoung Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08425v1) |
+| From the Drosophila Visual Connectome to General-Purpose Computer Vision | Zongyu Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08418v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 07 October 2026, 01:44 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 08 October 2026, 00:37 WIB</sub>
