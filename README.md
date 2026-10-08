@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| SciExam for ENSO: Can AI Agents Build Climate Models? | Yinling Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.10513v1) |
-| MorphCL: Morphological Contrastive Learning for Inertial-based Human Activity Recognition | Marius Bock et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.10245v1) |
-| SOTA: Stock Options Trading Agents Guided by Option-Implied Return Distributions | Yizhen Xie et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.10407v1) |
-| A Priority-Aware Dual-Channel Feature Fusion Method for Urban Rail Service Traffic Classification | Xinpeng Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.32168v1) |
+| Evolutionary Architecture Search for Chlorophyll-$a$ Prediction in Lakes using Sentinel-2 | Kursat Komurcu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.10496v1) |
+| Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study | Dimitrios Nikou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08771v1) |
+| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
+| Boosting and the Expressive Power of Simple Weak Learners via the $γ$-VC Dimension | Arthur da Cunha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.10383v1) |
+| Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs | Zhewei Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.10520v1) |
+| Tactile Reconstruction of Contact Task Frames and Forces for Hybrid Force/Motion Control | Antonio Rapuano et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.10020v1) |
+| Evolve on the Host, Predict on the Edge: Deploying Online Neuroevolutionary Architecture Search for Cross-sectional Stock Return Prediction | Jonathan Chang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.10038v1) |
 | Temporal Visuo-Tactile Learning for Dexterous Grasp Stability | Ken Nakahara et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.10283v1) |
-| Emission-Aware Optimization of Container Handling Vehicles: A HaminaKotka Port Case Study | Hafiz Majid Hussain et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.05963v1) |
-| Hierarchical Edge Computing in SAGSIN: Multi-Layer Network Architecture and Multi-Level Information Processing | Jiajie Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.29467v1) |
-| CRAFTER: Causality-based Self-adaptation for Autonomous IoT Systems | Houssam Hajj Hassan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06320v1) |
-| GCTAuto-encoder: A Cross modal Framework for Security Flaw Detection in IoT Networks | Najmieh Sadat Safarabadi | 2026 | [📄 Read](http://arxiv.org/abs/2610.06517v1) |
-| DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching | Jingpo Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08268v1) |
+| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
+| Kernel Autoresearch for Open-Ended Model Discovery | Richard Cornelius Suwandi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.10394v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 09 October 2026, 02:06 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 09 October 2026, 03:29 WIB</sub>
