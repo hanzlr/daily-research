@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Thursday, 08 October 2026
+## 🗓️ Friday, 09 October 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
+| Temporal Visuo-Tactile Learning for Dexterous Grasp Stability | Ken Nakahara et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.10283v1) |
+| The Modular CMA-ES: A Framework for Modern Evolution Strategies | Jacob de Nobel et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09699v1) |
+| Evolve on the Host, Predict on the Edge: Deploying Online Neuroevolutionary Architecture Search for Cross-sectional Stock Return Prediction | Jonathan Chang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.10038v1) |
+| Factorized Tactile Representation and Control for Sim-to-Real Manipulation | Siqi Shang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.10510v1) |
+| Small Language Models for Smart Data Model Classification at the Edge: A Cost-Aware Hybrid Approach | Cristian Martella et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.07093v1) |
+| Emission-Aware Optimization of Container Handling Vehicles: A HaminaKotka Port Case Study | Hafiz Majid Hussain et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.05963v1) |
+| A Priority-Aware Dual-Channel Feature Fusion Method for Urban Rail Service Traffic Classification | Xinpeng Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.32168v1) |
+| Evolutionary Architecture Search for Chlorophyll-$a$ Prediction in Lakes using Sentinel-2 | Kursat Komurcu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.10496v1) |
+| Hierarchical Edge Computing in SAGSIN: Multi-Layer Network Architecture and Multi-Level Information Processing | Jiajie Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.29467v1) |
 | GCTAuto-encoder: A Cross modal Framework for Security Flaw Detection in IoT Networks | Najmieh Sadat Safarabadi | 2026 | [📄 Read](http://arxiv.org/abs/2610.06517v1) |
-| How Many Independent Samples Does a Satellite Image Contain? Generalization Bounds for Spatially Dependent Data | Robin Young | 2026 | [📄 Read](http://arxiv.org/abs/2610.08227v1) |
-| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
-| CRAFTER: Causality-based Self-adaptation for Autonomous IoT Systems | Houssam Hajj Hassan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06320v1) |
-| Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study | Dimitrios Nikou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08771v1) |
-| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
-| Sensor Geometry as a Flow-Matching Prior for Multi-Channel Brain Signals | Jaedong Hwang | 2026 | [📄 Read](http://arxiv.org/abs/2610.08355v1) |
-| AccelMPC: High-Rate, Low-Power FPGA-Accelerated Model Predictive Control for Tiny Drones | Andrea Grillo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.09380v1) |
-| MemFLoRA: Memory-Floor LoRA for CNN Adaptation at the Edge | Mehmet Emre Akbulut et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08669v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 08 October 2026, 02:10 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 09 October 2026, 00:40 WIB</sub>
