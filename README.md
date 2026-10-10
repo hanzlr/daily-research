@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| In-Ride Alcohol-Impairment Detection in E-Scooterists with False-Alarm Control | Marco Capuccini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.11783v1) |
+| Offline AI Modules: Voice-First Offline Architecture, Hardware Reference Stack, Quantization and Benchmarking | Sunday Afariogun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.07026v1) |
+| DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching | Jingpo Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08268v1) |
+| FAITH: Feasibility-Aware Safety-Filtered RL for High-Dimensional Systems | Songyuan Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12432v1) |
+| A Physics-Informed Collision Learning Framework for Collaborative Robot Motion Generation | Chen Cai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12404v1) |
+| Robust Variable-Horizon MPC for Landing a Multirotor UAV on a Moving Platform | Sander Doodeman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.34574v1) |
+| Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study | Dimitrios Nikou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08771v1) |
+| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
+| Hierarchical Edge Computing in SAGSIN: Multi-Layer Network Architecture and Multi-Level Information Processing | Jiajie Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.29467v1) |
+| Stable Rational Approximation of PDE Transfer Functions with $H_\infty$ Error Bounds | Aleksandr Talitckii et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08497v1) |
 | HRIL: Learning Multimodal Synergy via Higher-Order Tensor Modeling | Qun Dai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12393v1) |
-| YUBI-STAG: Contact and Semantic-Rich Alignment for VLAs via Automated Video-Language Grounding | Masatoshi Tateno et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09718v1) |
-| AI-Based On-Board Maritime Object Detection for Earth Observation Payload Data Reduction on Versal Embedded Hardware | Thomas Goudemant et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12182v1) |
-| WAND: Learning Robust Navigation under Complex Wind Disturbances and Dense Obstacles for Quadrotors | Zhonghan Tang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.11809v1) |
-| How Much Audio Is Left In An Embedding? An Inversion Audit Of Audio Encoders | Marios Glytsos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12250v1) |
-| MC-TRCM: Observation-Aware Recursive Fusion for Incomplete Mobile and Wearable Mental-Health Feature Views | Wentao Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.11408v1) |
-| Syn-Omni: Structured Specialization and Progressive Collaboration for Omnimodal Embeddings | Youngtaek Oh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12256v1) |
-| Low-Cost Sensor Calibration for Indoor Air Quality Monitoring: A Dataset, Evaluation Scenarios, and a Lightweight Model | Jinyong Yun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.11236v1) |
-| TACROSS: An Efficient and Low-Cost Scalable Human Touch System Across Heterogeneous Tactile Sensors for Dexterous Robot Learning | Bo Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.11945v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 10 October 2026, 13:41 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 10 October 2026, 16:12 WIB</sub>
