@@ -1,27 +1,9 @@
 [
   {
-    "title": "Efficient Secure Federated Learning via Information-Theoretically Secure Key Distribution: A Medical Imaging Case Study",
-    "author": "Ivan Donà et al.",
+    "title": "TACROSS: An Efficient and Low-Cost Scalable Human Touch System Across Heterogeneous Tactile Sensors for Dexterous Robot Learning",
+    "author": "Bo Chen et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.06420v1"
-  },
-  {
-    "title": "Evolutionary Architecture Search for Chlorophyll-$a$ Prediction in Lakes using Sentinel-2",
-    "author": "Kursat Komurcu et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.10496v1"
-  },
-  {
-    "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
-    "author": "Octi Zhang et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.12465v1"
-  },
-  {
-    "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
-    "author": "Adrian Bulat et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.12448v1"
+    "url": "http://arxiv.org/abs/2610.11945v1"
   },
   {
     "title": "Adversarial RL for Port-Scan Evasion: Attacker Feature Visibility in Edge-Deployed IDS",
@@ -30,33 +12,51 @@
     "url": "http://arxiv.org/abs/2610.08864v1"
   },
   {
-    "title": "CRAFTER: Causality-based Self-adaptation for Autonomous IoT Systems",
-    "author": "Houssam Hajj Hassan et al.",
+    "title": "Evolutionary Architecture Search for Chlorophyll-$a$ Prediction in Lakes using Sentinel-2",
+    "author": "Kursat Komurcu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.06320v1"
+    "url": "http://arxiv.org/abs/2610.10496v1"
   },
   {
-    "title": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
-    "author": "Anna Zimmel et al.",
+    "title": "A Minimal Optical-Flow Representation for Vision-Based Tactile Rotation Classification in Robotic Manipulation Across Gravity Domains",
+    "author": "Oscar Martinez-Bernal et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.12449v1"
+    "url": "http://arxiv.org/abs/2610.12073v1"
   },
   {
-    "title": "Small Language Models for Smart Data Model Classification at the Edge: A Cost-Aware Hybrid Approach",
-    "author": "Cristian Martella et al.",
+    "title": "DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching",
+    "author": "Jingpo Xu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.07093v1"
-  },
-  {
-    "title": "A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization",
-    "author": "Ming Chen et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.12183v1"
+    "url": "http://arxiv.org/abs/2610.08268v1"
   },
   {
     "title": "Universal Construction and Exact Self-Reproduction in Ternary McCulloch-Pitts Networks",
     "author": "Charles C. Norton",
     "year": "2026",
     "url": "http://arxiv.org/abs/2610.12251v1"
+  },
+  {
+    "title": "Efficient Secure Federated Learning via Information-Theoretically Secure Key Distribution: A Medical Imaging Case Study",
+    "author": "Ivan Donà et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.06420v1"
+  },
+  {
+    "title": "CoCam4D: Geometry-Aware Cooperative 4D Perception for Camera-Only Autonomous Driving",
+    "author": "Soham Pahari et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.11577v1"
+  },
+  {
+    "title": "Marformer: A Transformer for Predicting Missing Data Distributions",
+    "author": "Prabhav Singh et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.12379v1"
+  },
+  {
+    "title": "A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization",
+    "author": "Ming Chen et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.12183v1"
   }
 ]

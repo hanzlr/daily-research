@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Efficient Secure Federated Learning via Information-Theoretically Secure Key Distribution: A Medical Imaging Case Study | Ivan Donà et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06420v1) |
-| Evolutionary Architecture Search for Chlorophyll-$a$ Prediction in Lakes using Sentinel-2 | Kursat Komurcu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.10496v1) |
-| A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control | Octi Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12465v1) |
-| One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts | Adrian Bulat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12448v1) |
+| TACROSS: An Efficient and Low-Cost Scalable Human Touch System Across Heterogeneous Tactile Sensors for Dexterous Robot Learning | Bo Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.11945v1) |
 | Adversarial RL for Port-Scan Evasion: Attacker Feature Visibility in Edge-Deployed IDS | Logan Andrew North et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08864v1) |
-| CRAFTER: Causality-based Self-adaptation for Autonomous IoT Systems | Houssam Hajj Hassan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06320v1) |
-| Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems | Anna Zimmel et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12449v1) |
-| Small Language Models for Smart Data Model Classification at the Edge: A Cost-Aware Hybrid Approach | Cristian Martella et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.07093v1) |
-| A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization | Ming Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12183v1) |
+| Evolutionary Architecture Search for Chlorophyll-$a$ Prediction in Lakes using Sentinel-2 | Kursat Komurcu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.10496v1) |
+| A Minimal Optical-Flow Representation for Vision-Based Tactile Rotation Classification in Robotic Manipulation Across Gravity Domains | Oscar Martinez-Bernal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12073v1) |
+| DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching | Jingpo Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08268v1) |
 | Universal Construction and Exact Self-Reproduction in Ternary McCulloch-Pitts Networks | Charles C. Norton | 2026 | [📄 Read](http://arxiv.org/abs/2610.12251v1) |
+| Efficient Secure Federated Learning via Information-Theoretically Secure Key Distribution: A Medical Imaging Case Study | Ivan Donà et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06420v1) |
+| CoCam4D: Geometry-Aware Cooperative 4D Perception for Camera-Only Autonomous Driving | Soham Pahari et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.11577v1) |
+| Marformer: A Transformer for Predicting Missing Data Distributions | Prabhav Singh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12379v1) |
+| A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization | Ming Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12183v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 12 October 2026, 00:52 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 12 October 2026, 02:20 WIB</sub>
