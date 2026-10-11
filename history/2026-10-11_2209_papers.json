@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Robust Variable-Horizon MPC for Landing a Multirotor UAV on a Moving Platform",
+    "author": "Sander Doodeman et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2609.34574v1"
+  },
+  {
+    "title": "Small Language Models for Smart Data Model Classification at the Edge: A Cost-Aware Hybrid Approach",
+    "author": "Cristian Martella et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.07093v1"
+  },
+  {
+    "title": "Offline AI Modules: Voice-First Offline Architecture, Hardware Reference Stack, Quantization and Benchmarking",
+    "author": "Sunday Afariogun et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.07026v1"
+  },
+  {
+    "title": "Toward Joint Optimization of Circuit Depth and Training Data Size in Adaptively Grown Quantum Classifiers",
+    "author": "Saeefa Rubaiyet Nowmi et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.12428v1"
+  },
+  {
+    "title": "Subspace Uncertainty and Sharp Sampling Thresholds on the Boolean Cube",
+    "author": "Thomas Weinberger",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.12358v1"
+  },
+  {
+    "title": "CoCam4D: Geometry-Aware Cooperative 4D Perception for Camera-Only Autonomous Driving",
+    "author": "Soham Pahari et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.11577v1"
+  },
+  {
+    "title": "TACROSS: An Efficient and Low-Cost Scalable Human Touch System Across Heterogeneous Tactile Sensors for Dexterous Robot Learning",
+    "author": "Bo Chen et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.11945v1"
+  },
+  {
+    "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
+    "author": "Adrian Bulat et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.12448v1"
+  },
+  {
+    "title": "Stable Rational Approximation of PDE Transfer Functions with $H_\\infty$ Error Bounds",
+    "author": "Aleksandr Talitckii et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.08497v1"
+  },
+  {
+    "title": "Acting from Belief, Looking When Needed: A Bayesian Spatial World Model for Navigation under Intermittent Perception",
+    "author": "Feihong Yang et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.11591v1"
+  }
+]
