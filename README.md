@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Adversarial RL for Port-Scan Evasion: Attacker Feature Visibility in Edge-Deployed IDS | Logan Andrew North et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08864v1) |
-| FLoRa: Flight-Assisted Data Collection from Duty Cycling LoRa Nodes under Energy Constraints | Naresh Babu Kakarla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09226v1) |
+| AI-Based On-Board Maritime Object Detection for Earth Observation Payload Data Reduction on Versal Embedded Hardware | Thomas Goudemant et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12182v1) |
+| A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization | Ming Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12183v1) |
+| Walking on Roofs: Exploring the Potential of Walking Robots for Construction Work on Roofs | Bjoern-Felix Dettmar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12272v1) |
+| How Much Audio Is Left In An Embedding? An Inversion Audit Of Audio Encoders | Marios Glytsos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12250v1) |
+| HRIL: Learning Multimodal Synergy via Higher-Order Tensor Modeling | Qun Dai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12393v1) |
+| Universal Construction and Exact Self-Reproduction in Ternary McCulloch-Pitts Networks | Charles C. Norton | 2026 | [📄 Read](http://arxiv.org/abs/2610.12251v1) |
+| Learning to Orchestrate Evolutionary Search: Progression-Aware Deep Reinforcement Learning for Dynamic DE-CMA-ES Coordination in Optimization and Structural Model Updating | Lechen Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.11546v1) |
+| Leveraging Human-In-The-Loop Demonstrations in Reinforcement Learning for Digital Twin-Driven Robot Flexibility | Yuzhu Sun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12140v1) |
+| WAND: Learning Robust Navigation under Complex Wind Disturbances and Dense Obstacles for Quadrotors | Zhonghan Tang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.11809v1) |
 | Emission-Aware Optimization of Container Handling Vehicles: A HaminaKotka Port Case Study | Hafiz Majid Hussain et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.05963v1) |
-| Toward Joint Optimization of Circuit Depth and Training Data Size in Adaptively Grown Quantum Classifiers | Saeefa Rubaiyet Nowmi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12428v1) |
-| TACROSS: An Efficient and Low-Cost Scalable Human Touch System Across Heterogeneous Tactile Sensors for Dexterous Robot Learning | Bo Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.11945v1) |
-| A Priority-Aware Dual-Channel Feature Fusion Method for Urban Rail Service Traffic Classification | Xinpeng Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.32168v1) |
-| Hierarchical Edge Computing in SAGSIN: Multi-Layer Network Architecture and Multi-Level Information Processing | Jiajie Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.29467v1) |
-| Marformer: A Transformer for Predicting Missing Data Distributions | Prabhav Singh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12379v1) |
-| Subspace Uncertainty and Sharp Sampling Thresholds on the Boolean Cube | Thomas Weinberger | 2026 | [📄 Read](http://arxiv.org/abs/2610.12358v1) |
-| CoCam4D: Geometry-Aware Cooperative 4D Perception for Camera-Only Autonomous Driving | Soham Pahari et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.11577v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 11 October 2026, 19:07 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 11 October 2026, 20:44 WIB</sub>
