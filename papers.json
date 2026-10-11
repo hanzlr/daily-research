@@ -1,33 +1,21 @@
 [
   {
-    "title": "MC-TRCM: Observation-Aware Recursive Fusion for Incomplete Mobile and Wearable Mental-Health Feature Views",
-    "author": "Wentao Wang et al.",
+    "title": "Adversarial RL for Port-Scan Evasion: Attacker Feature Visibility in Edge-Deployed IDS",
+    "author": "Logan Andrew North et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.11408v1"
+    "url": "http://arxiv.org/abs/2610.08864v1"
   },
   {
-    "title": "Acting from Belief, Looking When Needed: A Bayesian Spatial World Model for Navigation under Intermittent Perception",
-    "author": "Feihong Yang et al.",
+    "title": "FLoRa: Flight-Assisted Data Collection from Duty Cycling LoRa Nodes under Energy Constraints",
+    "author": "Naresh Babu Kakarla et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.11591v1"
+    "url": "http://arxiv.org/abs/2610.09226v1"
   },
   {
-    "title": "Subspace Uncertainty and Sharp Sampling Thresholds on the Boolean Cube",
-    "author": "Thomas Weinberger",
+    "title": "Emission-Aware Optimization of Container Handling Vehicles: A HaminaKotka Port Case Study",
+    "author": "Hafiz Majid Hussain et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.12358v1"
-  },
-  {
-    "title": "Low-Cost Sensor Calibration for Indoor Air Quality Monitoring: A Dataset, Evaluation Scenarios, and a Lightweight Model",
-    "author": "Jinyong Yun et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.11236v1"
-  },
-  {
-    "title": "TACROSS: An Efficient and Low-Cost Scalable Human Touch System Across Heterogeneous Tactile Sensors for Dexterous Robot Learning",
-    "author": "Bo Chen et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.11945v1"
+    "url": "http://arxiv.org/abs/2610.05963v1"
   },
   {
     "title": "Toward Joint Optimization of Circuit Depth and Training Data Size in Adaptively Grown Quantum Classifiers",
@@ -36,10 +24,22 @@
     "url": "http://arxiv.org/abs/2610.12428v1"
   },
   {
-    "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
-    "author": "Adrian Bulat et al.",
+    "title": "TACROSS: An Efficient and Low-Cost Scalable Human Touch System Across Heterogeneous Tactile Sensors for Dexterous Robot Learning",
+    "author": "Bo Chen et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.12448v1"
+    "url": "http://arxiv.org/abs/2610.11945v1"
+  },
+  {
+    "title": "A Priority-Aware Dual-Channel Feature Fusion Method for Urban Rail Service Traffic Classification",
+    "author": "Xinpeng Liu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2609.32168v1"
+  },
+  {
+    "title": "Hierarchical Edge Computing in SAGSIN: Multi-Layer Network Architecture and Multi-Level Information Processing",
+    "author": "Jiajie Xu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2609.29467v1"
   },
   {
     "title": "Marformer: A Transformer for Predicting Missing Data Distributions",
@@ -48,15 +48,15 @@
     "url": "http://arxiv.org/abs/2610.12379v1"
   },
   {
-    "title": "FAITH: Feasibility-Aware Safety-Filtered RL for High-Dimensional Systems",
-    "author": "Songyuan Zhang et al.",
+    "title": "Subspace Uncertainty and Sharp Sampling Thresholds on the Boolean Cube",
+    "author": "Thomas Weinberger",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.12432v1"
+    "url": "http://arxiv.org/abs/2610.12358v1"
   },
   {
-    "title": "In-Ride Alcohol-Impairment Detection in E-Scooterists with False-Alarm Control",
-    "author": "Marco Capuccini et al.",
+    "title": "CoCam4D: Geometry-Aware Cooperative 4D Perception for Camera-Only Autonomous Driving",
+    "author": "Soham Pahari et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.11783v1"
+    "url": "http://arxiv.org/abs/2610.11577v1"
   }
 ]
