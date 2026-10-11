@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "title": "FLoRa: Flight-Assisted Data Collection from Duty Cycling LoRa Nodes under Energy Constraints",
+    "author": "Naresh Babu Kakarla et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.09226v1"
+  },
+  {
+    "title": "DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching",
+    "author": "Jingpo Xu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.08268v1"
+  },
+  {
+    "title": "Stable Rational Approximation of PDE Transfer Functions with $H_\\infty$ Error Bounds",
+    "author": "Aleksandr Talitckii et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.08497v1"
+  },
+  {
+    "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
+    "author": "Adrian Bulat et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.12448v1"
+  },
+  {
+    "title": "Robust Variable-Horizon MPC for Landing a Multirotor UAV on a Moving Platform",
+    "author": "Sander Doodeman et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2609.34574v1"
+  },
+  {
+    "title": "Syn-Omni: Structured Specialization and Progressive Collaboration for Omnimodal Embeddings",
+    "author": "Youngtaek Oh et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.12256v1"
+  },
+  {
+    "title": "How Much Audio Is Left In An Embedding? An Inversion Audit Of Audio Encoders",
+    "author": "Marios Glytsos et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.12250v1"
+  },
+  {
+    "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
+    "author": "Octi Zhang et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.12465v1"
+  },
+  {
+    "title": "Adversarial RL for Port-Scan Evasion: Attacker Feature Visibility in Edge-Deployed IDS",
+    "author": "Logan Andrew North et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.08864v1"
+  },
+  {
+    "title": "CSF: Contextual Safety Filtering for Motion Generators",
+    "author": "Lizhi Yang et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.12467v1"
+  }
+]
