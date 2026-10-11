@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| FLoRa: Flight-Assisted Data Collection from Duty Cycling LoRa Nodes under Energy Constraints | Naresh Babu Kakarla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09226v1) |
-| DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching | Jingpo Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08268v1) |
-| CSF: Contextual Safety Filtering for Motion Generators | Lizhi Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12467v1) |
-| AI-Based On-Board Maritime Object Detection for Earth Observation Payload Data Reduction on Versal Embedded Hardware | Thomas Goudemant et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12182v1) |
-| Syn-Omni: Structured Specialization and Progressive Collaboration for Omnimodal Embeddings | Youngtaek Oh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12256v1) |
-| Efficient Secure Federated Learning via Information-Theoretically Secure Key Distribution: A Medical Imaging Case Study | Ivan Donà et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06420v1) |
-| HRIL: Learning Multimodal Synergy via Higher-Order Tensor Modeling | Qun Dai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12393v1) |
-| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
-| Adversarial RL for Port-Scan Evasion: Attacker Feature Visibility in Edge-Deployed IDS | Logan Andrew North et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08864v1) |
-| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
+| MC-TRCM: Observation-Aware Recursive Fusion for Incomplete Mobile and Wearable Mental-Health Feature Views | Wentao Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.11408v1) |
+| Acting from Belief, Looking When Needed: A Bayesian Spatial World Model for Navigation under Intermittent Perception | Feihong Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.11591v1) |
+| Subspace Uncertainty and Sharp Sampling Thresholds on the Boolean Cube | Thomas Weinberger | 2026 | [📄 Read](http://arxiv.org/abs/2610.12358v1) |
+| Low-Cost Sensor Calibration for Indoor Air Quality Monitoring: A Dataset, Evaluation Scenarios, and a Lightweight Model | Jinyong Yun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.11236v1) |
+| TACROSS: An Efficient and Low-Cost Scalable Human Touch System Across Heterogeneous Tactile Sensors for Dexterous Robot Learning | Bo Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.11945v1) |
+| Toward Joint Optimization of Circuit Depth and Training Data Size in Adaptively Grown Quantum Classifiers | Saeefa Rubaiyet Nowmi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12428v1) |
+| One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts | Adrian Bulat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12448v1) |
+| Marformer: A Transformer for Predicting Missing Data Distributions | Prabhav Singh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12379v1) |
+| FAITH: Feasibility-Aware Safety-Filtered RL for High-Dimensional Systems | Songyuan Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12432v1) |
+| In-Ride Alcohol-Impairment Detection in E-Scooterists with False-Alarm Control | Marco Capuccini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.11783v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 11 October 2026, 16:29 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 11 October 2026, 18:04 WIB</sub>

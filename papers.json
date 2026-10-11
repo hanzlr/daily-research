@@ -1,62 +1,62 @@
 [
   {
-    "title": "FLoRa: Flight-Assisted Data Collection from Duty Cycling LoRa Nodes under Energy Constraints",
-    "author": "Naresh Babu Kakarla et al.",
+    "title": "MC-TRCM: Observation-Aware Recursive Fusion for Incomplete Mobile and Wearable Mental-Health Feature Views",
+    "author": "Wentao Wang et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.09226v1"
+    "url": "http://arxiv.org/abs/2610.11408v1"
   },
   {
-    "title": "DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching",
-    "author": "Jingpo Xu et al.",
+    "title": "Acting from Belief, Looking When Needed: A Bayesian Spatial World Model for Navigation under Intermittent Perception",
+    "author": "Feihong Yang et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.08268v1"
+    "url": "http://arxiv.org/abs/2610.11591v1"
   },
   {
-    "title": "CSF: Contextual Safety Filtering for Motion Generators",
-    "author": "Lizhi Yang et al.",
+    "title": "Subspace Uncertainty and Sharp Sampling Thresholds on the Boolean Cube",
+    "author": "Thomas Weinberger",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.12467v1"
+    "url": "http://arxiv.org/abs/2610.12358v1"
   },
   {
-    "title": "AI-Based On-Board Maritime Object Detection for Earth Observation Payload Data Reduction on Versal Embedded Hardware",
-    "author": "Thomas Goudemant et al.",
+    "title": "Low-Cost Sensor Calibration for Indoor Air Quality Monitoring: A Dataset, Evaluation Scenarios, and a Lightweight Model",
+    "author": "Jinyong Yun et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.12182v1"
+    "url": "http://arxiv.org/abs/2610.11236v1"
   },
   {
-    "title": "Syn-Omni: Structured Specialization and Progressive Collaboration for Omnimodal Embeddings",
-    "author": "Youngtaek Oh et al.",
+    "title": "TACROSS: An Efficient and Low-Cost Scalable Human Touch System Across Heterogeneous Tactile Sensors for Dexterous Robot Learning",
+    "author": "Bo Chen et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.12256v1"
+    "url": "http://arxiv.org/abs/2610.11945v1"
   },
   {
-    "title": "Efficient Secure Federated Learning via Information-Theoretically Secure Key Distribution: A Medical Imaging Case Study",
-    "author": "Ivan Donà et al.",
+    "title": "Toward Joint Optimization of Circuit Depth and Training Data Size in Adaptively Grown Quantum Classifiers",
+    "author": "Saeefa Rubaiyet Nowmi et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.06420v1"
+    "url": "http://arxiv.org/abs/2610.12428v1"
   },
   {
-    "title": "HRIL: Learning Multimodal Synergy via Higher-Order Tensor Modeling",
-    "author": "Qun Dai et al.",
+    "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
+    "author": "Adrian Bulat et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.12393v1"
+    "url": "http://arxiv.org/abs/2610.12448v1"
   },
   {
-    "title": "Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking",
-    "author": "Johannes Stockhammer et al.",
+    "title": "Marformer: A Transformer for Predicting Missing Data Distributions",
+    "author": "Prabhav Singh et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.09006v1"
+    "url": "http://arxiv.org/abs/2610.12379v1"
   },
   {
-    "title": "Adversarial RL for Port-Scan Evasion: Attacker Feature Visibility in Edge-Deployed IDS",
-    "author": "Logan Andrew North et al.",
+    "title": "FAITH: Feasibility-Aware Safety-Filtered RL for High-Dimensional Systems",
+    "author": "Songyuan Zhang et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.08864v1"
+    "url": "http://arxiv.org/abs/2610.12432v1"
   },
   {
-    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
-    "author": "Alexander Winkler et al.",
+    "title": "In-Ride Alcohol-Impairment Detection in E-Scooterists with False-Alarm Control",
+    "author": "Marco Capuccini et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2609.33795v1"
+    "url": "http://arxiv.org/abs/2610.11783v1"
   }
 ]
