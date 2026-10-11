@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Sunday, 11 October 2026
+## 🗓️ Monday, 12 October 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| FAITH: Feasibility-Aware Safety-Filtered RL for High-Dimensional Systems | Songyuan Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12432v1) |
-| HRIL: Learning Multimodal Synergy via Higher-Order Tensor Modeling | Qun Dai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12393v1) |
-| A Priority-Aware Dual-Channel Feature Fusion Method for Urban Rail Service Traffic Classification | Xinpeng Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.32168v1) |
-| A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization | Ming Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12183v1) |
-| Learning to Orchestrate Evolutionary Search: Progression-Aware Deep Reinforcement Learning for Dynamic DE-CMA-ES Coordination in Optimization and Structural Model Updating | Lechen Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.11546v1) |
+| Efficient Secure Federated Learning via Information-Theoretically Secure Key Distribution: A Medical Imaging Case Study | Ivan Donà et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06420v1) |
 | Evolutionary Architecture Search for Chlorophyll-$a$ Prediction in Lakes using Sentinel-2 | Kursat Komurcu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.10496v1) |
-| CSF: Contextual Safety Filtering for Motion Generators | Lizhi Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12467v1) |
-| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
+| A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control | Octi Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12465v1) |
+| One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts | Adrian Bulat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12448v1) |
+| Adversarial RL for Port-Scan Evasion: Attacker Feature Visibility in Edge-Deployed IDS | Logan Andrew North et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08864v1) |
+| CRAFTER: Causality-based Self-adaptation for Autonomous IoT Systems | Houssam Hajj Hassan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06320v1) |
 | Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems | Anna Zimmel et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12449v1) |
-| Emission-Aware Optimization of Container Handling Vehicles: A HaminaKotka Port Case Study | Hafiz Majid Hussain et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.05963v1) |
+| Small Language Models for Smart Data Model Classification at the Edge: A Cost-Aware Hybrid Approach | Cristian Martella et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.07093v1) |
+| A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization | Ming Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12183v1) |
+| Universal Construction and Exact Self-Reproduction in Ternary McCulloch-Pitts Networks | Charles C. Norton | 2026 | [📄 Read](http://arxiv.org/abs/2610.12251v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 11 October 2026, 23:28 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 12 October 2026, 00:52 WIB</sub>
