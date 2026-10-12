@@ -1,9 +1,9 @@
 [
   {
-    "title": "Emission-Aware Optimization of Container Handling Vehicles: A HaminaKotka Port Case Study",
-    "author": "Hafiz Majid Hussain et al.",
+    "title": "REMBGO for Evaluation-Limited Optimization: CEC2022 Benchmarking and EAF-STATCOM Generalization",
+    "author": "Vikram Chekuri et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.05963v1"
+    "url": "http://arxiv.org/abs/2610.13471v1"
   },
   {
     "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
@@ -12,34 +12,28 @@
     "url": "http://arxiv.org/abs/2609.33795v1"
   },
   {
-    "title": "Evidential Multimodal Transformers with Dempster-Shafer Fusion for Emotion Recognition",
-    "author": "Muhammad Usama et al.",
+    "title": "GCTAuto-encoder: A Cross modal Framework for Security Flaw Detection in IoT Networks",
+    "author": "Najmieh Sadat Safarabadi",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.13013v1"
+    "url": "http://arxiv.org/abs/2610.06517v1"
   },
   {
-    "title": "Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research",
-    "author": "Ad-Deen Mahbub et al.",
+    "title": "Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study",
+    "author": "Dimitrios Nikou et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2607.23220v1"
+    "url": "http://arxiv.org/abs/2610.08771v1"
   },
   {
-    "title": "Local Diagnostics of Learned Event Representations for Anomaly Detection at the HL-LHC",
-    "author": "Donatella Genovese et al.",
+    "title": "Towards a Unified Taxonomy of Agricultural Harvesting Technologies: Linking Physical Interaction, Automation, and Selectivity",
+    "author": "Renato Cristiano Torres et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.13437v1"
+    "url": "http://arxiv.org/abs/2610.13688v1"
   },
   {
-    "title": "A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation",
-    "author": "Mahedee Zaman Moon et al.",
+    "title": "AutoBio+: Benchmarking Dexterous Manipulation with Dynamic Experimental Phenomena in Realistic Laboratories",
+    "author": "Xuanye Wu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2609.27828v1"
-  },
-  {
-    "title": "Retrieval-Augmented Multimodal Language Model with Heterogeneous Evidence Integration for Clinical Prognosis",
-    "author": "Hamza Shafiq et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.13510v1"
+    "url": "http://arxiv.org/abs/2610.13643v1"
   },
   {
     "title": "DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching",
@@ -48,15 +42,21 @@
     "url": "http://arxiv.org/abs/2610.08268v1"
   },
   {
-    "title": "Can Language Models Play the Wikipedia Game?",
-    "author": "Alexander Hickey et al.",
+    "title": "A Multi-Agent LLM System for Automated Tuning of Specialized Neural Network Models",
+    "author": "Ivan Moloshnikov et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.13948v1"
+    "url": "http://arxiv.org/abs/2610.13663v1"
   },
   {
-    "title": "Sustainable Cloud-Fog-Edge Systems for Smart Buildings: Algorithmic Adaptation under Memory Constraints and Dynamic Orchestration Strategies",
-    "author": "Mamadou Sow et al.",
+    "title": "Splat2Act: From Captured Scenes to Personalized VLA Manipulation",
+    "author": "Xiaomeng Ye et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.13307v1"
+    "url": "http://arxiv.org/abs/2610.13945v1"
+  },
+  {
+    "title": "CRAFTER: Causality-based Self-adaptation for Autonomous IoT Systems",
+    "author": "Houssam Hajj Hassan et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.06320v1"
   }
 ]
