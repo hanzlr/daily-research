@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "title": "Diversity-Aware Ensemble of Quantum-Classical Models via Combinatorial Fusion",
+    "author": "Jingyan Xu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.13808v1"
+  },
+  {
+    "title": "KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling",
+    "author": "Tianyi Wu",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.13924v1"
+  },
+  {
+    "title": "CRAFTER: Causality-based Self-adaptation for Autonomous IoT Systems",
+    "author": "Houssam Hajj Hassan et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.06320v1"
+  },
+  {
+    "title": "Constructive Bounds for the Topological Expressivity of Neural Networks",
+    "author": "Kosio Beshkov",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.13931v1"
+  },
+  {
+    "title": "Visual-Wi-Fi Navigation to Signal-Emitting Devices",
+    "author": "Lihao Wang et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.12733v1"
+  },
+  {
+    "title": "Mapless, Stabilizing, and Anti-Stuck Flipper Control for Articulated Tracked Robots",
+    "author": "Valentýn Číhala et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.13838v1"
+  },
+  {
+    "title": "On the Design Space of Continuous Diffusion Language Models",
+    "author": "Oscar Davis et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.13834v1"
+  },
+  {
+    "title": "When LiDAR Fades, Radar Takes Over: LiDAR Reliability-Aware Adaptive Localization Under Airborne Obscurants",
+    "author": "Moumita Mukherjee et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.13788v1"
+  },
+  {
+    "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+    "author": "Bhanu Tokas et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.13935v1"
+  },
+  {
+    "title": "FallGown: A Soft Pneumatic Wearable Device for Fall Prevention",
+    "author": "Megan C. Coram et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.12706v1"
+  }
+]
