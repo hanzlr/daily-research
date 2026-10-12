@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Mapless, Stabilizing, and Anti-Stuck Flipper Control for Articulated Tracked Robots | Valentýn Číhala et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13838v1) |
-| Visual-Wi-Fi Navigation to Signal-Emitting Devices | Lihao Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12733v1) |
-| Hide and Seek: HIDE Concepts to SEEK explanations for black box models | Bhanu Tokas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13935v1) |
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
-| FallGown: A Soft Pneumatic Wearable Device for Fall Prevention | Megan C. Coram et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12706v1) |
-| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
-| Constructive Bounds for the Topological Expressivity of Neural Networks | Kosio Beshkov | 2026 | [📄 Read](http://arxiv.org/abs/2610.13931v1) |
-| Prediction Is Not a Sufficient Memory State | Robert Jenkinson Alvarez | 2026 | [📄 Read](http://arxiv.org/abs/2610.13881v1) |
-| When LiDAR Fades, Radar Takes Over: LiDAR Reliability-Aware Adaptive Localization Under Airborne Obscurants | Moumita Mukherjee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13788v1) |
+| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
+| Splat2Act: From Captured Scenes to Personalized VLA Manipulation | Xiaomeng Ye et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13945v1) |
+| On the Design Space of Continuous Diffusion Language Models | Oscar Davis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13834v1) |
 | CougarTail & CUB: A General-Purpose Mast and Central Utility Board for Cylindrical Underwater Enclosures | Ben Washburn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10230v1) |
+| AutoBio+: Benchmarking Dexterous Manipulation with Dynamic Experimental Phenomena in Realistic Laboratories | Xuanye Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13643v1) |
+| A Local Agentic AI Framework to Generate Edge Case Scenarios for Safety Assurance | Victoria J. Hodge et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13479v1) |
+| Hide and Seek: HIDE Concepts to SEEK explanations for black box models | Bhanu Tokas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13935v1) |
+| FORTE: A Production Framework for Feature Evaluation and Deprecation in Industrial Recommender Systems | Vishnu Arun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13806v1) |
+| Prediction Is Not a Sufficient Memory State | Robert Jenkinson Alvarez | 2026 | [📄 Read](http://arxiv.org/abs/2610.13881v1) |
+| KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling | Tianyi Wu | 2026 | [📄 Read](http://arxiv.org/abs/2610.13924v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 13 October 2026, 03:04 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 13 October 2026, 04:30 WIB</sub>
