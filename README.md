@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| REMBGO for Evaluation-Limited Optimization: CEC2022 Benchmarking and EAF-STATCOM Generalization | Vikram Chekuri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13471v1) |
-| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
-| GCTAuto-encoder: A Cross modal Framework for Security Flaw Detection in IoT Networks | Najmieh Sadat Safarabadi | 2026 | [📄 Read](http://arxiv.org/abs/2610.06517v1) |
-| Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study | Dimitrios Nikou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08771v1) |
-| Towards a Unified Taxonomy of Agricultural Harvesting Technologies: Linking Physical Interaction, Automation, and Selectivity | Renato Cristiano Torres et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13688v1) |
-| AutoBio+: Benchmarking Dexterous Manipulation with Dynamic Experimental Phenomena in Realistic Laboratories | Xuanye Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13643v1) |
-| DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching | Jingpo Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08268v1) |
-| A Multi-Agent LLM System for Automated Tuning of Specialized Neural Network Models | Ivan Moloshnikov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13663v1) |
-| Splat2Act: From Captured Scenes to Personalized VLA Manipulation | Xiaomeng Ye et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13945v1) |
-| CRAFTER: Causality-based Self-adaptation for Autonomous IoT Systems | Houssam Hajj Hassan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06320v1) |
+| Mapless, Stabilizing, and Anti-Stuck Flipper Control for Articulated Tracked Robots | Valentýn Číhala et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13838v1) |
+| Visual-Wi-Fi Navigation to Signal-Emitting Devices | Lihao Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12733v1) |
+| Hide and Seek: HIDE Concepts to SEEK explanations for black box models | Bhanu Tokas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13935v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| FallGown: A Soft Pneumatic Wearable Device for Fall Prevention | Megan C. Coram et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12706v1) |
+| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
+| Constructive Bounds for the Topological Expressivity of Neural Networks | Kosio Beshkov | 2026 | [📄 Read](http://arxiv.org/abs/2610.13931v1) |
+| Prediction Is Not a Sufficient Memory State | Robert Jenkinson Alvarez | 2026 | [📄 Read](http://arxiv.org/abs/2610.13881v1) |
+| When LiDAR Fades, Radar Takes Over: LiDAR Reliability-Aware Adaptive Localization Under Airborne Obscurants | Moumita Mukherjee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13788v1) |
+| CougarTail & CUB: A General-Purpose Mast and Central Utility Board for Cylindrical Underwater Enclosures | Ben Washburn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10230v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 13 October 2026, 01:16 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 13 October 2026, 03:04 WIB</sub>
