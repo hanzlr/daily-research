@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| CRAFTER: Causality-based Self-adaptation for Autonomous IoT Systems | Houssam Hajj Hassan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06320v1) |
+| Emission-Aware Optimization of Container Handling Vehicles: A HaminaKotka Port Case Study | Hafiz Majid Hussain et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.05963v1) |
+| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
+| Evidential Multimodal Transformers with Dempster-Shafer Fusion for Emotion Recognition | Muhammad Usama et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13013v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| Local Diagnostics of Learned Event Representations for Anomaly Detection at the HL-LHC | Donatella Genovese et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13437v1) |
+| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
+| Retrieval-Augmented Multimodal Language Model with Heterogeneous Evidence Integration for Clinical Prognosis | Hamza Shafiq et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13510v1) |
 | DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching | Jingpo Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08268v1) |
-| Diversity-Aware Ensemble of Quantum-Classical Models via Combinatorial Fusion | Jingyan Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13808v1) |
-| REMBGO for Evaluation-Limited Optimization: CEC2022 Benchmarking and EAF-STATCOM Generalization | Vikram Chekuri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13471v1) |
-| On the Design Space of Continuous Diffusion Language Models | Oscar Davis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13834v1) |
-| FLoRa: Flight-Assisted Data Collection from Duty Cycling LoRa Nodes under Energy Constraints | Naresh Babu Kakarla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09226v1) |
-| DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness | Daniel Szelogowski | 2026 | [📄 Read](http://arxiv.org/abs/2610.13918v1) |
-| WaSA: Wavelet Scattering Autoencoders for Unsupervised Offline Detection of Malicious Clients in Federated Learning | Alessandro Licciardi | 2026 | [📄 Read](http://arxiv.org/abs/2610.13186v1) |
-| FORTE: A Production Framework for Feature Evaluation and Deprecation in Industrial Recommender Systems | Vishnu Arun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13806v1) |
-| A Multi-Agent LLM System for Automated Tuning of Specialized Neural Network Models | Ivan Moloshnikov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13663v1) |
+| Can Language Models Play the Wikipedia Game? | Alexander Hickey et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13948v1) |
+| Sustainable Cloud-Fog-Edge Systems for Smart Buildings: Algorithmic Adaptation under Memory Constraints and Dynamic Orchestration Strategies | Mamadou Sow et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13307v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 12 October 2026, 16:59 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 12 October 2026, 19:32 WIB</sub>
