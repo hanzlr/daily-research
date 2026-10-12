@@ -1,39 +1,27 @@
 [
   {
-    "title": "Diversity-Aware Ensemble of Quantum-Classical Models via Combinatorial Fusion",
-    "author": "Jingyan Xu et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.13808v1"
-  },
-  {
-    "title": "KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling",
-    "author": "Tianyi Wu",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.13924v1"
-  },
-  {
     "title": "CRAFTER: Causality-based Self-adaptation for Autonomous IoT Systems",
     "author": "Houssam Hajj Hassan et al.",
     "year": "2026",
     "url": "http://arxiv.org/abs/2610.06320v1"
   },
   {
-    "title": "Constructive Bounds for the Topological Expressivity of Neural Networks",
-    "author": "Kosio Beshkov",
+    "title": "DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching",
+    "author": "Jingpo Xu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.13931v1"
+    "url": "http://arxiv.org/abs/2610.08268v1"
   },
   {
-    "title": "Visual-Wi-Fi Navigation to Signal-Emitting Devices",
-    "author": "Lihao Wang et al.",
+    "title": "Diversity-Aware Ensemble of Quantum-Classical Models via Combinatorial Fusion",
+    "author": "Jingyan Xu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.12733v1"
+    "url": "http://arxiv.org/abs/2610.13808v1"
   },
   {
-    "title": "Mapless, Stabilizing, and Anti-Stuck Flipper Control for Articulated Tracked Robots",
-    "author": "Valentýn Číhala et al.",
+    "title": "REMBGO for Evaluation-Limited Optimization: CEC2022 Benchmarking and EAF-STATCOM Generalization",
+    "author": "Vikram Chekuri et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.13838v1"
+    "url": "http://arxiv.org/abs/2610.13471v1"
   },
   {
     "title": "On the Design Space of Continuous Diffusion Language Models",
@@ -42,21 +30,33 @@
     "url": "http://arxiv.org/abs/2610.13834v1"
   },
   {
-    "title": "When LiDAR Fades, Radar Takes Over: LiDAR Reliability-Aware Adaptive Localization Under Airborne Obscurants",
-    "author": "Moumita Mukherjee et al.",
+    "title": "FLoRa: Flight-Assisted Data Collection from Duty Cycling LoRa Nodes under Energy Constraints",
+    "author": "Naresh Babu Kakarla et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.13788v1"
+    "url": "http://arxiv.org/abs/2610.09226v1"
   },
   {
-    "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
-    "author": "Bhanu Tokas et al.",
+    "title": "DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness",
+    "author": "Daniel Szelogowski",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.13935v1"
+    "url": "http://arxiv.org/abs/2610.13918v1"
   },
   {
-    "title": "FallGown: A Soft Pneumatic Wearable Device for Fall Prevention",
-    "author": "Megan C. Coram et al.",
+    "title": "WaSA: Wavelet Scattering Autoencoders for Unsupervised Offline Detection of Malicious Clients in Federated Learning",
+    "author": "Alessandro Licciardi",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.12706v1"
+    "url": "http://arxiv.org/abs/2610.13186v1"
+  },
+  {
+    "title": "FORTE: A Production Framework for Feature Evaluation and Deprecation in Industrial Recommender Systems",
+    "author": "Vishnu Arun et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.13806v1"
+  },
+  {
+    "title": "A Multi-Agent LLM System for Automated Tuning of Specialized Neural Network Models",
+    "author": "Ivan Moloshnikov et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.13663v1"
   }
 ]

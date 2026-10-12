@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Diversity-Aware Ensemble of Quantum-Classical Models via Combinatorial Fusion | Jingyan Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13808v1) |
-| KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling | Tianyi Wu | 2026 | [📄 Read](http://arxiv.org/abs/2610.13924v1) |
 | CRAFTER: Causality-based Self-adaptation for Autonomous IoT Systems | Houssam Hajj Hassan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06320v1) |
-| Constructive Bounds for the Topological Expressivity of Neural Networks | Kosio Beshkov | 2026 | [📄 Read](http://arxiv.org/abs/2610.13931v1) |
-| Visual-Wi-Fi Navigation to Signal-Emitting Devices | Lihao Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12733v1) |
-| Mapless, Stabilizing, and Anti-Stuck Flipper Control for Articulated Tracked Robots | Valentýn Číhala et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13838v1) |
+| DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching | Jingpo Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08268v1) |
+| Diversity-Aware Ensemble of Quantum-Classical Models via Combinatorial Fusion | Jingyan Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13808v1) |
+| REMBGO for Evaluation-Limited Optimization: CEC2022 Benchmarking and EAF-STATCOM Generalization | Vikram Chekuri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13471v1) |
 | On the Design Space of Continuous Diffusion Language Models | Oscar Davis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13834v1) |
-| When LiDAR Fades, Radar Takes Over: LiDAR Reliability-Aware Adaptive Localization Under Airborne Obscurants | Moumita Mukherjee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13788v1) |
-| Hide and Seek: HIDE Concepts to SEEK explanations for black box models | Bhanu Tokas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13935v1) |
-| FallGown: A Soft Pneumatic Wearable Device for Fall Prevention | Megan C. Coram et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12706v1) |
+| FLoRa: Flight-Assisted Data Collection from Duty Cycling LoRa Nodes under Energy Constraints | Naresh Babu Kakarla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09226v1) |
+| DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness | Daniel Szelogowski | 2026 | [📄 Read](http://arxiv.org/abs/2610.13918v1) |
+| WaSA: Wavelet Scattering Autoencoders for Unsupervised Offline Detection of Malicious Clients in Federated Learning | Alessandro Licciardi | 2026 | [📄 Read](http://arxiv.org/abs/2610.13186v1) |
+| FORTE: A Production Framework for Feature Evaluation and Deprecation in Industrial Recommender Systems | Vishnu Arun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13806v1) |
+| A Multi-Agent LLM System for Automated Tuning of Specialized Neural Network Models | Ivan Moloshnikov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13663v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 12 October 2026, 13:59 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 12 October 2026, 16:59 WIB</sub>
