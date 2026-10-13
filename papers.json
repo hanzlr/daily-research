@@ -1,45 +1,27 @@
 [
   {
-    "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
-    "author": "Bhanu Tokas et al.",
+    "title": "Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions",
+    "author": "Mohammadreza Kamaldar",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.13935v1"
+    "url": "http://arxiv.org/abs/2604.23995v4"
   },
   {
-    "title": "When MLLMs miss what humans read: diagnosing and learning to read squint text",
-    "author": "Chen Peng et al.",
+    "title": "A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation",
+    "author": "Mahedee Zaman Moon et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.13465v1"
+    "url": "http://arxiv.org/abs/2609.27828v1"
   },
   {
-    "title": "Local Diagnostics of Learned Event Representations for Anomaly Detection at the HL-LHC",
-    "author": "Donatella Genovese et al.",
+    "title": "Visual-Wi-Fi Navigation to Signal-Emitting Devices",
+    "author": "Lihao Wang et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.13437v1"
+    "url": "http://arxiv.org/abs/2610.12733v1"
   },
   {
-    "title": "Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking",
-    "author": "Johannes Stockhammer et al.",
+    "title": "On the Design Space of Continuous Diffusion Language Models",
+    "author": "Oscar Davis et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.09006v1"
-  },
-  {
-    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
-    "author": "Alexander Winkler et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2609.33795v1"
-  },
-  {
-    "title": "Hierarchical Edge Computing in SAGSIN: Multi-Layer Network Architecture and Multi-Level Information Processing",
-    "author": "Jiajie Xu et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2609.29467v1"
-  },
-  {
-    "title": "A Priority-Aware Dual-Channel Feature Fusion Method for Urban Rail Service Traffic Classification",
-    "author": "Xinpeng Liu et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2609.32168v1"
+    "url": "http://arxiv.org/abs/2610.13834v1"
   },
   {
     "title": "KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling",
@@ -48,15 +30,33 @@
     "url": "http://arxiv.org/abs/2610.13924v1"
   },
   {
-    "title": "Prediction Is Not a Sufficient Memory State",
-    "author": "Robert Jenkinson Alvarez",
+    "title": "Diversity-Aware Ensemble of Quantum-Classical Models via Combinatorial Fusion",
+    "author": "Jingyan Xu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.13881v1"
+    "url": "http://arxiv.org/abs/2610.13808v1"
   },
   {
-    "title": "CougarTail & CUB: A General-Purpose Mast and Central Utility Board for Cylindrical Underwater Enclosures",
-    "author": "Ben Washburn et al.",
+    "title": "Constructive Bounds for the Topological Expressivity of Neural Networks",
+    "author": "Kosio Beshkov",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2609.10230v1"
+    "url": "http://arxiv.org/abs/2610.13931v1"
+  },
+  {
+    "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+    "author": "Bhanu Tokas et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.13935v1"
+  },
+  {
+    "title": "Mapless, Stabilizing, and Anti-Stuck Flipper Control for Articulated Tracked Robots",
+    "author": "Valentýn Číhala et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.13838v1"
+  },
+  {
+    "title": "When LiDAR Fades, Radar Takes Over: LiDAR Reliability-Aware Adaptive Localization Under Airborne Obscurants",
+    "author": "Moumita Mukherjee et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.13788v1"
   }
 ]

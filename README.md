@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Hide and Seek: HIDE Concepts to SEEK explanations for black box models | Bhanu Tokas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13935v1) |
-| When MLLMs miss what humans read: diagnosing and learning to read squint text | Chen Peng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13465v1) |
-| Local Diagnostics of Learned Event Representations for Anomaly Detection at the HL-LHC | Donatella Genovese et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13437v1) |
-| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
-| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
-| Hierarchical Edge Computing in SAGSIN: Multi-Layer Network Architecture and Multi-Level Information Processing | Jiajie Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.29467v1) |
-| A Priority-Aware Dual-Channel Feature Fusion Method for Urban Rail Service Traffic Classification | Xinpeng Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.32168v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
+| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
+| Visual-Wi-Fi Navigation to Signal-Emitting Devices | Lihao Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.12733v1) |
+| On the Design Space of Continuous Diffusion Language Models | Oscar Davis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13834v1) |
 | KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling | Tianyi Wu | 2026 | [📄 Read](http://arxiv.org/abs/2610.13924v1) |
-| Prediction Is Not a Sufficient Memory State | Robert Jenkinson Alvarez | 2026 | [📄 Read](http://arxiv.org/abs/2610.13881v1) |
-| CougarTail & CUB: A General-Purpose Mast and Central Utility Board for Cylindrical Underwater Enclosures | Ben Washburn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.10230v1) |
+| Diversity-Aware Ensemble of Quantum-Classical Models via Combinatorial Fusion | Jingyan Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13808v1) |
+| Constructive Bounds for the Topological Expressivity of Neural Networks | Kosio Beshkov | 2026 | [📄 Read](http://arxiv.org/abs/2610.13931v1) |
+| Hide and Seek: HIDE Concepts to SEEK explanations for black box models | Bhanu Tokas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13935v1) |
+| Mapless, Stabilizing, and Anti-Stuck Flipper Control for Articulated Tracked Robots | Valentýn Číhala et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13838v1) |
+| When LiDAR Fades, Radar Takes Over: LiDAR Reliability-Aware Adaptive Localization Under Airborne Obscurants | Moumita Mukherjee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.13788v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 14 October 2026, 00:52 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 14 October 2026, 02:42 WIB</sub>
