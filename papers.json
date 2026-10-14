@@ -1,33 +1,51 @@
 [
   {
-    "title": "Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study",
-    "author": "Dimitrios Nikou et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.08771v1"
-  },
-  {
-    "title": "History, Adaptation, and Hidden Gain: Two Prospective Tests of Learned Predictive Control in a Synthetic Neural Population",
-    "author": "Mahesh Reddy Pagadala",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.14368v1"
-  },
-  {
     "title": "Distributed Economic Dispatch Scheme of A BESS Network with A Switching Utility Grid in Energy Internet Paradigm via Reset Consensus Method",
     "author": "Yalin Zhang et al.",
     "year": "2026",
     "url": "http://arxiv.org/abs/2610.15647v1"
   },
   {
-    "title": "Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking",
-    "author": "Johannes Stockhammer et al.",
+    "title": "Scaling Online Optimal Transport Minibatches for Flow Matching",
+    "author": "Peter Chen et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.09006v1"
+    "url": "http://arxiv.org/abs/2610.18838v1"
   },
   {
-    "title": "Collective Benefits and Efficiency in Coupled Echo State Networks",
-    "author": "Polyphony Bruna et al.",
+    "title": "STATCOM-Based Flicker Mitigation in Electric Arc Furnace Systems Using DQ-PI and Lyapunov-Based Nonlinear Control",
+    "author": "Vikram Chekuri et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.17506v1"
+    "url": "http://arxiv.org/abs/2610.17330v1"
+  },
+  {
+    "title": "Read the Room Before Your Model Generates",
+    "author": "Muyao Kong et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.18820v1"
+  },
+  {
+    "title": "Recalibrating Many Questions with Few Labels: Minimax Rates and Identification Limits",
+    "author": "Xiaoyu Li et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.18488v1"
+  },
+  {
+    "title": "Adversarial RL for Port-Scan Evasion: Attacker Feature Visibility in Edge-Deployed IDS",
+    "author": "Logan Andrew North et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.08864v1"
+  },
+  {
+    "title": "FLoRa: Flight-Assisted Data Collection from Duty Cycling LoRa Nodes under Energy Constraints",
+    "author": "Naresh Babu Kakarla et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.09226v1"
+  },
+  {
+    "title": "Overcoming Catastrophic Forgetting: Continual Learning for Radar Waveform Classification",
+    "author": "Mohamed Rabie et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.18404v1"
   },
   {
     "title": "Physics-guided machine learning for saturation control across variable hydraulic conditions in heap leaching",
@@ -36,27 +54,9 @@
     "url": "http://arxiv.org/abs/2610.15947v1"
   },
   {
-    "title": "Neural Dimensional Analysis: Foundations of Dimensionless and Scale-Consistent Computation",
-    "author": "Bum Jun Kim et al.",
+    "title": "Beyond the Encoder: Object-Centric Representations Emerging from Segmentation Foundation Models",
+    "author": "Michalis Pistos et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.17969v1"
-  },
-  {
-    "title": "Saliency-Guided Replay for Continual Learning in Deep Spiking Neural Networks",
-    "author": "Francesco Panetta et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.17998v1"
-  },
-  {
-    "title": "Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control",
-    "author": "Johannes Stockhammer",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.17385v1"
-  },
-  {
-    "title": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
-    "author": "Mingxuan Yan et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.18869v1"
+    "url": "http://arxiv.org/abs/2610.18543v1"
   }
 ]
