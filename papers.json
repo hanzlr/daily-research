@@ -1,9 +1,21 @@
 [
   {
-    "title": "Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research",
-    "author": "Ad-Deen Mahbub et al.",
+    "title": "Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study",
+    "author": "Dimitrios Nikou et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2607.23220v1"
+    "url": "http://arxiv.org/abs/2610.08771v1"
+  },
+  {
+    "title": "History, Adaptation, and Hidden Gain: Two Prospective Tests of Learned Predictive Control in a Synthetic Neural Population",
+    "author": "Mahesh Reddy Pagadala",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.14368v1"
+  },
+  {
+    "title": "Distributed Economic Dispatch Scheme of A BESS Network with A Switching Utility Grid in Energy Internet Paradigm via Reset Consensus Method",
+    "author": "Yalin Zhang et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.15647v1"
   },
   {
     "title": "Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking",
@@ -12,51 +24,39 @@
     "url": "http://arxiv.org/abs/2610.09006v1"
   },
   {
-    "title": "Agentic4PDM: Host-Governed Evidence Admissibility for Industrial Fault Diagnosis",
-    "author": "Nam V. Nguyen et al.",
+    "title": "Collective Benefits and Efficiency in Coupled Echo State Networks",
+    "author": "Polyphony Bruna et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.17786v1"
+    "url": "http://arxiv.org/abs/2610.17506v1"
   },
   {
-    "title": "MajorTOM:Elliot Pretrain, A Multi-Sensor, Multi-Temporal Pretraining Dataset for Earth Observation",
-    "author": "Carmen Oliver Huidobro et al.",
+    "title": "Physics-guided machine learning for saturation control across variable hydraulic conditions in heap leaching",
+    "author": "Sultan Alhamdan et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.18624v1"
+    "url": "http://arxiv.org/abs/2610.15947v1"
   },
   {
-    "title": "PING: physics informed graph neural network for advection-diffusion processes with applications to solar power forecasting",
-    "author": "Jelena Simeunović et al.",
+    "title": "Neural Dimensional Analysis: Foundations of Dimensionless and Scale-Consistent Computation",
+    "author": "Bum Jun Kim et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.18280v1"
+    "url": "http://arxiv.org/abs/2610.17969v1"
   },
   {
-    "title": "A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation",
-    "author": "Mahedee Zaman Moon et al.",
+    "title": "Saliency-Guided Replay for Continual Learning in Deep Spiking Neural Networks",
+    "author": "Francesco Panetta et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2609.27828v1"
+    "url": "http://arxiv.org/abs/2610.17998v1"
   },
   {
-    "title": "When Missingness Follows the Graph: Beyond Feature Propagation for Missing Features",
-    "author": "Enrico Chialà et al.",
+    "title": "Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control",
+    "author": "Johannes Stockhammer",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.18113v1"
+    "url": "http://arxiv.org/abs/2610.17385v1"
   },
   {
-    "title": "Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions",
-    "author": "Mohammadreza Kamaldar",
+    "title": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
+    "author": "Mingxuan Yan et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2604.23995v4"
-  },
-  {
-    "title": "Overcoming Catastrophic Forgetting: Continual Learning for Radar Waveform Classification",
-    "author": "Mohamed Rabie et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.18404v1"
-  },
-  {
-    "title": "Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study",
-    "author": "Dimitrios Nikou et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.08771v1"
+    "url": "http://arxiv.org/abs/2610.18869v1"
   }
 ]
