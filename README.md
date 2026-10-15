@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Thursday, 15 October 2026
+## 🗓️ Friday, 16 October 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
-| Physics-guided machine learning for saturation control across variable hydraulic conditions in heap leaching | Sultan Alhamdan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.15947v1) |
-| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
-| Integrated Novelty Detection Systems: From Sensor Networks to Multi-Novelty Computer Vision | Irené Tematelewo | 2026 | [📄 Read](http://arxiv.org/abs/2610.19347v1) |
-| W-JEPA: Wavelet Joint-Embedding Predictive Architecture for Wearable Activity Recognition | Yogesh Prabhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.19411v1) |
-| Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control | Johannes Stockhammer | 2026 | [📄 Read](http://arxiv.org/abs/2610.17385v1) |
+| Detection of Potato Plant Leaf Diseases using Convolutional Neural Networks | Haimanot Bitew Alemayehu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.20544v1) |
+| Tactile-Guided Robot Learning: From Representation Learning to Foundation Models | Kiyanoush Nazari et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.20134v1) |
+| GeoCloak: An Agentic Framework for Semantics-Preserving Geolocation Privacy via Peripheral Clue Manipulation | Yixin Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.20055v1) |
 | Into the LidarVerse: A Real-Time Unified LiDAR World Model Across Tasks and Sensors | Henry Che et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.19201v1) |
-| STATCOM-Based Flicker Mitigation in Electric Arc Furnace Systems Using DQ-PI and Lyapunov-Based Nonlinear Control | Vikram Chekuri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.17330v1) |
-| Adaptive Computation with Conformal Certification | Shehtab Zaman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.19189v1) |
-| FOMI: A Force-Feedback Manipulation Interface for Teaching Contact-Rich Manipulation | Yishu Shen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.19839v1) |
+| GCTAuto-encoder: A Cross modal Framework for Security Flaw Detection in IoT Networks | Najmieh Sadat Safarabadi | 2026 | [📄 Read](http://arxiv.org/abs/2610.06517v1) |
+| PAWA: Panoramic Action-conditioned World Modeling for Multiple Agents | Siqi Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.20240v1) |
+| Seamless Deployment of Machine Learning Inference at the Far Edge: An Empirical AWS IoT Greengrass Architecture for Industrial Predictive Maintenance | Prince Kwabena Appiah Boadu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.14815v1) |
+| Retrieval Over Training: Similarity search-based Model Selection for Time Series Anomaly Detection | Christos Panourgias et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.20243v1) |
+| Quantifying privacy risks in foundation model representations of brain MRI | Imen Bajar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.20494v1) |
+| CRAFTER: Causality-based Self-adaptation for Autonomous IoT Systems | Houssam Hajj Hassan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06320v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 15 October 2026, 16:30 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 16 October 2026, 00:33 WIB</sub>
