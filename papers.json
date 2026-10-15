@@ -1,51 +1,51 @@
 [
   {
-    "title": "DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching",
-    "author": "Jingpo Xu et al.",
+    "title": "HyperLoop: Hyperspectral-Assisted Loop Closure Detection in 3D-SLAM for Planetary Exploration",
+    "author": "Annie Bhalla et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.08268v1"
+    "url": "http://arxiv.org/abs/2610.19742v1"
   },
   {
-    "title": "A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation",
-    "author": "Mahedee Zaman Moon et al.",
+    "title": "FOMI: A Force-Feedback Manipulation Interface for Teaching Contact-Rich Manipulation",
+    "author": "Yishu Shen et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2609.27828v1"
+    "url": "http://arxiv.org/abs/2610.19839v1"
   },
   {
-    "title": "Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research",
-    "author": "Ad-Deen Mahbub et al.",
+    "title": "Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control",
+    "author": "Johannes Stockhammer",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2607.23220v1"
+    "url": "http://arxiv.org/abs/2610.17385v1"
   },
   {
-    "title": "Controlling the latency in temporal coded spiking models for neuromorphic datasets",
-    "author": "Alban Gattepaille et al.",
+    "title": "Riding the Fixed-Point Curve: Image Classification in the Continuous Thought Machine",
+    "author": "Thomas Hannagan",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.19732v1"
+    "url": "http://arxiv.org/abs/2610.19220v1"
   },
   {
-    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
-    "author": "Alexander Winkler et al.",
+    "title": "Design and Analysis of Temporal Representations in Neural Networks",
+    "author": "Alban Colas-Gattepaille et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2609.33795v1"
+    "url": "http://arxiv.org/abs/2610.19730v1"
   },
   {
-    "title": "How Long Is the Coast of a Neuron? Resolution-Dependent Interaction Order and Computational Capacity",
-    "author": "Nima Dehghani",
+    "title": "Tactile-Guided Robot Learning: From Representation Learning to Foundation Models",
+    "author": "Kiyanoush Nazari et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.19487v1"
+    "url": "http://arxiv.org/abs/2610.20134v1"
   },
   {
-    "title": "Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions",
-    "author": "Mohammadreza Kamaldar",
+    "title": "History, Adaptation, and Hidden Gain: Two Prospective Tests of Learned Predictive Control in a Synthetic Neural Population",
+    "author": "Mahesh Reddy Pagadala",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2604.23995v4"
+    "url": "http://arxiv.org/abs/2610.14368v1"
   },
   {
-    "title": "Emission-Aware Optimization of Container Handling Vehicles: A HaminaKotka Port Case Study",
-    "author": "Hafiz Majid Hussain et al.",
+    "title": "Physics-guided machine learning for saturation control across variable hydraulic conditions in heap leaching",
+    "author": "Sultan Alhamdan et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.05963v1"
+    "url": "http://arxiv.org/abs/2610.15947v1"
   },
   {
     "title": "Into the LidarVerse: A Real-Time Unified LiDAR World Model Across Tasks and Sensors",
@@ -54,9 +54,9 @@
     "url": "http://arxiv.org/abs/2610.19201v1"
   },
   {
-    "title": "Tactile-Guided Robot Learning: From Representation Learning to Foundation Models",
-    "author": "Kiyanoush Nazari et al.",
+    "title": "How Long Is the Coast of a Neuron? Resolution-Dependent Interaction Order and Computational Capacity",
+    "author": "Nima Dehghani",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.20134v1"
+    "url": "http://arxiv.org/abs/2610.19487v1"
   }
 ]
