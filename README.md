@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| HyperLoop: Hyperspectral-Assisted Loop Closure Detection in 3D-SLAM for Planetary Exploration | Annie Bhalla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.19742v1) |
-| FOMI: A Force-Feedback Manipulation Interface for Teaching Contact-Rich Manipulation | Yishu Shen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.19839v1) |
-| Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control | Johannes Stockhammer | 2026 | [📄 Read](http://arxiv.org/abs/2610.17385v1) |
-| Riding the Fixed-Point Curve: Image Classification in the Continuous Thought Machine | Thomas Hannagan | 2026 | [📄 Read](http://arxiv.org/abs/2610.19220v1) |
-| Design and Analysis of Temporal Representations in Neural Networks | Alban Colas-Gattepaille et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.19730v1) |
-| Tactile-Guided Robot Learning: From Representation Learning to Foundation Models | Kiyanoush Nazari et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.20134v1) |
-| History, Adaptation, and Hidden Gain: Two Prospective Tests of Learned Predictive Control in a Synthetic Neural Population | Mahesh Reddy Pagadala | 2026 | [📄 Read](http://arxiv.org/abs/2610.14368v1) |
+| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
 | Physics-guided machine learning for saturation control across variable hydraulic conditions in heap leaching | Sultan Alhamdan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.15947v1) |
+| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
+| Integrated Novelty Detection Systems: From Sensor Networks to Multi-Novelty Computer Vision | Irené Tematelewo | 2026 | [📄 Read](http://arxiv.org/abs/2610.19347v1) |
+| W-JEPA: Wavelet Joint-Embedding Predictive Architecture for Wearable Activity Recognition | Yogesh Prabhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.19411v1) |
+| Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control | Johannes Stockhammer | 2026 | [📄 Read](http://arxiv.org/abs/2610.17385v1) |
 | Into the LidarVerse: A Real-Time Unified LiDAR World Model Across Tasks and Sensors | Henry Che et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.19201v1) |
-| How Long Is the Coast of a Neuron? Resolution-Dependent Interaction Order and Computational Capacity | Nima Dehghani | 2026 | [📄 Read](http://arxiv.org/abs/2610.19487v1) |
+| STATCOM-Based Flicker Mitigation in Electric Arc Furnace Systems Using DQ-PI and Lyapunov-Based Nonlinear Control | Vikram Chekuri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.17330v1) |
+| Adaptive Computation with Conformal Certification | Shehtab Zaman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.19189v1) |
+| FOMI: A Force-Feedback Manipulation Interface for Teaching Contact-Rich Manipulation | Yishu Shen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.19839v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 15 October 2026, 14:50 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 15 October 2026, 16:30 WIB</sub>
