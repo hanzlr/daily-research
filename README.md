@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| GCTAuto-encoder: A Cross modal Framework for Security Flaw Detection in IoT Networks | Najmieh Sadat Safarabadi | 2026 | [📄 Read](http://arxiv.org/abs/2610.06517v1) |
-| Scene Reconstruction Using Ubiquitous Wireless Signals via Diffusion Posterior Inference Over physics-Grounded Representations | Vahid Yazdnian et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.22120v1) |
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
-| Attention over noisy examples: generalization and memorization in the exponential Hopfield network | Francesco Alemanno | 2026 | [📄 Read](http://arxiv.org/abs/2610.22191v1) |
-| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
-| Robust Covariance Estimation for Entry-wise Contaminated and Partially Observed Data via Expectation Maximization Algorithm | Matys Savidan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.21709v1) |
-| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
-| Seamless Deployment of Machine Learning Inference at the Far Edge: An Empirical AWS IoT Greengrass Architecture for Industrial Predictive Maintenance | Prince Kwabena Appiah Boadu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.14815v1) |
 | CRAFTER: Causality-based Self-adaptation for Autonomous IoT Systems | Houssam Hajj Hassan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.06320v1) |
+| Distributed Economic Dispatch Scheme of A BESS Network with A Switching Utility Grid in Energy Internet Paradigm via Reset Consensus Method | Yalin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.15647v1) |
+| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
+| FLoRa: Flight-Assisted Data Collection from Duty Cycling LoRa Nodes under Energy Constraints | Naresh Babu Kakarla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09226v1) |
+| Physics-guided machine learning for saturation control across variable hydraulic conditions in heap leaching | Sultan Alhamdan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.15947v1) |
+| Fault Detection and Bit-Error Rate Diagnostics in Optical Wireless Links Using Edge-AI | Sarthak Bhattarai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.21402v1) |
+| Sparse Federated Echo State Networks for Time-Series Classification via Smooth-L1 Regularization | Gengcheng Lyu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.21742v1) |
+| Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study | Dimitrios Nikou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08771v1) |
+| Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control | Johannes Stockhammer | 2026 | [📄 Read](http://arxiv.org/abs/2610.17385v1) |
+| WaSA: Wavelet Scattering Autoencoders for Unsupervised Offline Detection of Malicious Clients in Federated Learning | Alessandro Licciardi | 2026 | [📄 Read](http://arxiv.org/abs/2610.13186v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 18 October 2026, 16:12 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 18 October 2026, 17:24 WIB</sub>
