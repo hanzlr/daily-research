@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Approaching Backpropagation Accuracy with Weight Perturbation on MNIST",
+    "author": "Patrick Inoue",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.21665v1"
+  },
+  {
+    "title": "GCTAuto-encoder: A Cross modal Framework for Security Flaw Detection in IoT Networks",
+    "author": "Najmieh Sadat Safarabadi",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.06517v1"
+  },
+  {
+    "title": "WaSA: Wavelet Scattering Autoencoders for Unsupervised Offline Detection of Malicious Clients in Federated Learning",
+    "author": "Alessandro Licciardi",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.13186v1"
+  },
+  {
+    "title": "CRAFTER: Causality-based Self-adaptation for Autonomous IoT Systems",
+    "author": "Houssam Hajj Hassan et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.06320v1"
+  },
+  {
+    "title": "Fault Detection and Bit-Error Rate Diagnostics in Optical Wireless Links Using Edge-AI",
+    "author": "Sarthak Bhattarai et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.21402v1"
+  },
+  {
+    "title": "Beyond the Hamming Cliff: Compact Spatial Encodings Preserving Semantic Distance in Spiking Neural Networks",
+    "author": "Sergio Davies et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.22083v1"
+  },
+  {
+    "title": "DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching",
+    "author": "Jingpo Xu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.08268v1"
+  },
+  {
+    "title": "FLoRa: Flight-Assisted Data Collection from Duty Cycling LoRa Nodes under Energy Constraints",
+    "author": "Naresh Babu Kakarla et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.09226v1"
+  },
+  {
+    "title": "Sparse Federated Echo State Networks for Time-Series Classification via Smooth-L1 Regularization",
+    "author": "Gengcheng Lyu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.21742v1"
+  },
+  {
+    "title": "Seamless Deployment of Machine Learning Inference at the Far Edge: An Empirical AWS IoT Greengrass Architecture for Industrial Predictive Maintenance",
+    "author": "Prince Kwabena Appiah Boadu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.14815v1"
+  }
+]
