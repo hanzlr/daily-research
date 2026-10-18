@@ -1,27 +1,21 @@
 [
   {
-    "title": "Approaching Backpropagation Accuracy with Weight Perturbation on MNIST",
-    "author": "Patrick Inoue",
+    "title": "DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching",
+    "author": "Jingpo Xu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.21665v1"
+    "url": "http://arxiv.org/abs/2610.08268v1"
   },
   {
-    "title": "GCTAuto-encoder: A Cross modal Framework for Security Flaw Detection in IoT Networks",
-    "author": "Najmieh Sadat Safarabadi",
+    "title": "SurvICL: a Foundation Model for in-context Survival Analysis",
+    "author": "Julie Alberge et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.06517v1"
+    "url": "http://arxiv.org/abs/2610.22242v1"
   },
   {
-    "title": "WaSA: Wavelet Scattering Autoencoders for Unsupervised Offline Detection of Malicious Clients in Federated Learning",
-    "author": "Alessandro Licciardi",
+    "title": "Attention over noisy examples: generalization and memorization in the exponential Hopfield network",
+    "author": "Francesco Alemanno",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.13186v1"
-  },
-  {
-    "title": "CRAFTER: Causality-based Self-adaptation for Autonomous IoT Systems",
-    "author": "Houssam Hajj Hassan et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.06320v1"
+    "url": "http://arxiv.org/abs/2610.22191v1"
   },
   {
     "title": "Fault Detection and Bit-Error Rate Diagnostics in Optical Wireless Links Using Edge-AI",
@@ -30,22 +24,28 @@
     "url": "http://arxiv.org/abs/2610.21402v1"
   },
   {
-    "title": "Beyond the Hamming Cliff: Compact Spatial Encodings Preserving Semantic Distance in Spiking Neural Networks",
-    "author": "Sergio Davies et al.",
+    "title": "WaSA: Wavelet Scattering Autoencoders for Unsupervised Offline Detection of Malicious Clients in Federated Learning",
+    "author": "Alessandro Licciardi",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.22083v1"
+    "url": "http://arxiv.org/abs/2610.13186v1"
   },
   {
-    "title": "DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching",
-    "author": "Jingpo Xu et al.",
+    "title": "Location-Based Safety Management with Wearable Seamless Indoor-Outdoor Positioning",
+    "author": "Anh-Van Vu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.08268v1"
+    "url": "http://arxiv.org/abs/2610.21503v1"
   },
   {
-    "title": "FLoRa: Flight-Assisted Data Collection from Duty Cycling LoRa Nodes under Energy Constraints",
-    "author": "Naresh Babu Kakarla et al.",
+    "title": "Hierarchical Building-Floo-Room Framework for Privacy-Preserving Autonomous Delivery in Large-Scale Buildings",
+    "author": "Xu Xiaoji et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.09226v1"
+    "url": "http://arxiv.org/abs/2610.21361v1"
+  },
+  {
+    "title": "Knowledge That Is Linear Before Fine-Tuning Generalizes After It",
+    "author": "Faridoun Mehri et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.22300v1"
   },
   {
     "title": "Sparse Federated Echo State Networks for Time-Series Classification via Smooth-L1 Regularization",
@@ -54,9 +54,9 @@
     "url": "http://arxiv.org/abs/2610.21742v1"
   },
   {
-    "title": "Seamless Deployment of Machine Learning Inference at the Far Edge: An Empirical AWS IoT Greengrass Architecture for Industrial Predictive Maintenance",
-    "author": "Prince Kwabena Appiah Boadu et al.",
+    "title": "Generalization Guarantees of Randomized Block Coordinate Descent for Nonconvex Learning",
+    "author": "Ruixi Hu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.14815v1"
+    "url": "http://arxiv.org/abs/2610.22213v1"
   }
 ]
