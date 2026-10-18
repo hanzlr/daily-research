@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Twice Upon a Time: Complementary Representations for Time-Series Reasoning | Hedi Zisling et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.22327v1) |
-| Lean Graph Search for Formal Theorem Proving | Yihan Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.22339v1) |
-| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
-| DemoStream: Batched Task-and-Motion-Plan Optimization for Automated Learning from Demonstration | Caelan Garrett et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.22020v1) |
-| Attention over noisy examples: generalization and memorization in the exponential Hopfield network | Francesco Alemanno | 2026 | [📄 Read](http://arxiv.org/abs/2610.22191v1) |
-| CoDA: Co-Evolution of Data Engines and Action Policies | Tianjiao Yu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.22362v1) |
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| Generalization Guarantees of Randomized Block Coordinate Descent for Nonconvex Learning | Ruixi Hu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.22213v1) |
 | SurvICL: a Foundation Model for in-context Survival Analysis | Julie Alberge et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.22242v1) |
-| Knowledge That Is Linear Before Fine-Tuning Generalizes After It | Faridoun Mehri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.22300v1) |
+| DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching | Jingpo Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08268v1) |
+| MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering | Shangheng Du et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.22344v1) |
+| FLoRa: Flight-Assisted Data Collection from Duty Cycling LoRa Nodes under Energy Constraints | Naresh Babu Kakarla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09226v1) |
+| A Priority-Aware Dual-Channel Feature Fusion Method for Urban Rail Service Traffic Classification | Xinpeng Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.32168v1) |
+| Rethinking Routing Exploration in Modern Mixture-of-Experts | Bingcong Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.22353v1) |
+| Emission-Aware Optimization of Container Handling Vehicles: A HaminaKotka Port Case Study | Hafiz Majid Hussain et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.05963v1) |
+| WaSA: Wavelet Scattering Autoencoders for Unsupervised Offline Detection of Malicious Clients in Federated Learning | Alessandro Licciardi | 2026 | [📄 Read](http://arxiv.org/abs/2610.13186v1) |
+| LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation | Zhixu Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.22372v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 18 October 2026, 12:27 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 18 October 2026, 14:32 WIB</sub>

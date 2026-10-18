@@ -1,51 +1,9 @@
 [
   {
-    "title": "Twice Upon a Time: Complementary Representations for Time-Series Reasoning",
-    "author": "Hedi Zisling et al.",
+    "title": "Generalization Guarantees of Randomized Block Coordinate Descent for Nonconvex Learning",
+    "author": "Ruixi Hu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.22327v1"
-  },
-  {
-    "title": "Lean Graph Search for Formal Theorem Proving",
-    "author": "Yihan Xu et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.22339v1"
-  },
-  {
-    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
-    "author": "Alexander Winkler et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2609.33795v1"
-  },
-  {
-    "title": "Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions",
-    "author": "Mohammadreza Kamaldar",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2604.23995v4"
-  },
-  {
-    "title": "DemoStream: Batched Task-and-Motion-Plan Optimization for Automated Learning from Demonstration",
-    "author": "Caelan Garrett et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.22020v1"
-  },
-  {
-    "title": "Attention over noisy examples: generalization and memorization in the exponential Hopfield network",
-    "author": "Francesco Alemanno",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.22191v1"
-  },
-  {
-    "title": "CoDA: Co-Evolution of Data Engines and Action Policies",
-    "author": "Tianjiao Yu et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.22362v1"
-  },
-  {
-    "title": "Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research",
-    "author": "Ad-Deen Mahbub et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2607.23220v1"
+    "url": "http://arxiv.org/abs/2610.22213v1"
   },
   {
     "title": "SurvICL: a Foundation Model for in-context Survival Analysis",
@@ -54,9 +12,51 @@
     "url": "http://arxiv.org/abs/2610.22242v1"
   },
   {
-    "title": "Knowledge That Is Linear Before Fine-Tuning Generalizes After It",
-    "author": "Faridoun Mehri et al.",
+    "title": "DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching",
+    "author": "Jingpo Xu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.22300v1"
+    "url": "http://arxiv.org/abs/2610.08268v1"
+  },
+  {
+    "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering",
+    "author": "Shangheng Du et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.22344v1"
+  },
+  {
+    "title": "FLoRa: Flight-Assisted Data Collection from Duty Cycling LoRa Nodes under Energy Constraints",
+    "author": "Naresh Babu Kakarla et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.09226v1"
+  },
+  {
+    "title": "A Priority-Aware Dual-Channel Feature Fusion Method for Urban Rail Service Traffic Classification",
+    "author": "Xinpeng Liu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2609.32168v1"
+  },
+  {
+    "title": "Rethinking Routing Exploration in Modern Mixture-of-Experts",
+    "author": "Bingcong Li et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.22353v1"
+  },
+  {
+    "title": "Emission-Aware Optimization of Container Handling Vehicles: A HaminaKotka Port Case Study",
+    "author": "Hafiz Majid Hussain et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.05963v1"
+  },
+  {
+    "title": "WaSA: Wavelet Scattering Autoencoders for Unsupervised Offline Detection of Malicious Clients in Federated Learning",
+    "author": "Alessandro Licciardi",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.13186v1"
+  },
+  {
+    "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+    "author": "Zhixu Li et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.22372v1"
   }
 ]
