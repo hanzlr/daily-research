@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Foundation Models for Autonomous Space Robotics: Architectures, Physical Adaptation, and Validation | Zizhe Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23068v1) |
-| No Eyes, No Problem: What Does Touch Contribute to Blind Baoding Ball Manipulation? | Ayush Deshmukh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23438v1) |
-| STATCOM-Based Flicker Mitigation in Electric Arc Furnace Systems Using DQ-PI and Lyapunov-Based Nonlinear Control | Vikram Chekuri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.17330v1) |
-| History, Adaptation, and Hidden Gain: Two Prospective Tests of Learned Predictive Control in a Synthetic Neural Population | Mahesh Reddy Pagadala | 2026 | [📄 Read](http://arxiv.org/abs/2610.14368v1) |
+| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
+| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
+| Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study | Dimitrios Nikou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08771v1) |
+| From Flow-Box Invariants to Global Conservation Laws: Machine Learning-Assisted Detection of Singularities and Near-Integrability | Jimmie Adriazola et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23760v1) |
+| Simultaneous Force and Motion Control in Generalised Coordinates | Jon Woolfrey | 2026 | [📄 Read](http://arxiv.org/abs/2610.22813v1) |
+| Learning to Be Guided: Shaping Latent Geometry for Classifier-Free Guidance | Haoming Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.22885v1) |
+| Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control | Johannes Stockhammer | 2026 | [📄 Read](http://arxiv.org/abs/2610.17385v1) |
 | GR-VIP: Geometric representation conditioning for precise visuomotor policy | Chanhwi Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.22997v1) |
-| QD-Rec: Open-Ended Evolution of Recommendations via Quality-Diversity | Takashi Ishida et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23470v1) |
-| Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts | Antonia Bronars et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23849v1) |
-| Physics-guided machine learning for saturation control across variable hydraulic conditions in heap leaching | Sultan Alhamdan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.15947v1) |
-| Algorithm Modelization: Transforming Optimization Algorithms into Evolvable Intelligence | Jian Yao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23161v1) |
-| Distributed Economic Dispatch Scheme of A BESS Network with A Switching Utility Grid in Energy Internet Paradigm via Reset Consensus Method | Yalin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.15647v1) |
+| qGAMMA: A Framework for Optimal DNN Mapping on Multi-Precision Accelerators | Leandro Fiorin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23222v1) |
+| From Billion-Scale to Million-Scale Language Models: Operational Capabilities for Embedded Post-Exploitation | Gabriel Hortea et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23534v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 20 October 2026, 00:16 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 20 October 2026, 01:56 WIB</sub>

@@ -1,27 +1,45 @@
 [
   {
-    "title": "Foundation Models for Autonomous Space Robotics: Architectures, Physical Adaptation, and Validation",
-    "author": "Zizhe Wang et al.",
+    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
+    "author": "Alexander Winkler et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.23068v1"
+    "url": "http://arxiv.org/abs/2609.33795v1"
   },
   {
-    "title": "No Eyes, No Problem: What Does Touch Contribute to Blind Baoding Ball Manipulation?",
-    "author": "Ayush Deshmukh et al.",
+    "title": "Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking",
+    "author": "Johannes Stockhammer et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.23438v1"
+    "url": "http://arxiv.org/abs/2610.09006v1"
   },
   {
-    "title": "STATCOM-Based Flicker Mitigation in Electric Arc Furnace Systems Using DQ-PI and Lyapunov-Based Nonlinear Control",
-    "author": "Vikram Chekuri et al.",
+    "title": "Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study",
+    "author": "Dimitrios Nikou et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.17330v1"
+    "url": "http://arxiv.org/abs/2610.08771v1"
   },
   {
-    "title": "History, Adaptation, and Hidden Gain: Two Prospective Tests of Learned Predictive Control in a Synthetic Neural Population",
-    "author": "Mahesh Reddy Pagadala",
+    "title": "From Flow-Box Invariants to Global Conservation Laws: Machine Learning-Assisted Detection of Singularities and Near-Integrability",
+    "author": "Jimmie Adriazola et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.14368v1"
+    "url": "http://arxiv.org/abs/2610.23760v1"
+  },
+  {
+    "title": "Simultaneous Force and Motion Control in Generalised Coordinates",
+    "author": "Jon Woolfrey",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.22813v1"
+  },
+  {
+    "title": "Learning to Be Guided: Shaping Latent Geometry for Classifier-Free Guidance",
+    "author": "Haoming Liu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.22885v1"
+  },
+  {
+    "title": "Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control",
+    "author": "Johannes Stockhammer",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.17385v1"
   },
   {
     "title": "GR-VIP: Geometric representation conditioning for precise visuomotor policy",
@@ -30,33 +48,15 @@
     "url": "http://arxiv.org/abs/2610.22997v1"
   },
   {
-    "title": "QD-Rec: Open-Ended Evolution of Recommendations via Quality-Diversity",
-    "author": "Takashi Ishida et al.",
+    "title": "qGAMMA: A Framework for Optimal DNN Mapping on Multi-Precision Accelerators",
+    "author": "Leandro Fiorin et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.23470v1"
+    "url": "http://arxiv.org/abs/2610.23222v1"
   },
   {
-    "title": "Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts",
-    "author": "Antonia Bronars et al.",
+    "title": "From Billion-Scale to Million-Scale Language Models: Operational Capabilities for Embedded Post-Exploitation",
+    "author": "Gabriel Hortea et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.23849v1"
-  },
-  {
-    "title": "Physics-guided machine learning for saturation control across variable hydraulic conditions in heap leaching",
-    "author": "Sultan Alhamdan et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.15947v1"
-  },
-  {
-    "title": "Algorithm Modelization: Transforming Optimization Algorithms into Evolvable Intelligence",
-    "author": "Jian Yao et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.23161v1"
-  },
-  {
-    "title": "Distributed Economic Dispatch Scheme of A BESS Network with A Switching Utility Grid in Energy Internet Paradigm via Reset Consensus Method",
-    "author": "Yalin Zhang et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.15647v1"
+    "url": "http://arxiv.org/abs/2610.23534v1"
   }
 ]
