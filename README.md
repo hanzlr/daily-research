@@ -18,16 +18,10 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching | Jingpo Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08268v1) |
-| SurvICL: a Foundation Model for in-context Survival Analysis | Julie Alberge et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.22242v1) |
-| Attention over noisy examples: generalization and memorization in the exponential Hopfield network | Francesco Alemanno | 2026 | [📄 Read](http://arxiv.org/abs/2610.22191v1) |
-| Fault Detection and Bit-Error Rate Diagnostics in Optical Wireless Links Using Edge-AI | Sarthak Bhattarai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.21402v1) |
-| WaSA: Wavelet Scattering Autoencoders for Unsupervised Offline Detection of Malicious Clients in Federated Learning | Alessandro Licciardi | 2026 | [📄 Read](http://arxiv.org/abs/2610.13186v1) |
-| Location-Based Safety Management with Wearable Seamless Indoor-Outdoor Positioning | Anh-Van Vu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.21503v1) |
-| Hierarchical Building-Floo-Room Framework for Privacy-Preserving Autonomous Delivery in Large-Scale Buildings | Xu Xiaoji et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.21361v1) |
-| Knowledge That Is Linear Before Fine-Tuning Generalizes After It | Faridoun Mehri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.22300v1) |
-| Sparse Federated Echo State Networks for Time-Series Classification via Smooth-L1 Regularization | Gengcheng Lyu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.21742v1) |
-| Generalization Guarantees of Randomized Block Coordinate Descent for Nonconvex Learning | Ruixi Hu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.22213v1) |
+| From Flow-Box Invariants to Global Conservation Laws: Machine Learning-Assisted Detection of Singularities and Near-Integrability | Jimmie Adriazola et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23760v1) |
+| Sampling the XY model with an attention-based neural network | Piotr Białas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23783v1) |
+| HardEval: An Execution-Verified Benchmark for AI-Driven Security Hardening and Compliance Remediation | Manohar Vellala et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23685v1) |
+| Tool Recommendation for Multi-Step Agents: Finding Every Tool a Task Needs | Sam Partee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23707v1) |
 
 ---
 
@@ -40,4 +34,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 October 2026, 00:49 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 October 2026, 09:58 WIB</sub>
