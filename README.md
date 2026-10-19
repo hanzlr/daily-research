@@ -18,6 +18,10 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
+| No Eyes, No Problem: What Does Touch Contribute to Blind Baoding Ball Manipulation? | Ayush Deshmukh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23438v1) |
+| PASS: A Trustworthy Precision Approach Simulation System for CAT III Integrity Algorithm Development | Lang Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23019v1) |
+| Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts | Antonia Bronars et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23849v1) |
+| Foundation Models for Autonomous Space Robotics: Architectures, Physical Adaptation, and Validation | Zizhe Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23068v1) |
 
 ---
 
@@ -30,4 +34,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 October 2026, 19:10 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 October 2026, 21:18 WIB</sub>
