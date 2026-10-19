@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Monday, 19 October 2026
+## 🗓️ Tuesday, 20 October 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Emission-Aware Optimization of Container Handling Vehicles: A HaminaKotka Port Case Study | Hafiz Majid Hussain et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.05963v1) |
-| SpikeQ: Spike-Guided Post-Training Quantization for Spiking Neural Networks | Kai Sun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23046v1) |
-| DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching | Jingpo Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08268v1) |
-| Quality-of-Transmission Estimation in Quantum Networks: Compute, Simulate, or Learn? | Anis Bekri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23827v1) |
-| Hierarchical Edge Computing in SAGSIN: Multi-Layer Network Architecture and Multi-Level Information Processing | Jiajie Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.29467v1) |
-| Learning to Be Guided: Shaping Latent Geometry for Classifier-Free Guidance | Haoming Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.22885v1) |
-| A Priority-Aware Dual-Channel Feature Fusion Method for Urban Rail Service Traffic Classification | Xinpeng Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.32168v1) |
-| Wavelength Diversity Expands the Expressive Power of Optical Computing | Shiqi Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23070v1) |
-| qGAMMA: A Framework for Optimal DNN Mapping on Multi-Precision Accelerators | Leandro Fiorin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23222v1) |
-| Task-aligned spectral inductive biases in parameterized quantum circuits | Felix Frohnert et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23834v1) |
+| Foundation Models for Autonomous Space Robotics: Architectures, Physical Adaptation, and Validation | Zizhe Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23068v1) |
+| No Eyes, No Problem: What Does Touch Contribute to Blind Baoding Ball Manipulation? | Ayush Deshmukh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23438v1) |
+| STATCOM-Based Flicker Mitigation in Electric Arc Furnace Systems Using DQ-PI and Lyapunov-Based Nonlinear Control | Vikram Chekuri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.17330v1) |
+| History, Adaptation, and Hidden Gain: Two Prospective Tests of Learned Predictive Control in a Synthetic Neural Population | Mahesh Reddy Pagadala | 2026 | [📄 Read](http://arxiv.org/abs/2610.14368v1) |
+| GR-VIP: Geometric representation conditioning for precise visuomotor policy | Chanhwi Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.22997v1) |
+| QD-Rec: Open-Ended Evolution of Recommendations via Quality-Diversity | Takashi Ishida et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23470v1) |
+| Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts | Antonia Bronars et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23849v1) |
+| Physics-guided machine learning for saturation control across variable hydraulic conditions in heap leaching | Sultan Alhamdan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.15947v1) |
+| Algorithm Modelization: Transforming Optimization Algorithms into Evolvable Intelligence | Jian Yao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23161v1) |
+| Distributed Economic Dispatch Scheme of A BESS Network with A Switching Utility Grid in Energy Internet Paradigm via Reset Consensus Method | Yalin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.15647v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 October 2026, 22:55 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 20 October 2026, 00:16 WIB</sub>
