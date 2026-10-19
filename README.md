@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
-| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
-| Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study | Dimitrios Nikou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08771v1) |
-| From Flow-Box Invariants to Global Conservation Laws: Machine Learning-Assisted Detection of Singularities and Near-Integrability | Jimmie Adriazola et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23760v1) |
-| Simultaneous Force and Motion Control in Generalised Coordinates | Jon Woolfrey | 2026 | [📄 Read](http://arxiv.org/abs/2610.22813v1) |
-| Learning to Be Guided: Shaping Latent Geometry for Classifier-Free Guidance | Haoming Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.22885v1) |
-| Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control | Johannes Stockhammer | 2026 | [📄 Read](http://arxiv.org/abs/2610.17385v1) |
-| GR-VIP: Geometric representation conditioning for precise visuomotor policy | Chanhwi Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.22997v1) |
-| qGAMMA: A Framework for Optimal DNN Mapping on Multi-Precision Accelerators | Leandro Fiorin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23222v1) |
-| From Billion-Scale to Million-Scale Language Models: Operational Capabilities for Embedded Post-Exploitation | Gabriel Hortea et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23534v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
+| HardEval: An Execution-Verified Benchmark for AI-Driven Security Hardening and Compliance Remediation | Manohar Vellala et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23685v1) |
+| Wavelength Diversity Expands the Expressive Power of Optical Computing | Shiqi Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23070v1) |
+| SpikeQ: Spike-Guided Post-Training Quantization for Spiking Neural Networks | Kai Sun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23046v1) |
+| Algorithm Modelization: Transforming Optimization Algorithms into Evolvable Intelligence | Jian Yao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23161v1) |
+| Deterministic Bounds on Accuracy and Stability of Metric-Space Regression and Classification | Nina Maria Gottschling et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.22564v1) |
+| Tool Recommendation for Multi-Step Agents: Finding Every Tool a Task Needs | Sam Partee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23707v1) |
+| GRAFT-EEG: Gauge-Aware Physical Field Transport for Cross-Dataset Motor-Imagery EEG | Ying Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23620v1) |
+| QD-Rec: Open-Ended Evolution of Recommendations via Quality-Diversity | Takashi Ishida et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23470v1) |
+| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 20 October 2026, 01:56 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 20 October 2026, 03:21 WIB</sub>

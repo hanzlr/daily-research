@@ -1,62 +1,62 @@
 [
   {
-    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
-    "author": "Alexander Winkler et al.",
+    "title": "Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions",
+    "author": "Mohammadreza Kamaldar",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2609.33795v1"
+    "url": "http://arxiv.org/abs/2604.23995v4"
   },
   {
-    "title": "Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking",
-    "author": "Johannes Stockhammer et al.",
+    "title": "HardEval: An Execution-Verified Benchmark for AI-Driven Security Hardening and Compliance Remediation",
+    "author": "Manohar Vellala et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.09006v1"
+    "url": "http://arxiv.org/abs/2610.23685v1"
   },
   {
-    "title": "Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study",
-    "author": "Dimitrios Nikou et al.",
+    "title": "Wavelength Diversity Expands the Expressive Power of Optical Computing",
+    "author": "Shiqi Chen et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.08771v1"
+    "url": "http://arxiv.org/abs/2610.23070v1"
   },
   {
-    "title": "From Flow-Box Invariants to Global Conservation Laws: Machine Learning-Assisted Detection of Singularities and Near-Integrability",
-    "author": "Jimmie Adriazola et al.",
+    "title": "SpikeQ: Spike-Guided Post-Training Quantization for Spiking Neural Networks",
+    "author": "Kai Sun et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.23760v1"
+    "url": "http://arxiv.org/abs/2610.23046v1"
   },
   {
-    "title": "Simultaneous Force and Motion Control in Generalised Coordinates",
-    "author": "Jon Woolfrey",
+    "title": "Algorithm Modelization: Transforming Optimization Algorithms into Evolvable Intelligence",
+    "author": "Jian Yao et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.22813v1"
+    "url": "http://arxiv.org/abs/2610.23161v1"
   },
   {
-    "title": "Learning to Be Guided: Shaping Latent Geometry for Classifier-Free Guidance",
-    "author": "Haoming Liu et al.",
+    "title": "Deterministic Bounds on Accuracy and Stability of Metric-Space Regression and Classification",
+    "author": "Nina Maria Gottschling et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.22885v1"
+    "url": "http://arxiv.org/abs/2610.22564v1"
   },
   {
-    "title": "Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control",
-    "author": "Johannes Stockhammer",
+    "title": "Tool Recommendation for Multi-Step Agents: Finding Every Tool a Task Needs",
+    "author": "Sam Partee et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.17385v1"
+    "url": "http://arxiv.org/abs/2610.23707v1"
   },
   {
-    "title": "GR-VIP: Geometric representation conditioning for precise visuomotor policy",
-    "author": "Chanhwi Lee et al.",
+    "title": "GRAFT-EEG: Gauge-Aware Physical Field Transport for Cross-Dataset Motor-Imagery EEG",
+    "author": "Ying Zhou et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.22997v1"
+    "url": "http://arxiv.org/abs/2610.23620v1"
   },
   {
-    "title": "qGAMMA: A Framework for Optimal DNN Mapping on Multi-Precision Accelerators",
-    "author": "Leandro Fiorin et al.",
+    "title": "QD-Rec: Open-Ended Evolution of Recommendations via Quality-Diversity",
+    "author": "Takashi Ishida et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.23222v1"
+    "url": "http://arxiv.org/abs/2610.23470v1"
   },
   {
-    "title": "From Billion-Scale to Million-Scale Language Models: Operational Capabilities for Embedded Post-Exploitation",
-    "author": "Gabriel Hortea et al.",
+    "title": "A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation",
+    "author": "Mahedee Zaman Moon et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.23534v1"
+    "url": "http://arxiv.org/abs/2609.27828v1"
   }
 ]
