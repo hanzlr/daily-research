@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control",
+    "author": "Johannes Stockhammer",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.17385v1"
+  },
+  {
+    "title": "qGAMMA: A Framework for Optimal DNN Mapping on Multi-Precision Accelerators",
+    "author": "Leandro Fiorin et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.23222v1"
+  },
+  {
+    "title": "Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts",
+    "author": "Antonia Bronars et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.23849v1"
+  },
+  {
+    "title": "WaSA: Wavelet Scattering Autoencoders for Unsupervised Offline Detection of Malicious Clients in Federated Learning",
+    "author": "Alessandro Licciardi",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.13186v1"
+  },
+  {
+    "title": "From Billion-Scale to Million-Scale Language Models: Operational Capabilities for Embedded Post-Exploitation",
+    "author": "Gabriel Hortea et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.23534v1"
+  },
+  {
+    "title": "Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study",
+    "author": "Dimitrios Nikou et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.08771v1"
+  },
+  {
+    "title": "Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking",
+    "author": "Johannes Stockhammer et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.09006v1"
+  },
+  {
+    "title": "Learning to Be Guided: Shaping Latent Geometry for Classifier-Free Guidance",
+    "author": "Haoming Liu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.22885v1"
+  },
+  {
+    "title": "Prune the Leaky Neurons: Mitigating Private Data Leakage in Fine-Tuned LLMs via Joint-Embedding-Guided Pruning",
+    "author": "Mohamed Shaaban et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.22792v1"
+  },
+  {
+    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
+    "author": "Alexander Winkler et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2609.33795v1"
+  }
+]

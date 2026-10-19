@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| GCTAuto-encoder: A Cross modal Framework for Security Flaw Detection in IoT Networks | Najmieh Sadat Safarabadi | 2026 | [📄 Read](http://arxiv.org/abs/2610.06517v1) |
-| Network-Wide Freeway Speed Nowcasting and Forecasting from Sparse Fixed Sensors with a Probe-Supervised Graph Convolutional Recurrent Network | Ran Tu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.22630v1) |
-| GR-VIP: Geometric representation conditioning for precise visuomotor policy | Chanhwi Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.22997v1) |
-| Sampling the XY model with an attention-based neural network | Piotr Białas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23783v1) |
-| HardEval: An Execution-Verified Benchmark for AI-Driven Security Hardening and Compliance Remediation | Manohar Vellala et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23685v1) |
-| Seamless Deployment of Machine Learning Inference at the Far Edge: An Empirical AWS IoT Greengrass Architecture for Industrial Predictive Maintenance | Prince Kwabena Appiah Boadu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.14815v1) |
-| Self-Building Labs | Jiaru Bai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23826v1) |
-| From Flow-Box Invariants to Global Conservation Laws: Machine Learning-Assisted Detection of Singularities and Near-Integrability | Jimmie Adriazola et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23760v1) |
-| Tool Recommendation for Multi-Step Agents: Finding Every Tool a Task Needs | Sam Partee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23707v1) |
-| TransNav: Transformer-Based End-to-End Navigation Method for Static and Dynamic Quadrotor Obstacle Avoidance | Jianghan Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23635v1) |
+| Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control | Johannes Stockhammer | 2026 | [📄 Read](http://arxiv.org/abs/2610.17385v1) |
+| qGAMMA: A Framework for Optimal DNN Mapping on Multi-Precision Accelerators | Leandro Fiorin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23222v1) |
+| Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts | Antonia Bronars et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23849v1) |
+| WaSA: Wavelet Scattering Autoencoders for Unsupervised Offline Detection of Malicious Clients in Federated Learning | Alessandro Licciardi | 2026 | [📄 Read](http://arxiv.org/abs/2610.13186v1) |
+| From Billion-Scale to Million-Scale Language Models: Operational Capabilities for Embedded Post-Exploitation | Gabriel Hortea et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.23534v1) |
+| Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study | Dimitrios Nikou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08771v1) |
+| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
+| Learning to Be Guided: Shaping Latent Geometry for Classifier-Free Guidance | Haoming Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.22885v1) |
+| Prune the Leaky Neurons: Mitigating Private Data Leakage in Fine-Tuned LLMs via Joint-Embedding-Guided Pruning | Mohamed Shaaban et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.22792v1) |
+| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 October 2026, 12:45 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 October 2026, 15:16 WIB</sub>

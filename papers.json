@@ -1,62 +1,62 @@
 [
   {
-    "title": "GCTAuto-encoder: A Cross modal Framework for Security Flaw Detection in IoT Networks",
-    "author": "Najmieh Sadat Safarabadi",
+    "title": "Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control",
+    "author": "Johannes Stockhammer",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.06517v1"
+    "url": "http://arxiv.org/abs/2610.17385v1"
   },
   {
-    "title": "Network-Wide Freeway Speed Nowcasting and Forecasting from Sparse Fixed Sensors with a Probe-Supervised Graph Convolutional Recurrent Network",
-    "author": "Ran Tu et al.",
+    "title": "qGAMMA: A Framework for Optimal DNN Mapping on Multi-Precision Accelerators",
+    "author": "Leandro Fiorin et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.22630v1"
+    "url": "http://arxiv.org/abs/2610.23222v1"
   },
   {
-    "title": "GR-VIP: Geometric representation conditioning for precise visuomotor policy",
-    "author": "Chanhwi Lee et al.",
+    "title": "Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts",
+    "author": "Antonia Bronars et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.22997v1"
+    "url": "http://arxiv.org/abs/2610.23849v1"
   },
   {
-    "title": "Sampling the XY model with an attention-based neural network",
-    "author": "Piotr Białas et al.",
+    "title": "WaSA: Wavelet Scattering Autoencoders for Unsupervised Offline Detection of Malicious Clients in Federated Learning",
+    "author": "Alessandro Licciardi",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.23783v1"
+    "url": "http://arxiv.org/abs/2610.13186v1"
   },
   {
-    "title": "HardEval: An Execution-Verified Benchmark for AI-Driven Security Hardening and Compliance Remediation",
-    "author": "Manohar Vellala et al.",
+    "title": "From Billion-Scale to Million-Scale Language Models: Operational Capabilities for Embedded Post-Exploitation",
+    "author": "Gabriel Hortea et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.23685v1"
+    "url": "http://arxiv.org/abs/2610.23534v1"
   },
   {
-    "title": "Seamless Deployment of Machine Learning Inference at the Far Edge: An Empirical AWS IoT Greengrass Architecture for Industrial Predictive Maintenance",
-    "author": "Prince Kwabena Appiah Boadu et al.",
+    "title": "Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study",
+    "author": "Dimitrios Nikou et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.14815v1"
+    "url": "http://arxiv.org/abs/2610.08771v1"
   },
   {
-    "title": "Self-Building Labs",
-    "author": "Jiaru Bai et al.",
+    "title": "Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking",
+    "author": "Johannes Stockhammer et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.23826v1"
+    "url": "http://arxiv.org/abs/2610.09006v1"
   },
   {
-    "title": "From Flow-Box Invariants to Global Conservation Laws: Machine Learning-Assisted Detection of Singularities and Near-Integrability",
-    "author": "Jimmie Adriazola et al.",
+    "title": "Learning to Be Guided: Shaping Latent Geometry for Classifier-Free Guidance",
+    "author": "Haoming Liu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.23760v1"
+    "url": "http://arxiv.org/abs/2610.22885v1"
   },
   {
-    "title": "Tool Recommendation for Multi-Step Agents: Finding Every Tool a Task Needs",
-    "author": "Sam Partee et al.",
+    "title": "Prune the Leaky Neurons: Mitigating Private Data Leakage in Fine-Tuned LLMs via Joint-Embedding-Guided Pruning",
+    "author": "Mohamed Shaaban et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.23707v1"
+    "url": "http://arxiv.org/abs/2610.22792v1"
   },
   {
-    "title": "TransNav: Transformer-Based End-to-End Navigation Method for Static and Dynamic Quadrotor Obstacle Avoidance",
-    "author": "Jianghan Zhu et al.",
+    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
+    "author": "Alexander Winkler et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.23635v1"
+    "url": "http://arxiv.org/abs/2609.33795v1"
   }
 ]
