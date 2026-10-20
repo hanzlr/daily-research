@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Newton-Based Methods for Bilevel Optimization Beyond Lower-Level Strong Convexity",
+    "author": "Youran Dong et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.26839v1"
+  },
+  {
+    "title": "Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions",
+    "author": "Mohammadreza Kamaldar",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2604.23995v4"
+  },
+  {
+    "title": "Spectral Adaptive Graph Transformer for Efficient and Scalable Traffic Forecasting",
+    "author": "Amirhossein Ghaffari et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.25140v1"
+  },
+  {
+    "title": "GCTAuto-encoder: A Cross modal Framework for Security Flaw Detection in IoT Networks",
+    "author": "Najmieh Sadat Safarabadi",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.06517v1"
+  },
+  {
+    "title": "Text-to-Image Generative Modeling Without Language Pretraining",
+    "author": "Keshigeyan Chandrasegaran et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.26863v1"
+  },
+  {
+    "title": "Margin Certificates for Voting Classifiers under Mixing Dependence",
+    "author": "Adria Binte Habib et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.24166v1"
+  },
+  {
+    "title": "ATLAS: Expert-Guided Sustainable Satellite Backhaul for Off-Grid Wildlife Monitoring",
+    "author": "Hao Fang et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.24910v1"
+  },
+  {
+    "title": "A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation",
+    "author": "Mahedee Zaman Moon et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2609.27828v1"
+  },
+  {
+    "title": "Learning Which Device to Call: Online Tool Grounding for LLM Agents in IoT",
+    "author": "Yichen Liu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.25563v1"
+  },
+  {
+    "title": "DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching",
+    "author": "Jingpo Xu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.08268v1"
+  }
+]
