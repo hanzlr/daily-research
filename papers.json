@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "title": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting",
+    "author": "Zehao Wang et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.26852v1"
+  },
+  {
+    "title": "Supervised Learning with Quantum Hamiltonian Embeddings",
+    "author": "Riccardo Molteni et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.26833v1"
+  },
+  {
+    "title": "WeAct: Dynamic Weight Switching as Agent Actions",
+    "author": "Rui Shi et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.26847v1"
+  },
+  {
+    "title": "Newton-Based Methods for Bilevel Optimization Beyond Lower-Level Strong Convexity",
+    "author": "Youran Dong et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.26839v1"
+  },
+  {
+    "title": "Hierarchical Edge Computing in SAGSIN: Multi-Layer Network Architecture and Multi-Level Information Processing",
+    "author": "Jiajie Xu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2609.29467v1"
+  },
+  {
+    "title": "DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching",
+    "author": "Jingpo Xu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.08268v1"
+  },
+  {
+    "title": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis",
+    "author": "Zhaoyang Wang et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.26828v1"
+  },
+  {
+    "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+    "author": "Yu Zhou et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.26860v1"
+  },
+  {
+    "title": "Emission-Aware Optimization of Container Handling Vehicles: A HaminaKotka Port Case Study",
+    "author": "Hafiz Majid Hussain et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.05963v1"
+  },
+  {
+    "title": "Physics-Informed Koopman Learning for Data-Efficient System Identification of Automated Vehicle Dynamics",
+    "author": "Hangyu Li et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.24588v1"
+  }
+]
