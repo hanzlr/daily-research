@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Tuesday, 20 October 2026
+## 🗓️ Wednesday, 21 October 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting | Zehao Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.26852v1) |
-| Supervised Learning with Quantum Hamiltonian Embeddings | Riccardo Molteni et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.26833v1) |
-| WeAct: Dynamic Weight Switching as Agent Actions | Rui Shi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.26847v1) |
-| Newton-Based Methods for Bilevel Optimization Beyond Lower-Level Strong Convexity | Youran Dong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.26839v1) |
-| Hierarchical Edge Computing in SAGSIN: Multi-Layer Network Architecture and Multi-Level Information Processing | Jiajie Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.29467v1) |
-| DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching | Jingpo Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08268v1) |
-| Agent World Model in the Wild: Computer-Use Agent Environment Synthesis | Zhaoyang Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.26828v1) |
-| OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory | Yu Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.26860v1) |
-| Emission-Aware Optimization of Container Handling Vehicles: A HaminaKotka Port Case Study | Hafiz Majid Hussain et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.05963v1) |
-| Physics-Informed Koopman Learning for Data-Efficient System Identification of Automated Vehicle Dynamics | Hangyu Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.24588v1) |
+| StrucChunk: Structure-Aware Retrieval for Legal Document RAG | Surya Deep Singh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.26313v1) |
+| Robotic Physical Comparison of Biologically Motivated and Counterfactual Sensory Arrangements using Biomimetic Skin | Akihiro Miki et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.26680v1) |
+| Tactile In-Hand Object Rotation: A Comparative Study of Hand Morphology in Simulation and Hardware | Wenhao He et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.26759v1) |
+| ReDOA: Real-World Distillation via Observation Alignment for Image-Based Manipulation Policy Learning | Kotaro Kajitsuka et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.25691v1) |
+| A Generic On-Board AI Processing Chain for Earth Observation: From Application Development to Embedded Deployment and Mission-Level Orchestration | Michel-Fran{\c c}ois Foulon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.26340v1) |
+| GeoEdit: Adversarial De-Evidencing for Silent Geoprivacy Protection via Image Editing | Yu Yan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.26194v1) |
+| Physics-guided machine learning for saturation control across variable hydraulic conditions in heap leaching | Sultan Alhamdan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.15947v1) |
+| Distributed Economic Dispatch Scheme of A BESS Network with A Switching Utility Grid in Energy Internet Paradigm via Reset Consensus Method | Yalin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.15647v1) |
+| Fault Detection and Bit-Error Rate Diagnostics in Optical Wireless Links Using Edge-AI | Sarthak Bhattarai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.21402v1) |
+| Sparse Federated Echo State Networks for Time-Series Classification via Smooth-L1 Regularization | Gengcheng Lyu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.21742v2) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 20 October 2026, 12:40 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 October 2026, 00:43 WIB</sub>

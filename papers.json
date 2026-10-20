@@ -1,62 +1,62 @@
 [
   {
-    "title": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting",
-    "author": "Zehao Wang et al.",
+    "title": "StrucChunk: Structure-Aware Retrieval for Legal Document RAG",
+    "author": "Surya Deep Singh et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.26852v1"
+    "url": "http://arxiv.org/abs/2610.26313v1"
   },
   {
-    "title": "Supervised Learning with Quantum Hamiltonian Embeddings",
-    "author": "Riccardo Molteni et al.",
+    "title": "Robotic Physical Comparison of Biologically Motivated and Counterfactual Sensory Arrangements using Biomimetic Skin",
+    "author": "Akihiro Miki et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.26833v1"
+    "url": "http://arxiv.org/abs/2610.26680v1"
   },
   {
-    "title": "WeAct: Dynamic Weight Switching as Agent Actions",
-    "author": "Rui Shi et al.",
+    "title": "Tactile In-Hand Object Rotation: A Comparative Study of Hand Morphology in Simulation and Hardware",
+    "author": "Wenhao He et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.26847v1"
+    "url": "http://arxiv.org/abs/2610.26759v1"
   },
   {
-    "title": "Newton-Based Methods for Bilevel Optimization Beyond Lower-Level Strong Convexity",
-    "author": "Youran Dong et al.",
+    "title": "ReDOA: Real-World Distillation via Observation Alignment for Image-Based Manipulation Policy Learning",
+    "author": "Kotaro Kajitsuka et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.26839v1"
+    "url": "http://arxiv.org/abs/2610.25691v1"
   },
   {
-    "title": "Hierarchical Edge Computing in SAGSIN: Multi-Layer Network Architecture and Multi-Level Information Processing",
-    "author": "Jiajie Xu et al.",
+    "title": "A Generic On-Board AI Processing Chain for Earth Observation: From Application Development to Embedded Deployment and Mission-Level Orchestration",
+    "author": "Michel-Fran{\\c c}ois Foulon et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2609.29467v1"
+    "url": "http://arxiv.org/abs/2610.26340v1"
   },
   {
-    "title": "DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching",
-    "author": "Jingpo Xu et al.",
+    "title": "GeoEdit: Adversarial De-Evidencing for Silent Geoprivacy Protection via Image Editing",
+    "author": "Yu Yan et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.08268v1"
+    "url": "http://arxiv.org/abs/2610.26194v1"
   },
   {
-    "title": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis",
-    "author": "Zhaoyang Wang et al.",
+    "title": "Physics-guided machine learning for saturation control across variable hydraulic conditions in heap leaching",
+    "author": "Sultan Alhamdan et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.26828v1"
+    "url": "http://arxiv.org/abs/2610.15947v1"
   },
   {
-    "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
-    "author": "Yu Zhou et al.",
+    "title": "Distributed Economic Dispatch Scheme of A BESS Network with A Switching Utility Grid in Energy Internet Paradigm via Reset Consensus Method",
+    "author": "Yalin Zhang et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.26860v1"
+    "url": "http://arxiv.org/abs/2610.15647v1"
   },
   {
-    "title": "Emission-Aware Optimization of Container Handling Vehicles: A HaminaKotka Port Case Study",
-    "author": "Hafiz Majid Hussain et al.",
+    "title": "Fault Detection and Bit-Error Rate Diagnostics in Optical Wireless Links Using Edge-AI",
+    "author": "Sarthak Bhattarai et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.05963v1"
+    "url": "http://arxiv.org/abs/2610.21402v1"
   },
   {
-    "title": "Physics-Informed Koopman Learning for Data-Efficient System Identification of Automated Vehicle Dynamics",
-    "author": "Hangyu Li et al.",
+    "title": "Sparse Federated Echo State Networks for Time-Series Classification via Smooth-L1 Regularization",
+    "author": "Gengcheng Lyu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.24588v1"
+    "url": "http://arxiv.org/abs/2610.21742v2"
   }
 ]
