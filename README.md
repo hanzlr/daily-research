@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Emission-Aware Optimization of Container Handling Vehicles: A HaminaKotka Port Case Study | Hafiz Majid Hussain et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.05963v1) |
-| A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations | Sajad Ahmadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28570v1) |
-| Visual Task Modeling and Automated Planning for Humanoid Robots in Education of Individuals with Autism Spectrum Disorder | Lada Kudláčková | 2026 | [📄 Read](http://arxiv.org/abs/2610.27162v1) |
-| Physics-guided machine learning for saturation control across variable hydraulic conditions in heap leaching | Sultan Alhamdan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.15947v1) |
-| A Priority-Aware Dual-Channel Feature Fusion Method for Urban Rail Service Traffic Classification | Xinpeng Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.32168v1) |
-| Physics-Informed Koopman Learning for Data-Efficient System Identification of Automated Vehicle Dynamics | Hangyu Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.24588v1) |
+| Glass-Box Deep Reinforcement Learning for High-Speed Flow Control | Ameya D. Jagtap | 2026 | [📄 Read](http://arxiv.org/abs/2610.27132v1) |
 | Distributed Economic Dispatch Scheme of A BESS Network with A Switching Utility Grid in Energy Internet Paradigm via Reset Consensus Method | Yalin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.15647v1) |
-| Learning Which Device to Call: Online Tool Grounding for LLM Agents in IoT | Yichen Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.25563v1) |
-| Seamless Deployment of Machine Learning Inference at the Far Edge: An Empirical AWS IoT Greengrass Architecture for Industrial Predictive Maintenance | Prince Kwabena Appiah Boadu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.14815v1) |
-| Towards Autonomous Bricklaying Using Boston Dynamics Spot | Karl-Johan Sorensen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27472v1) |
+| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
+| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
+| Physics-guided machine learning for saturation control across variable hydraulic conditions in heap leaching | Sultan Alhamdan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.15947v1) |
+| Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs | Noam Rotstein et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28632v1) |
+| Planning under Noise with Neural Operators | Michael Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28623v1) |
+| Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking | Yuxuan Kuang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28628v1) |
+| Adaptive Multi-Token Prediction: How far should we go? | Emile Anand et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28619v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 October 2026, 16:43 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 October 2026, 18:10 WIB</sub>

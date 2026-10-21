@@ -1,39 +1,9 @@
 [
   {
-    "title": "Emission-Aware Optimization of Container Handling Vehicles: A HaminaKotka Port Case Study",
-    "author": "Hafiz Majid Hussain et al.",
+    "title": "Glass-Box Deep Reinforcement Learning for High-Speed Flow Control",
+    "author": "Ameya D. Jagtap",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.05963v1"
-  },
-  {
-    "title": "A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations",
-    "author": "Sajad Ahmadi et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28570v1"
-  },
-  {
-    "title": "Visual Task Modeling and Automated Planning for Humanoid Robots in Education of Individuals with Autism Spectrum Disorder",
-    "author": "Lada Kudláčková",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.27162v1"
-  },
-  {
-    "title": "Physics-guided machine learning for saturation control across variable hydraulic conditions in heap leaching",
-    "author": "Sultan Alhamdan et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.15947v1"
-  },
-  {
-    "title": "A Priority-Aware Dual-Channel Feature Fusion Method for Urban Rail Service Traffic Classification",
-    "author": "Xinpeng Liu et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2609.32168v1"
-  },
-  {
-    "title": "Physics-Informed Koopman Learning for Data-Efficient System Identification of Automated Vehicle Dynamics",
-    "author": "Hangyu Li et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.24588v1"
+    "url": "http://arxiv.org/abs/2610.27132v1"
   },
   {
     "title": "Distributed Economic Dispatch Scheme of A BESS Network with A Switching Utility Grid in Energy Internet Paradigm via Reset Consensus Method",
@@ -42,21 +12,51 @@
     "url": "http://arxiv.org/abs/2610.15647v1"
   },
   {
-    "title": "Learning Which Device to Call: Online Tool Grounding for LLM Agents in IoT",
-    "author": "Yichen Liu et al.",
+    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
+    "author": "Alexander Winkler et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.25563v1"
+    "url": "http://arxiv.org/abs/2609.33795v1"
   },
   {
-    "title": "Seamless Deployment of Machine Learning Inference at the Far Edge: An Empirical AWS IoT Greengrass Architecture for Industrial Predictive Maintenance",
-    "author": "Prince Kwabena Appiah Boadu et al.",
+    "title": "A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation",
+    "author": "Mahedee Zaman Moon et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.14815v1"
+    "url": "http://arxiv.org/abs/2609.27828v1"
   },
   {
-    "title": "Towards Autonomous Bricklaying Using Boston Dynamics Spot",
-    "author": "Karl-Johan Sorensen et al.",
+    "title": "Physics-guided machine learning for saturation control across variable hydraulic conditions in heap leaching",
+    "author": "Sultan Alhamdan et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.27472v1"
+    "url": "http://arxiv.org/abs/2610.15947v1"
+  },
+  {
+    "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
+    "author": "Noam Rotstein et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.28632v1"
+  },
+  {
+    "title": "Planning under Noise with Neural Operators",
+    "author": "Michael Chen et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.28623v1"
+  },
+  {
+    "title": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking",
+    "author": "Yuxuan Kuang et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.28628v1"
+  },
+  {
+    "title": "Adaptive Multi-Token Prediction: How far should we go?",
+    "author": "Emile Anand et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.28619v1"
+  },
+  {
+    "title": "Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research",
+    "author": "Ad-Deen Mahbub et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2607.23220v1"
   }
 ]
