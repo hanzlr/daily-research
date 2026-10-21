@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Sparse Federated Echo State Networks for Time-Series Classification via Smooth-L1 Regularization | Gengcheng Lyu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.21742v2) |
-| Robust Lightweight IoT Device Fingerprinting Under Network Traffic Anomalies | Roya Taheri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27351v1) |
-| Communication-Efficient Federated Domain Generalization in Edge Networks via Dynamic Prototype Regulation | Yuankun Xia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.25810v1) |
 | Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
-| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
-| Agentic discovery of interpretable car-following laws from multi-source trajectory data | Jiamei Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27836v1) |
-| Plausible Future, Wrong Choice: Steering World-Action Models toward Intended Future | Zhuohao Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28431v1) |
 | Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control | Johannes Stockhammer | 2026 | [📄 Read](http://arxiv.org/abs/2610.17385v1) |
-| Towards Autonomous Bricklaying Using Boston Dynamics Spot | Karl-Johan Sorensen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27472v1) |
-| Fault Detection and Bit-Error Rate Diagnostics in Optical Wireless Links Using Edge-AI | Sarthak Bhattarai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.21402v1) |
+| Hybrid metaheuristics for architectural design optimization under small evaluation and wall-clock budgets | Luciano Ambrosini | 2026 | [📄 Read](http://arxiv.org/abs/2610.26202v1) |
+| Glass-Box Deep Reinforcement Learning for High-Speed Flow Control | Ameya D. Jagtap | 2026 | [📄 Read](http://arxiv.org/abs/2610.27132v1) |
+| Automated Brick Schema Knowledge Graph Completion Across Buildings | Daniel Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27339v1) |
+| A Priority-Aware Dual-Channel Feature Fusion Method for Urban Rail Service Traffic Classification | Xinpeng Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.32168v1) |
+| Towards Interaction State Recognition in Sensorized Gecko-Inspired Adhesive Interfaces for Orbital Servicing | Eduart Abdullahu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27141v1) |
+| A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations | Sajad Ahmadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28570v1) |
+| A Spiking Ring-Attractor Architecture for Representation and Control of Revolute Robot Joints | Aung Htet et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.26027v1) |
+| Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study | Dimitrios Nikou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08771v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 October 2026, 19:41 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 October 2026, 21:10 WIB</sub>
