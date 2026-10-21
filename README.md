@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Glass-Box Deep Reinforcement Learning for High-Speed Flow Control | Ameya D. Jagtap | 2026 | [📄 Read](http://arxiv.org/abs/2610.27132v1) |
-| Distributed Economic Dispatch Scheme of A BESS Network with A Switching Utility Grid in Energy Internet Paradigm via Reset Consensus Method | Yalin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.15647v1) |
+| Sparse Federated Echo State Networks for Time-Series Classification via Smooth-L1 Regularization | Gengcheng Lyu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.21742v2) |
+| Robust Lightweight IoT Device Fingerprinting Under Network Traffic Anomalies | Roya Taheri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27351v1) |
+| Communication-Efficient Federated Domain Generalization in Edge Networks via Dynamic Prototype Regulation | Yuankun Xia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.25810v1) |
 | Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
-| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
-| Physics-guided machine learning for saturation control across variable hydraulic conditions in heap leaching | Sultan Alhamdan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.15947v1) |
-| Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs | Noam Rotstein et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28632v1) |
-| Planning under Noise with Neural Operators | Michael Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28623v1) |
-| Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking | Yuxuan Kuang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28628v1) |
-| Adaptive Multi-Token Prediction: How far should we go? | Emile Anand et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28619v1) |
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
+| Agentic discovery of interpretable car-following laws from multi-source trajectory data | Jiamei Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27836v1) |
+| Plausible Future, Wrong Choice: Steering World-Action Models toward Intended Future | Zhuohao Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28431v1) |
+| Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control | Johannes Stockhammer | 2026 | [📄 Read](http://arxiv.org/abs/2610.17385v1) |
+| Towards Autonomous Bricklaying Using Boston Dynamics Spot | Karl-Johan Sorensen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27472v1) |
+| Fault Detection and Bit-Error Rate Diagnostics in Optical Wireless Links Using Edge-AI | Sarthak Bhattarai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.21402v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 October 2026, 18:10 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 October 2026, 19:41 WIB</sub>
