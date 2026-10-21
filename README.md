@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Wednesday, 21 October 2026
+## 🗓️ Thursday, 22 October 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Hybrid metaheuristics for architectural design optimization under small evaluation and wall-clock budgets | Luciano Ambrosini | 2026 | [📄 Read](http://arxiv.org/abs/2610.26202v1) |
-| When Do LLMs Help with Feature Selection? A Systematic Empirical Study | Fateme Memar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28556v1) |
-| OptScientist: Automated Discovery of Optimization Laws | Ma ZhenYao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28562v1) |
-| Seamless Deployment of Machine Learning Inference at the Far Edge: An Empirical AWS IoT Greengrass Architecture for Industrial Predictive Maintenance | Prince Kwabena Appiah Boadu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.14815v1) |
-| Exploring Temporal Context-Aware Physical Grounding in Latent World Models | Yilei Man et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28483v1) |
-| Continuous-Time Policy Gradient from Discrete Data: Convergence Analysis and Model-Free Algorithms | Martin Hernandez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28580v1) |
-| ECG for laboratory values:A comprehensive physiological and technical analysis | Walentin Palanchuk | 2026 | [📄 Read](http://arxiv.org/abs/2610.28507v1) |
-| Model Exposure on One Device Endangers Others: Rethinking Edge Neural Network Security across Devices | Yuyang Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27152v1) |
-| Sector-Ring Linear Reservoirs: Sector-Wise Decay-Timescale Allocation With State Reuse Across Candidate Settings | Yudai Ebato et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.25806v1) |
-| Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets | Jad Yammine et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28624v1) |
+| Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control | Johannes Stockhammer | 2026 | [📄 Read](http://arxiv.org/abs/2610.17385v1) |
+| The Dynamics of Collapse and Recovery in Clustered Federated Learning | Priyanka Sinha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28565v1) |
+| Learning Computational Structure for Sample-Efficient Prediction | Hangyu Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28555v1) |
+| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
+| Physics-guided machine learning for saturation control across variable hydraulic conditions in heap leaching | Sultan Alhamdan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.15947v1) |
+| Physics-Informed Koopman Learning for Data-Efficient System Identification of Automated Vehicle Dynamics | Hangyu Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.24588v1) |
+| STATCOM-Based Flicker Mitigation in Electric Arc Furnace Systems Using DQ-PI and Lyapunov-Based Nonlinear Control | Vikram Chekuri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.17330v1) |
+| Multi-Objective Evolutionary Semi-Supervised Learning for Resource-Aware Smart City Classification | Francisco José Sedeño et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27703v1) |
+| Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study | Dimitrios Nikou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08771v1) |
+| Distributed Economic Dispatch Scheme of A BESS Network with A Switching Utility Grid in Energy Internet Paradigm via Reset Consensus Method | Yalin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.15647v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 October 2026, 22:46 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 October 2026, 00:49 WIB</sub>
