@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| When Do LLMs Help with Feature Selection? A Systematic Empirical Study | Fateme Memar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28556v1) |
-| Sparse Federated Echo State Networks for Time-Series Classification via Smooth-L1 Regularization | Gengcheng Lyu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.21742v2) |
-| OptScientist: Automated Discovery of Optimization Laws | Ma ZhenYao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28562v1) |
-| Planning under Noise with Neural Operators | Michael Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28623v1) |
-| The Dynamics of Collapse and Recovery in Clustered Federated Learning | Priyanka Sinha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28565v1) |
-| Fault Detection and Bit-Error Rate Diagnostics in Optical Wireless Links Using Edge-AI | Sarthak Bhattarai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.21402v1) |
-| Robust Lightweight IoT Device Fingerprinting Under Network Traffic Anomalies | Roya Taheri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27351v1) |
-| Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs | Noam Rotstein et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28632v1) |
-| Adaptive Multi-Token Prediction: How far should we go? | Emile Anand et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28619v1) |
-| BitMTP: When Multi-Token Prediction Meets Low-Bit Large Language Models | Ning Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28500v1) |
+| Emission-Aware Optimization of Container Handling Vehicles: A HaminaKotka Port Case Study | Hafiz Majid Hussain et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.05963v1) |
+| A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations | Sajad Ahmadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28570v1) |
+| Visual Task Modeling and Automated Planning for Humanoid Robots in Education of Individuals with Autism Spectrum Disorder | Lada Kudláčková | 2026 | [📄 Read](http://arxiv.org/abs/2610.27162v1) |
+| Physics-guided machine learning for saturation control across variable hydraulic conditions in heap leaching | Sultan Alhamdan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.15947v1) |
+| A Priority-Aware Dual-Channel Feature Fusion Method for Urban Rail Service Traffic Classification | Xinpeng Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.32168v1) |
+| Physics-Informed Koopman Learning for Data-Efficient System Identification of Automated Vehicle Dynamics | Hangyu Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.24588v1) |
+| Distributed Economic Dispatch Scheme of A BESS Network with A Switching Utility Grid in Energy Internet Paradigm via Reset Consensus Method | Yalin Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.15647v1) |
+| Learning Which Device to Call: Online Tool Grounding for LLM Agents in IoT | Yichen Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.25563v1) |
+| Seamless Deployment of Machine Learning Inference at the Far Edge: An Empirical AWS IoT Greengrass Architecture for Industrial Predictive Maintenance | Prince Kwabena Appiah Boadu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.14815v1) |
+| Towards Autonomous Bricklaying Using Boston Dynamics Spot | Karl-Johan Sorensen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27472v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 October 2026, 15:06 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 October 2026, 16:43 WIB</sub>
