@@ -1,0 +1,62 @@
+[
+  {
+    "title": "When Do LLMs Help with Feature Selection? A Systematic Empirical Study",
+    "author": "Fateme Memar et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.28556v1"
+  },
+  {
+    "title": "Sparse Federated Echo State Networks for Time-Series Classification via Smooth-L1 Regularization",
+    "author": "Gengcheng Lyu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.21742v2"
+  },
+  {
+    "title": "OptScientist: Automated Discovery of Optimization Laws",
+    "author": "Ma ZhenYao et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.28562v1"
+  },
+  {
+    "title": "Planning under Noise with Neural Operators",
+    "author": "Michael Chen et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.28623v1"
+  },
+  {
+    "title": "The Dynamics of Collapse and Recovery in Clustered Federated Learning",
+    "author": "Priyanka Sinha et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.28565v1"
+  },
+  {
+    "title": "Fault Detection and Bit-Error Rate Diagnostics in Optical Wireless Links Using Edge-AI",
+    "author": "Sarthak Bhattarai et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.21402v1"
+  },
+  {
+    "title": "Robust Lightweight IoT Device Fingerprinting Under Network Traffic Anomalies",
+    "author": "Roya Taheri et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.27351v1"
+  },
+  {
+    "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
+    "author": "Noam Rotstein et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.28632v1"
+  },
+  {
+    "title": "Adaptive Multi-Token Prediction: How far should we go?",
+    "author": "Emile Anand et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.28619v1"
+  },
+  {
+    "title": "BitMTP: When Multi-Token Prediction Meets Low-Bit Large Language Models",
+    "author": "Ning Zhang et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.28500v1"
+  }
+]
