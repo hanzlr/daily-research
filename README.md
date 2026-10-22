@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Reading the Room: Scale-ambiguous Semantic Registration of Sparse VSLAM Maps to Floor Plans in Partially Built Environments | Bjorn Stragier et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.29647v1) |
-| Implementation of Dynamic Microsegmentation for a Multi-Robot Network | Vishwam Raval et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30102v1) |
-| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
-| LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data | Zhennan Wan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30132v1) |
-| PRISM: Learning Realistic Depth via Physics-Grounded Noise Disentanglement with Semantic-Geometric Collaboration | Xiujian Liang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.29432v1) |
-| Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation | Zhanshuo Cao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30128v1) |
-| A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations | Sajad Ahmadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28570v1) |
-| A2I-Calib++: A Kinematics-Driven Anti-noise Active Calibration Framework for Whole-Body Multi-IMU Systems on Legged Robots | Fangyu Jiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.29438v1) |
-| Mixture of Flow Matching and Particle Filter for Proprioception-Based Online Contact Estimation | Seo Wook Han et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.29568v1) |
-| Seamless Deployment of Machine Learning Inference at the Far Edge: An Empirical AWS IoT Greengrass Architecture for Industrial Predictive Maintenance | Prince Kwabena Appiah Boadu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.14815v1) |
+| Probing Spatial and Spectral Grounding in EEG Foundation Models | Kleanthis Avramidis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.29367v1) |
+| VX-One: Typed, Calibrated Decision Heads for Real-Time Perimeter Triage - An empirical study of unknown-attack honesty, cascade gray zones, and calibration under drift | Juan S. Santillana | 2026 | [📄 Read](http://arxiv.org/abs/2610.30090v1) |
+| Loopholing All the Way: Language Modeling with pure Self-Conditioning | Adrien Deschenaux et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30068v1) |
+| Differentially Private Sparse Reward Estimation with Preference Feedback | Meng Ding et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30099v1) |
+| Self-normalized Bernstein Inequalities for Regenerative Processes and Applications to Learning Without Independence | Imon Banerjee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30119v1) |
+| Circuits of LLM Classifiers | Hadi Khalaf et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30076v1) |
+| DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching | Jingpo Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08268v1) |
+| Model Exposure on One Device Endangers Others: Rethinking Edge Neural Network Security across Devices | Yuyang Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27152v1) |
+| BrainCodes: A Lightweight EEG Foundation Model over Discrete Neural Codes | Kleanthis Avramidis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.29320v1) |
+| Learning Which Device to Call: Online Tool Grounding for LLM Agents in IoT | Yichen Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.25563v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 October 2026, 10:00 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 October 2026, 12:45 WIB</sub>

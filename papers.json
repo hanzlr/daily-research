@@ -1,62 +1,62 @@
 [
   {
-    "title": "Reading the Room: Scale-ambiguous Semantic Registration of Sparse VSLAM Maps to Floor Plans in Partially Built Environments",
-    "author": "Bjorn Stragier et al.",
+    "title": "Probing Spatial and Spectral Grounding in EEG Foundation Models",
+    "author": "Kleanthis Avramidis et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.29647v1"
+    "url": "http://arxiv.org/abs/2610.29367v1"
   },
   {
-    "title": "Implementation of Dynamic Microsegmentation for a Multi-Robot Network",
-    "author": "Vishwam Raval et al.",
+    "title": "VX-One: Typed, Calibrated Decision Heads for Real-Time Perimeter Triage - An empirical study of unknown-attack honesty, cascade gray zones, and calibration under drift",
+    "author": "Juan S. Santillana",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.30102v1"
+    "url": "http://arxiv.org/abs/2610.30090v1"
   },
   {
-    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
-    "author": "Anas Hussin et al.",
+    "title": "Loopholing All the Way: Language Modeling with pure Self-Conditioning",
+    "author": "Adrien Deschenaux et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28807v1"
+    "url": "http://arxiv.org/abs/2610.30068v1"
   },
   {
-    "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
-    "author": "Zhennan Wan et al.",
+    "title": "Differentially Private Sparse Reward Estimation with Preference Feedback",
+    "author": "Meng Ding et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.30132v1"
+    "url": "http://arxiv.org/abs/2610.30099v1"
   },
   {
-    "title": "PRISM: Learning Realistic Depth via Physics-Grounded Noise Disentanglement with Semantic-Geometric Collaboration",
-    "author": "Xiujian Liang et al.",
+    "title": "Self-normalized Bernstein Inequalities for Regenerative Processes and Applications to Learning Without Independence",
+    "author": "Imon Banerjee et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.29432v1"
+    "url": "http://arxiv.org/abs/2610.30119v1"
   },
   {
-    "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
-    "author": "Zhanshuo Cao et al.",
+    "title": "Circuits of LLM Classifiers",
+    "author": "Hadi Khalaf et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.30128v1"
+    "url": "http://arxiv.org/abs/2610.30076v1"
   },
   {
-    "title": "A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations",
-    "author": "Sajad Ahmadi et al.",
+    "title": "DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching",
+    "author": "Jingpo Xu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28570v1"
+    "url": "http://arxiv.org/abs/2610.08268v1"
   },
   {
-    "title": "A2I-Calib++: A Kinematics-Driven Anti-noise Active Calibration Framework for Whole-Body Multi-IMU Systems on Legged Robots",
-    "author": "Fangyu Jiang et al.",
+    "title": "Model Exposure on One Device Endangers Others: Rethinking Edge Neural Network Security across Devices",
+    "author": "Yuyang Zhang et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.29438v1"
+    "url": "http://arxiv.org/abs/2610.27152v1"
   },
   {
-    "title": "Mixture of Flow Matching and Particle Filter for Proprioception-Based Online Contact Estimation",
-    "author": "Seo Wook Han et al.",
+    "title": "BrainCodes: A Lightweight EEG Foundation Model over Discrete Neural Codes",
+    "author": "Kleanthis Avramidis et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.29568v1"
+    "url": "http://arxiv.org/abs/2610.29320v1"
   },
   {
-    "title": "Seamless Deployment of Machine Learning Inference at the Far Edge: An Empirical AWS IoT Greengrass Architecture for Industrial Predictive Maintenance",
-    "author": "Prince Kwabena Appiah Boadu et al.",
+    "title": "Learning Which Device to Call: Online Tool Grounding for LLM Agents in IoT",
+    "author": "Yichen Liu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.14815v1"
+    "url": "http://arxiv.org/abs/2610.25563v1"
   }
 ]
