@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Learning Which Device to Call: Online Tool Grounding for LLM Agents in IoT | Yichen Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.25563v1) |
-| DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching | Jingpo Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08268v1) |
-| The Dynamics of Collapse and Recovery in Clustered Federated Learning | Priyanka Sinha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28565v1) |
-| Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking | Yuxuan Kuang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28628v1) |
-| Learning Computational Structure for Sample-Efficient Prediction | Hangyu Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28555v1) |
-| BitMTP: When Multi-Token Prediction Meets Low-Bit Large Language Models | Ning Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28500v1) |
-| Model Exposure on One Device Endangers Others: Rethinking Edge Neural Network Security across Devices | Yuyang Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27152v1) |
+| Reading the Room: Scale-ambiguous Semantic Registration of Sparse VSLAM Maps to Floor Plans in Partially Built Environments | Bjorn Stragier et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.29647v1) |
+| Implementation of Dynamic Microsegmentation for a Multi-Robot Network | Vishwam Raval et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30102v1) |
+| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
+| LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data | Zhennan Wan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30132v1) |
+| PRISM: Learning Realistic Depth via Physics-Grounded Noise Disentanglement with Semantic-Geometric Collaboration | Xiujian Liang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.29432v1) |
+| Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation | Zhanshuo Cao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30128v1) |
+| A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations | Sajad Ahmadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28570v1) |
+| A2I-Calib++: A Kinematics-Driven Anti-noise Active Calibration Framework for Whole-Body Multi-IMU Systems on Legged Robots | Fangyu Jiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.29438v1) |
+| Mixture of Flow Matching and Particle Filter for Proprioception-Based Online Contact Estimation | Seo Wook Han et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.29568v1) |
 | Seamless Deployment of Machine Learning Inference at the Far Edge: An Empirical AWS IoT Greengrass Architecture for Industrial Predictive Maintenance | Prince Kwabena Appiah Boadu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.14815v1) |
-| Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs | Noam Rotstein et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28632v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 October 2026, 02:06 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 October 2026, 10:00 WIB</sub>

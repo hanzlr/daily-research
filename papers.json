@@ -1,62 +1,62 @@
 [
   {
-    "title": "Learning Which Device to Call: Online Tool Grounding for LLM Agents in IoT",
-    "author": "Yichen Liu et al.",
+    "title": "Reading the Room: Scale-ambiguous Semantic Registration of Sparse VSLAM Maps to Floor Plans in Partially Built Environments",
+    "author": "Bjorn Stragier et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.25563v1"
+    "url": "http://arxiv.org/abs/2610.29647v1"
   },
   {
-    "title": "DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching",
-    "author": "Jingpo Xu et al.",
+    "title": "Implementation of Dynamic Microsegmentation for a Multi-Robot Network",
+    "author": "Vishwam Raval et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.08268v1"
+    "url": "http://arxiv.org/abs/2610.30102v1"
   },
   {
-    "title": "The Dynamics of Collapse and Recovery in Clustered Federated Learning",
-    "author": "Priyanka Sinha et al.",
+    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
+    "author": "Anas Hussin et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28565v1"
+    "url": "http://arxiv.org/abs/2610.28807v1"
   },
   {
-    "title": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking",
-    "author": "Yuxuan Kuang et al.",
+    "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
+    "author": "Zhennan Wan et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28628v1"
+    "url": "http://arxiv.org/abs/2610.30132v1"
   },
   {
-    "title": "Learning Computational Structure for Sample-Efficient Prediction",
-    "author": "Hangyu Zhou et al.",
+    "title": "PRISM: Learning Realistic Depth via Physics-Grounded Noise Disentanglement with Semantic-Geometric Collaboration",
+    "author": "Xiujian Liang et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28555v1"
+    "url": "http://arxiv.org/abs/2610.29432v1"
   },
   {
-    "title": "BitMTP: When Multi-Token Prediction Meets Low-Bit Large Language Models",
-    "author": "Ning Zhang et al.",
+    "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
+    "author": "Zhanshuo Cao et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28500v1"
+    "url": "http://arxiv.org/abs/2610.30128v1"
   },
   {
-    "title": "Model Exposure on One Device Endangers Others: Rethinking Edge Neural Network Security across Devices",
-    "author": "Yuyang Zhang et al.",
+    "title": "A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations",
+    "author": "Sajad Ahmadi et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.27152v1"
+    "url": "http://arxiv.org/abs/2610.28570v1"
+  },
+  {
+    "title": "A2I-Calib++: A Kinematics-Driven Anti-noise Active Calibration Framework for Whole-Body Multi-IMU Systems on Legged Robots",
+    "author": "Fangyu Jiang et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.29438v1"
+  },
+  {
+    "title": "Mixture of Flow Matching and Particle Filter for Proprioception-Based Online Contact Estimation",
+    "author": "Seo Wook Han et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.29568v1"
   },
   {
     "title": "Seamless Deployment of Machine Learning Inference at the Far Edge: An Empirical AWS IoT Greengrass Architecture for Industrial Predictive Maintenance",
     "author": "Prince Kwabena Appiah Boadu et al.",
     "year": "2026",
     "url": "http://arxiv.org/abs/2610.14815v1"
-  },
-  {
-    "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
-    "author": "Noam Rotstein et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28632v1"
-  },
-  {
-    "title": "Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions",
-    "author": "Mohammadreza Kamaldar",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2604.23995v4"
   }
 ]
