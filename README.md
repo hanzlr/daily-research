@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Thursday, 22 October 2026
+## 🗓️ Friday, 23 October 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Probing Spatial and Spectral Grounding in EEG Foundation Models | Kleanthis Avramidis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.29367v1) |
-| VX-One: Typed, Calibrated Decision Heads for Real-Time Perimeter Triage - An empirical study of unknown-attack honesty, cascade gray zones, and calibration under drift | Juan S. Santillana | 2026 | [📄 Read](http://arxiv.org/abs/2610.30090v1) |
-| Loopholing All the Way: Language Modeling with pure Self-Conditioning | Adrien Deschenaux et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30068v1) |
-| Differentially Private Sparse Reward Estimation with Preference Feedback | Meng Ding et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30099v1) |
-| Self-normalized Bernstein Inequalities for Regenerative Processes and Applications to Learning Without Independence | Imon Banerjee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30119v1) |
-| Circuits of LLM Classifiers | Hadi Khalaf et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30076v1) |
+| A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations | Sajad Ahmadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28570v1) |
+| Code Comprehensor: Hierarchical Documentation and Cross-Modal Retrieval for Large Repositories | Sujoy Roychowdhury et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30016v1) |
+| HiddenLens: A Multi-Layer LLM Framework for Detecting and Resolving Hidden Assumptions in Software Requirements | Tanu Singh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.29996v1) |
+| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
+| Fault Detection and Bit-Error Rate Diagnostics in Optical Wireless Links Using Edge-AI | Sarthak Bhattarai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.21402v1) |
 | DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching | Jingpo Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08268v1) |
-| Model Exposure on One Device Endangers Others: Rethinking Edge Neural Network Security across Devices | Yuyang Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27152v1) |
 | BrainCodes: A Lightweight EEG Foundation Model over Discrete Neural Codes | Kleanthis Avramidis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.29320v1) |
-| Learning Which Device to Call: Online Tool Grounding for LLM Agents in IoT | Yichen Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.25563v1) |
+| Robust Lightweight IoT Device Fingerprinting Under Network Traffic Anomalies | Roya Taheri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27351v1) |
+| Probing Spatial and Spectral Grounding in EEG Foundation Models | Kleanthis Avramidis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.29367v1) |
+| Bio-Inspired Auditory Processing: Coupling Parallel Resonate-and-Fire Dynamics with Ternary Recurrent Networks for Speech Recognition | Pavlos Poulos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.29720v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 October 2026, 12:45 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 23 October 2026, 00:49 WIB</sub>
