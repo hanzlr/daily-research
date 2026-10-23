@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Learning Which Device to Call: Online Tool Grounding for LLM Agents in IoT | Yichen Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.25563v1) |
+| OP-Print: Tracing Membership Imprints in On-Policy Self-Distillation | Qi Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31616v1) |
 | Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control | Johannes Stockhammer | 2026 | [📄 Read](http://arxiv.org/abs/2610.17385v1) |
-| Model Exposure on One Device Endangers Others: Rethinking Edge Neural Network Security across Devices | Yuyang Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27152v1) |
-| Learning-Oriented Fault-Tolerant Control for UAVs with Time-Varying Fault Estimation | Moh Kamalul Wafi | 2026 | [📄 Read](http://arxiv.org/abs/2610.30566v1) |
-| PriMa-Causa: Causal Prescriptive Maintenance | Felix Saretzky | 2026 | [📄 Read](http://arxiv.org/abs/2610.31147v1) |
-| Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels? | Ravi Kumar Jha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31260v1) |
-| Post-Hoc Feature Selection Layer for Neural Networks Interpretability | João Kenji Suwa et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31420v1) |
+| Phase Transition from Random Features to Fully Trainable Networks | Xin He et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31663v1) |
 | Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
-| STATCOM-Based Flicker Mitigation in Electric Arc Furnace Systems Using DQ-PI and Lyapunov-Based Nonlinear Control | Vikram Chekuri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.17330v1) |
-| Physics-Informed Koopman Learning for Data-Efficient System Identification of Automated Vehicle Dynamics | Hangyu Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.24588v2) |
+| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
+| Action Learning for Scientific Simulations | Sarah Liaw et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31585v1) |
+| Cost-Aware Abstention for LLM-Based IT Ticket Classification | Sachin Gupta | 2026 | [📄 Read](http://arxiv.org/abs/2610.31657v1) |
+| Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study | Dimitrios Nikou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08771v1) |
+| Reliable AI-Assisted Decisions via Selective Auditing | Isaac Gibbs et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31662v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 23 October 2026, 15:04 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 23 October 2026, 16:39 WIB</sub>
