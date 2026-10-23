@@ -1,45 +1,9 @@
 [
   {
-    "title": "OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing",
-    "author": "Ariel Slepyan et al.",
+    "title": "Mastering Model Fit: Applications of the InterModel Vigorish for Interpretable Machine Learning",
+    "author": "Jiani Yan et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.31661v1"
-  },
-  {
-    "title": "Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research",
-    "author": "Ad-Deen Mahbub et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2607.23220v1"
-  },
-  {
-    "title": "Would an LLM Match into a Residency? Uncertainty, Reasoning and Image Use of Open Language Models on the Spanish MIR Examination",
-    "author": "Miguel Fernandez-de-Retana et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.31586v1"
-  },
-  {
-    "title": "Action Learning for Scientific Simulations",
-    "author": "Sarah Liaw et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.31585v1"
-  },
-  {
-    "title": "Seamless Deployment of Machine Learning Inference at the Far Edge: An Empirical AWS IoT Greengrass Architecture for Industrial Predictive Maintenance",
-    "author": "Prince Kwabena Appiah Boadu et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.14815v1"
-  },
-  {
-    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
-    "author": "Alexander Winkler et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2609.33795v1"
-  },
-  {
-    "title": "GelSlim 5.0: Unifying Vision and Touch with a Single Fingertip Camera",
-    "author": "Xiangdong Wang et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.31334v1"
+    "url": "http://arxiv.org/abs/2610.29960v1"
   },
   {
     "title": "Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions",
@@ -48,15 +12,51 @@
     "url": "http://arxiv.org/abs/2604.23995v4"
   },
   {
-    "title": "VecTile: A Low-Cost Flexible Tactile Array for 3-DoF Force Sensing",
-    "author": "Jian Hou et al.",
+    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
+    "author": "Alexander Winkler et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.31472v1"
+    "url": "http://arxiv.org/abs/2609.33795v1"
+  },
+  {
+    "title": "Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research",
+    "author": "Ad-Deen Mahbub et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2607.23220v1"
   },
   {
     "title": "A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation",
     "author": "Mahedee Zaman Moon et al.",
     "year": "2026",
     "url": "http://arxiv.org/abs/2609.27828v1"
+  },
+  {
+    "title": "Learning-Oriented Fault-Tolerant Control for UAVs with Time-Varying Fault Estimation",
+    "author": "Moh Kamalul Wafi",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.30566v1"
+  },
+  {
+    "title": "CTRL-FM: Inference-Time Structural Control for Flow-Based Virtual Sensing under Long-Horizon Node Outages",
+    "author": "Boshra Khalili et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.30362v1"
+  },
+  {
+    "title": "Physics-Informed Koopman Learning for Data-Efficient System Identification of Automated Vehicle Dynamics",
+    "author": "Hangyu Li et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.24588v2"
+  },
+  {
+    "title": "From Common Information to Canonical Correlation Analysis and Beyond: Bridging Information Theory, Signal Processing, and Machine Learning",
+    "author": "Paris A. Karakasis et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.28978v1"
+  },
+  {
+    "title": "STATCOM-Based Flicker Mitigation in Electric Arc Furnace Systems Using DQ-PI and Lyapunov-Based Nonlinear Control",
+    "author": "Vikram Chekuri et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.17330v1"
   }
 ]
