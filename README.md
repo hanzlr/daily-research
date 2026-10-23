@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations | Sajad Ahmadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28570v1) |
-| VecTile: A Low-Cost Flexible Tactile Array for 3-DoF Force Sensing | Jian Hou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31472v1) |
-| GelSlim 5.0: Unifying Vision and Touch with a Single Fingertip Camera | Xiangdong Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31334v1) |
-| Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control | Johannes Stockhammer | 2026 | [📄 Read](http://arxiv.org/abs/2610.17385v1) |
-| OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing | Ariel Slepyan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31661v1) |
-| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
-| A Sparse Topometric Graph for Scalable Cross-Session Indoor Navigation | Eun Sun Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31432v1) |
-| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
-| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
-| OP-Print: Tracing Membership Imprints in On-Policy Self-Distillation | Qi Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31616v1) |
+| Would an LLM Match into a Residency? Uncertainty, Reasoning and Image Use of Open Language Models on the Spanish MIR Examination | Miguel Fernandez-de-Retana et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31586v1) |
+| SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing | Sy-Tuyen Ho et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31659v1) |
+| Phase Transition from Random Features to Fully Trainable Networks | Xin He et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31663v1) |
+| Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study | Dimitrios Nikou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08771v1) |
+| Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels? | Ravi Kumar Jha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31260v1) |
+| Learning Which Device to Call: Online Tool Grounding for LLM Agents in IoT | Yichen Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.25563v1) |
+| Reliable AI-Assisted Decisions via Selective Auditing | Isaac Gibbs et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31662v1) |
+| Model Exposure on One Device Endangers Others: Rethinking Edge Neural Network Security across Devices | Yuyang Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27152v1) |
+| Seamless Deployment of Machine Learning Inference at the Far Edge: An Empirical AWS IoT Greengrass Architecture for Industrial Predictive Maintenance | Prince Kwabena Appiah Boadu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.14815v1) |
+| Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success | Yunfei Xie et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31670v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 23 October 2026, 10:04 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 23 October 2026, 12:45 WIB</sub>
