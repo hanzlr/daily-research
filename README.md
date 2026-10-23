@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Friday, 23 October 2026
+## 🗓️ Saturday, 24 October 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
-| Memory before Goal: Role of Pre-History Memory for Humanoid Loco-Manipulation | Chenyuan Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31166v1) |
-| Cost-Aware Abstention for LLM-Based IT Ticket Classification | Sachin Gupta | 2026 | [📄 Read](http://arxiv.org/abs/2610.31657v1) |
-| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
-| VecTile: A Low-Cost Flexible Tactile Array for 3-DoF Force Sensing | Jian Hou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31472v1) |
+| OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing | Ariel Slepyan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31661v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
 | Would an LLM Match into a Residency? Uncertainty, Reasoning and Image Use of Open Language Models on the Spanish MIR Examination | Miguel Fernandez-de-Retana et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31586v1) |
-| Diffusion Language Models for Perplexity-Aware Black-Box Attacks | Ali Al-Lawati et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31558v1) |
-| Reliable AI-Assisted Decisions via Selective Auditing | Isaac Gibbs et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31662v1) |
-| Phase Transition from Random Features to Fully Trainable Networks | Xin He et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31663v1) |
+| Action Learning for Scientific Simulations | Sarah Liaw et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31585v1) |
+| Seamless Deployment of Machine Learning Inference at the Far Edge: An Empirical AWS IoT Greengrass Architecture for Industrial Predictive Maintenance | Prince Kwabena Appiah Boadu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.14815v1) |
+| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
+| GelSlim 5.0: Unifying Vision and Touch with a Single Fingertip Camera | Xiangdong Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31334v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
+| VecTile: A Low-Cost Flexible Tactile Array for 3-DoF Force Sensing | Jian Hou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31472v1) |
+| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 23 October 2026, 19:22 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 24 October 2026, 00:39 WIB</sub>
