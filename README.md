@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Physics-Informed Koopman Learning for Data-Efficient System Identification of Automated Vehicle Dynamics | Hangyu Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.24588v2) |
-| GelSlim 5.0: Unifying Vision and Touch with a Single Fingertip Camera | Xiangdong Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31334v1) |
-| Barrier Function Control for the Interconnection of DC Electronic Loads to Utility Grid | Grigoris Michos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31488v1) |
-| Communication-Efficient Federated Domain Generalization in Edge Networks via Dynamic Prototype Regulation | Yuankun Xia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.25810v1) |
-| Learning-Oriented Fault-Tolerant Control for UAVs with Time-Varying Fault Estimation | Moh Kamalul Wafi | 2026 | [📄 Read](http://arxiv.org/abs/2610.30566v1) |
-| Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels? | Ravi Kumar Jha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31260v1) |
-| Robust Lightweight IoT Device Fingerprinting Under Network Traffic Anomalies | Roya Taheri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27351v1) |
-| Sparse Federated Echo State Networks for Time-Series Classification via Smooth-L1 Regularization | Gengcheng Lyu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.21742v2) |
-| STATCOM-Based Flicker Mitigation in Electric Arc Furnace Systems Using DQ-PI and Lyapunov-Based Nonlinear Control | Vikram Chekuri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.17330v1) |
-| OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing | Ariel Slepyan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31661v1) |
+| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
+| Memory before Goal: Role of Pre-History Memory for Humanoid Loco-Manipulation | Chenyuan Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31166v1) |
+| Cost-Aware Abstention for LLM-Based IT Ticket Classification | Sachin Gupta | 2026 | [📄 Read](http://arxiv.org/abs/2610.31657v1) |
+| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
+| VecTile: A Low-Cost Flexible Tactile Array for 3-DoF Force Sensing | Jian Hou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31472v1) |
+| Would an LLM Match into a Residency? Uncertainty, Reasoning and Image Use of Open Language Models on the Spanish MIR Examination | Miguel Fernandez-de-Retana et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31586v1) |
+| Diffusion Language Models for Perplexity-Aware Black-Box Attacks | Ali Al-Lawati et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31558v1) |
+| Reliable AI-Assisted Decisions via Selective Auditing | Isaac Gibbs et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31662v1) |
+| Phase Transition from Random Features to Fully Trainable Networks | Xin He et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31663v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 23 October 2026, 18:01 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 23 October 2026, 19:22 WIB</sub>
