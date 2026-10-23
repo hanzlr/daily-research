@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "title": "A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations",
+    "author": "Sajad Ahmadi et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.28570v1"
+  },
+  {
+    "title": "VecTile: A Low-Cost Flexible Tactile Array for 3-DoF Force Sensing",
+    "author": "Jian Hou et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.31472v1"
+  },
+  {
+    "title": "GelSlim 5.0: Unifying Vision and Touch with a Single Fingertip Camera",
+    "author": "Xiangdong Wang et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.31334v1"
+  },
+  {
+    "title": "Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control",
+    "author": "Johannes Stockhammer",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.17385v1"
+  },
+  {
+    "title": "OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing",
+    "author": "Ariel Slepyan et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.31661v1"
+  },
+  {
+    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
+    "author": "Alexander Winkler et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2609.33795v1"
+  },
+  {
+    "title": "A Sparse Topometric Graph for Scalable Cross-Session Indoor Navigation",
+    "author": "Eun Sun Lee et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.31432v1"
+  },
+  {
+    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
+    "author": "Anas Hussin et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.28807v1"
+  },
+  {
+    "title": "Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking",
+    "author": "Johannes Stockhammer et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.09006v1"
+  },
+  {
+    "title": "OP-Print: Tracing Membership Imprints in On-Policy Self-Distillation",
+    "author": "Qi Li et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.31616v1"
+  }
+]
