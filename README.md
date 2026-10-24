@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| CTRL-FM: Inference-Time Structural Control for Flow-Based Virtual Sensing under Long-Horizon Node Outages | Boshra Khalili et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30362v1) |
+| Diffusion Language Models for Perplexity-Aware Black-Box Attacks | Ali Al-Lawati et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31558v1) |
 | HGM-Dual: Lineage-Aware Guided Agent Harness Optimization for Long-Horizon Planning | Sudipta Paul et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30042v1) |
-| AgenticEvolve: Evolutionary Program Search with Persistent Language Model Agents that Design and Run Experiments | Ze-Yu Peng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31326v1) |
-| Communication-Efficient Federated Domain Generalization in Edge Networks via Dynamic Prototype Regulation | Yuankun Xia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.25810v1) |
-| Mastering Model Fit: Applications of the InterModel Vigorish for Interpretable Machine Learning | Jiani Yan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.29960v1) |
-| Learning Which Device to Call: Online Tool Grounding for LLM Agents in IoT | Yichen Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.25563v1) |
-| Sparse Federated Echo State Networks for Time-Series Classification via Smooth-L1 Regularization | Gengcheng Lyu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.21742v2) |
-| First hardware demonstration of a continuous-state probabilistic computer with programmable energy-defined sampling | Chao Fang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31339v1) |
+| Phase Transition from Random Features to Fully Trainable Networks | Xin He et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31663v1) |
+| Seamless Deployment of Machine Learning Inference at the Far Edge: An Empirical AWS IoT Greengrass Architecture for Industrial Predictive Maintenance | Prince Kwabena Appiah Boadu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.14815v1) |
+| Bio-Inspired Auditory Processing: Coupling Parallel Resonate-and-Fire Dynamics with Ternary Recurrent Networks for Speech Recognition | Pavlos Poulos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.29720v1) |
+| Learning-Oriented Fault-Tolerant Control for UAVs with Time-Varying Fault Estimation | Moh Kamalul Wafi | 2026 | [📄 Read](http://arxiv.org/abs/2610.30566v1) |
 | Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels? | Ravi Kumar Jha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31260v1) |
-| From Common Information to Canonical Correlation Analysis and Beyond: Bridging Information Theory, Signal Processing, and Machine Learning | Paris A. Karakasis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28978v1) |
+| Model Exposure on One Device Endangers Others: Rethinking Edge Neural Network Security across Devices | Yuyang Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27152v1) |
+| First hardware demonstration of a continuous-state probabilistic computer with programmable energy-defined sampling | Chao Fang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31339v1) |
+| Barrier Function Control for the Interconnection of DC Electronic Loads to Utility Grid | Grigoris Michos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31488v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 24 October 2026, 12:24 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 24 October 2026, 14:44 WIB</sub>
