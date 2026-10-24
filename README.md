@@ -18,16 +18,6 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Mastering Model Fit: Applications of the InterModel Vigorish for Interpretable Machine Learning | Jiani Yan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.29960v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
-| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
-| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
-| Learning-Oriented Fault-Tolerant Control for UAVs with Time-Varying Fault Estimation | Moh Kamalul Wafi | 2026 | [📄 Read](http://arxiv.org/abs/2610.30566v1) |
-| CTRL-FM: Inference-Time Structural Control for Flow-Based Virtual Sensing under Long-Horizon Node Outages | Boshra Khalili et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30362v1) |
-| Physics-Informed Koopman Learning for Data-Efficient System Identification of Automated Vehicle Dynamics | Hangyu Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.24588v2) |
-| From Common Information to Canonical Correlation Analysis and Beyond: Bridging Information Theory, Signal Processing, and Machine Learning | Paris A. Karakasis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28978v1) |
-| STATCOM-Based Flicker Mitigation in Electric Arc Furnace Systems Using DQ-PI and Lyapunov-Based Nonlinear Control | Vikram Chekuri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.17330v1) |
 
 ---
 
@@ -40,4 +30,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 24 October 2026, 01:53 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 24 October 2026, 10:01 WIB</sub>
