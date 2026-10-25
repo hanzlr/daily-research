@@ -1,33 +1,45 @@
 [
   {
-    "title": "Would an LLM Match into a Residency? Uncertainty, Reasoning and Image Use of Open Language Models on the Spanish MIR Examination",
-    "author": "Miguel Fernandez-de-Retana et al.",
+    "title": "Sparse Federated Echo State Networks for Time-Series Classification via Smooth-L1 Regularization",
+    "author": "Gengcheng Lyu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.31586v1"
+    "url": "http://arxiv.org/abs/2610.21742v2"
   },
   {
-    "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
-    "author": "Yunfei Xie et al.",
+    "title": "Robust Lightweight IoT Device Fingerprinting Under Network Traffic Anomalies",
+    "author": "Roya Taheri et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.31670v1"
+    "url": "http://arxiv.org/abs/2610.27351v1"
   },
   {
-    "title": "PYTHIA, a transferable machine learning framework for simultaneous defect and adsorption site optimization",
-    "author": "Ioannis Kouroudis et al.",
+    "title": "Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels?",
+    "author": "Ravi Kumar Jha et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.31539v1"
+    "url": "http://arxiv.org/abs/2610.31260v1"
   },
   {
-    "title": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
-    "author": "Sy-Tuyen Ho et al.",
+    "title": "HGM-Dual: Lineage-Aware Guided Agent Harness Optimization for Long-Horizon Planning",
+    "author": "Sudipta Paul et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.31659v1"
+    "url": "http://arxiv.org/abs/2610.30042v1"
   },
   {
-    "title": "Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking",
-    "author": "Johannes Stockhammer et al.",
+    "title": "Low-Bit N-Gram Embeddings for Language Models",
+    "author": "Stephen Chung et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.09006v1"
+    "url": "http://arxiv.org/abs/2610.31646v1"
+  },
+  {
+    "title": "Model Exposure on One Device Endangers Others: Rethinking Edge Neural Network Security across Devices",
+    "author": "Yuyang Zhang et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.27152v1"
+  },
+  {
+    "title": "Bio-Inspired Auditory Processing: Coupling Parallel Resonate-and-Fire Dynamics with Ternary Recurrent Networks for Speech Recognition",
+    "author": "Pavlos Poulos et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.29720v1"
   },
   {
     "title": "First hardware demonstration of a continuous-state probabilistic computer with programmable energy-defined sampling",
@@ -36,27 +48,15 @@
     "url": "http://arxiv.org/abs/2610.31339v1"
   },
   {
-    "title": "Reliable AI-Assisted Decisions via Selective Auditing",
-    "author": "Isaac Gibbs et al.",
+    "title": "Seamless Deployment of Machine Learning Inference at the Far Edge: An Empirical AWS IoT Greengrass Architecture for Industrial Predictive Maintenance",
+    "author": "Prince Kwabena Appiah Boadu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.31662v1"
+    "url": "http://arxiv.org/abs/2610.14815v1"
   },
   {
-    "title": "Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control",
-    "author": "Johannes Stockhammer",
+    "title": "PriMa-Causa: Causal Prescriptive Maintenance",
+    "author": "Felix Saretzky",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.17385v1"
-  },
-  {
-    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
-    "author": "Alexander Winkler et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2609.33795v1"
-  },
-  {
-    "title": "HGM-Dual: Lineage-Aware Guided Agent Harness Optimization for Long-Horizon Planning",
-    "author": "Sudipta Paul et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.30042v1"
+    "url": "http://arxiv.org/abs/2610.31147v1"
   }
 ]

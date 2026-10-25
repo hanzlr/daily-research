@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Sunday, 25 October 2026
+## 🗓️ Monday, 26 October 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Would an LLM Match into a Residency? Uncertainty, Reasoning and Image Use of Open Language Models on the Spanish MIR Examination | Miguel Fernandez-de-Retana et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31586v1) |
-| Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success | Yunfei Xie et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31670v1) |
-| PYTHIA, a transferable machine learning framework for simultaneous defect and adsorption site optimization | Ioannis Kouroudis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31539v1) |
-| SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing | Sy-Tuyen Ho et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31659v1) |
-| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
-| First hardware demonstration of a continuous-state probabilistic computer with programmable energy-defined sampling | Chao Fang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31339v1) |
-| Reliable AI-Assisted Decisions via Selective Auditing | Isaac Gibbs et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31662v1) |
-| Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control | Johannes Stockhammer | 2026 | [📄 Read](http://arxiv.org/abs/2610.17385v1) |
-| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
+| Sparse Federated Echo State Networks for Time-Series Classification via Smooth-L1 Regularization | Gengcheng Lyu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.21742v2) |
+| Robust Lightweight IoT Device Fingerprinting Under Network Traffic Anomalies | Roya Taheri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27351v1) |
+| Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels? | Ravi Kumar Jha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31260v1) |
 | HGM-Dual: Lineage-Aware Guided Agent Harness Optimization for Long-Horizon Planning | Sudipta Paul et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30042v1) |
+| Low-Bit N-Gram Embeddings for Language Models | Stephen Chung et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31646v1) |
+| Model Exposure on One Device Endangers Others: Rethinking Edge Neural Network Security across Devices | Yuyang Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27152v1) |
+| Bio-Inspired Auditory Processing: Coupling Parallel Resonate-and-Fire Dynamics with Ternary Recurrent Networks for Speech Recognition | Pavlos Poulos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.29720v1) |
+| First hardware demonstration of a continuous-state probabilistic computer with programmable energy-defined sampling | Chao Fang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31339v1) |
+| Seamless Deployment of Machine Learning Inference at the Far Edge: An Empirical AWS IoT Greengrass Architecture for Industrial Predictive Maintenance | Prince Kwabena Appiah Boadu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.14815v1) |
+| PriMa-Causa: Causal Prescriptive Maintenance | Felix Saretzky | 2026 | [📄 Read](http://arxiv.org/abs/2610.31147v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 25 October 2026, 00:49 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 26 October 2026, 01:08 WIB</sub>
