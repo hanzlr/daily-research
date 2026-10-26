@@ -1,33 +1,21 @@
 [
   {
-    "title": "Iterative Behavioral Identification for Covert Misappropriation Attacks",
-    "author": "Victor Mattos et al.",
+    "title": "Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking",
+    "author": "Johannes Stockhammer et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.32662v1"
+    "url": "http://arxiv.org/abs/2610.09006v1"
   },
   {
-    "title": "A Resource-Efficient and Precision-Scalable FPGA Accelerator for Spiking Neural Networks Using Minifloat Arithmetic",
-    "author": "Ali Mehrabi et al.",
+    "title": "Online Continual Learning in Edge-Cloud Applications",
+    "author": "Charalampos Davalas et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.32052v1"
+    "url": "http://arxiv.org/abs/2610.32472v1"
   },
   {
-    "title": "Learning-Oriented Fault-Tolerant Control for UAVs with Time-Varying Fault Estimation",
-    "author": "Moh Kamalul Wafi",
+    "title": "Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study",
+    "author": "Dimitrios Nikou et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.30566v1"
-  },
-  {
-    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
-    "author": "Alexander Winkler et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2609.33795v1"
-  },
-  {
-    "title": "Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control",
-    "author": "Johannes Stockhammer",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.17385v1"
+    "url": "http://arxiv.org/abs/2610.08771v1"
   },
   {
     "title": "Robust Lightweight IoT Device Fingerprinting Under Network Traffic Anomalies",
@@ -36,27 +24,39 @@
     "url": "http://arxiv.org/abs/2610.27351v1"
   },
   {
-    "title": "RobustNCL: Robustifying Neuromorphic Continual Learning under Transient Faults with Lightweight Detect-and-Cure Strategy",
-    "author": "Rachmad Vidya Wicaksana Putra et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.31954v1"
-  },
-  {
     "title": "Data Quality Audit and Bivariate Temperature-Humidity Analysis of a Long-Term LoRaWAN Network: Anomaly Detection, PCA, Clustering and Machine Learning",
     "author": "Mamadou Sow",
     "year": "2026",
     "url": "http://arxiv.org/abs/2610.32438v1"
   },
   {
-    "title": "Searching with Sparse Histories: Cross-Task Architecture Search from Incomplete Search Logs and Zero-Cost Proxies",
-    "author": "Yuefeng Xu et al.",
+    "title": "Where Rounding Happens Matters: Rounding-Location Alignment Stabilizes LLM Reinforcement Learning",
+    "author": "Yijing Ke et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.32179v1"
+    "url": "http://arxiv.org/abs/2610.32951v1"
   },
   {
-    "title": "Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels?",
-    "author": "Ravi Kumar Jha et al.",
+    "title": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox",
+    "author": "Federico Lucca",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.31260v1"
+    "url": "http://arxiv.org/abs/2610.32955v1"
+  },
+  {
+    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
+    "author": "Alexander Winkler et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2609.33795v1"
+  },
+  {
+    "title": "ZENO: Nonlinear filtering with Zakai Equation Neural Operators",
+    "author": "Aaditya Prasad et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.32926v1"
+  },
+  {
+    "title": "Towards Field-Deployable Wearable IMU Systems for Occupational Activity Recognition",
+    "author": "Ihsan Ul Haq et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.31160v1"
   }
 ]
