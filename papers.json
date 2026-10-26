@@ -1,51 +1,27 @@
 [
   {
-    "title": "Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection",
-    "author": "Bernardo Perrone Ribeiro et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.32964v1"
-  },
-  {
-    "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
-    "author": "Xi Chen et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.32971v1"
-  },
-  {
     "title": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox",
     "author": "Federico Lucca",
     "year": "2026",
     "url": "http://arxiv.org/abs/2610.32955v1"
   },
   {
-    "title": "Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study",
-    "author": "Dimitrios Nikou et al.",
+    "title": "Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control",
+    "author": "Johannes Stockhammer",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.08771v1"
+    "url": "http://arxiv.org/abs/2610.17385v1"
   },
   {
-    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
-    "author": "Alexander Winkler et al.",
+    "title": "LoCA: Enabling Multi-Modality in Geospatial Location Encoders",
+    "author": "Panagiotis Koromilas et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2609.33795v1"
+    "url": "http://arxiv.org/abs/2610.32894v1"
   },
   {
-    "title": "Robust Offset-Free Lane-Keeping Control Framework for Vision-Only Automated Vehicles",
-    "author": "Der-Hau Lee",
+    "title": "Iterative Behavioral Identification for Covert Misappropriation Attacks",
+    "author": "Victor Mattos et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.32666v1"
-  },
-  {
-    "title": "ZENO: Nonlinear filtering with Zakai Equation Neural Operators",
-    "author": "Aaditya Prasad et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.32926v1"
-  },
-  {
-    "title": "Semantic Representation for Agentic Self-Play in Automated Laboratories",
-    "author": "Yves Delley et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.32755v1"
+    "url": "http://arxiv.org/abs/2610.32662v1"
   },
   {
     "title": "Where Rounding Happens Matters: Rounding-Location Alignment Stabilizes LLM Reinforcement Learning",
@@ -54,9 +30,33 @@
     "url": "http://arxiv.org/abs/2610.32951v1"
   },
   {
-    "title": "Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control",
-    "author": "Johannes Stockhammer",
+    "title": "RobustNCL: Robustifying Neuromorphic Continual Learning under Transient Faults with Lightweight Detect-and-Cure Strategy",
+    "author": "Rachmad Vidya Wicaksana Putra et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.17385v1"
+    "url": "http://arxiv.org/abs/2610.31954v1"
+  },
+  {
+    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
+    "author": "Alexander Winkler et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2609.33795v1"
+  },
+  {
+    "title": "Learning-Oriented Fault-Tolerant Control for UAVs with Time-Varying Fault Estimation",
+    "author": "Moh Kamalul Wafi",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.30566v1"
+  },
+  {
+    "title": "Barrier Function Control for the Interconnection of DC Electronic Loads to Utility Grid",
+    "author": "Grigoris Michos et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.31488v1"
+  },
+  {
+    "title": "A Resource-Efficient and Precision-Scalable FPGA Accelerator for Spiking Neural Networks Using Minifloat Arithmetic",
+    "author": "Ali Mehrabi et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.32052v1"
   }
 ]
