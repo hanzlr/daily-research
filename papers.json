@@ -1,39 +1,51 @@
 [
   {
-    "title": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox",
-    "author": "Federico Lucca",
+    "title": "Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research",
+    "author": "Ad-Deen Mahbub et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.32955v1"
+    "url": "http://arxiv.org/abs/2607.23220v1"
   },
   {
-    "title": "Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control",
-    "author": "Johannes Stockhammer",
+    "title": "Data Quality Audit and Bivariate Temperature-Humidity Analysis of a Long-Term LoRaWAN Network: Anomaly Detection, PCA, Clustering and Machine Learning",
+    "author": "Mamadou Sow",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.17385v1"
+    "url": "http://arxiv.org/abs/2610.32438v1"
   },
   {
-    "title": "LoCA: Enabling Multi-Modality in Geospatial Location Encoders",
-    "author": "Panagiotis Koromilas et al.",
+    "title": "Semantic Representation for Agentic Self-Play in Automated Laboratories",
+    "author": "Yves Delley et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.32894v1"
+    "url": "http://arxiv.org/abs/2610.32755v1"
   },
   {
-    "title": "Iterative Behavioral Identification for Covert Misappropriation Attacks",
-    "author": "Victor Mattos et al.",
+    "title": "Natural-Language to Nav2: Operational Policies for Costmap-Based Navigation",
+    "author": "Jiyeong Chae et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.32662v1"
+    "url": "http://arxiv.org/abs/2610.32633v1"
   },
   {
-    "title": "Where Rounding Happens Matters: Rounding-Location Alignment Stabilizes LLM Reinforcement Learning",
-    "author": "Yijing Ke et al.",
+    "title": "Adaptive World-Models for Anomaly Recognition (AWARE): A Framework for Robot Dynamics Prediction and Introspection",
+    "author": "Luke Beddow et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.32951v1"
+    "url": "http://arxiv.org/abs/2610.32742v1"
   },
   {
-    "title": "RobustNCL: Robustifying Neuromorphic Continual Learning under Transient Faults with Lightweight Detect-and-Cure Strategy",
-    "author": "Rachmad Vidya Wicaksana Putra et al.",
+    "title": "$R^2E:$ A Role-driven Reward Evolutionary Framework for Automated Reward Function Design",
+    "author": "Shouhao Chang et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.31954v1"
+    "url": "http://arxiv.org/abs/2610.32439v1"
+  },
+  {
+    "title": "Online Continual Learning in Edge-Cloud Applications",
+    "author": "Charalampos Davalas et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.32472v1"
+  },
+  {
+    "title": "Robust Offset-Free Lane-Keeping Control Framework for Vision-Only Automated Vehicles",
+    "author": "Der-Hau Lee",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.32666v1"
   },
   {
     "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
@@ -42,21 +54,9 @@
     "url": "http://arxiv.org/abs/2609.33795v1"
   },
   {
-    "title": "Learning-Oriented Fault-Tolerant Control for UAVs with Time-Varying Fault Estimation",
-    "author": "Moh Kamalul Wafi",
+    "title": "Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels?",
+    "author": "Ravi Kumar Jha et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.30566v1"
-  },
-  {
-    "title": "Barrier Function Control for the Interconnection of DC Electronic Loads to Utility Grid",
-    "author": "Grigoris Michos et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.31488v1"
-  },
-  {
-    "title": "A Resource-Efficient and Precision-Scalable FPGA Accelerator for Spiking Neural Networks Using Minifloat Arithmetic",
-    "author": "Ali Mehrabi et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.32052v1"
+    "url": "http://arxiv.org/abs/2610.31260v1"
   }
 ]

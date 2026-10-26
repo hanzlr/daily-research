@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox | Federico Lucca | 2026 | [📄 Read](http://arxiv.org/abs/2610.32955v1) |
-| Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control | Johannes Stockhammer | 2026 | [📄 Read](http://arxiv.org/abs/2610.17385v1) |
-| LoCA: Enabling Multi-Modality in Geospatial Location Encoders | Panagiotis Koromilas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32894v1) |
-| Iterative Behavioral Identification for Covert Misappropriation Attacks | Victor Mattos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32662v1) |
-| Where Rounding Happens Matters: Rounding-Location Alignment Stabilizes LLM Reinforcement Learning | Yijing Ke et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32951v1) |
-| RobustNCL: Robustifying Neuromorphic Continual Learning under Transient Faults with Lightweight Detect-and-Cure Strategy | Rachmad Vidya Wicaksana Putra et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31954v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| Data Quality Audit and Bivariate Temperature-Humidity Analysis of a Long-Term LoRaWAN Network: Anomaly Detection, PCA, Clustering and Machine Learning | Mamadou Sow | 2026 | [📄 Read](http://arxiv.org/abs/2610.32438v1) |
+| Semantic Representation for Agentic Self-Play in Automated Laboratories | Yves Delley et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32755v1) |
+| Natural-Language to Nav2: Operational Policies for Costmap-Based Navigation | Jiyeong Chae et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32633v1) |
+| Adaptive World-Models for Anomaly Recognition (AWARE): A Framework for Robot Dynamics Prediction and Introspection | Luke Beddow et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32742v1) |
+| $R^2E:$ A Role-driven Reward Evolutionary Framework for Automated Reward Function Design | Shouhao Chang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32439v1) |
+| Online Continual Learning in Edge-Cloud Applications | Charalampos Davalas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32472v1) |
+| Robust Offset-Free Lane-Keeping Control Framework for Vision-Only Automated Vehicles | Der-Hau Lee | 2026 | [📄 Read](http://arxiv.org/abs/2610.32666v1) |
 | Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
-| Learning-Oriented Fault-Tolerant Control for UAVs with Time-Varying Fault Estimation | Moh Kamalul Wafi | 2026 | [📄 Read](http://arxiv.org/abs/2610.30566v1) |
-| Barrier Function Control for the Interconnection of DC Electronic Loads to Utility Grid | Grigoris Michos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31488v1) |
-| A Resource-Efficient and Precision-Scalable FPGA Accelerator for Spiking Neural Networks Using Minifloat Arithmetic | Ali Mehrabi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32052v1) |
+| Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels? | Ravi Kumar Jha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31260v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 27 October 2026, 01:59 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 27 October 2026, 03:18 WIB</sub>
