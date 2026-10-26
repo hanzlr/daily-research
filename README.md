@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Monday, 26 October 2026
+## 🗓️ Tuesday, 27 October 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
-| Online Continual Learning in Edge-Cloud Applications | Charalampos Davalas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32472v1) |
-| Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study | Dimitrios Nikou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08771v1) |
-| Robust Lightweight IoT Device Fingerprinting Under Network Traffic Anomalies | Roya Taheri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27351v1) |
-| Data Quality Audit and Bivariate Temperature-Humidity Analysis of a Long-Term LoRaWAN Network: Anomaly Detection, PCA, Clustering and Machine Learning | Mamadou Sow | 2026 | [📄 Read](http://arxiv.org/abs/2610.32438v1) |
-| Where Rounding Happens Matters: Rounding-Location Alignment Stabilizes LLM Reinforcement Learning | Yijing Ke et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32951v1) |
+| Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection | Bernardo Perrone Ribeiro et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32964v1) |
+| RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms | Xi Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32971v1) |
 | Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox | Federico Lucca | 2026 | [📄 Read](http://arxiv.org/abs/2610.32955v1) |
+| Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study | Dimitrios Nikou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08771v1) |
 | Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
+| Robust Offset-Free Lane-Keeping Control Framework for Vision-Only Automated Vehicles | Der-Hau Lee | 2026 | [📄 Read](http://arxiv.org/abs/2610.32666v1) |
 | ZENO: Nonlinear filtering with Zakai Equation Neural Operators | Aaditya Prasad et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32926v1) |
-| Towards Field-Deployable Wearable IMU Systems for Occupational Activity Recognition | Ihsan Ul Haq et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31160v1) |
+| Semantic Representation for Agentic Self-Play in Automated Laboratories | Yves Delley et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32755v1) |
+| Where Rounding Happens Matters: Rounding-Location Alignment Stabilizes LLM Reinforcement Learning | Yijing Ke et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32951v1) |
+| Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control | Johannes Stockhammer | 2026 | [📄 Read](http://arxiv.org/abs/2610.17385v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 26 October 2026, 22:32 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 27 October 2026, 00:04 WIB</sub>
