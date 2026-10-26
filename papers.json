@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "title": "Towards Field-Deployable Wearable IMU Systems for Occupational Activity Recognition",
+    "author": "Ihsan Ul Haq et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.31160v1"
+  },
+  {
+    "title": "The Path to NDE 4.0: A Review of Algorithms, Techniques, and Strategies for Autonomous Inspection",
+    "author": "Ashiqur Rahmana et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.31704v1"
+  },
+  {
+    "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
+    "author": "Xi Chen et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.32971v1"
+  },
+  {
+    "title": "Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study",
+    "author": "Dimitrios Nikou et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.08771v1"
+  },
+  {
+    "title": "$R^2E:$ A Role-driven Reward Evolutionary Framework for Automated Reward Function Design",
+    "author": "Shouhao Chang et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.32439v1"
+  },
+  {
+    "title": "Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection",
+    "author": "Bernardo Perrone Ribeiro et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.32964v1"
+  },
+  {
+    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
+    "author": "Alexander Winkler et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2609.33795v1"
+  },
+  {
+    "title": "RAISE-Vision: An Automated Contact Angle Measurement Platform for Contact Lens Wettability Characterization",
+    "author": "Erin Ng et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.32188v1"
+  },
+  {
+    "title": "Data Quality Audit and Bivariate Temperature-Humidity Analysis of a Long-Term LoRaWAN Network: Anomaly Detection, PCA, Clustering and Machine Learning",
+    "author": "Mamadou Sow",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.32438v1"
+  },
+  {
+    "title": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
+    "author": "Amber Xie et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.32969v1"
+  }
+]
