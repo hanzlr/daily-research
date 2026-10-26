@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| RAISE-Vision: An Automated Contact Angle Measurement Platform for Contact Lens Wettability Characterization | Erin Ng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32188v1) |
-| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
-| $R^2E:$ A Role-driven Reward Evolutionary Framework for Automated Reward Function Design | Shouhao Chang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32439v1) |
-| Physics-Informed Koopman Learning for Data-Efficient System Identification of Automated Vehicle Dynamics | Hangyu Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.24588v2) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
 | Iterative Behavioral Identification for Covert Misappropriation Attacks | Victor Mattos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32662v1) |
-| Robust Offset-Free Lane-Keeping Control Framework for Vision-Only Automated Vehicles | Der-Hau Lee | 2026 | [📄 Read](http://arxiv.org/abs/2610.32666v1) |
-| Semantic Representation for Agentic Self-Play in Automated Laboratories | Yves Delley et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32755v1) |
-| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
-| Barrier Function Control for the Interconnection of DC Electronic Loads to Utility Grid | Grigoris Michos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31488v1) |
+| A Resource-Efficient and Precision-Scalable FPGA Accelerator for Spiking Neural Networks Using Minifloat Arithmetic | Ali Mehrabi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32052v1) |
+| Learning-Oriented Fault-Tolerant Control for UAVs with Time-Varying Fault Estimation | Moh Kamalul Wafi | 2026 | [📄 Read](http://arxiv.org/abs/2610.30566v1) |
+| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
+| Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control | Johannes Stockhammer | 2026 | [📄 Read](http://arxiv.org/abs/2610.17385v1) |
+| Robust Lightweight IoT Device Fingerprinting Under Network Traffic Anomalies | Roya Taheri et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27351v1) |
+| RobustNCL: Robustifying Neuromorphic Continual Learning under Transient Faults with Lightweight Detect-and-Cure Strategy | Rachmad Vidya Wicaksana Putra et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31954v1) |
+| Data Quality Audit and Bivariate Temperature-Humidity Analysis of a Long-Term LoRaWAN Network: Anomaly Detection, PCA, Clustering and Machine Learning | Mamadou Sow | 2026 | [📄 Read](http://arxiv.org/abs/2610.32438v1) |
+| Searching with Sparse Histories: Cross-Task Architecture Search from Incomplete Search Logs and Zero-Cost Proxies | Yuefeng Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32179v1) |
+| Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels? | Ravi Kumar Jha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31260v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 26 October 2026, 19:17 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 26 October 2026, 20:49 WIB</sub>
