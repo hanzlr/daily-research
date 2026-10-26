@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox | Federico Lucca | 2026 | [📄 Read](http://arxiv.org/abs/2610.32955v1) |
-| Barrier Function Control for the Interconnection of DC Electronic Loads to Utility Grid | Grigoris Michos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31488v1) |
-| Seamless Deployment of Machine Learning Inference at the Far Edge: An Empirical AWS IoT Greengrass Architecture for Industrial Predictive Maintenance | Prince Kwabena Appiah Boadu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.14815v1) |
-| Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection | Bernardo Perrone Ribeiro et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32964v1) |
-| Natural-Language to Nav2: Operational Policies for Costmap-Based Navigation | Jiyeong Chae et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32633v1) |
-| Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels? | Ravi Kumar Jha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31260v1) |
-| DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection | Amber Xie et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32969v1) |
+| RAISE-Vision: An Automated Contact Angle Measurement Platform for Contact Lens Wettability Characterization | Erin Ng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32188v1) |
+| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v1) |
+| $R^2E:$ A Role-driven Reward Evolutionary Framework for Automated Reward Function Design | Shouhao Chang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32439v1) |
 | Physics-Informed Koopman Learning for Data-Efficient System Identification of Automated Vehicle Dynamics | Hangyu Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.24588v2) |
-| Learning Which Device to Call: Online Tool Grounding for LLM Agents in IoT | Yichen Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.25563v1) |
-| Model Exposure on One Device Endangers Others: Rethinking Edge Neural Network Security across Devices | Yuyang Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27152v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
+| Iterative Behavioral Identification for Covert Misappropriation Attacks | Victor Mattos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32662v1) |
+| Robust Offset-Free Lane-Keeping Control Framework for Vision-Only Automated Vehicles | Der-Hau Lee | 2026 | [📄 Read](http://arxiv.org/abs/2610.32666v1) |
+| Semantic Representation for Agentic Self-Play in Automated Laboratories | Yves Delley et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32755v1) |
+| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
+| Barrier Function Control for the Interconnection of DC Electronic Loads to Utility Grid | Grigoris Michos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31488v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 26 October 2026, 17:37 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 26 October 2026, 19:17 WIB</sub>
