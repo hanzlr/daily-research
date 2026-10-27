@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Benchmarking uncertainty quantification for engineering regression under graded distribution shift | Ahmad Lawal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.35356v1) |
-| AuRA: From Atoms to Bits through Autonomous Robot Interaction | Xinchen Yu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.34452v1) |
-| Learning Force-Reactive Humanoid Loco-Manipulation | Sihang Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.35862v1) |
-| DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching | Jingpo Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08268v1) |
-| Model-Aware Generation of Safety-Critical Scenes for Robust End-to-End Driving via Distilled Planner Surrogates | Khaled M. Seyam et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.35448v1) |
-| A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations | Sajad Ahmadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28570v1) |
-| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
-| Data Quality Audit and Bivariate Temperature-Humidity Analysis of a Long-Term LoRaWAN Network: Anomaly Detection, PCA, Clustering and Machine Learning | Mamadou Sow | 2026 | [📄 Read](http://arxiv.org/abs/2610.32438v1) |
-| IntNet: A Communication-Driven Multi-Agent Reinforcement Learning Framework for Cooperative Autonomous Driving | Leandro Parada et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.34466v1) |
+| Understanding the Co-evolutionary Solution Exchange of the MOEA/D: Already the Smallest Communication Radius Gives the Best-Possible Speed-Up | Benjamin Doerr et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.35373v1) |
+| Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control | Johannes Stockhammer | 2026 | [📄 Read](http://arxiv.org/abs/2610.17385v1) |
 | Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels? | Ravi Kumar Jha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31260v1) |
+| Trust Mechanisms for Offline Generative AI at the Edge: A Connectivity-Regime Framework and an Empirical Study on a Raspberry Pi 5 | Georgios Feretzakis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.33732v1) |
+| Audit Where Hacks Pay: Budgeted Strong-Verifier Audits Against Reward Hacking in GRPO | Shurun Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.35716v1) |
+| Quantifying the failure of symmetry learning in linear diffusion models due to initialization and finite-sample effects | John J. Vastola et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.35720v1) |
+| Agentic Algorithm Design: LLMs that Propose, Formalise, and Prove Runtime Bounds for Evolutionary Algorithms in Lean | Per Kristian Lehre | 2026 | [📄 Read](http://arxiv.org/abs/2610.35595v1) |
+| An Interactive Evolutionary Multiobjective Optimization Algorithm Based on Interpretable Active Preference Learning | Thomas Quadt et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.35470v1) |
+| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
+| Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study | Dimitrios Nikou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08771v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 27 October 2026, 12:59 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 27 October 2026, 15:29 WIB</sub>
