@@ -1,15 +1,15 @@
 [
   {
-    "title": "Understanding the Co-evolutionary Solution Exchange of the MOEA/D: Already the Smallest Communication Radius Gives the Best-Possible Speed-Up",
-    "author": "Benjamin Doerr et al.",
+    "title": "CSI-TextBench: A Dataset and Benchmark for Language-Grounded Ambient Sensing Perception",
+    "author": "Guozhen Zhu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.35373v1"
+    "url": "http://arxiv.org/abs/2610.34616v1"
   },
   {
-    "title": "Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control",
-    "author": "Johannes Stockhammer",
+    "title": "Work Agents: Systems, Capabilities, and Optimization",
+    "author": "Zishan Xu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.17385v1"
+    "url": "http://arxiv.org/abs/2610.35845v1"
   },
   {
     "title": "Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels?",
@@ -18,45 +18,45 @@
     "url": "http://arxiv.org/abs/2610.31260v1"
   },
   {
+    "title": "Learning Force-Reactive Humanoid Loco-Manipulation",
+    "author": "Sihang Li et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.35862v1"
+  },
+  {
+    "title": "Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling",
+    "author": "Xi Chen et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.35866v1"
+  },
+  {
+    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
+    "author": "Anas Hussin et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.28807v1"
+  },
+  {
+    "title": "DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching",
+    "author": "Jingpo Xu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.08268v1"
+  },
+  {
+    "title": "Implementation of Dynamic Microsegmentation for a Multi-Robot Network",
+    "author": "Vishwam Raval et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.30102v1"
+  },
+  {
     "title": "Trust Mechanisms for Offline Generative AI at the Edge: A Connectivity-Regime Framework and an Empirical Study on a Raspberry Pi 5",
     "author": "Georgios Feretzakis et al.",
     "year": "2026",
     "url": "http://arxiv.org/abs/2610.33732v1"
   },
   {
-    "title": "Audit Where Hacks Pay: Budgeted Strong-Verifier Audits Against Reward Hacking in GRPO",
-    "author": "Shurun Li et al.",
+    "title": "Revisiting Direct Control: A Field Evaluation of Sensor Fusion Efficacy in Teleoperating Full-Scale Autonomous Vehicles via Bird's Eye View",
+    "author": "Stanisław Kuczma et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.35716v1"
-  },
-  {
-    "title": "Quantifying the failure of symmetry learning in linear diffusion models due to initialization and finite-sample effects",
-    "author": "John J. Vastola et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.35720v1"
-  },
-  {
-    "title": "Agentic Algorithm Design: LLMs that Propose, Formalise, and Prove Runtime Bounds for Evolutionary Algorithms in Lean",
-    "author": "Per Kristian Lehre",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.35595v1"
-  },
-  {
-    "title": "An Interactive Evolutionary Multiobjective Optimization Algorithm Based on Interpretable Active Preference Learning",
-    "author": "Thomas Quadt et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.35470v1"
-  },
-  {
-    "title": "Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking",
-    "author": "Johannes Stockhammer et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.09006v1"
-  },
-  {
-    "title": "Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study",
-    "author": "Dimitrios Nikou et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.08771v1"
+    "url": "http://arxiv.org/abs/2610.35630v1"
   }
 ]

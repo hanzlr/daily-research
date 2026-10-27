@@ -1,0 +1,62 @@
+[
+  {
+    "title": "CSI-TextBench: A Dataset and Benchmark for Language-Grounded Ambient Sensing Perception",
+    "author": "Guozhen Zhu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.34616v1"
+  },
+  {
+    "title": "Work Agents: Systems, Capabilities, and Optimization",
+    "author": "Zishan Xu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.35845v1"
+  },
+  {
+    "title": "Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels?",
+    "author": "Ravi Kumar Jha et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.31260v1"
+  },
+  {
+    "title": "Learning Force-Reactive Humanoid Loco-Manipulation",
+    "author": "Sihang Li et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.35862v1"
+  },
+  {
+    "title": "Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling",
+    "author": "Xi Chen et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.35866v1"
+  },
+  {
+    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
+    "author": "Anas Hussin et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.28807v1"
+  },
+  {
+    "title": "DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching",
+    "author": "Jingpo Xu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.08268v1"
+  },
+  {
+    "title": "Implementation of Dynamic Microsegmentation for a Multi-Robot Network",
+    "author": "Vishwam Raval et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.30102v1"
+  },
+  {
+    "title": "Trust Mechanisms for Offline Generative AI at the Edge: A Connectivity-Regime Framework and an Empirical Study on a Raspberry Pi 5",
+    "author": "Georgios Feretzakis et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.33732v1"
+  },
+  {
+    "title": "Revisiting Direct Control: A Field Evaluation of Sensor Fusion Efficacy in Teleoperating Full-Scale Autonomous Vehicles via Bird's Eye View",
+    "author": "Stanisław Kuczma et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.35630v1"
+  }
+]
