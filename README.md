@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
-| Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well | Ian Chuang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37652v1) |
-| Learning-Oriented Fault-Tolerant Control for UAVs with Time-Varying Fault Estimation | Moh Kamalul Wafi | 2026 | [📄 Read](http://arxiv.org/abs/2610.30566v1) |
-| Iterative Behavioral Identification for Covert Misappropriation Attacks | Victor Mattos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32662v1) |
-| Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops | Aakash Sarkar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37656v1) |
-| Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction | Prakhar Kaushik et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37668v1) |
-| When uncertainty quantification fails: structural vulnerabilities and corrections for selective prediction under clinical class imbalance | Walter Endrizzi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37561v1) |
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
-| Barrier Function Control for the Interconnection of DC Electronic Loads to Utility Grid | Grigoris Michos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31488v1) |
-| Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness | Igor Shilov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37657v1) |
+| RankFormer: Rethinking Time Series Transformers through Representation Capacity Analysis and Progressive Decoding | Peiwang Tang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.36703v1) |
+| Online Continual Learning in Edge-Cloud Applications | Charalampos Davalas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32472v1) |
+| Data Quality Audit and Bivariate Temperature-Humidity Analysis of a Long-Term LoRaWAN Network: Anomaly Detection, PCA, Clustering and Machine Learning | Mamadou Sow | 2026 | [📄 Read](http://arxiv.org/abs/2610.32438v1) |
+| Follow the Gradient: Tracing Safety Degradation Back to Training Data | Saket Reddy et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37481v1) |
+| A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations | Sajad Ahmadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28570v1) |
+| Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels? | Ravi Kumar Jha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31260v1) |
+| Model Exposure on One Device Endangers Others: Rethinking Edge Neural Network Security across Devices | Yuyang Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27152v1) |
+| Implementation of Dynamic Microsegmentation for a Multi-Robot Network | Vishwam Raval et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30102v1) |
+| REGER: Modeling inter-item Relations with Semantic IDs for Generative Recommendation | Yuxi Huang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37584v1) |
+| Trust Mechanisms for Offline Generative AI at the Edge: A Connectivity-Regime Framework and an Empirical Study on a Raspberry Pi 5 | Georgios Feretzakis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.33732v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 October 2026, 01:36 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 October 2026, 03:03 WIB</sub>
