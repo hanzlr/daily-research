@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "title": "Trust Mechanisms for Offline Generative AI at the Edge: A Connectivity-Regime Framework and an Empirical Study on a Raspberry Pi 5",
+    "author": "Georgios Feretzakis et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.33732v1"
+  },
+  {
+    "title": "EnvSched: Environment-Aware Scheduling for Rollout-Efficient Agent Reinforcement Learning",
+    "author": "Sihan Yang et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.37609v1"
+  },
+  {
+    "title": "Which Hand Was Late? Diagnosis for Robot Failure Recovery in Bimanual Tool Use",
+    "author": "Baptiste Bonin et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.37533v1"
+  },
+  {
+    "title": "Leveraging Distributed Sensing and Hyperdimensional Computing for Non-Line-of-Sight Passive Object Sensing",
+    "author": "Placido Mursia et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.37519v1"
+  },
+  {
+    "title": "CSI-TextBench: A Dataset and Benchmark for Language-Grounded Ambient Sensing Perception",
+    "author": "Guozhen Zhu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.34616v1"
+  },
+  {
+    "title": "A New Parametric Uncertainty Approach to Systems with Time-Varying Delay and Feedback Stabilization",
+    "author": "Aleksandr Talitckii et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.37354v1"
+  },
+  {
+    "title": "Barrier Function Control for the Interconnection of DC Electronic Loads to Utility Grid",
+    "author": "Grigoris Michos et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.31488v1"
+  },
+  {
+    "title": "Generalizable Target-Less Joint Intrinsic-Extrinsic Camera-LiDAR Calibration using Deep Pixel-Point Correspondences",
+    "author": "Simon Bultmann et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.37350v1"
+  },
+  {
+    "title": "Pneuma: A Large-Scale Real-World Time Series Benchmark for Commercial Aircraft Predictive Maintenance",
+    "author": "Jiafeng Lin et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.37563v1"
+  },
+  {
+    "title": "RESPLE2: Inertial-Informed Recursive Non-Uniform Spline Estimation for Multi-Sensor Odometry with Global Refinement",
+    "author": "Ziyu Cao et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.37602v1"
+  }
+]
