@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
+    "author": "Prakhar Kaushik et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.37668v1"
+  },
+  {
+    "title": "EnvSched: Environment-Aware Scheduling for Rollout-Efficient Agent Reinforcement Learning",
+    "author": "Sihan Yang et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.37609v1"
+  },
+  {
+    "title": "Spectral Braids: A Topological Descriptor for Dynamic Directed Networks",
+    "author": "Mehmet Emin Aktas et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.37580v1"
+  },
+  {
+    "title": "Pneuma: A Large-Scale Real-World Time Series Benchmark for Commercial Aircraft Predictive Maintenance",
+    "author": "Jiafeng Lin et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.37563v1"
+  },
+  {
+    "title": "Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
+    "author": "Aakash Sarkar et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.37656v1"
+  },
+  {
+    "title": "GNBG-C: A Unified and Configurable Benchmark Generator for Constrained Continuous Optimization",
+    "author": "Ali Ghasemzadeh et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.37590v1"
+  },
+  {
+    "title": "Benchmarking uncertainty quantification for engineering regression under graded distribution shift",
+    "author": "Ahmad Lawal et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.35356v1"
+  },
+  {
+    "title": "GAS-PFN: Graph-Aware Spatiotemporal Prior-Data Fitted Networks for Zero-Shot Traffic Forecasting",
+    "author": "Joseph Natter et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.37598v1"
+  },
+  {
+    "title": "Online gas classification at the edge",
+    "author": "Ton Juny Pina et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.36999v1"
+  },
+  {
+    "title": "Every route counts, but some count more: a max-plus view of the C. elegans brain",
+    "author": "Emma Reyner-Fuentes et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.37587v1"
+  }
+]
