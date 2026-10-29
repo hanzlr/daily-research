@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction | Prakhar Kaushik et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37668v1) |
-| EnvSched: Environment-Aware Scheduling for Rollout-Efficient Agent Reinforcement Learning | Sihan Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37609v1) |
-| Spectral Braids: A Topological Descriptor for Dynamic Directed Networks | Mehmet Emin Aktas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37580v1) |
-| Pneuma: A Large-Scale Real-World Time Series Benchmark for Commercial Aircraft Predictive Maintenance | Jiafeng Lin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37563v1) |
-| Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops | Aakash Sarkar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37656v1) |
-| GNBG-C: A Unified and Configurable Benchmark Generator for Constrained Continuous Optimization | Ali Ghasemzadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37590v1) |
-| Benchmarking uncertainty quantification for engineering regression under graded distribution shift | Ahmad Lawal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.35356v1) |
 | GAS-PFN: Graph-Aware Spatiotemporal Prior-Data Fitted Networks for Zero-Shot Traffic Forecasting | Joseph Natter et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37598v1) |
-| Online gas classification at the edge | Ton Juny Pina et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.36999v1) |
-| Every route counts, but some count more: a max-plus view of the C. elegans brain | Emma Reyner-Fuentes et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37587v1) |
+| Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops | Aakash Sarkar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37656v1) |
+| EnvSched: Environment-Aware Scheduling for Rollout-Efficient Agent Reinforcement Learning | Sihan Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37609v1) |
+| Learning-Oriented Fault-Tolerant Control for UAVs with Time-Varying Fault Estimation | Moh Kamalul Wafi | 2026 | [📄 Read](http://arxiv.org/abs/2610.30566v1) |
+| A New Parametric Uncertainty Approach to Systems with Time-Varying Delay and Feedback Stabilization | Aleksandr Talitckii et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37354v1) |
+| Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37508v1) |
+| A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations | Sajad Ahmadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28570v1) |
+| Spectral Braids: A Topological Descriptor for Dynamic Directed Networks | Mehmet Emin Aktas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37580v1) |
+| When uncertainty quantification fails: structural vulnerabilities and corrections for selective prediction under clinical class imbalance | Walter Endrizzi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37561v1) |
+| Implementation of Dynamic Microsegmentation for a Multi-Robot Network | Vishwam Raval et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30102v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 October 2026, 13:45 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 October 2026, 16:06 WIB</sub>
