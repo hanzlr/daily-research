@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| GNBG-C: A Unified and Configurable Benchmark Generator for Constrained Continuous Optimization | Ali Ghasemzadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37590v1) |
-| JEPA-Inspired Latent Field Prediction for Sparse-Pilot MIMO-OFDM Channel Reconstruction | Yuzhi Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37391v1) |
-| Trust Mechanisms for Offline Generative AI at the Edge: A Connectivity-Regime Framework and an Empirical Study on a Raspberry Pi 5 | Georgios Feretzakis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.33732v1) |
-| Model Exposure on One Device Endangers Others: Rethinking Edge Neural Network Security across Devices | Yuyang Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27152v1) |
-| REGER: Modeling inter-item Relations with Semantic IDs for Generative Recommendation | Yuxi Huang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37584v1) |
+| Barrier Function Control for the Interconnection of DC Electronic Loads to Utility Grid | Grigoris Michos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31488v1) |
+| A New Parametric Uncertainty Approach to Systems with Time-Varying Delay and Feedback Stabilization | Aleksandr Talitckii et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37354v1) |
+| Making Self-Driving Laboratories Auditable:A Unified Framework for Hybrid Actions,Measurements, and Safe Execution | Zihan Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.36761v1) |
+| Learning-Oriented Fault-Tolerant Control for UAVs with Time-Varying Fault Estimation | Moh Kamalul Wafi | 2026 | [📄 Read](http://arxiv.org/abs/2610.30566v1) |
+| Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control | Johannes Stockhammer | 2026 | [📄 Read](http://arxiv.org/abs/2610.17385v1) |
+| Autonomous fixed-wing interception using reinforcement learning | Daan van Hamersveld et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37470v1) |
 | GAS-PFN: Graph-Aware Spatiotemporal Prior-Data Fitted Networks for Zero-Shot Traffic Forecasting | Joseph Natter et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37598v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
-| Follow the Gradient: Tracing Safety Degradation Back to Training Data | Saket Reddy et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37481v1) |
-| Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops | Aakash Sarkar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37656v1) |
-| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
+| Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study | Dimitrios Nikou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08771v1) |
+| Iterative Behavioral Identification for Covert Misappropriation Attacks | Victor Mattos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32662v1) |
+| Online gas classification at the edge | Ton Juny Pina et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.36999v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 October 2026, 01:45 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 October 2026, 03:03 WIB</sub>
