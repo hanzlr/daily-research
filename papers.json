@@ -1,27 +1,39 @@
 [
   {
-    "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
-    "author": "Hediyeh Soltanizadeh et al.",
+    "title": "GNBG-C: A Unified and Configurable Benchmark Generator for Constrained Continuous Optimization",
+    "author": "Ali Ghasemzadeh et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.37508v1"
+    "url": "http://arxiv.org/abs/2610.37590v1"
   },
   {
-    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
-    "author": "Alexander Winkler et al.",
+    "title": "JEPA-Inspired Latent Field Prediction for Sparse-Pilot MIMO-OFDM Channel Reconstruction",
+    "author": "Yuzhi Yang et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2609.33795v2"
+    "url": "http://arxiv.org/abs/2610.37391v1"
   },
   {
-    "title": "A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations",
-    "author": "Sajad Ahmadi et al.",
+    "title": "Trust Mechanisms for Offline Generative AI at the Edge: A Connectivity-Regime Framework and an Empirical Study on a Raspberry Pi 5",
+    "author": "Georgios Feretzakis et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28570v1"
+    "url": "http://arxiv.org/abs/2610.33732v1"
   },
   {
-    "title": "Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research",
-    "author": "Ad-Deen Mahbub et al.",
+    "title": "Model Exposure on One Device Endangers Others: Rethinking Edge Neural Network Security across Devices",
+    "author": "Yuyang Zhang et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2607.23220v1"
+    "url": "http://arxiv.org/abs/2610.27152v1"
+  },
+  {
+    "title": "REGER: Modeling inter-item Relations with Semantic IDs for Generative Recommendation",
+    "author": "Yuxi Huang et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.37584v1"
+  },
+  {
+    "title": "GAS-PFN: Graph-Aware Spatiotemporal Prior-Data Fitted Networks for Zero-Shot Traffic Forecasting",
+    "author": "Joseph Natter et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.37598v1"
   },
   {
     "title": "Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions",
@@ -30,33 +42,21 @@
     "url": "http://arxiv.org/abs/2604.23995v4"
   },
   {
-    "title": "Learning-Oriented Fault-Tolerant Control for UAVs with Time-Varying Fault Estimation",
-    "author": "Moh Kamalul Wafi",
+    "title": "Follow the Gradient: Tracing Safety Degradation Back to Training Data",
+    "author": "Saket Reddy et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.30566v1"
+    "url": "http://arxiv.org/abs/2610.37481v1"
   },
   {
-    "title": "A New Parametric Uncertainty Approach to Systems with Time-Varying Delay and Feedback Stabilization",
-    "author": "Aleksandr Talitckii et al.",
+    "title": "Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
+    "author": "Aakash Sarkar et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.37354v1"
+    "url": "http://arxiv.org/abs/2610.37656v1"
   },
   {
-    "title": "Barrier Function Control for the Interconnection of DC Electronic Loads to Utility Grid",
-    "author": "Grigoris Michos et al.",
+    "title": "A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation",
+    "author": "Mahedee Zaman Moon et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.31488v1"
-  },
-  {
-    "title": "Online Continual Learning in Edge-Cloud Applications",
-    "author": "Charalampos Davalas et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.32472v1"
-  },
-  {
-    "title": "Iterative Behavioral Identification for Covert Misappropriation Attacks",
-    "author": "Victor Mattos et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.32662v1"
+    "url": "http://arxiv.org/abs/2609.27828v1"
   }
 ]
