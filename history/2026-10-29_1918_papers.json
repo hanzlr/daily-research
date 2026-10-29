@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Trust Mechanisms for Offline Generative AI at the Edge: A Connectivity-Regime Framework and an Empirical Study on a Raspberry Pi 5",
+    "author": "Georgios Feretzakis et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.33732v1"
+  },
+  {
+    "title": "Model Exposure on One Device Endangers Others: Rethinking Edge Neural Network Security across Devices",
+    "author": "Yuyang Zhang et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.27152v1"
+  },
+  {
+    "title": "Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
+    "author": "Aakash Sarkar et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.37656v1"
+  },
+  {
+    "title": "Online gas classification at the edge",
+    "author": "Ton Juny Pina et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.36999v1"
+  },
+  {
+    "title": "CSI-TextBench: A Dataset and Benchmark for Language-Grounded Ambient Sensing Perception",
+    "author": "Guozhen Zhu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.34616v1"
+  },
+  {
+    "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+    "author": "Igor Shilov et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.37657v1"
+  },
+  {
+    "title": "Benchmarking uncertainty quantification for engineering regression under graded distribution shift",
+    "author": "Ahmad Lawal et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.35356v1"
+  },
+  {
+    "title": "GAS-PFN: Graph-Aware Spatiotemporal Prior-Data Fitted Networks for Zero-Shot Traffic Forecasting",
+    "author": "Joseph Natter et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.37598v1"
+  },
+  {
+    "title": "RankFormer: Rethinking Time Series Transformers through Representation Capacity Analysis and Progressive Decoding",
+    "author": "Peiwang Tang et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.36703v1"
+  },
+  {
+    "title": "When Should We Intervene at Test Time?",
+    "author": "Jiahao Zhang et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.37658v1"
+  }
+]
