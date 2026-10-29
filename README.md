@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Thursday, 29 October 2026
+## 🗓️ Friday, 30 October 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Trust Mechanisms for Offline Generative AI at the Edge: A Connectivity-Regime Framework and an Empirical Study on a Raspberry Pi 5 | Georgios Feretzakis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.33732v1) |
-| Model Exposure on One Device Endangers Others: Rethinking Edge Neural Network Security across Devices | Yuyang Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.27152v1) |
-| Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops | Aakash Sarkar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37656v1) |
-| Online gas classification at the edge | Ton Juny Pina et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.36999v1) |
-| CSI-TextBench: A Dataset and Benchmark for Language-Grounded Ambient Sensing Perception | Guozhen Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.34616v1) |
-| Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness | Igor Shilov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37657v1) |
-| Benchmarking uncertainty quantification for engineering regression under graded distribution shift | Ahmad Lawal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.35356v1) |
-| GAS-PFN: Graph-Aware Spatiotemporal Prior-Data Fitted Networks for Zero-Shot Traffic Forecasting | Joseph Natter et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37598v1) |
-| RankFormer: Rethinking Time Series Transformers through Representation Capacity Analysis and Progressive Decoding | Peiwang Tang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.36703v1) |
-| When Should We Intervene at Test Time? | Jiahao Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37658v1) |
+| Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37508v1) |
+| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v2) |
+| A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations | Sajad Ahmadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28570v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
+| Learning-Oriented Fault-Tolerant Control for UAVs with Time-Varying Fault Estimation | Moh Kamalul Wafi | 2026 | [📄 Read](http://arxiv.org/abs/2610.30566v1) |
+| A New Parametric Uncertainty Approach to Systems with Time-Varying Delay and Feedback Stabilization | Aleksandr Talitckii et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37354v1) |
+| Barrier Function Control for the Interconnection of DC Electronic Loads to Utility Grid | Grigoris Michos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31488v1) |
+| Online Continual Learning in Edge-Cloud Applications | Charalampos Davalas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32472v1) |
+| Iterative Behavioral Identification for Covert Misappropriation Attacks | Victor Mattos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32662v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 29 October 2026, 19:18 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 October 2026, 00:13 WIB</sub>

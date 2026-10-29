@@ -1,62 +1,62 @@
 [
   {
-    "title": "Trust Mechanisms for Offline Generative AI at the Edge: A Connectivity-Regime Framework and an Empirical Study on a Raspberry Pi 5",
-    "author": "Georgios Feretzakis et al.",
+    "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
+    "author": "Hediyeh Soltanizadeh et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.33732v1"
+    "url": "http://arxiv.org/abs/2610.37508v1"
   },
   {
-    "title": "Model Exposure on One Device Endangers Others: Rethinking Edge Neural Network Security across Devices",
-    "author": "Yuyang Zhang et al.",
+    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
+    "author": "Alexander Winkler et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.27152v1"
+    "url": "http://arxiv.org/abs/2609.33795v2"
   },
   {
-    "title": "Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
-    "author": "Aakash Sarkar et al.",
+    "title": "A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations",
+    "author": "Sajad Ahmadi et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.37656v1"
+    "url": "http://arxiv.org/abs/2610.28570v1"
   },
   {
-    "title": "Online gas classification at the edge",
-    "author": "Ton Juny Pina et al.",
+    "title": "Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research",
+    "author": "Ad-Deen Mahbub et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.36999v1"
+    "url": "http://arxiv.org/abs/2607.23220v1"
   },
   {
-    "title": "CSI-TextBench: A Dataset and Benchmark for Language-Grounded Ambient Sensing Perception",
-    "author": "Guozhen Zhu et al.",
+    "title": "Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions",
+    "author": "Mohammadreza Kamaldar",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.34616v1"
+    "url": "http://arxiv.org/abs/2604.23995v4"
   },
   {
-    "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
-    "author": "Igor Shilov et al.",
+    "title": "Learning-Oriented Fault-Tolerant Control for UAVs with Time-Varying Fault Estimation",
+    "author": "Moh Kamalul Wafi",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.37657v1"
+    "url": "http://arxiv.org/abs/2610.30566v1"
   },
   {
-    "title": "Benchmarking uncertainty quantification for engineering regression under graded distribution shift",
-    "author": "Ahmad Lawal et al.",
+    "title": "A New Parametric Uncertainty Approach to Systems with Time-Varying Delay and Feedback Stabilization",
+    "author": "Aleksandr Talitckii et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.35356v1"
+    "url": "http://arxiv.org/abs/2610.37354v1"
   },
   {
-    "title": "GAS-PFN: Graph-Aware Spatiotemporal Prior-Data Fitted Networks for Zero-Shot Traffic Forecasting",
-    "author": "Joseph Natter et al.",
+    "title": "Barrier Function Control for the Interconnection of DC Electronic Loads to Utility Grid",
+    "author": "Grigoris Michos et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.37598v1"
+    "url": "http://arxiv.org/abs/2610.31488v1"
   },
   {
-    "title": "RankFormer: Rethinking Time Series Transformers through Representation Capacity Analysis and Progressive Decoding",
-    "author": "Peiwang Tang et al.",
+    "title": "Online Continual Learning in Edge-Cloud Applications",
+    "author": "Charalampos Davalas et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.36703v1"
+    "url": "http://arxiv.org/abs/2610.32472v1"
   },
   {
-    "title": "When Should We Intervene at Test Time?",
-    "author": "Jiahao Zhang et al.",
+    "title": "Iterative Behavioral Identification for Covert Misappropriation Attacks",
+    "author": "Victor Mattos et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.37658v1"
+    "url": "http://arxiv.org/abs/2610.32662v1"
   }
 ]
