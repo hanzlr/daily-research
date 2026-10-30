@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Friday, 30 October 2026
+## 🗓️ Saturday, 31 October 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
+| Adaptive search with path-constrained mobile sensors using multi-arm bandits | Abraham P. Vinod et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40431v1) |
+| FIDE: Fiber-Informed Differentiable Experimental Design for Reference-Relative Law Dynamics | Pietro Zanotta et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40009v1) |
+| Trust Mechanisms for Offline Generative AI at the Edge: A Connectivity-Regime Framework and an Empirical Study on a Raspberry Pi 5 | Georgios Feretzakis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.33732v1) |
+| Trustworthy Distributed Machine Learning in Cloud-Edge-IoT Systems: A Heterogeneity-Aware Survey of Security, Privacy, and Robustness | Long Dang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.38793v1) |
 | TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting | Mohammad Kazemi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37909v1) |
-| The Reality Gap in Automated Driving Systems Testing: Landscape, Challenges, and Research Directions | Stefano Carlo Lambertenghi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.38628v1) |
-| ScheduleGen: Demonstration Generation via Skill Scheduling for Multi-Arm Imitation Learning | Neel Jawale et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.39429v1) |
-| Rethinking Neural Thickets Without Weight Perturbations | Nicolas Dufour et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40649v1) |
-| Implementation of Dynamic Microsegmentation for a Multi-Robot Network | Vishwam Raval et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30102v1) |
-| SimTO-Robust: Automated Design of Soft Grippers Robust to Grasp Pose and Object Geometry | Kurt Enkera et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.39560v1) |
-| Machine Learning-Based Detection of Mobile Money Scan Messages in Ghana: A Comparative Evaluation of Naive Bayes, Support Vector Machine, and Randon Forest Classifiers | Ibrahim Salifu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40544v1) |
-| Uncertainty-aware Feedback Loop Diagnosis: integrating reinforcement learning and conformal prediction for reliable wafer defect classification | Aleksandr Dekhovich et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40421v1) |
-| AI for Science in Space: Orbital Laboratories, Planetary Fieldwork, and Embodied Autonomy | Zizhe Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.39689v1) |
+| Exploring the Potential of Symbolic Regression in Precision Livestock Farming | Elisabeth Mayrhuber et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.39839v1) |
+| Uncertainty-Guided Cross-Modal Alignment for Diffusion-Based IoT Intrusion Detection | Mahdi Arab Loodaricheh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.39117v1) |
 | Discovering Interpretable Acoustic Features in Autoregressive Voice-Cloning TTS Models | Anuj Diwan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40505v1) |
+| CSI-TextBench: A Dataset and Benchmark for Language-Grounded Ambient Sensing Perception | Guozhen Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.34616v1) |
+| Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels? | Ravi Kumar Jha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31260v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 October 2026, 18:04 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 31 October 2026, 01:22 WIB</sub>
