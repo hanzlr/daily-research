@@ -1,62 +1,62 @@
 [
   {
-    "title": "Adaptive search with path-constrained mobile sensors using multi-arm bandits",
-    "author": "Abraham P. Vinod et al.",
+    "title": "Retrieving from Your Own Mistakes: On-Policy Training of Embedding Models for Multi-Hop Retrieval-Augmented Generation",
+    "author": "Chenjie Qiu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.40431v1"
+    "url": "http://arxiv.org/abs/2610.40409v1"
   },
   {
-    "title": "FIDE: Fiber-Informed Differentiable Experimental Design for Reference-Relative Law Dynamics",
-    "author": "Pietro Zanotta et al.",
+    "title": "Rethinking Neural Thickets Without Weight Perturbations",
+    "author": "Nicolas Dufour et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.40009v1"
+    "url": "http://arxiv.org/abs/2610.40649v1"
   },
   {
-    "title": "Trust Mechanisms for Offline Generative AI at the Edge: A Connectivity-Regime Framework and an Empirical Study on a Raspberry Pi 5",
-    "author": "Georgios Feretzakis et al.",
+    "title": "Latent Prediction Yields Cross-Subject Alignable Representations in Sensory-Evoked fMRI",
+    "author": "Serwan Jassim et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.33732v1"
+    "url": "http://arxiv.org/abs/2610.40280v1"
   },
   {
-    "title": "Trustworthy Distributed Machine Learning in Cloud-Edge-IoT Systems: A Heterogeneity-Aware Survey of Security, Privacy, and Robustness",
-    "author": "Long Dang et al.",
+    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
+    "author": "Alexander Winkler et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.38793v1"
+    "url": "http://arxiv.org/abs/2609.33795v2"
   },
   {
-    "title": "TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting",
-    "author": "Mohammad Kazemi et al.",
+    "title": "TRACER, a time-to-event EHR foundation model for disease detection across health systems",
+    "author": "Mara Pleasure et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.37909v1"
+    "url": "http://arxiv.org/abs/2610.40536v1"
   },
   {
-    "title": "Exploring the Potential of Symbolic Regression in Precision Livestock Farming",
-    "author": "Elisabeth Mayrhuber et al.",
+    "title": "A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation",
+    "author": "Mahedee Zaman Moon et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.39839v1"
+    "url": "http://arxiv.org/abs/2609.27828v1"
   },
   {
-    "title": "Uncertainty-Guided Cross-Modal Alignment for Diffusion-Based IoT Intrusion Detection",
-    "author": "Mahdi Arab Loodaricheh et al.",
+    "title": "Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions",
+    "author": "Mohammadreza Kamaldar",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.39117v1"
+    "url": "http://arxiv.org/abs/2604.23995v4"
   },
   {
-    "title": "Discovering Interpretable Acoustic Features in Autoregressive Voice-Cloning TTS Models",
-    "author": "Anuj Diwan et al.",
+    "title": "Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond",
+    "author": "Yalin E. Sagduyu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.40505v1"
+    "url": "http://arxiv.org/abs/2610.40586v1"
   },
   {
-    "title": "CSI-TextBench: A Dataset and Benchmark for Language-Grounded Ambient Sensing Perception",
-    "author": "Guozhen Zhu et al.",
+    "title": "Machine Learning-Based Detection of Mobile Money Scan Messages in Ghana: A Comparative Evaluation of Naive Bayes, Support Vector Machine, and Randon Forest Classifiers",
+    "author": "Ibrahim Salifu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.34616v1"
+    "url": "http://arxiv.org/abs/2610.40544v1"
   },
   {
-    "title": "Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels?",
-    "author": "Ravi Kumar Jha et al.",
+    "title": "Training Foundation Models with a Single Algorithm",
+    "author": "Yuda Song et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.31260v1"
+    "url": "http://arxiv.org/abs/2610.40564v1"
   }
 ]

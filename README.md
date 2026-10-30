@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Adaptive search with path-constrained mobile sensors using multi-arm bandits | Abraham P. Vinod et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40431v1) |
-| FIDE: Fiber-Informed Differentiable Experimental Design for Reference-Relative Law Dynamics | Pietro Zanotta et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40009v1) |
-| Trust Mechanisms for Offline Generative AI at the Edge: A Connectivity-Regime Framework and an Empirical Study on a Raspberry Pi 5 | Georgios Feretzakis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.33732v1) |
-| Trustworthy Distributed Machine Learning in Cloud-Edge-IoT Systems: A Heterogeneity-Aware Survey of Security, Privacy, and Robustness | Long Dang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.38793v1) |
-| TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting | Mohammad Kazemi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37909v1) |
-| Exploring the Potential of Symbolic Regression in Precision Livestock Farming | Elisabeth Mayrhuber et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.39839v1) |
-| Uncertainty-Guided Cross-Modal Alignment for Diffusion-Based IoT Intrusion Detection | Mahdi Arab Loodaricheh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.39117v1) |
-| Discovering Interpretable Acoustic Features in Autoregressive Voice-Cloning TTS Models | Anuj Diwan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40505v1) |
-| CSI-TextBench: A Dataset and Benchmark for Language-Grounded Ambient Sensing Perception | Guozhen Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.34616v1) |
-| Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels? | Ravi Kumar Jha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31260v1) |
+| Retrieving from Your Own Mistakes: On-Policy Training of Embedding Models for Multi-Hop Retrieval-Augmented Generation | Chenjie Qiu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40409v1) |
+| Rethinking Neural Thickets Without Weight Perturbations | Nicolas Dufour et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40649v1) |
+| Latent Prediction Yields Cross-Subject Alignable Representations in Sensory-Evoked fMRI | Serwan Jassim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40280v1) |
+| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v2) |
+| TRACER, a time-to-event EHR foundation model for disease detection across health systems | Mara Pleasure et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40536v1) |
+| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
+| Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond | Yalin E. Sagduyu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40586v1) |
+| Machine Learning-Based Detection of Mobile Money Scan Messages in Ghana: A Comparative Evaluation of Naive Bayes, Support Vector Machine, and Randon Forest Classifiers | Ibrahim Salifu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40544v1) |
+| Training Foundation Models with a Single Algorithm | Yuda Song et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40564v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 31 October 2026, 01:22 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 31 October 2026, 02:50 WIB</sub>
