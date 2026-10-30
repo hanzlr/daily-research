@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
-| Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37508v1) |
-| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
-| Adaptive search with path-constrained mobile sensors using multi-arm bandits | Abraham P. Vinod et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40431v1) |
-| A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations | Sajad Ahmadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28570v1) |
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
-| Data-Driven or Model-Constrained? Comparing Airflow Estimation Methods under Sparse Sensing | Dominik Aigner et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.39789v1) |
-| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v2) |
-| Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study | Dimitrios Nikou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08771v1) |
-| AFast Robot Localization Method Based on Monte Carlo Sampling | He Zhaoqing et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.39708v1) |
+| TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting | Mohammad Kazemi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37909v1) |
+| The Reality Gap in Automated Driving Systems Testing: Landscape, Challenges, and Research Directions | Stefano Carlo Lambertenghi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.38628v1) |
+| ScheduleGen: Demonstration Generation via Skill Scheduling for Multi-Arm Imitation Learning | Neel Jawale et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.39429v1) |
+| Rethinking Neural Thickets Without Weight Perturbations | Nicolas Dufour et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40649v1) |
+| Implementation of Dynamic Microsegmentation for a Multi-Robot Network | Vishwam Raval et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30102v1) |
+| SimTO-Robust: Automated Design of Soft Grippers Robust to Grasp Pose and Object Geometry | Kurt Enkera et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.39560v1) |
+| Machine Learning-Based Detection of Mobile Money Scan Messages in Ghana: A Comparative Evaluation of Naive Bayes, Support Vector Machine, and Randon Forest Classifiers | Ibrahim Salifu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40544v1) |
+| Uncertainty-aware Feedback Loop Diagnosis: integrating reinforcement learning and conformal prediction for reliable wafer defect classification | Aleksandr Dekhovich et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40421v1) |
+| AI for Science in Space: Orbital Laboratories, Planetary Fieldwork, and Embodied Autonomy | Zizhe Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.39689v1) |
+| Discovering Interpretable Acoustic Features in Autoregressive Voice-Cloning TTS Models | Anuj Diwan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40505v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 October 2026, 16:17 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 30 October 2026, 18:04 WIB</sub>
