@@ -1,33 +1,9 @@
 [
   {
-    "title": "Implementation of Dynamic Microsegmentation for a Multi-Robot Network",
-    "author": "Vishwam Raval et al.",
+    "title": "A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation",
+    "author": "Mahedee Zaman Moon et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.30102v1"
-  },
-  {
-    "title": "HEMO: Harness Self-Evolution for Multi-Objective Combinatorial Optimization",
-    "author": "Jianghan Zhu et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.40023v1"
-  },
-  {
-    "title": "RankFormer: Rethinking Time Series Transformers through Representation Capacity Analysis and Progressive Decoding",
-    "author": "Peiwang Tang et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.36703v1"
-  },
-  {
-    "title": "AI at a Turning Point: From ChatGPT through Neural Networks to Neuromorphic AI",
-    "author": "Volker Kempe",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.39796v1"
-  },
-  {
-    "title": "Training Foundation Models with a Single Algorithm",
-    "author": "Yuda Song et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.40564v1"
+    "url": "http://arxiv.org/abs/2609.27828v1"
   },
   {
     "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
@@ -36,27 +12,51 @@
     "url": "http://arxiv.org/abs/2610.37508v1"
   },
   {
-    "title": "TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting",
-    "author": "Mohammad Kazemi et al.",
+    "title": "Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking",
+    "author": "Johannes Stockhammer et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.37909v1"
+    "url": "http://arxiv.org/abs/2610.09006v1"
   },
   {
-    "title": "Uncertainty-Guided Cross-Modal Alignment for Diffusion-Based IoT Intrusion Detection",
-    "author": "Mahdi Arab Loodaricheh et al.",
+    "title": "Adaptive search with path-constrained mobile sensors using multi-arm bandits",
+    "author": "Abraham P. Vinod et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.39117v1"
+    "url": "http://arxiv.org/abs/2610.40431v1"
   },
   {
-    "title": "world2vec: Mechanistic world models through latent dynamics learning",
-    "author": "Tobias Schmidt et al.",
+    "title": "A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations",
+    "author": "Sajad Ahmadi et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.40637v1"
+    "url": "http://arxiv.org/abs/2610.28570v1"
   },
   {
-    "title": "Dynamic Powergrid Optimization with FPGA-based Neuromorphic Higher-order Ising Machines",
-    "author": "Saptarshi Maiti et al.",
+    "title": "Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research",
+    "author": "Ad-Deen Mahbub et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.40522v1"
+    "url": "http://arxiv.org/abs/2607.23220v1"
+  },
+  {
+    "title": "Data-Driven or Model-Constrained? Comparing Airflow Estimation Methods under Sparse Sensing",
+    "author": "Dominik Aigner et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.39789v1"
+  },
+  {
+    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
+    "author": "Alexander Winkler et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2609.33795v2"
+  },
+  {
+    "title": "Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study",
+    "author": "Dimitrios Nikou et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.08771v1"
+  },
+  {
+    "title": "AFast Robot Localization Method Based on Monte Carlo Sampling",
+    "author": "He Zhaoqing et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.39708v1"
   }
 ]
