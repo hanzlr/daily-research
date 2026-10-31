@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Saturday, 31 October 2026
+## 🗓️ Sunday, 01 November 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
+| Adaptive Scenario Generation for KL-DRO Around a Learned Density Model | Aron Brenner et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40644v1) |
+| Rethinking Neural Thickets Without Weight Perturbations | Nicolas Dufour et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40649v1) |
+| Data-Driven or Model-Constrained? Comparing Airflow Estimation Methods under Sparse Sensing | Dominik Aigner et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.39789v1) |
+| Evaluating Wi-Fi HaLow for Next-Generation Capsule Endoscopy | Ziyao Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.34184v1) |
+| Machine Learning-Based Detection of Mobile Money Scan Messages in Ghana: A Comparative Evaluation of Naive Bayes, Support Vector Machine, and Randon Forest Classifiers | Ibrahim Salifu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40544v1) |
+| SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing | Yunchu Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40646v1) |
+| Discovering Interpretable Acoustic Features in Autoregressive Voice-Cloning TTS Models | Anuj Diwan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40505v1) |
+| Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering | Moshe Shenfeld et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40654v1) |
 | Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers | Jiongfan Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40647v1) |
-| Implementation of Dynamic Microsegmentation for a Multi-Robot Network | Vishwam Raval et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30102v1) |
-| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v2) |
-| Dynamic Powergrid Optimization with FPGA-based Neuromorphic Higher-order Ising Machines | Saptarshi Maiti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40522v1) |
-| CSI-TextBench: A Dataset and Benchmark for Language-Grounded Ambient Sensing Perception | Guozhen Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.34616v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
-| Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels? | Ravi Kumar Jha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31260v1) |
-| HEMO: Harness Self-Evolution for Multi-Objective Combinatorial Optimization | Jianghan Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40023v1) |
-| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
-| AI at a Turning Point: From ChatGPT through Neural Networks to Neuromorphic AI | Volker Kempe | 2026 | [📄 Read](http://arxiv.org/abs/2610.39796v1) |
+| Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control | Johannes Stockhammer | 2026 | [📄 Read](http://arxiv.org/abs/2610.17385v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 31 October 2026, 20:16 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 01 November 2026, 00:28 WIB</sub>
