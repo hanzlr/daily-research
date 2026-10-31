@@ -1,39 +1,9 @@
 [
   {
-    "title": "Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking",
-    "author": "Johannes Stockhammer et al.",
+    "title": "Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research",
+    "author": "Ad-Deen Mahbub et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.09006v1"
-  },
-  {
-    "title": "The Reality Gap in Automated Driving Systems Testing: Landscape, Challenges, and Research Directions",
-    "author": "Stefano Carlo Lambertenghi et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.38628v1"
-  },
-  {
-    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
-    "author": "Alexander Winkler et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2609.33795v2"
-  },
-  {
-    "title": "Retrieving from Your Own Mistakes: On-Policy Training of Embedding Models for Multi-Hop Retrieval-Augmented Generation",
-    "author": "Chenjie Qiu et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.40409v1"
-  },
-  {
-    "title": "Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control",
-    "author": "Johannes Stockhammer",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.17385v1"
-  },
-  {
-    "title": "How to Loop Your Transformer: Loop Scaling, Specialization, and Parallel Inference",
-    "author": "Chanakya Ekbote et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.40325v1"
+    "url": "http://arxiv.org/abs/2607.23220v1"
   },
   {
     "title": "Evaluating Wi-Fi HaLow for Next-Generation Capsule Endoscopy",
@@ -42,21 +12,51 @@
     "url": "http://arxiv.org/abs/2610.34184v1"
   },
   {
-    "title": "SimTO-Robust: Automated Design of Soft Grippers Robust to Grasp Pose and Object Geometry",
-    "author": "Kurt Enkera et al.",
+    "title": "Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels?",
+    "author": "Ravi Kumar Jha et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.39560v1"
+    "url": "http://arxiv.org/abs/2610.31260v1"
   },
   {
-    "title": "TaskFrame: Connecting Task-Level Planning with Frame-Level Control for Game Agents",
-    "author": "Guangzhi Wang et al.",
+    "title": "HEMO: Harness Self-Evolution for Multi-Objective Combinatorial Optimization",
+    "author": "Jianghan Zhu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.40276v1"
+    "url": "http://arxiv.org/abs/2610.40023v1"
   },
   {
-    "title": "AI for Science in Space: Orbital Laboratories, Planetary Fieldwork, and Embodied Autonomy",
-    "author": "Zizhe Wang et al.",
+    "title": "TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting",
+    "author": "Mohammad Kazemi et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.39689v1"
+    "url": "http://arxiv.org/abs/2610.37909v1"
+  },
+  {
+    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
+    "author": "Alexander Winkler et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2609.33795v2"
+  },
+  {
+    "title": "Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions",
+    "author": "Mohammadreza Kamaldar",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2604.23995v4"
+  },
+  {
+    "title": "A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation",
+    "author": "Mahedee Zaman Moon et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2609.27828v1"
+  },
+  {
+    "title": "Dynamic Powergrid Optimization with FPGA-based Neuromorphic Higher-order Ising Machines",
+    "author": "Saptarshi Maiti et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.40522v1"
+  },
+  {
+    "title": "Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking",
+    "author": "Johannes Stockhammer et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.09006v1"
   }
 ]

@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
-| The Reality Gap in Automated Driving Systems Testing: Landscape, Challenges, and Research Directions | Stefano Carlo Lambertenghi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.38628v1) |
-| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v2) |
-| Retrieving from Your Own Mistakes: On-Policy Training of Embedding Models for Multi-Hop Retrieval-Augmented Generation | Chenjie Qiu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40409v1) |
-| Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control | Johannes Stockhammer | 2026 | [📄 Read](http://arxiv.org/abs/2610.17385v1) |
-| How to Loop Your Transformer: Loop Scaling, Specialization, and Parallel Inference | Chanakya Ekbote et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40325v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
 | Evaluating Wi-Fi HaLow for Next-Generation Capsule Endoscopy | Ziyao Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.34184v1) |
-| SimTO-Robust: Automated Design of Soft Grippers Robust to Grasp Pose and Object Geometry | Kurt Enkera et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.39560v1) |
-| TaskFrame: Connecting Task-Level Planning with Frame-Level Control for Game Agents | Guangzhi Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40276v1) |
-| AI for Science in Space: Orbital Laboratories, Planetary Fieldwork, and Embodied Autonomy | Zizhe Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.39689v1) |
+| Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels? | Ravi Kumar Jha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31260v1) |
+| HEMO: Harness Self-Evolution for Multi-Objective Combinatorial Optimization | Jianghan Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40023v1) |
+| TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting | Mohammad Kazemi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37909v1) |
+| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v2) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
+| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
+| Dynamic Powergrid Optimization with FPGA-based Neuromorphic Higher-order Ising Machines | Saptarshi Maiti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40522v1) |
+| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 31 October 2026, 17:39 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 31 October 2026, 18:41 WIB</sub>
