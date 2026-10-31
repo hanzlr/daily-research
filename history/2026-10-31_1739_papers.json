@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking",
+    "author": "Johannes Stockhammer et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.09006v1"
+  },
+  {
+    "title": "The Reality Gap in Automated Driving Systems Testing: Landscape, Challenges, and Research Directions",
+    "author": "Stefano Carlo Lambertenghi et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.38628v1"
+  },
+  {
+    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
+    "author": "Alexander Winkler et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2609.33795v2"
+  },
+  {
+    "title": "Retrieving from Your Own Mistakes: On-Policy Training of Embedding Models for Multi-Hop Retrieval-Augmented Generation",
+    "author": "Chenjie Qiu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.40409v1"
+  },
+  {
+    "title": "Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control",
+    "author": "Johannes Stockhammer",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.17385v1"
+  },
+  {
+    "title": "How to Loop Your Transformer: Loop Scaling, Specialization, and Parallel Inference",
+    "author": "Chanakya Ekbote et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.40325v1"
+  },
+  {
+    "title": "Evaluating Wi-Fi HaLow for Next-Generation Capsule Endoscopy",
+    "author": "Ziyao Zhou et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.34184v1"
+  },
+  {
+    "title": "SimTO-Robust: Automated Design of Soft Grippers Robust to Grasp Pose and Object Geometry",
+    "author": "Kurt Enkera et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.39560v1"
+  },
+  {
+    "title": "TaskFrame: Connecting Task-Level Planning with Frame-Level Control for Game Agents",
+    "author": "Guangzhi Wang et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.40276v1"
+  },
+  {
+    "title": "AI for Science in Space: Orbital Laboratories, Planetary Fieldwork, and Embodied Autonomy",
+    "author": "Zizhe Wang et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.39689v1"
+  }
+]
