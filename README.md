@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Adaptive Scenario Generation for KL-DRO Around a Learned Density Model | Aron Brenner et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40644v1) |
-| Rethinking Neural Thickets Without Weight Perturbations | Nicolas Dufour et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40649v1) |
-| Data-Driven or Model-Constrained? Comparing Airflow Estimation Methods under Sparse Sensing | Dominik Aigner et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.39789v1) |
-| Evaluating Wi-Fi HaLow for Next-Generation Capsule Endoscopy | Ziyao Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.34184v1) |
-| Machine Learning-Based Detection of Mobile Money Scan Messages in Ghana: A Comparative Evaluation of Naive Bayes, Support Vector Machine, and Randon Forest Classifiers | Ibrahim Salifu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40544v1) |
-| SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing | Yunchu Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40646v1) |
-| Discovering Interpretable Acoustic Features in Autoregressive Voice-Cloning TTS Models | Anuj Diwan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40505v1) |
-| Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering | Moshe Shenfeld et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40654v1) |
+| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
+| CovFedAvg: Local Low-Loss Curves and Federated Model Selection | Federico Lucchetti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.39902v1) |
+| Retrieving from Your Own Mistakes: On-Policy Training of Embedding Models for Multi-Hop Retrieval-Augmented Generation | Chenjie Qiu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40409v1) |
 | Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers | Jiongfan Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40647v1) |
-| Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control | Johannes Stockhammer | 2026 | [📄 Read](http://arxiv.org/abs/2610.17385v1) |
+| Latent Prediction Yields Cross-Subject Alignable Representations in Sensory-Evoked fMRI | Serwan Jassim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40280v1) |
+| HEMO: Harness Self-Evolution for Multi-Objective Combinatorial Optimization | Jianghan Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40023v1) |
+| Exploring the Potential of Symbolic Regression in Precision Livestock Farming | Elisabeth Mayrhuber et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.39839v1) |
+| AI at a Turning Point: From ChatGPT through Neural Networks to Neuromorphic AI | Volker Kempe | 2026 | [📄 Read](http://arxiv.org/abs/2610.39796v1) |
+| Implementation of Dynamic Microsegmentation for a Multi-Robot Network | Vishwam Raval et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30102v1) |
+| Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37508v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 01 November 2026, 00:28 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 01 November 2026, 02:06 WIB</sub>

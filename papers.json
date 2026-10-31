@@ -1,51 +1,21 @@
 [
   {
-    "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
-    "author": "Aron Brenner et al.",
+    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
+    "author": "Anas Hussin et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.40644v1"
+    "url": "http://arxiv.org/abs/2610.28807v1"
   },
   {
-    "title": "Rethinking Neural Thickets Without Weight Perturbations",
-    "author": "Nicolas Dufour et al.",
+    "title": "CovFedAvg: Local Low-Loss Curves and Federated Model Selection",
+    "author": "Federico Lucchetti et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.40649v1"
+    "url": "http://arxiv.org/abs/2610.39902v1"
   },
   {
-    "title": "Data-Driven or Model-Constrained? Comparing Airflow Estimation Methods under Sparse Sensing",
-    "author": "Dominik Aigner et al.",
+    "title": "Retrieving from Your Own Mistakes: On-Policy Training of Embedding Models for Multi-Hop Retrieval-Augmented Generation",
+    "author": "Chenjie Qiu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.39789v1"
-  },
-  {
-    "title": "Evaluating Wi-Fi HaLow for Next-Generation Capsule Endoscopy",
-    "author": "Ziyao Zhou et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.34184v1"
-  },
-  {
-    "title": "Machine Learning-Based Detection of Mobile Money Scan Messages in Ghana: A Comparative Evaluation of Naive Bayes, Support Vector Machine, and Randon Forest Classifiers",
-    "author": "Ibrahim Salifu et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.40544v1"
-  },
-  {
-    "title": "SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing",
-    "author": "Yunchu Zhang et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.40646v1"
-  },
-  {
-    "title": "Discovering Interpretable Acoustic Features in Autoregressive Voice-Cloning TTS Models",
-    "author": "Anuj Diwan et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.40505v1"
-  },
-  {
-    "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
-    "author": "Moshe Shenfeld et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.40654v1"
+    "url": "http://arxiv.org/abs/2610.40409v1"
   },
   {
     "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
@@ -54,9 +24,39 @@
     "url": "http://arxiv.org/abs/2610.40647v1"
   },
   {
-    "title": "Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control",
-    "author": "Johannes Stockhammer",
+    "title": "Latent Prediction Yields Cross-Subject Alignable Representations in Sensory-Evoked fMRI",
+    "author": "Serwan Jassim et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.17385v1"
+    "url": "http://arxiv.org/abs/2610.40280v1"
+  },
+  {
+    "title": "HEMO: Harness Self-Evolution for Multi-Objective Combinatorial Optimization",
+    "author": "Jianghan Zhu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.40023v1"
+  },
+  {
+    "title": "Exploring the Potential of Symbolic Regression in Precision Livestock Farming",
+    "author": "Elisabeth Mayrhuber et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.39839v1"
+  },
+  {
+    "title": "AI at a Turning Point: From ChatGPT through Neural Networks to Neuromorphic AI",
+    "author": "Volker Kempe",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.39796v1"
+  },
+  {
+    "title": "Implementation of Dynamic Microsegmentation for a Multi-Robot Network",
+    "author": "Vishwam Raval et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.30102v1"
+  },
+  {
+    "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
+    "author": "Hediyeh Soltanizadeh et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.37508v1"
   }
 ]
