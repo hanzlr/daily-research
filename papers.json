@@ -6,57 +6,57 @@
     "url": "http://arxiv.org/abs/2610.39689v1"
   },
   {
+    "title": "FIDE: Fiber-Informed Differentiable Experimental Design for Reference-Relative Law Dynamics",
+    "author": "Pietro Zanotta et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.40009v1"
+  },
+  {
+    "title": "CovFedAvg: Local Low-Loss Curves and Federated Model Selection",
+    "author": "Federico Lucchetti et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.39902v1"
+  },
+  {
+    "title": "Exploring the Potential of Symbolic Regression in Precision Livestock Farming",
+    "author": "Elisabeth Mayrhuber et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.39839v1"
+  },
+  {
+    "title": "Iterative Behavioral Identification for Covert Misappropriation Attacks",
+    "author": "Victor Mattos et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.32662v1"
+  },
+  {
     "title": "SimTO-Robust: Automated Design of Soft Grippers Robust to Grasp Pose and Object Geometry",
     "author": "Kurt Enkera et al.",
     "year": "2026",
     "url": "http://arxiv.org/abs/2610.39560v1"
   },
   {
-    "title": "TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting",
-    "author": "Mohammad Kazemi et al.",
+    "title": "Barrier Function Control for the Interconnection of DC Electronic Loads to Utility Grid",
+    "author": "Grigoris Michos et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.37909v1"
+    "url": "http://arxiv.org/abs/2610.31488v1"
   },
   {
-    "title": "AI at a Turning Point: From ChatGPT through Neural Networks to Neuromorphic AI",
-    "author": "Volker Kempe",
+    "title": "ScheduleGen: Demonstration Generation via Skill Scheduling for Multi-Arm Imitation Learning",
+    "author": "Neel Jawale et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.39796v1"
+    "url": "http://arxiv.org/abs/2610.39429v1"
   },
   {
-    "title": "A New Parametric Uncertainty Approach to Systems with Time-Varying Delay and Feedback Stabilization",
-    "author": "Aleksandr Talitckii et al.",
+    "title": "Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond",
+    "author": "Yalin E. Sagduyu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.37354v1"
+    "url": "http://arxiv.org/abs/2610.40586v1"
   },
   {
-    "title": "The Reality Gap in Automated Driving Systems Testing: Landscape, Challenges, and Research Directions",
-    "author": "Stefano Carlo Lambertenghi et al.",
+    "title": "world2vec: Mechanistic world models through latent dynamics learning",
+    "author": "Tobias Schmidt et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.38628v1"
-  },
-  {
-    "title": "Uncertainty-Guided Cross-Modal Alignment for Diffusion-Based IoT Intrusion Detection",
-    "author": "Mahdi Arab Loodaricheh et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.39117v1"
-  },
-  {
-    "title": "HEMO: Harness Self-Evolution for Multi-Objective Combinatorial Optimization",
-    "author": "Jianghan Zhu et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.40023v1"
-  },
-  {
-    "title": "RankFormer: Rethinking Time Series Transformers through Representation Capacity Analysis and Progressive Decoding",
-    "author": "Peiwang Tang et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.36703v1"
-  },
-  {
-    "title": "Learning-Oriented Fault-Tolerant Control for UAVs with Time-Varying Fault Estimation",
-    "author": "Moh Kamalul Wafi",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.30566v1"
+    "url": "http://arxiv.org/abs/2610.40637v1"
   }
 ]
