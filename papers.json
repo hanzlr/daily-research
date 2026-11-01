@@ -1,62 +1,62 @@
 [
   {
-    "title": "AI for Science in Space: Orbital Laboratories, Planetary Fieldwork, and Embodied Autonomy",
-    "author": "Zizhe Wang et al.",
+    "title": "TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting",
+    "author": "Mohammad Kazemi et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.39689v1"
+    "url": "http://arxiv.org/abs/2610.37909v1"
   },
   {
-    "title": "FIDE: Fiber-Informed Differentiable Experimental Design for Reference-Relative Law Dynamics",
-    "author": "Pietro Zanotta et al.",
+    "title": "Dynamic Powergrid Optimization with FPGA-based Neuromorphic Higher-order Ising Machines",
+    "author": "Saptarshi Maiti et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.40009v1"
+    "url": "http://arxiv.org/abs/2610.40522v1"
   },
   {
-    "title": "CovFedAvg: Local Low-Loss Curves and Federated Model Selection",
-    "author": "Federico Lucchetti et al.",
+    "title": "Trustworthy Distributed Machine Learning in Cloud-Edge-IoT Systems: A Heterogeneity-Aware Survey of Security, Privacy, and Robustness",
+    "author": "Long Dang et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.39902v1"
+    "url": "http://arxiv.org/abs/2610.38793v1"
   },
   {
-    "title": "Exploring the Potential of Symbolic Regression in Precision Livestock Farming",
-    "author": "Elisabeth Mayrhuber et al.",
+    "title": "Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study",
+    "author": "Dimitrios Nikou et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.39839v1"
+    "url": "http://arxiv.org/abs/2610.08771v1"
   },
   {
-    "title": "Iterative Behavioral Identification for Covert Misappropriation Attacks",
-    "author": "Victor Mattos et al.",
+    "title": "Trust Mechanisms for Offline Generative AI at the Edge: A Connectivity-Regime Framework and an Empirical Study on a Raspberry Pi 5",
+    "author": "Georgios Feretzakis et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.32662v1"
+    "url": "http://arxiv.org/abs/2610.33732v1"
   },
   {
-    "title": "SimTO-Robust: Automated Design of Soft Grippers Robust to Grasp Pose and Object Geometry",
-    "author": "Kurt Enkera et al.",
+    "title": "AI at a Turning Point: From ChatGPT through Neural Networks to Neuromorphic AI",
+    "author": "Volker Kempe",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.39560v1"
+    "url": "http://arxiv.org/abs/2610.39796v1"
   },
   {
-    "title": "Barrier Function Control for the Interconnection of DC Electronic Loads to Utility Grid",
-    "author": "Grigoris Michos et al.",
+    "title": "Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking",
+    "author": "Johannes Stockhammer et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.31488v1"
+    "url": "http://arxiv.org/abs/2610.09006v1"
   },
   {
-    "title": "ScheduleGen: Demonstration Generation via Skill Scheduling for Multi-Arm Imitation Learning",
-    "author": "Neel Jawale et al.",
+    "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+    "author": "Jiongfan Yang et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.39429v1"
+    "url": "http://arxiv.org/abs/2610.40647v1"
   },
   {
-    "title": "Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond",
-    "author": "Yalin E. Sagduyu et al.",
+    "title": "Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels?",
+    "author": "Ravi Kumar Jha et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.40586v1"
+    "url": "http://arxiv.org/abs/2610.31260v1"
   },
   {
-    "title": "world2vec: Mechanistic world models through latent dynamics learning",
-    "author": "Tobias Schmidt et al.",
+    "title": "Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control",
+    "author": "Johannes Stockhammer",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.40637v1"
+    "url": "http://arxiv.org/abs/2610.17385v1"
   }
 ]

@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| AI for Science in Space: Orbital Laboratories, Planetary Fieldwork, and Embodied Autonomy | Zizhe Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.39689v1) |
-| FIDE: Fiber-Informed Differentiable Experimental Design for Reference-Relative Law Dynamics | Pietro Zanotta et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40009v1) |
-| CovFedAvg: Local Low-Loss Curves and Federated Model Selection | Federico Lucchetti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.39902v1) |
-| Exploring the Potential of Symbolic Regression in Precision Livestock Farming | Elisabeth Mayrhuber et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.39839v1) |
-| Iterative Behavioral Identification for Covert Misappropriation Attacks | Victor Mattos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32662v1) |
-| SimTO-Robust: Automated Design of Soft Grippers Robust to Grasp Pose and Object Geometry | Kurt Enkera et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.39560v1) |
-| Barrier Function Control for the Interconnection of DC Electronic Loads to Utility Grid | Grigoris Michos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31488v1) |
-| ScheduleGen: Demonstration Generation via Skill Scheduling for Multi-Arm Imitation Learning | Neel Jawale et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.39429v1) |
-| Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond | Yalin E. Sagduyu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40586v1) |
-| world2vec: Mechanistic world models through latent dynamics learning | Tobias Schmidt et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40637v1) |
+| TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting | Mohammad Kazemi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37909v1) |
+| Dynamic Powergrid Optimization with FPGA-based Neuromorphic Higher-order Ising Machines | Saptarshi Maiti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40522v1) |
+| Trustworthy Distributed Machine Learning in Cloud-Edge-IoT Systems: A Heterogeneity-Aware Survey of Security, Privacy, and Robustness | Long Dang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.38793v1) |
+| Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study | Dimitrios Nikou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08771v1) |
+| Trust Mechanisms for Offline Generative AI at the Edge: A Connectivity-Regime Framework and an Empirical Study on a Raspberry Pi 5 | Georgios Feretzakis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.33732v1) |
+| AI at a Turning Point: From ChatGPT through Neural Networks to Neuromorphic AI | Volker Kempe | 2026 | [📄 Read](http://arxiv.org/abs/2610.39796v1) |
+| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
+| Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers | Jiongfan Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40647v1) |
+| Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels? | Ravi Kumar Jha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31260v1) |
+| Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control | Johannes Stockhammer | 2026 | [📄 Read](http://arxiv.org/abs/2610.17385v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 01 November 2026, 14:08 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 01 November 2026, 16:53 WIB</sub>
