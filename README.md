@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| TaskFrame: Connecting Task-Level Planning with Frame-Level Control for Game Agents | Guangzhi Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40276v1) |
-| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
-| Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels? | Ravi Kumar Jha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31260v1) |
-| CSI-TextBench: A Dataset and Benchmark for Language-Grounded Ambient Sensing Perception | Guozhen Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.34616v1) |
-| Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond | Yalin E. Sagduyu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40586v1) |
-| Latent Prediction Yields Cross-Subject Alignable Representations in Sensory-Evoked fMRI | Serwan Jassim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40280v1) |
-| How to Loop Your Transformer: Loop Scaling, Specialization, and Parallel Inference | Chanakya Ekbote et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40325v1) |
-| TRACER, a time-to-event EHR foundation model for disease detection across health systems | Mara Pleasure et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40536v1) |
-| TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting | Mohammad Kazemi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37909v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
 | Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v2) |
+| TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting | Mohammad Kazemi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37909v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| Exploring the Potential of Symbolic Regression in Precision Livestock Farming | Elisabeth Mayrhuber et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.39839v1) |
+| RankFormer: Rethinking Time Series Transformers through Representation Capacity Analysis and Progressive Decoding | Peiwang Tang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.36703v1) |
+| Adaptive search with path-constrained mobile sensors using multi-arm bandits | Abraham P. Vinod et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40431v1) |
+| Rethinking Neural Thickets Without Weight Perturbations | Nicolas Dufour et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40649v1) |
+| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
+| Discovering Interpretable Acoustic Features in Autoregressive Voice-Cloning TTS Models | Anuj Diwan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40505v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 01 November 2026, 19:41 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 01 November 2026, 21:00 WIB</sub>
