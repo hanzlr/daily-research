@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting | Mohammad Kazemi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37909v1) |
-| Design and Validation of a Robotic Knee Exoskeleton with Musculoskeletal Simulation-Derived Biological Torque Control | Rajiv V. Joshi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.41981v1) |
-| Trustworthy Distributed Machine Learning in Cloud-Edge-IoT Systems: A Heterogeneity-Aware Survey of Security, Privacy, and Robustness | Long Dang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.38793v1) |
-| Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study | Dimitrios Nikou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08771v1) |
-| Sensorium: An Open-Source Multimodal Data Collection and Curation Library for Embodied Surgical AI | Lorenzo Mazza et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.41946v1) |
-| INLA for Adaptive UAV Sampling of Radio Environment Maps in IoT Networks: Prior Width Governs Accuracy and Calibration | Changhao He et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40723v1) |
-| Flexibility-Aware Robotic Manipulation: Deformation Estimation, Kinematics, and Control via Distributed Inertial Measurement | Amir Hossein Barjini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.41702v1) |
-| CSI-TextBench: A Dataset and Benchmark for Language-Grounded Ambient Sensing Perception | Guozhen Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.34616v1) |
-| A Unified XAI-NSAI Analytical Framework for Trustworthy IoT Anomaly Detection | Hugues Leger et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.41424v1) |
-| Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels? | Ravi Kumar Jha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.31260v1) |
+| Aligning MLLMs with the Latent Structure of Human Cognition via Behavior-Derived Semantic Dimensions | Ning E et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.41951v1) |
+| Instance-dependent sequential limits as an exact information ledger | Akshay Balsubramani | 2026 | [📄 Read](http://arxiv.org/abs/2610.42133v1) |
+| Fast Privacy Loss Accounting for Random Allocation via Multiscale FFT | Vitaly Feldman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.42117v1) |
+| Advancing Clinical Trial Outcome Prediction with Domain-Specific Large Language Models | Burak Bakkar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.41710v1) |
+| Latent Reasoning in Continuous Space for Unified Multimodal Models | Byungwoo Jeon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.42149v1) |
+| Counting on Dummies: Privacy Amplification with Observable Counts and Truncated Batches | Vitaly Feldman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.42139v1) |
+| Physiological Trajectories and Observation Patterns in ICU Mortality Prediction: Transportability Under Changing Measurement Conditions | Benjamin T. Pike | 2026 | [📄 Read](http://arxiv.org/abs/2610.42126v1) |
+| A Better Critic Matters for Distribution Matching Distillation | Zongze Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.42135v1) |
+| Automated Keyword Generation Using LLMs in a High-Volume Data Virtualization Service | Saiful Khan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.41893v1) |
+| SATFRONT: Detecting Atmospheric Fronts with Satellite Data using Machine Learning | Ioannis Dravilas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.42111v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 02 November 2026, 17:16 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 02 November 2026, 19:56 WIB</sub>
