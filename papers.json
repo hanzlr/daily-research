@@ -1,21 +1,21 @@
 [
   {
-    "title": "On-device Detection of Wearer-induced NLOS on Chest-worn UWB Tags: Machine Learning, Link Indicators, or Both?",
-    "author": "Markus Gallacher et al.",
+    "title": "TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting",
+    "author": "Mohammad Kazemi et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.41799v1"
+    "url": "http://arxiv.org/abs/2610.37909v1"
   },
   {
-    "title": "Memory and Recall of Color Images Using Neural Networks-1 - The Cue-Ball Model based on the Associative Memory Mechanism -",
-    "author": "Hiroshi Inazawa",
+    "title": "Design and Validation of a Robotic Knee Exoskeleton with Musculoskeletal Simulation-Derived Biological Torque Control",
+    "author": "Rajiv V. Joshi et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.41108v1"
+    "url": "http://arxiv.org/abs/2610.41981v1"
   },
   {
-    "title": "Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control",
-    "author": "Johannes Stockhammer",
+    "title": "Trustworthy Distributed Machine Learning in Cloud-Edge-IoT Systems: A Heterogeneity-Aware Survey of Security, Privacy, and Robustness",
+    "author": "Long Dang et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.17385v1"
+    "url": "http://arxiv.org/abs/2610.38793v1"
   },
   {
     "title": "Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study",
@@ -24,39 +24,39 @@
     "url": "http://arxiv.org/abs/2610.08771v1"
   },
   {
-    "title": "Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking",
-    "author": "Johannes Stockhammer et al.",
+    "title": "Sensorium: An Open-Source Multimodal Data Collection and Curation Library for Embodied Surgical AI",
+    "author": "Lorenzo Mazza et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.09006v1"
+    "url": "http://arxiv.org/abs/2610.41946v1"
   },
   {
-    "title": "Certified Behavioral Retention for Continual Adaptation with Held-Out Anchors",
-    "author": "Ahanaf Hasan Ariq et al.",
+    "title": "INLA for Adaptive UAV Sampling of Radio Environment Maps in IoT Networks: Prior Width Governs Accuracy and Calibration",
+    "author": "Changhao He et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.40740v1"
+    "url": "http://arxiv.org/abs/2610.40723v1"
   },
   {
-    "title": "Evaluating Wi-Fi HaLow for Next-Generation Capsule Endoscopy",
-    "author": "Ziyao Zhou et al.",
+    "title": "Flexibility-Aware Robotic Manipulation: Deformation Estimation, Kinematics, and Control via Distributed Inertial Measurement",
+    "author": "Amir Hossein Barjini et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.34184v1"
+    "url": "http://arxiv.org/abs/2610.41702v1"
   },
   {
-    "title": "Instance-dependent sequential limits as an exact information ledger",
-    "author": "Akshay Balsubramani",
+    "title": "CSI-TextBench: A Dataset and Benchmark for Language-Grounded Ambient Sensing Perception",
+    "author": "Guozhen Zhu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.42133v1"
+    "url": "http://arxiv.org/abs/2610.34616v1"
   },
   {
-    "title": "Spectral Haar Binarizer: Compact Boolean Contrast Representations for Hyperspectral Classification",
-    "author": "Michał Romaszewski et al.",
+    "title": "A Unified XAI-NSAI Analytical Framework for Trustworthy IoT Anomaly Detection",
+    "author": "Hugues Leger et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.41478v1"
+    "url": "http://arxiv.org/abs/2610.41424v1"
   },
   {
-    "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
-    "author": "Byungwoo Jeon et al.",
+    "title": "Can Entanglement-Induced Feature-Map Designs Improve Projected Quantum Kernels?",
+    "author": "Ravi Kumar Jha et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.42149v1"
+    "url": "http://arxiv.org/abs/2610.31260v1"
   }
 ]
