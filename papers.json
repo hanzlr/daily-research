@@ -1,62 +1,62 @@
 [
   {
-    "title": "GhostPrefix: Synchronization-Free Universal Prefix Attacks for ASR Manipulation",
-    "author": "Shengding Liu et al.",
+    "title": "GPU-accelerated Incremental Euclidean Distance Transform for Online Motion Planning of Mobile Robots",
+    "author": "Yizhou Chen et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.42026v1"
+    "url": "http://arxiv.org/abs/2610.41667v1"
   },
   {
-    "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
-    "author": "Byungwoo Jeon et al.",
+    "title": "Evaluating Wi-Fi HaLow for Next-Generation Capsule Endoscopy",
+    "author": "Ziyao Zhou et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.42149v1"
+    "url": "http://arxiv.org/abs/2610.34184v1"
   },
   {
-    "title": "A Better Critic Matters for Distribution Matching Distillation",
-    "author": "Zongze Wu et al.",
+    "title": "Physiological Trajectories and Observation Patterns in ICU Mortality Prediction: Transportability Under Changing Measurement Conditions",
+    "author": "Benjamin T. Pike",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.42135v1"
+    "url": "http://arxiv.org/abs/2610.42126v1"
   },
   {
-    "title": "A Neural Network Approach towards Real-Time Knot Point Density Estimates for the Nonlinear Quadrotor",
-    "author": "Jasmine Ratchford et al.",
+    "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
+    "author": "Hediyeh Soltanizadeh et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.42027v1"
+    "url": "http://arxiv.org/abs/2610.37508v1"
   },
   {
-    "title": "Instance-dependent sequential limits as an exact information ledger",
-    "author": "Akshay Balsubramani",
+    "title": "SATFRONT: Detecting Atmospheric Fronts with Satellite Data using Machine Learning",
+    "author": "Ioannis Dravilas et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.42133v1"
+    "url": "http://arxiv.org/abs/2610.42111v1"
   },
   {
-    "title": "When Does Jacobian Fine-Tuning Stabilize Neural PDE Emulators?",
-    "author": "Shreeyam Bangera et al.",
+    "title": "A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations",
+    "author": "Sajad Ahmadi et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.42013v1"
+    "url": "http://arxiv.org/abs/2610.28570v1"
   },
   {
-    "title": "Counting on Dummies: Privacy Amplification with Observable Counts and Truncated Batches",
+    "title": "Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study",
+    "author": "Dimitrios Nikou et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.08771v1"
+  },
+  {
+    "title": "Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking",
+    "author": "Johannes Stockhammer et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.09006v1"
+  },
+  {
+    "title": "Fast Privacy Loss Accounting for Random Allocation via Multiscale FFT",
     "author": "Vitaly Feldman et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.42139v1"
+    "url": "http://arxiv.org/abs/2610.42117v1"
   },
   {
-    "title": "INLA for Adaptive UAV Sampling of Radio Environment Maps in IoT Networks: Prior Width Governs Accuracy and Calibration",
-    "author": "Changhao He et al.",
+    "title": "Implementation of Dynamic Microsegmentation for a Multi-Robot Network",
+    "author": "Vishwam Raval et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.40723v1"
-  },
-  {
-    "title": "A richness-sensitive Acoustic Biodiversity Index from species-level detections: classifier benchmarking, false-positive control and validation against standard soundscape indices in an African savanna and an urban zoo",
-    "author": "Muhammad Saeed et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.42042v1"
-  },
-  {
-    "title": "Iterative Behavioral Identification for Covert Misappropriation Attacks",
-    "author": "Victor Mattos et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.32662v1"
+    "url": "http://arxiv.org/abs/2610.30102v1"
   }
 ]

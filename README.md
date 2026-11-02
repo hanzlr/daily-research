@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| GhostPrefix: Synchronization-Free Universal Prefix Attacks for ASR Manipulation | Shengding Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.42026v1) |
-| Latent Reasoning in Continuous Space for Unified Multimodal Models | Byungwoo Jeon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.42149v1) |
-| A Better Critic Matters for Distribution Matching Distillation | Zongze Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.42135v1) |
-| A Neural Network Approach towards Real-Time Knot Point Density Estimates for the Nonlinear Quadrotor | Jasmine Ratchford et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.42027v1) |
-| Instance-dependent sequential limits as an exact information ledger | Akshay Balsubramani | 2026 | [📄 Read](http://arxiv.org/abs/2610.42133v1) |
-| When Does Jacobian Fine-Tuning Stabilize Neural PDE Emulators? | Shreeyam Bangera et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.42013v1) |
-| Counting on Dummies: Privacy Amplification with Observable Counts and Truncated Batches | Vitaly Feldman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.42139v1) |
-| INLA for Adaptive UAV Sampling of Radio Environment Maps in IoT Networks: Prior Width Governs Accuracy and Calibration | Changhao He et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40723v1) |
-| A richness-sensitive Acoustic Biodiversity Index from species-level detections: classifier benchmarking, false-positive control and validation against standard soundscape indices in an African savanna and an urban zoo | Muhammad Saeed et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.42042v1) |
-| Iterative Behavioral Identification for Covert Misappropriation Attacks | Victor Mattos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.32662v1) |
+| GPU-accelerated Incremental Euclidean Distance Transform for Online Motion Planning of Mobile Robots | Yizhou Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.41667v1) |
+| Evaluating Wi-Fi HaLow for Next-Generation Capsule Endoscopy | Ziyao Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.34184v1) |
+| Physiological Trajectories and Observation Patterns in ICU Mortality Prediction: Transportability Under Changing Measurement Conditions | Benjamin T. Pike | 2026 | [📄 Read](http://arxiv.org/abs/2610.42126v1) |
+| Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37508v1) |
+| SATFRONT: Detecting Atmospheric Fronts with Satellite Data using Machine Learning | Ioannis Dravilas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.42111v1) |
+| A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations | Sajad Ahmadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28570v1) |
+| Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study | Dimitrios Nikou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08771v1) |
+| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
+| Fast Privacy Loss Accounting for Random Allocation via Multiscale FFT | Vitaly Feldman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.42117v1) |
+| Implementation of Dynamic Microsegmentation for a Multi-Robot Network | Vishwam Raval et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30102v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 03 November 2026, 01:53 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 03 November 2026, 03:35 WIB</sub>
