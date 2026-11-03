@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking",
+    "author": "Johannes Stockhammer et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.09006v1"
+  },
+  {
+    "title": "QFabric: Guarded Cross-Domain Task Recovery and Its Limits on a Linux-RTOS Board",
+    "author": "Ayushman Bhattacharya et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.01598v1"
+  },
+  {
+    "title": "A Unified XAI-NSAI Analytical Framework for Trustworthy IoT Anomaly Detection",
+    "author": "Hugues Leger et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.41424v1"
+  },
+  {
+    "title": "Harder Than the Task: From Technical to Organizational Difficulty in AI Benchmarking",
+    "author": "Victor Barres et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.03494v1"
+  },
+  {
+    "title": "Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control",
+    "author": "Johannes Stockhammer",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.17385v1"
+  },
+  {
+    "title": "Benchmark Prediction with Sparse and Unpaired Cached Responses",
+    "author": "Hayden Helm et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.03614v1"
+  },
+  {
+    "title": "Efficient Closure Learning in Dynamical Systems: A Comparison of Data-Assimilated and Embedded Approaches",
+    "author": "Rileigh Bandy et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.03612v1"
+  },
+  {
+    "title": "Rethinking Neural Decompilation: Candidate Selection as the Hidden Bottleneck",
+    "author": "Felix Mächtle et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.02788v1"
+  },
+  {
+    "title": "PACERec: Progressive Adaptation of LLM Item Embeddings with Collaborative Evidence for Recommendation",
+    "author": "Junzhao Huang et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.03068v1"
+  },
+  {
+    "title": "Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation",
+    "author": "Tony Tao et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.03648v1"
+  }
+]

@@ -1,62 +1,62 @@
 [
   {
-    "title": "The Tower of Babel in artificial intelligence: who should speak, and when it pays to listen",
-    "author": "Mohammad Salahshour",
+    "title": "Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking",
+    "author": "Johannes Stockhammer et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.03020v1"
+    "url": "http://arxiv.org/abs/2610.09006v1"
   },
   {
-    "title": "A New Parametric Uncertainty Approach to Systems with Time-Varying Delay and Feedback Stabilization",
-    "author": "Aleksandr Talitckii et al.",
+    "title": "QFabric: Guarded Cross-Domain Task Recovery and Its Limits on a Linux-RTOS Board",
+    "author": "Ayushman Bhattacharya et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.37354v1"
+    "url": "http://arxiv.org/abs/2611.01598v1"
   },
   {
-    "title": "Enhancing Grid Stability with Synchronverter-Based Control for Grid-Side Converters in Wind Power Systems",
-    "author": "Alan Valadez et al.",
+    "title": "A Unified XAI-NSAI Analytical Framework for Trustworthy IoT Anomaly Detection",
+    "author": "Hugues Leger et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.02976v1"
+    "url": "http://arxiv.org/abs/2610.41424v1"
   },
   {
-    "title": "Networked AI: Architecture, Theory, and Applications",
-    "author": "Liang Song et al.",
+    "title": "Harder Than the Task: From Technical to Organizational Difficulty in AI Benchmarking",
+    "author": "Victor Barres et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.03063v1"
+    "url": "http://arxiv.org/abs/2611.03494v1"
   },
   {
-    "title": "ST-GFM: Spectral-Temporal Graph Forecasting with Measured Perturbation Bounds and Masked Spectral Reconstruction",
-    "author": "Aashish Bohra et al.",
+    "title": "Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control",
+    "author": "Johannes Stockhammer",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.03512v1"
+    "url": "http://arxiv.org/abs/2610.17385v1"
   },
   {
-    "title": "TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting",
-    "author": "Mohammad Kazemi et al.",
+    "title": "Benchmark Prediction with Sparse and Unpaired Cached Responses",
+    "author": "Hayden Helm et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.37909v1"
+    "url": "http://arxiv.org/abs/2611.03614v1"
   },
   {
-    "title": "Thought-deciphering via hierarchical EEG-to-text alignment",
-    "author": "Xiaopeng Mao et al.",
+    "title": "Efficient Closure Learning in Dynamical Systems: A Comparison of Data-Assimilated and Embedded Approaches",
+    "author": "Rileigh Bandy et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.03623v1"
+    "url": "http://arxiv.org/abs/2611.03612v1"
   },
   {
-    "title": "4K Image Super-Resolution on Mobile NPUs: Mobile AI 2026 Challenge Report",
-    "author": "Andrey Ignatov et al.",
+    "title": "Rethinking Neural Decompilation: Candidate Selection as the Hidden Bottleneck",
+    "author": "Felix Mächtle et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.00963v1"
+    "url": "http://arxiv.org/abs/2611.02788v1"
   },
   {
-    "title": "Spectral and Conformal: Neural Network Methods for Calibrated Trajectory Prediction and Control-Point Intervals",
-    "author": "Jasmine Ratchford et al.",
+    "title": "PACERec: Progressive Adaptation of LLM Item Embeddings with Collaborative Evidence for Recommendation",
+    "author": "Junzhao Huang et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.00231v1"
+    "url": "http://arxiv.org/abs/2611.03068v1"
   },
   {
-    "title": "Tilted Convexity and an Exact Offline-Online Separation",
-    "author": "Mohammad Pedramfar et al.",
+    "title": "Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation",
+    "author": "Tony Tao et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.03472v1"
+    "url": "http://arxiv.org/abs/2611.03648v1"
   }
 ]

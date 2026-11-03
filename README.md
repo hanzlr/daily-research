@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| The Tower of Babel in artificial intelligence: who should speak, and when it pays to listen | Mohammad Salahshour | 2026 | [📄 Read](http://arxiv.org/abs/2611.03020v1) |
-| A New Parametric Uncertainty Approach to Systems with Time-Varying Delay and Feedback Stabilization | Aleksandr Talitckii et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37354v1) |
-| Enhancing Grid Stability with Synchronverter-Based Control for Grid-Side Converters in Wind Power Systems | Alan Valadez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.02976v1) |
-| Networked AI: Architecture, Theory, and Applications | Liang Song et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03063v1) |
-| ST-GFM: Spectral-Temporal Graph Forecasting with Measured Perturbation Bounds and Masked Spectral Reconstruction | Aashish Bohra et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03512v1) |
-| TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting | Mohammad Kazemi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37909v1) |
-| Thought-deciphering via hierarchical EEG-to-text alignment | Xiaopeng Mao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03623v1) |
-| 4K Image Super-Resolution on Mobile NPUs: Mobile AI 2026 Challenge Report | Andrey Ignatov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.00963v1) |
-| Spectral and Conformal: Neural Network Methods for Calibrated Trajectory Prediction and Control-Point Intervals | Jasmine Ratchford et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.00231v1) |
-| Tilted Convexity and an Exact Offline-Online Separation | Mohammad Pedramfar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03472v1) |
+| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
+| QFabric: Guarded Cross-Domain Task Recovery and Its Limits on a Linux-RTOS Board | Ayushman Bhattacharya et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.01598v1) |
+| A Unified XAI-NSAI Analytical Framework for Trustworthy IoT Anomaly Detection | Hugues Leger et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.41424v1) |
+| Harder Than the Task: From Technical to Organizational Difficulty in AI Benchmarking | Victor Barres et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03494v1) |
+| Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control | Johannes Stockhammer | 2026 | [📄 Read](http://arxiv.org/abs/2610.17385v1) |
+| Benchmark Prediction with Sparse and Unpaired Cached Responses | Hayden Helm et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03614v1) |
+| Efficient Closure Learning in Dynamical Systems: A Comparison of Data-Assimilated and Embedded Approaches | Rileigh Bandy et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03612v1) |
+| Rethinking Neural Decompilation: Candidate Selection as the Hidden Bottleneck | Felix Mächtle et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.02788v1) |
+| PACERec: Progressive Adaptation of LLM Item Embeddings with Collaborative Evidence for Recommendation | Junzhao Huang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03068v1) |
+| Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation | Tony Tao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03648v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 04 November 2026, 02:55 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 04 November 2026, 03:46 WIB</sub>
