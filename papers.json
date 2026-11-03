@@ -1,62 +1,62 @@
 [
   {
-    "title": "Late Autumn: LLM Agents Specialize a General Multi-Robot Planner for One Warehouse",
-    "author": "Yimin Tang et al.",
+    "title": "The Tower of Babel in artificial intelligence: who should speak, and when it pays to listen",
+    "author": "Mohammad Salahshour",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.02391v1"
+    "url": "http://arxiv.org/abs/2611.03020v1"
   },
   {
-    "title": "Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research",
-    "author": "Ad-Deen Mahbub et al.",
+    "title": "A New Parametric Uncertainty Approach to Systems with Time-Varying Delay and Feedback Stabilization",
+    "author": "Aleksandr Talitckii et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2607.23220v1"
+    "url": "http://arxiv.org/abs/2610.37354v1"
   },
   {
-    "title": "Evaluating Wi-Fi HaLow for Next-Generation Capsule Endoscopy",
-    "author": "Ziyao Zhou et al.",
+    "title": "Enhancing Grid Stability with Synchronverter-Based Control for Grid-Side Converters in Wind Power Systems",
+    "author": "Alan Valadez et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.34184v1"
+    "url": "http://arxiv.org/abs/2611.02976v1"
   },
   {
-    "title": "Rethinking Neural Decompilation: Candidate Selection as the Hidden Bottleneck",
-    "author": "Felix Mächtle et al.",
+    "title": "Networked AI: Architecture, Theory, and Applications",
+    "author": "Liang Song et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.02788v1"
+    "url": "http://arxiv.org/abs/2611.03063v1"
   },
   {
-    "title": "Why Tabular Foundation Models Excel on Relational Data They Have Never Seen",
-    "author": "Linjie Xu et al.",
+    "title": "ST-GFM: Spectral-Temporal Graph Forecasting with Measured Perturbation Bounds and Masked Spectral Reconstruction",
+    "author": "Aashish Bohra et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.02936v1"
+    "url": "http://arxiv.org/abs/2611.03512v1"
   },
   {
-    "title": "QFabric: Guarded Cross-Domain Task Recovery and Its Limits on a Linux-RTOS Board",
-    "author": "Ayushman Bhattacharya et al.",
+    "title": "TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting",
+    "author": "Mohammad Kazemi et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.01598v1"
+    "url": "http://arxiv.org/abs/2610.37909v1"
   },
   {
-    "title": "PACERec: Progressive Adaptation of LLM Item Embeddings with Collaborative Evidence for Recommendation",
-    "author": "Junzhao Huang et al.",
+    "title": "Thought-deciphering via hierarchical EEG-to-text alignment",
+    "author": "Xiaopeng Mao et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.03068v1"
+    "url": "http://arxiv.org/abs/2611.03623v1"
   },
   {
-    "title": "Learning Agile Humanoid Dodgeball with Onboard Monocular Vision",
-    "author": "Feng Tian et al.",
+    "title": "4K Image Super-Resolution on Mobile NPUs: Mobile AI 2026 Challenge Report",
+    "author": "Andrey Ignatov et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.01197v1"
+    "url": "http://arxiv.org/abs/2611.00963v1"
   },
   {
-    "title": "TRAILS: Trajectory Generation for Automated Indoor Locomotion Studies",
-    "author": "Juho Kalliokoski et al.",
+    "title": "Spectral and Conformal: Neural Network Methods for Calibrated Trajectory Prediction and Control-Point Intervals",
+    "author": "Jasmine Ratchford et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.03254v1"
+    "url": "http://arxiv.org/abs/2611.00231v1"
   },
   {
-    "title": "Local Solution Repair for Multi-Agent Pickup and Delivery",
-    "author": "Ethan Schneider et al.",
+    "title": "Tilted Convexity and an Exact Offline-Online Separation",
+    "author": "Mohammad Pedramfar et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.02090v1"
+    "url": "http://arxiv.org/abs/2611.03472v1"
   }
 ]

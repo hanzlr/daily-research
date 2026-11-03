@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Late Autumn: LLM Agents Specialize a General Multi-Robot Planner for One Warehouse | Yimin Tang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.02391v1) |
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
-| Evaluating Wi-Fi HaLow for Next-Generation Capsule Endoscopy | Ziyao Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.34184v1) |
-| Rethinking Neural Decompilation: Candidate Selection as the Hidden Bottleneck | Felix Mächtle et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.02788v1) |
-| Why Tabular Foundation Models Excel on Relational Data They Have Never Seen | Linjie Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.02936v1) |
-| QFabric: Guarded Cross-Domain Task Recovery and Its Limits on a Linux-RTOS Board | Ayushman Bhattacharya et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.01598v1) |
-| PACERec: Progressive Adaptation of LLM Item Embeddings with Collaborative Evidence for Recommendation | Junzhao Huang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03068v1) |
-| Learning Agile Humanoid Dodgeball with Onboard Monocular Vision | Feng Tian et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.01197v1) |
-| TRAILS: Trajectory Generation for Automated Indoor Locomotion Studies | Juho Kalliokoski et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03254v1) |
-| Local Solution Repair for Multi-Agent Pickup and Delivery | Ethan Schneider et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.02090v1) |
+| The Tower of Babel in artificial intelligence: who should speak, and when it pays to listen | Mohammad Salahshour | 2026 | [📄 Read](http://arxiv.org/abs/2611.03020v1) |
+| A New Parametric Uncertainty Approach to Systems with Time-Varying Delay and Feedback Stabilization | Aleksandr Talitckii et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37354v1) |
+| Enhancing Grid Stability with Synchronverter-Based Control for Grid-Side Converters in Wind Power Systems | Alan Valadez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.02976v1) |
+| Networked AI: Architecture, Theory, and Applications | Liang Song et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03063v1) |
+| ST-GFM: Spectral-Temporal Graph Forecasting with Measured Perturbation Bounds and Masked Spectral Reconstruction | Aashish Bohra et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03512v1) |
+| TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting | Mohammad Kazemi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37909v1) |
+| Thought-deciphering via hierarchical EEG-to-text alignment | Xiaopeng Mao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03623v1) |
+| 4K Image Super-Resolution on Mobile NPUs: Mobile AI 2026 Challenge Report | Andrey Ignatov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.00963v1) |
+| Spectral and Conformal: Neural Network Methods for Calibrated Trajectory Prediction and Control-Point Intervals | Jasmine Ratchford et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.00231v1) |
+| Tilted Convexity and an Exact Offline-Online Separation | Mohammad Pedramfar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03472v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 04 November 2026, 01:10 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 04 November 2026, 02:55 WIB</sub>
