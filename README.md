@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Tuesday, 03 November 2026
+## 🗓️ Wednesday, 04 November 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| GPU-accelerated Incremental Euclidean Distance Transform for Online Motion Planning of Mobile Robots | Yizhou Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.41667v1) |
+| Late Autumn: LLM Agents Specialize a General Multi-Robot Planner for One Warehouse | Yimin Tang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.02391v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
 | Evaluating Wi-Fi HaLow for Next-Generation Capsule Endoscopy | Ziyao Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.34184v1) |
-| Physiological Trajectories and Observation Patterns in ICU Mortality Prediction: Transportability Under Changing Measurement Conditions | Benjamin T. Pike | 2026 | [📄 Read](http://arxiv.org/abs/2610.42126v1) |
-| Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37508v1) |
-| SATFRONT: Detecting Atmospheric Fronts with Satellite Data using Machine Learning | Ioannis Dravilas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.42111v1) |
-| A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations | Sajad Ahmadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28570v1) |
-| Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study | Dimitrios Nikou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.08771v1) |
-| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
-| Fast Privacy Loss Accounting for Random Allocation via Multiscale FFT | Vitaly Feldman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.42117v1) |
-| Implementation of Dynamic Microsegmentation for a Multi-Robot Network | Vishwam Raval et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30102v1) |
+| Rethinking Neural Decompilation: Candidate Selection as the Hidden Bottleneck | Felix Mächtle et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.02788v1) |
+| Why Tabular Foundation Models Excel on Relational Data They Have Never Seen | Linjie Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.02936v1) |
+| QFabric: Guarded Cross-Domain Task Recovery and Its Limits on a Linux-RTOS Board | Ayushman Bhattacharya et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.01598v1) |
+| PACERec: Progressive Adaptation of LLM Item Embeddings with Collaborative Evidence for Recommendation | Junzhao Huang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03068v1) |
+| Learning Agile Humanoid Dodgeball with Onboard Monocular Vision | Feng Tian et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.01197v1) |
+| TRAILS: Trajectory Generation for Automated Indoor Locomotion Studies | Juho Kalliokoski et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03254v1) |
+| Local Solution Repair for Multi-Agent Pickup and Delivery | Ethan Schneider et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.02090v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 03 November 2026, 03:35 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 04 November 2026, 01:10 WIB</sub>
