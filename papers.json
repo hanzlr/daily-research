@@ -1,62 +1,62 @@
 [
   {
-    "title": "Stabilizing On-Policy Targeted Guidance in Agentic Reinforcement Learning",
-    "author": "Kevin Frans et al.",
+    "title": "Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research",
+    "author": "Ad-Deen Mahbub et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.05266v1"
+    "url": "http://arxiv.org/abs/2607.23220v1"
   },
   {
-    "title": "Fusing Earth observation embeddings and spaceborne terrain with meteorological forcing for flood peak depth prediction from high-water marks",
-    "author": "Wen Zhou et al.",
+    "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
+    "author": "Hediyeh Soltanizadeh et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.05220v1"
+    "url": "http://arxiv.org/abs/2610.37508v1"
   },
   {
-    "title": "DenseTwins: Dense Modality Decoupling for Multimodal Self-Supervision",
-    "author": "Carlo Sgaravatti et al.",
+    "title": "Shrinkage prior for implicit generative models",
+    "author": "Shreya Sinha-Roy et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.04710v1"
+    "url": "http://arxiv.org/abs/2611.05241v1"
   },
   {
-    "title": "Learning curves in natural and artificial systems",
-    "author": "Dmitry A. Novikov",
+    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
+    "author": "Anas Hussin et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.05224v1"
+    "url": "http://arxiv.org/abs/2610.28807v1"
   },
   {
-    "title": "TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting",
-    "author": "Mohammad Kazemi et al.",
+    "title": "A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation",
+    "author": "Mahedee Zaman Moon et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.37909v1"
+    "url": "http://arxiv.org/abs/2609.27828v1"
   },
   {
-    "title": "Mass Scaling Laws for Energy-Optimal Horizontal Multirotor Flight",
-    "author": "Ayush Patnaik et al.",
+    "title": "Universal Hardness From Masking Channels",
+    "author": "Parikshit Gopalan et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.04748v1"
+    "url": "http://arxiv.org/abs/2611.05296v1"
   },
   {
-    "title": "Networked AI: Architecture, Theory, and Applications",
-    "author": "Liang Song et al.",
+    "title": "LLMs as MDP Designers: A Dependency-Aware Agentic Framework for Automated Robot Policy Generation",
+    "author": "Hong Je-Gal et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.03063v1"
+    "url": "http://arxiv.org/abs/2611.04974v1"
   },
   {
-    "title": "Spectrally Routed Diffusion Policy for Multi-Task Robotic Manipulation",
-    "author": "Mingcong Li et al.",
+    "title": "NovoCRF: Globally Normalized De Novo Peptide Sequencing on a Prefix-Mass Lattice",
+    "author": "Rui Qiao et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.04477v1"
+    "url": "http://arxiv.org/abs/2611.05260v1"
   },
   {
-    "title": "Reading Why: Born-Measured Attention with Exact Word Evidence on Light and Qubits",
-    "author": "Teerawat Tongloy et al.",
+    "title": "A Circuit for In-Context Learning",
+    "author": "Andrew Gao et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.05355v1"
+    "url": "http://arxiv.org/abs/2611.05344v1"
   },
   {
-    "title": "4K Image Super-Resolution on Mobile NPUs: Mobile AI 2026 Challenge Report",
-    "author": "Andrey Ignatov et al.",
+    "title": "Implementation of Dynamic Microsegmentation for a Multi-Robot Network",
+    "author": "Vishwam Raval et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.00963v1"
+    "url": "http://arxiv.org/abs/2610.30102v1"
   }
 ]
