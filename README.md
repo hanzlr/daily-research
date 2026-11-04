@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| A Modular Open-Source Python Framework for Small Satellite Attitude Determination and Control | Patrick McKeen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03957v1) |
-| Haptic Shared Control for Multi-Robot Systems | Maxime Bernard | 2026 | [📄 Read](http://arxiv.org/abs/2611.05027v1) |
-| Evaluating Wi-Fi HaLow for Next-Generation Capsule Endoscopy | Ziyao Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.34184v1) |
-| PadLoc: Training-Free Floor-Plan Localization by Sparse Geometric Matching | Marian Bookhahn et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05172v1) |
-| OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes | Javal Vyas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05179v1) |
-| Uncertainty-Guided Cross-Modal Alignment for Diffusion-Based IoT Intrusion Detection | Mahdi Arab Loodaricheh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.39117v1) |
-| Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments | Zhipeng Zhong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05361v1) |
-| A Unified XAI-NSAI Analytical Framework for Trustworthy IoT Anomaly Detection | Hugues Leger et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.41424v1) |
-| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
-| LLM-Assisted Planning with Distributed Onboard Behaviour Tree Execution for Multi-AUV Missions | Ehsan Khorrambakht et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.04518v1) |
+| Stabilizing On-Policy Targeted Guidance in Agentic Reinforcement Learning | Kevin Frans et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05266v1) |
+| Fusing Earth observation embeddings and spaceborne terrain with meteorological forcing for flood peak depth prediction from high-water marks | Wen Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05220v1) |
+| DenseTwins: Dense Modality Decoupling for Multimodal Self-Supervision | Carlo Sgaravatti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.04710v1) |
+| Learning curves in natural and artificial systems | Dmitry A. Novikov | 2026 | [📄 Read](http://arxiv.org/abs/2611.05224v1) |
+| TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting | Mohammad Kazemi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37909v1) |
+| Mass Scaling Laws for Energy-Optimal Horizontal Multirotor Flight | Ayush Patnaik et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.04748v1) |
+| Networked AI: Architecture, Theory, and Applications | Liang Song et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03063v1) |
+| Spectrally Routed Diffusion Policy for Multi-Task Robotic Manipulation | Mingcong Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.04477v1) |
+| Reading Why: Born-Measured Attention with Exact Word Evidence on Light and Qubits | Teerawat Tongloy et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05355v1) |
+| 4K Image Super-Resolution on Mobile NPUs: Mobile AI 2026 Challenge Report | Andrey Ignatov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.00963v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 04 November 2026, 14:14 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 04 November 2026, 17:09 WIB</sub>

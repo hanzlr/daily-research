@@ -1,62 +1,62 @@
 [
   {
-    "title": "A Modular Open-Source Python Framework for Small Satellite Attitude Determination and Control",
-    "author": "Patrick McKeen et al.",
+    "title": "Stabilizing On-Policy Targeted Guidance in Agentic Reinforcement Learning",
+    "author": "Kevin Frans et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.03957v1"
+    "url": "http://arxiv.org/abs/2611.05266v1"
   },
   {
-    "title": "Haptic Shared Control for Multi-Robot Systems",
-    "author": "Maxime Bernard",
+    "title": "Fusing Earth observation embeddings and spaceborne terrain with meteorological forcing for flood peak depth prediction from high-water marks",
+    "author": "Wen Zhou et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.05027v1"
+    "url": "http://arxiv.org/abs/2611.05220v1"
   },
   {
-    "title": "Evaluating Wi-Fi HaLow for Next-Generation Capsule Endoscopy",
-    "author": "Ziyao Zhou et al.",
+    "title": "DenseTwins: Dense Modality Decoupling for Multimodal Self-Supervision",
+    "author": "Carlo Sgaravatti et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.34184v1"
+    "url": "http://arxiv.org/abs/2611.04710v1"
   },
   {
-    "title": "PadLoc: Training-Free Floor-Plan Localization by Sparse Geometric Matching",
-    "author": "Marian Bookhahn et al.",
+    "title": "Learning curves in natural and artificial systems",
+    "author": "Dmitry A. Novikov",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.05172v1"
+    "url": "http://arxiv.org/abs/2611.05224v1"
   },
   {
-    "title": "OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes",
-    "author": "Javal Vyas et al.",
+    "title": "TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting",
+    "author": "Mohammad Kazemi et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.05179v1"
+    "url": "http://arxiv.org/abs/2610.37909v1"
   },
   {
-    "title": "Uncertainty-Guided Cross-Modal Alignment for Diffusion-Based IoT Intrusion Detection",
-    "author": "Mahdi Arab Loodaricheh et al.",
+    "title": "Mass Scaling Laws for Energy-Optimal Horizontal Multirotor Flight",
+    "author": "Ayush Patnaik et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.39117v1"
+    "url": "http://arxiv.org/abs/2611.04748v1"
   },
   {
-    "title": "Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments",
-    "author": "Zhipeng Zhong et al.",
+    "title": "Networked AI: Architecture, Theory, and Applications",
+    "author": "Liang Song et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.05361v1"
+    "url": "http://arxiv.org/abs/2611.03063v1"
   },
   {
-    "title": "A Unified XAI-NSAI Analytical Framework for Trustworthy IoT Anomaly Detection",
-    "author": "Hugues Leger et al.",
+    "title": "Spectrally Routed Diffusion Policy for Multi-Task Robotic Manipulation",
+    "author": "Mingcong Li et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.41424v1"
+    "url": "http://arxiv.org/abs/2611.04477v1"
   },
   {
-    "title": "Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking",
-    "author": "Johannes Stockhammer et al.",
+    "title": "Reading Why: Born-Measured Attention with Exact Word Evidence on Light and Qubits",
+    "author": "Teerawat Tongloy et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.09006v1"
+    "url": "http://arxiv.org/abs/2611.05355v1"
   },
   {
-    "title": "LLM-Assisted Planning with Distributed Onboard Behaviour Tree Execution for Multi-AUV Missions",
-    "author": "Ehsan Khorrambakht et al.",
+    "title": "4K Image Super-Resolution on Mobile NPUs: Mobile AI 2026 Challenge Report",
+    "author": "Andrey Ignatov et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.04518v1"
+    "url": "http://arxiv.org/abs/2611.00963v1"
   }
 ]
