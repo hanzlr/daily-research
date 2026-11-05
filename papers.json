@@ -1,15 +1,15 @@
 [
   {
-    "title": "Perceptive Humanoid Motion from Simulation",
-    "author": "Siyuan Hu et al.",
+    "title": "Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions",
+    "author": "Mohammadreza Kamaldar",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.06908v1"
+    "url": "http://arxiv.org/abs/2604.23995v4"
   },
   {
-    "title": "Distributed Linear Bandits for Freshness-Aware Preprocessing in MEC-Enabled Digital Twin Networks",
-    "author": "Mariam Yahya et al.",
+    "title": "A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations",
+    "author": "Sajad Ahmadi et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.05115v1"
+    "url": "http://arxiv.org/abs/2610.28570v1"
   },
   {
     "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
@@ -18,22 +18,22 @@
     "url": "http://arxiv.org/abs/2609.33795v2"
   },
   {
-    "title": "Uncertainty-Guided Cross-Modal Alignment for Diffusion-Based IoT Intrusion Detection",
-    "author": "Mahdi Arab Loodaricheh et al.",
+    "title": "A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation",
+    "author": "Mahedee Zaman Moon et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.39117v1"
+    "url": "http://arxiv.org/abs/2609.27828v1"
   },
   {
-    "title": "Dexterous Robotic Hands in the Foundation-Model Era: A Full-Stack Survey of Hardware, Data, Cross-Embodiment Transfer, Learning, and Evaluation",
-    "author": "Ji Pei",
+    "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
+    "author": "Hediyeh Soltanizadeh et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.06724v1"
+    "url": "http://arxiv.org/abs/2610.37508v1"
   },
   {
-    "title": "Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions",
-    "author": "Mohammadreza Kamaldar",
+    "title": "Balancing hierarchical representation and quantization: A performance trade-off in text embeddings",
+    "author": "Kai Ponel et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2604.23995v4"
+    "url": "http://arxiv.org/abs/2611.06859v1"
   },
   {
     "title": "Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research",
@@ -42,21 +42,21 @@
     "url": "http://arxiv.org/abs/2607.23220v1"
   },
   {
-    "title": "A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation",
-    "author": "Mahedee Zaman Moon et al.",
+    "title": "From Reconstruction to Imputation: Test-Time Optimization for Missing Time-Series Channels",
+    "author": "Björn Ludwig et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2609.27828v1"
+    "url": "http://arxiv.org/abs/2611.06612v1"
   },
   {
-    "title": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
-    "author": "Mattia Greiche et al.",
+    "title": "FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors",
+    "author": "Nicolas Tricard et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.06914v1"
+    "url": "http://arxiv.org/abs/2611.06912v1"
   },
   {
-    "title": "A Unified XAI-NSAI Analytical Framework for Trustworthy IoT Anomaly Detection",
-    "author": "Hugues Leger et al.",
+    "title": "Perceptive Humanoid Motion from Simulation",
+    "author": "Siyuan Hu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.41424v1"
+    "url": "http://arxiv.org/abs/2611.06908v1"
   }
 ]
