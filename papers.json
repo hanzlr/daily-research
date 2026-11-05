@@ -1,62 +1,62 @@
 [
   {
-    "title": "Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research",
-    "author": "Ad-Deen Mahbub et al.",
+    "title": "Enabling AWS Cloud FPGA Development Using High-Level Vitis HLS",
+    "author": "David Rostcheck",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2607.23220v1"
+    "url": "http://arxiv.org/abs/2611.06829v1"
   },
   {
-    "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
-    "author": "Hediyeh Soltanizadeh et al.",
+    "title": "TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting",
+    "author": "Mohammad Kazemi et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.37508v1"
+    "url": "http://arxiv.org/abs/2610.37909v1"
   },
   {
-    "title": "Shrinkage prior for implicit generative models",
-    "author": "Shreya Sinha-Roy et al.",
+    "title": "4K Image Super-Resolution on Mobile NPUs: Mobile AI 2026 Challenge Report",
+    "author": "Andrey Ignatov et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.05241v1"
+    "url": "http://arxiv.org/abs/2611.00963v1"
   },
   {
-    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
-    "author": "Anas Hussin et al.",
+    "title": "Distributed Linear Bandits for Freshness-Aware Preprocessing in MEC-Enabled Digital Twin Networks",
+    "author": "Mariam Yahya et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28807v1"
+    "url": "http://arxiv.org/abs/2611.05115v1"
   },
   {
-    "title": "A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation",
-    "author": "Mahedee Zaman Moon et al.",
+    "title": "Networked AI: Architecture, Theory, and Applications",
+    "author": "Liang Song et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2609.27828v1"
+    "url": "http://arxiv.org/abs/2611.03063v1"
   },
   {
-    "title": "Universal Hardness From Masking Channels",
-    "author": "Parikshit Gopalan et al.",
+    "title": "Uncertainty-Guided Cross-Modal Alignment for Diffusion-Based IoT Intrusion Detection",
+    "author": "Mahdi Arab Loodaricheh et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.05296v1"
+    "url": "http://arxiv.org/abs/2610.39117v1"
   },
   {
-    "title": "LLMs as MDP Designers: A Dependency-Aware Agentic Framework for Automated Robot Policy Generation",
-    "author": "Hong Je-Gal et al.",
+    "title": "Spectral and Conformal: Neural Network Methods for Calibrated Trajectory Prediction and Control-Point Intervals",
+    "author": "Jasmine Ratchford et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.04974v1"
+    "url": "http://arxiv.org/abs/2611.00231v1"
   },
   {
-    "title": "NovoCRF: Globally Normalized De Novo Peptide Sequencing on a Prefix-Mass Lattice",
-    "author": "Rui Qiao et al.",
+    "title": "Thermally Conditioned Time-Series Forecasting of Grain Growth in Polycrystalline Materials",
+    "author": "Eliane Younes et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.05260v1"
+    "url": "http://arxiv.org/abs/2611.06843v1"
   },
   {
-    "title": "A Circuit for In-Context Learning",
-    "author": "Andrew Gao et al.",
+    "title": "A Unified XAI-NSAI Analytical Framework for Trustworthy IoT Anomaly Detection",
+    "author": "Hugues Leger et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.05344v1"
+    "url": "http://arxiv.org/abs/2610.41424v1"
   },
   {
-    "title": "Implementation of Dynamic Microsegmentation for a Multi-Robot Network",
-    "author": "Vishwam Raval et al.",
+    "title": "Enhancing Grid Stability with Synchronverter-Based Control for Grid-Side Converters in Wind Power Systems",
+    "author": "Alan Valadez et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.30102v1"
+    "url": "http://arxiv.org/abs/2611.02976v1"
   }
 ]

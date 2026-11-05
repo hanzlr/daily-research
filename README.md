@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Thursday, 05 November 2026
+## 🗓️ Friday, 06 November 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
-| Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37508v1) |
-| Shrinkage prior for implicit generative models | Shreya Sinha-Roy et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05241v1) |
-| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
-| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
-| Universal Hardness From Masking Channels | Parikshit Gopalan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05296v1) |
-| LLMs as MDP Designers: A Dependency-Aware Agentic Framework for Automated Robot Policy Generation | Hong Je-Gal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.04974v1) |
-| NovoCRF: Globally Normalized De Novo Peptide Sequencing on a Prefix-Mass Lattice | Rui Qiao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05260v1) |
-| A Circuit for In-Context Learning | Andrew Gao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05344v1) |
-| Implementation of Dynamic Microsegmentation for a Multi-Robot Network | Vishwam Raval et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30102v1) |
+| Enabling AWS Cloud FPGA Development Using High-Level Vitis HLS | David Rostcheck | 2026 | [📄 Read](http://arxiv.org/abs/2611.06829v1) |
+| TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting | Mohammad Kazemi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37909v1) |
+| 4K Image Super-Resolution on Mobile NPUs: Mobile AI 2026 Challenge Report | Andrey Ignatov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.00963v1) |
+| Distributed Linear Bandits for Freshness-Aware Preprocessing in MEC-Enabled Digital Twin Networks | Mariam Yahya et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05115v1) |
+| Networked AI: Architecture, Theory, and Applications | Liang Song et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03063v1) |
+| Uncertainty-Guided Cross-Modal Alignment for Diffusion-Based IoT Intrusion Detection | Mahdi Arab Loodaricheh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.39117v1) |
+| Spectral and Conformal: Neural Network Methods for Calibrated Trajectory Prediction and Control-Point Intervals | Jasmine Ratchford et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.00231v1) |
+| Thermally Conditioned Time-Series Forecasting of Grain Growth in Polycrystalline Materials | Eliane Younes et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.06843v1) |
+| A Unified XAI-NSAI Analytical Framework for Trustworthy IoT Anomaly Detection | Hugues Leger et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.41424v1) |
+| Enhancing Grid Stability with Synchronverter-Based Control for Grid-Side Converters in Wind Power Systems | Alan Valadez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.02976v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 05 November 2026, 01:21 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 06 November 2026, 01:24 WIB</sub>

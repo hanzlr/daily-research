@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Enabling AWS Cloud FPGA Development Using High-Level Vitis HLS",
+    "author": "David Rostcheck",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.06829v1"
+  },
+  {
+    "title": "TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting",
+    "author": "Mohammad Kazemi et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.37909v1"
+  },
+  {
+    "title": "4K Image Super-Resolution on Mobile NPUs: Mobile AI 2026 Challenge Report",
+    "author": "Andrey Ignatov et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.00963v1"
+  },
+  {
+    "title": "Distributed Linear Bandits for Freshness-Aware Preprocessing in MEC-Enabled Digital Twin Networks",
+    "author": "Mariam Yahya et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.05115v1"
+  },
+  {
+    "title": "Networked AI: Architecture, Theory, and Applications",
+    "author": "Liang Song et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.03063v1"
+  },
+  {
+    "title": "Uncertainty-Guided Cross-Modal Alignment for Diffusion-Based IoT Intrusion Detection",
+    "author": "Mahdi Arab Loodaricheh et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.39117v1"
+  },
+  {
+    "title": "Spectral and Conformal: Neural Network Methods for Calibrated Trajectory Prediction and Control-Point Intervals",
+    "author": "Jasmine Ratchford et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.00231v1"
+  },
+  {
+    "title": "Thermally Conditioned Time-Series Forecasting of Grain Growth in Polycrystalline Materials",
+    "author": "Eliane Younes et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.06843v1"
+  },
+  {
+    "title": "A Unified XAI-NSAI Analytical Framework for Trustworthy IoT Anomaly Detection",
+    "author": "Hugues Leger et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.41424v1"
+  },
+  {
+    "title": "Enhancing Grid Stability with Synchronverter-Based Control for Grid-Side Converters in Wind Power Systems",
+    "author": "Alan Valadez et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.02976v1"
+  }
+]
