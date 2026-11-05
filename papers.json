@@ -1,21 +1,9 @@
 [
   {
-    "title": "Enabling AWS Cloud FPGA Development Using High-Level Vitis HLS",
-    "author": "David Rostcheck",
+    "title": "Perceptive Humanoid Motion from Simulation",
+    "author": "Siyuan Hu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.06829v1"
-  },
-  {
-    "title": "TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting",
-    "author": "Mohammad Kazemi et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.37909v1"
-  },
-  {
-    "title": "4K Image Super-Resolution on Mobile NPUs: Mobile AI 2026 Challenge Report",
-    "author": "Andrey Ignatov et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.00963v1"
+    "url": "http://arxiv.org/abs/2611.06908v1"
   },
   {
     "title": "Distributed Linear Bandits for Freshness-Aware Preprocessing in MEC-Enabled Digital Twin Networks",
@@ -24,10 +12,10 @@
     "url": "http://arxiv.org/abs/2611.05115v1"
   },
   {
-    "title": "Networked AI: Architecture, Theory, and Applications",
-    "author": "Liang Song et al.",
+    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
+    "author": "Alexander Winkler et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.03063v1"
+    "url": "http://arxiv.org/abs/2609.33795v2"
   },
   {
     "title": "Uncertainty-Guided Cross-Modal Alignment for Diffusion-Based IoT Intrusion Detection",
@@ -36,27 +24,39 @@
     "url": "http://arxiv.org/abs/2610.39117v1"
   },
   {
-    "title": "Spectral and Conformal: Neural Network Methods for Calibrated Trajectory Prediction and Control-Point Intervals",
-    "author": "Jasmine Ratchford et al.",
+    "title": "Dexterous Robotic Hands in the Foundation-Model Era: A Full-Stack Survey of Hardware, Data, Cross-Embodiment Transfer, Learning, and Evaluation",
+    "author": "Ji Pei",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.00231v1"
+    "url": "http://arxiv.org/abs/2611.06724v1"
   },
   {
-    "title": "Thermally Conditioned Time-Series Forecasting of Grain Growth in Polycrystalline Materials",
-    "author": "Eliane Younes et al.",
+    "title": "Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions",
+    "author": "Mohammadreza Kamaldar",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.06843v1"
+    "url": "http://arxiv.org/abs/2604.23995v4"
+  },
+  {
+    "title": "Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research",
+    "author": "Ad-Deen Mahbub et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2607.23220v1"
+  },
+  {
+    "title": "A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation",
+    "author": "Mahedee Zaman Moon et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2609.27828v1"
+  },
+  {
+    "title": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
+    "author": "Mattia Greiche et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.06914v1"
   },
   {
     "title": "A Unified XAI-NSAI Analytical Framework for Trustworthy IoT Anomaly Detection",
     "author": "Hugues Leger et al.",
     "year": "2026",
     "url": "http://arxiv.org/abs/2610.41424v1"
-  },
-  {
-    "title": "Enhancing Grid Stability with Synchronverter-Based Control for Grid-Side Converters in Wind Power Systems",
-    "author": "Alan Valadez et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.02976v1"
   }
 ]
