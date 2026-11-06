@@ -1,62 +1,62 @@
 [
   {
-    "title": "Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions",
-    "author": "Mohammadreza Kamaldar",
+    "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
+    "author": "Jonathan Kozaczuk et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2604.23995v4"
+    "url": "http://arxiv.org/abs/2611.08487v1"
   },
   {
-    "title": "A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations",
-    "author": "Sajad Ahmadi et al.",
+    "title": "Enhancing Grid Stability with Synchronverter-Based Control for Grid-Side Converters in Wind Power Systems",
+    "author": "Alan Valadez et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28570v1"
+    "url": "http://arxiv.org/abs/2611.02976v1"
   },
   {
-    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
-    "author": "Alexander Winkler et al.",
+    "title": "Series-wise Cross-validation for Global Time Series Forecasting",
+    "author": "Vitor Cerqueira et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2609.33795v2"
+    "url": "http://arxiv.org/abs/2611.08252v1"
   },
   {
-    "title": "A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation",
-    "author": "Mahedee Zaman Moon et al.",
+    "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
+    "author": "Linqian Wu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2609.27828v1"
+    "url": "http://arxiv.org/abs/2611.08469v1"
   },
   {
-    "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
-    "author": "Hediyeh Soltanizadeh et al.",
+    "title": "Do sEMG Foundation Models Improve Cross-Subject Generalisation?",
+    "author": "William Raftery et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.37508v1"
+    "url": "http://arxiv.org/abs/2611.08199v1"
   },
   {
-    "title": "Balancing hierarchical representation and quantization: A performance trade-off in text embeddings",
-    "author": "Kai Ponel et al.",
+    "title": "Data-driven discovery of intrinsic Lie point symmetries of differential equation systems",
+    "author": "Ilker Gurcan et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.06859v1"
+    "url": "http://arxiv.org/abs/2611.08421v1"
   },
   {
-    "title": "Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research",
-    "author": "Ad-Deen Mahbub et al.",
+    "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+    "author": "Fazl Barez et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2607.23220v1"
+    "url": "http://arxiv.org/abs/2611.08438v1"
   },
   {
-    "title": "From Reconstruction to Imputation: Test-Time Optimization for Missing Time-Series Channels",
-    "author": "Björn Ludwig et al.",
+    "title": "Energy Measurement and Optimization of TinyML in Resource-Constrained Embedded Systems: A Systematic Mapping Study",
+    "author": "Clariele Almeida et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.06612v1"
+    "url": "http://arxiv.org/abs/2611.07264v1"
   },
   {
-    "title": "FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors",
-    "author": "Nicolas Tricard et al.",
+    "title": "Distributed Linear Bandits for Freshness-Aware Preprocessing in MEC-Enabled Digital Twin Networks",
+    "author": "Mariam Yahya et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.06912v1"
+    "url": "http://arxiv.org/abs/2611.05115v1"
   },
   {
-    "title": "Perceptive Humanoid Motion from Simulation",
-    "author": "Siyuan Hu et al.",
+    "title": "A Modular Open-Source Python Framework for Small Satellite Attitude Determination and Control",
+    "author": "Patrick McKeen et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.06908v1"
+    "url": "http://arxiv.org/abs/2611.03957v1"
   }
 ]
