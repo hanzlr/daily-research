@@ -1,0 +1,62 @@
+[
+  {
+    "title": "TactileLab: Sim-to-Real Dexterous Robot Manipulation with Efficient Shear-Sensitive Tactile Simulation",
+    "author": "Yijiong Lin et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.07881v1"
+  },
+  {
+    "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+    "author": "Fazl Barez et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.08438v1"
+  },
+  {
+    "title": "XStack: A Benchmark for ML Repo Migration",
+    "author": "Linrong Cai et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.08472v1"
+  },
+  {
+    "title": "Educational robotics beyond ROS: a custom library for direct transfer of Webots controllers in the Turtlebot3",
+    "author": "Jaime P. Pérez-Moro et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.08142v1"
+  },
+  {
+    "title": "VisionSIM: Beyond Idealized Sensors - A Multi-Modal Simulator for Robot Perception",
+    "author": "Sacha Jungerman et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.08368v1"
+  },
+  {
+    "title": "Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions",
+    "author": "Mohammadreza Kamaldar",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2604.23995v4"
+  },
+  {
+    "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
+    "author": "Jonathan Kozaczuk et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.08487v1"
+  },
+  {
+    "title": "SCALE: Real-Time Latent Communication for Cyber-Physical Agents",
+    "author": "Shanghao Shi et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.08390v1"
+  },
+  {
+    "title": "Data-driven discovery of intrinsic Lie point symmetries of differential equation systems",
+    "author": "Ilker Gurcan et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.08421v1"
+  },
+  {
+    "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
+    "author": "Linqian Wu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.08469v1"
+  }
+]
