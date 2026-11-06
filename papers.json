@@ -1,39 +1,15 @@
 [
   {
-    "title": "Not Losing Your Way: Mitigating Visual-Inertial Odometry Drift through On-Demand Visual Feature Creation",
-    "author": "Simone D'Angelo et al.",
+    "title": "Data-driven discovery of intrinsic Lie point symmetries of differential equation systems",
+    "author": "Ilker Gurcan et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.07687v1"
+    "url": "http://arxiv.org/abs/2611.08421v1"
   },
   {
-    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
-    "author": "Anas Hussin et al.",
+    "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+    "author": "Fazl Barez et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28807v1"
-  },
-  {
-    "title": "A Modular Open-Source Python Framework for Small Satellite Attitude Determination and Control",
-    "author": "Patrick McKeen et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.03957v1"
-  },
-  {
-    "title": "A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations",
-    "author": "Sajad Ahmadi et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28570v1"
-  },
-  {
-    "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
-    "author": "Jonathan Kozaczuk et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.08487v1"
-  },
-  {
-    "title": "Spectral and Conformal: Neural Network Methods for Calibrated Trajectory Prediction and Control-Point Intervals",
-    "author": "Jasmine Ratchford et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.00231v1"
+    "url": "http://arxiv.org/abs/2611.08438v1"
   },
   {
     "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
@@ -42,21 +18,45 @@
     "url": "http://arxiv.org/abs/2611.08469v1"
   },
   {
-    "title": "Implementation of Dynamic Microsegmentation for a Multi-Robot Network",
-    "author": "Vishwam Raval et al.",
+    "title": "A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations",
+    "author": "Sajad Ahmadi et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.30102v1"
+    "url": "http://arxiv.org/abs/2610.28570v1"
   },
   {
-    "title": "Fast and Reliable Open-Vocabulary Object Search with Absence Detection from Robot Memory",
-    "author": "Nicholas Paul et al.",
+    "title": "Distributed Linear Bandits for Freshness-Aware Preprocessing in MEC-Enabled Digital Twin Networks",
+    "author": "Mariam Yahya et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.07493v1"
+    "url": "http://arxiv.org/abs/2611.05115v1"
   },
   {
-    "title": "Educational robotics beyond ROS: a custom library for direct transfer of Webots controllers in the Turtlebot3",
-    "author": "Jaime P. Pérez-Moro et al.",
+    "title": "The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI",
+    "author": "Julian Kunkel et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.08142v1"
+    "url": "http://arxiv.org/abs/2611.08428v1"
+  },
+  {
+    "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
+    "author": "Hediyeh Soltanizadeh et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.37508v1"
+  },
+  {
+    "title": "INLA for Adaptive UAV Sampling of Radio Environment Maps in IoT Networks: Prior Width Governs Accuracy and Calibration",
+    "author": "Changhao He et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.40723v1"
+  },
+  {
+    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
+    "author": "Anas Hussin et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.28807v1"
+  },
+  {
+    "title": "Interpretable Multimodal MRI-Clinical Fusion for Functional Outcome Prediction After Acute Ischemic Stroke",
+    "author": "Sina Raeisadigh et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.08154v1"
   }
 ]
