@@ -1,45 +1,9 @@
 [
   {
-    "title": "Projection-Free Gradient Tracking Neurodynamic for Distributed Nonnegative Sparse Optimization",
-    "author": "Juntao Li et al.",
+    "title": "TactileLab: Sim-to-Real Dexterous Robot Manipulation with Efficient Shear-Sensitive Tactile Simulation",
+    "author": "Yijiong Lin et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.07643v1"
-  },
-  {
-    "title": "VisionSIM: Beyond Idealized Sensors - A Multi-Modal Simulator for Robot Perception",
-    "author": "Sacha Jungerman et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.08368v1"
-  },
-  {
-    "title": "A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation",
-    "author": "Mahedee Zaman Moon et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2609.27828v1"
-  },
-  {
-    "title": "SCALE: Real-Time Latent Communication for Cyber-Physical Agents",
-    "author": "Shanghao Shi et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.08390v1"
-  },
-  {
-    "title": "Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research",
-    "author": "Ad-Deen Mahbub et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2607.23220v1"
-  },
-  {
-    "title": "Invariance before structure: two modes of emergent compression in representation learning",
-    "author": "Hardik Rajpal et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.07952v1"
-  },
-  {
-    "title": "Interpretable Multimodal MRI-Clinical Fusion for Functional Outcome Prediction After Acute Ischemic Stroke",
-    "author": "Sina Raeisadigh et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.08154v1"
+    "url": "http://arxiv.org/abs/2611.07881v1"
   },
   {
     "title": "Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks",
@@ -48,15 +12,51 @@
     "url": "http://arxiv.org/abs/2611.08417v1"
   },
   {
-    "title": "TactileLab: Sim-to-Real Dexterous Robot Manipulation with Efficient Shear-Sensitive Tactile Simulation",
-    "author": "Yijiong Lin et al.",
+    "title": "Educational robotics beyond ROS: a custom library for direct transfer of Webots controllers in the Turtlebot3",
+    "author": "Jaime P. Pérez-Moro et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.07881v1"
+    "url": "http://arxiv.org/abs/2611.08142v1"
   },
   {
     "title": "The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI",
     "author": "Julian Kunkel et al.",
     "year": "2026",
     "url": "http://arxiv.org/abs/2611.08428v1"
+  },
+  {
+    "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
+    "author": "Linqian Wu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.08469v1"
+  },
+  {
+    "title": "Series-wise Cross-validation for Global Time Series Forecasting",
+    "author": "Vitor Cerqueira et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.08252v1"
+  },
+  {
+    "title": "VisionSIM: Beyond Idealized Sensors - A Multi-Modal Simulator for Robot Perception",
+    "author": "Sacha Jungerman et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.08368v1"
+  },
+  {
+    "title": "Time-Indexed Skill Success Models for Latency-Aware Skill Selection and Timing in Dynamic Manipulation",
+    "author": "Mohsen Omidi et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.07964v1"
+  },
+  {
+    "title": "Interpretable Multimodal MRI-Clinical Fusion for Functional Outcome Prediction After Acute Ischemic Stroke",
+    "author": "Sina Raeisadigh et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.08154v1"
+  },
+  {
+    "title": "Do sEMG Foundation Models Improve Cross-Subject Generalisation?",
+    "author": "William Raftery et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.08199v1"
   }
 ]
