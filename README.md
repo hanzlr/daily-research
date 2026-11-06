@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| TactileLab: Sim-to-Real Dexterous Robot Manipulation with Efficient Shear-Sensitive Tactile Simulation | Yijiong Lin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07881v1) |
-| Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks | E. Kelly Buchanan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08417v1) |
-| Educational robotics beyond ROS: a custom library for direct transfer of Webots controllers in the Turtlebot3 | Jaime P. Pérez-Moro et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08142v1) |
-| The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI | Julian Kunkel et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08428v1) |
+| Not Losing Your Way: Mitigating Visual-Inertial Odometry Drift through On-Demand Visual Feature Creation | Simone D'Angelo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07687v1) |
+| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
+| A Modular Open-Source Python Framework for Small Satellite Attitude Determination and Control | Patrick McKeen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03957v1) |
+| A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations | Sajad Ahmadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28570v1) |
+| User Embeddings are Superpositions of Interpretable Behavioral Modes | Jonathan Kozaczuk et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08487v1) |
+| Spectral and Conformal: Neural Network Methods for Calibrated Trajectory Prediction and Control-Point Intervals | Jasmine Ratchford et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.00231v1) |
 | Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information | Linqian Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08469v1) |
-| Series-wise Cross-validation for Global Time Series Forecasting | Vitor Cerqueira et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08252v1) |
-| VisionSIM: Beyond Idealized Sensors - A Multi-Modal Simulator for Robot Perception | Sacha Jungerman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08368v1) |
-| Time-Indexed Skill Success Models for Latency-Aware Skill Selection and Timing in Dynamic Manipulation | Mohsen Omidi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07964v1) |
-| Interpretable Multimodal MRI-Clinical Fusion for Functional Outcome Prediction After Acute Ischemic Stroke | Sina Raeisadigh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08154v1) |
-| Do sEMG Foundation Models Improve Cross-Subject Generalisation? | William Raftery et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08199v1) |
+| Implementation of Dynamic Microsegmentation for a Multi-Robot Network | Vishwam Raval et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30102v1) |
+| Fast and Reliable Open-Vocabulary Object Search with Absence Detection from Robot Memory | Nicholas Paul et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07493v1) |
+| Educational robotics beyond ROS: a custom library for direct transfer of Webots controllers in the Turtlebot3 | Jaime P. Pérez-Moro et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08142v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 06 November 2026, 20:45 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 06 November 2026, 21:45 WIB</sub>
