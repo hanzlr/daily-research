@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Interpretable Multimodal MRI-Clinical Fusion for Functional Outcome Prediction After Acute Ischemic Stroke | Sina Raeisadigh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08154v1) |
-| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
-| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
-| Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information | Linqian Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08469v1) |
-| Evaluating Wi-Fi HaLow for Next-Generation Capsule Endoscopy | Ziyao Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.34184v1) |
-| Enhancing Local and Global Structure in Compressed AI Agent Memory | Henry Han | 2026 | [📄 Read](http://arxiv.org/abs/2611.08341v1) |
-| Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control | Johannes Stockhammer | 2026 | [📄 Read](http://arxiv.org/abs/2610.17385v1) |
-| QFabric: Guarded Cross-Domain Task Recovery and Its Limits on a Linux-RTOS Board | Ayushman Bhattacharya et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.01598v1) |
+| Energy Measurement and Optimization of TinyML in Resource-Constrained Embedded Systems: A Systematic Mapping Study | Clariele Almeida et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07264v1) |
+| 4K Image Super-Resolution on Mobile NPUs: Mobile AI 2026 Challenge Report | Andrey Ignatov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.00963v1) |
 | Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks | E. Kelly Buchanan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08417v1) |
-| Data-driven discovery of intrinsic Lie point symmetries of differential equation systems | Ilker Gurcan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08421v1) |
+| Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information | Linqian Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08469v1) |
+| Don't Prompt Your Agents. Equip Them: Skillware as a Modular Standard for Sovereign, Auditable, and Deterministic Capability Execution for Logical Systems | Vladimiros Peilivanidis | 2026 | [📄 Read](http://arxiv.org/abs/2611.07652v1) |
+| IMUDINO: Self-distilled Foundation Model for Inertial Sensing | Zhoutong Ye et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07437v1) |
+| The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI | Julian Kunkel et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08428v1) |
+| Understanding Data Influence in Transportation Networks: A Physics-Constrained Influence-Function Framework | Hamidreza Attari et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07526v1) |
+| XStack: A Benchmark for ML Repo Migration | Linrong Cai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08472v1) |
+| User Embeddings are Superpositions of Interpretable Behavioral Modes | Jonathan Kozaczuk et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08487v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 06 November 2026, 14:40 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 06 November 2026, 17:07 WIB</sub>
