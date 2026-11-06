@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Energy Measurement and Optimization of TinyML in Resource-Constrained Embedded Systems: A Systematic Mapping Study | Clariele Almeida et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07264v1) |
-| 4K Image Super-Resolution on Mobile NPUs: Mobile AI 2026 Challenge Report | Andrey Ignatov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.00963v1) |
+| Projection-Free Gradient Tracking Neurodynamic for Distributed Nonnegative Sparse Optimization | Juntao Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07643v1) |
+| VisionSIM: Beyond Idealized Sensors - A Multi-Modal Simulator for Robot Perception | Sacha Jungerman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08368v1) |
+| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
+| SCALE: Real-Time Latent Communication for Cyber-Physical Agents | Shanghao Shi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08390v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| Invariance before structure: two modes of emergent compression in representation learning | Hardik Rajpal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07952v1) |
+| Interpretable Multimodal MRI-Clinical Fusion for Functional Outcome Prediction After Acute Ischemic Stroke | Sina Raeisadigh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08154v1) |
 | Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks | E. Kelly Buchanan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08417v1) |
-| Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information | Linqian Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08469v1) |
-| Don't Prompt Your Agents. Equip Them: Skillware as a Modular Standard for Sovereign, Auditable, and Deterministic Capability Execution for Logical Systems | Vladimiros Peilivanidis | 2026 | [📄 Read](http://arxiv.org/abs/2611.07652v1) |
-| IMUDINO: Self-distilled Foundation Model for Inertial Sensing | Zhoutong Ye et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07437v1) |
+| TactileLab: Sim-to-Real Dexterous Robot Manipulation with Efficient Shear-Sensitive Tactile Simulation | Yijiong Lin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07881v1) |
 | The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI | Julian Kunkel et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08428v1) |
-| Understanding Data Influence in Transportation Networks: A Physics-Constrained Influence-Function Framework | Hamidreza Attari et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07526v1) |
-| XStack: A Benchmark for ML Repo Migration | Linrong Cai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08472v1) |
-| User Embeddings are Superpositions of Interpretable Behavioral Modes | Jonathan Kozaczuk et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08487v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 06 November 2026, 17:07 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 06 November 2026, 19:34 WIB</sub>
