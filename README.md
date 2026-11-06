@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Data-driven discovery of intrinsic Lie point symmetries of differential equation systems | Ilker Gurcan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08421v1) |
-| Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety | Fazl Barez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08438v1) |
-| Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information | Linqian Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08469v1) |
-| A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations | Sajad Ahmadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28570v1) |
-| Distributed Linear Bandits for Freshness-Aware Preprocessing in MEC-Enabled Digital Twin Networks | Mariam Yahya et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05115v1) |
-| The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI | Julian Kunkel et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08428v1) |
-| Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37508v1) |
-| INLA for Adaptive UAV Sampling of Radio Environment Maps in IoT Networks: Prior Width Governs Accuracy and Calibration | Changhao He et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40723v1) |
-| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
-| Interpretable Multimodal MRI-Clinical Fusion for Functional Outcome Prediction After Acute Ischemic Stroke | Sina Raeisadigh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08154v1) |
+| Scientist World: Grow a Research World for AI-Scientists | Taiming Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08478v1) |
+| Educational robotics beyond ROS: a custom library for direct transfer of Webots controllers in the Turtlebot3 | Jaime P. Pérez-Moro et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08142v1) |
+| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
+| Not Losing Your Way: Mitigating Visual-Inertial Odometry Drift through On-Demand Visual Feature Creation | Simone D'Angelo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07687v1) |
+| A Modular Open-Source Python Framework for Small Satellite Attitude Determination and Control | Patrick McKeen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03957v1) |
+| Fast and Reliable Open-Vocabulary Object Search with Absence Detection from Robot Memory | Nicholas Paul et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07493v1) |
+| Evaluating Wi-Fi HaLow for Next-Generation Capsule Endoscopy | Ziyao Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.34184v1) |
+| Time-Indexed Skill Success Models for Latency-Aware Skill Selection and Timing in Dynamic Manipulation | Mohsen Omidi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07964v1) |
+| User Embeddings are Superpositions of Interpretable Behavioral Modes | Jonathan Kozaczuk et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08487v1) |
+| Enhancing Grid Stability with Synchronverter-Based Control for Grid-Side Converters in Wind Power Systems | Alan Valadez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.02976v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 07 November 2026, 00:46 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 07 November 2026, 02:48 WIB</sub>
