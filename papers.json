@@ -1,62 +1,62 @@
 [
   {
-    "title": "TactileLab: Sim-to-Real Dexterous Robot Manipulation with Efficient Shear-Sensitive Tactile Simulation",
-    "author": "Yijiong Lin et al.",
+    "title": "A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations",
+    "author": "Sajad Ahmadi et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.07881v1"
+    "url": "http://arxiv.org/abs/2610.28570v1"
   },
   {
-    "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
-    "author": "Fazl Barez et al.",
+    "title": "Replica-Aware Split Inference for Edge IoT Systems",
+    "author": "Zied Jenhani et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.08438v1"
+    "url": "http://arxiv.org/abs/2611.04779v1"
   },
   {
-    "title": "Data-driven discovery of intrinsic Lie point symmetries of differential equation systems",
-    "author": "Ilker Gurcan et al.",
+    "title": "4K Image Super-Resolution on Mobile NPUs: Mobile AI 2026 Challenge Report",
+    "author": "Andrey Ignatov et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.08421v1"
+    "url": "http://arxiv.org/abs/2611.00963v1"
   },
   {
-    "title": "Spectral and Conformal: Neural Network Methods for Calibrated Trajectory Prediction and Control-Point Intervals",
-    "author": "Jasmine Ratchford et al.",
+    "title": "Energy Measurement and Optimization of TinyML in Resource-Constrained Embedded Systems: A Systematic Mapping Study",
+    "author": "Clariele Almeida et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.00231v1"
+    "url": "http://arxiv.org/abs/2611.07264v1"
   },
   {
-    "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
-    "author": "Qile Jiang et al.",
+    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
+    "author": "Anas Hussin et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.08483v1"
+    "url": "http://arxiv.org/abs/2610.28807v1"
   },
   {
-    "title": "Projection-Free Gradient Tracking Neurodynamic for Distributed Nonnegative Sparse Optimization",
-    "author": "Juntao Li et al.",
+    "title": "Distributed Linear Bandits for Freshness-Aware Preprocessing in MEC-Enabled Digital Twin Networks",
+    "author": "Mariam Yahya et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.07643v1"
+    "url": "http://arxiv.org/abs/2611.05115v1"
   },
   {
-    "title": "When Does Blockwise Additivity Break? Diagnosing and Repairing the Additive Assumption in Distillation-Based Architecture Search",
-    "author": "Yuefeng Xu et al.",
+    "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
+    "author": "Hediyeh Soltanizadeh et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.07487v1"
+    "url": "http://arxiv.org/abs/2610.37508v1"
   },
   {
-    "title": "Enhancing Grid Stability with Synchronverter-Based Control for Grid-Side Converters in Wind Power Systems",
-    "author": "Alan Valadez et al.",
+    "title": "XStack: A Benchmark for ML Repo Migration",
+    "author": "Linrong Cai et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.02976v1"
-  },
-  {
-    "title": "SCALE: Real-Time Latent Communication for Cyber-Physical Agents",
-    "author": "Shanghao Shi et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.08390v1"
+    "url": "http://arxiv.org/abs/2611.08472v1"
   },
   {
     "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
     "author": "Linqian Wu et al.",
     "year": "2026",
     "url": "http://arxiv.org/abs/2611.08469v1"
+  },
+  {
+    "title": "Don't Prompt Your Agents. Equip Them: Skillware as a Modular Standard for Sovereign, Auditable, and Deterministic Capability Execution for Logical Systems",
+    "author": "Vladimiros Peilivanidis",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.07652v1"
   }
 ]

@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| TactileLab: Sim-to-Real Dexterous Robot Manipulation with Efficient Shear-Sensitive Tactile Simulation | Yijiong Lin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07881v1) |
-| Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety | Fazl Barez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08438v1) |
-| Data-driven discovery of intrinsic Lie point symmetries of differential equation systems | Ilker Gurcan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08421v1) |
-| Spectral and Conformal: Neural Network Methods for Calibrated Trajectory Prediction and Control-Point Intervals | Jasmine Ratchford et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.00231v1) |
-| SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization | Qile Jiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08483v1) |
-| Projection-Free Gradient Tracking Neurodynamic for Distributed Nonnegative Sparse Optimization | Juntao Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07643v1) |
-| When Does Blockwise Additivity Break? Diagnosing and Repairing the Additive Assumption in Distillation-Based Architecture Search | Yuefeng Xu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07487v1) |
-| Enhancing Grid Stability with Synchronverter-Based Control for Grid-Side Converters in Wind Power Systems | Alan Valadez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.02976v1) |
-| SCALE: Real-Time Latent Communication for Cyber-Physical Agents | Shanghao Shi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08390v1) |
+| A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations | Sajad Ahmadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28570v1) |
+| Replica-Aware Split Inference for Edge IoT Systems | Zied Jenhani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.04779v1) |
+| 4K Image Super-Resolution on Mobile NPUs: Mobile AI 2026 Challenge Report | Andrey Ignatov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.00963v1) |
+| Energy Measurement and Optimization of TinyML in Resource-Constrained Embedded Systems: A Systematic Mapping Study | Clariele Almeida et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07264v1) |
+| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
+| Distributed Linear Bandits for Freshness-Aware Preprocessing in MEC-Enabled Digital Twin Networks | Mariam Yahya et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05115v1) |
+| Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37508v1) |
+| XStack: A Benchmark for ML Repo Migration | Linrong Cai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08472v1) |
 | Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information | Linqian Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08469v1) |
+| Don't Prompt Your Agents. Equip Them: Skillware as a Modular Standard for Sovereign, Auditable, and Deterministic Capability Execution for Logical Systems | Vladimiros Peilivanidis | 2026 | [📄 Read](http://arxiv.org/abs/2611.07652v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 07 November 2026, 13:50 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 07 November 2026, 16:25 WIB</sub>
