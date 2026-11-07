@@ -1,62 +1,62 @@
 [
   {
-    "title": "Educational robotics beyond ROS: a custom library for direct transfer of Webots controllers in the Turtlebot3",
-    "author": "Jaime P. Pérez-Moro et al.",
+    "title": "IMUDINO: Self-distilled Foundation Model for Inertial Sensing",
+    "author": "Zhoutong Ye et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.08142v1"
+    "url": "http://arxiv.org/abs/2611.07437v1"
   },
   {
-    "title": "Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions",
-    "author": "Mohammadreza Kamaldar",
+    "title": "VisionSIM: Beyond Idealized Sensors - A Multi-Modal Simulator for Robot Perception",
+    "author": "Sacha Jungerman et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2604.23995v4"
+    "url": "http://arxiv.org/abs/2611.08368v1"
   },
   {
-    "title": "Not Losing Your Way: Mitigating Visual-Inertial Odometry Drift through On-Demand Visual Feature Creation",
-    "author": "Simone D'Angelo et al.",
+    "title": "Evaluating Wi-Fi HaLow for Next-Generation Capsule Endoscopy",
+    "author": "Ziyao Zhou et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.07687v1"
+    "url": "http://arxiv.org/abs/2610.34184v1"
   },
   {
-    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
-    "author": "Alexander Winkler et al.",
+    "title": "Energy Measurement and Optimization of TinyML in Resource-Constrained Embedded Systems: A Systematic Mapping Study",
+    "author": "Clariele Almeida et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2609.33795v2"
+    "url": "http://arxiv.org/abs/2611.07264v1"
   },
   {
-    "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
-    "author": "Jonathan Kozaczuk et al.",
+    "title": "Acoustic Anomaly Detection for Early Identification of Drill Jamming",
+    "author": "Maria Beatriz Silva et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.08487v1"
+    "url": "http://arxiv.org/abs/2611.07356v1"
   },
   {
-    "title": "A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation",
-    "author": "Mahedee Zaman Moon et al.",
+    "title": "Do sEMG Foundation Models Improve Cross-Subject Generalisation?",
+    "author": "William Raftery et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2609.27828v1"
+    "url": "http://arxiv.org/abs/2611.08199v1"
   },
   {
-    "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
-    "author": "Fazl Barez et al.",
+    "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
+    "author": "Linqian Wu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.08438v1"
+    "url": "http://arxiv.org/abs/2611.08469v1"
   },
   {
-    "title": "A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations",
-    "author": "Sajad Ahmadi et al.",
+    "title": "Understanding Data Influence in Transportation Networks: A Physics-Constrained Influence-Function Framework",
+    "author": "Hamidreza Attari et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28570v1"
+    "url": "http://arxiv.org/abs/2611.07526v1"
   },
   {
-    "title": "Fast and Reliable Open-Vocabulary Object Search with Absence Detection from Robot Memory",
-    "author": "Nicholas Paul et al.",
+    "title": "Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking",
+    "author": "Johannes Stockhammer et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.07493v1"
+    "url": "http://arxiv.org/abs/2610.09006v1"
   },
   {
-    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
-    "author": "Anas Hussin et al.",
+    "title": "Module-Aware Optimization for Graph Neural Networks",
+    "author": "Guy Hadad et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28807v1"
+    "url": "http://arxiv.org/abs/2611.08379v1"
   }
 ]
