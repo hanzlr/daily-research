@@ -18,16 +18,10 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| TactileLab: Sim-to-Real Dexterous Robot Manipulation with Efficient Shear-Sensitive Tactile Simulation | Yijiong Lin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07881v1) |
-| Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety | Fazl Barez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08438v1) |
-| XStack: A Benchmark for ML Repo Migration | Linrong Cai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08472v1) |
-| Educational robotics beyond ROS: a custom library for direct transfer of Webots controllers in the Turtlebot3 | Jaime P. Pérez-Moro et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08142v1) |
-| VisionSIM: Beyond Idealized Sensors - A Multi-Modal Simulator for Robot Perception | Sacha Jungerman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08368v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
-| User Embeddings are Superpositions of Interpretable Behavioral Modes | Jonathan Kozaczuk et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08487v1) |
-| SCALE: Real-Time Latent Communication for Cyber-Physical Agents | Shanghao Shi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08390v1) |
-| Data-driven discovery of intrinsic Lie point symmetries of differential equation systems | Ilker Gurcan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08421v1) |
-| Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information | Linqian Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08469v1) |
+| A Modular Open-Source Python Framework for Small Satellite Attitude Determination and Control | Patrick McKeen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03957v1) |
+| OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes | Javal Vyas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05179v1) |
+| Enhancing Grid Stability with Synchronverter-Based Control for Grid-Side Converters in Wind Power Systems | Alan Valadez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.02976v1) |
+| Spectral and Conformal: Neural Network Methods for Calibrated Trajectory Prediction and Control-Point Intervals | Jasmine Ratchford et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.00231v1) |
 
 ---
 
@@ -40,4 +34,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 07 November 2026, 03:41 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 07 November 2026, 11:18 WIB</sub>
