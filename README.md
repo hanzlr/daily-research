@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
+| Educational robotics beyond ROS: a custom library for direct transfer of Webots controllers in the Turtlebot3 | Jaime P. Pérez-Moro et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08142v1) |
+| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
+| Not Losing Your Way: Mitigating Visual-Inertial Odometry Drift through On-Demand Visual Feature Creation | Simone D'Angelo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07687v1) |
+| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v2) |
+| User Embeddings are Superpositions of Interpretable Behavioral Modes | Jonathan Kozaczuk et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08487v1) |
+| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
+| Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety | Fazl Barez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08438v1) |
 | A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations | Sajad Ahmadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28570v1) |
-| Replica-Aware Split Inference for Edge IoT Systems | Zied Jenhani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.04779v1) |
-| 4K Image Super-Resolution on Mobile NPUs: Mobile AI 2026 Challenge Report | Andrey Ignatov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.00963v1) |
-| Energy Measurement and Optimization of TinyML in Resource-Constrained Embedded Systems: A Systematic Mapping Study | Clariele Almeida et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07264v1) |
+| Fast and Reliable Open-Vocabulary Object Search with Absence Detection from Robot Memory | Nicholas Paul et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07493v1) |
 | Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
-| Distributed Linear Bandits for Freshness-Aware Preprocessing in MEC-Enabled Digital Twin Networks | Mariam Yahya et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05115v1) |
-| Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37508v1) |
-| XStack: A Benchmark for ML Repo Migration | Linrong Cai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08472v1) |
-| Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information | Linqian Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08469v1) |
-| Don't Prompt Your Agents. Equip Them: Skillware as a Modular Standard for Sovereign, Auditable, and Deterministic Capability Execution for Logical Systems | Vladimiros Peilivanidis | 2026 | [📄 Read](http://arxiv.org/abs/2611.07652v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 07 November 2026, 16:25 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 07 November 2026, 18:23 WIB</sub>
