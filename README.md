@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Sunday, 08 November 2026
+## 🗓️ Monday, 09 November 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| IMUDINO: Self-distilled Foundation Model for Inertial Sensing | Zhoutong Ye et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07437v1) |
-| VisionSIM: Beyond Idealized Sensors - A Multi-Modal Simulator for Robot Perception | Sacha Jungerman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08368v1) |
-| Evaluating Wi-Fi HaLow for Next-Generation Capsule Endoscopy | Ziyao Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.34184v1) |
-| Energy Measurement and Optimization of TinyML in Resource-Constrained Embedded Systems: A Systematic Mapping Study | Clariele Almeida et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07264v1) |
-| Acoustic Anomaly Detection for Early Identification of Drill Jamming | Maria Beatriz Silva et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07356v1) |
-| Do sEMG Foundation Models Improve Cross-Subject Generalisation? | William Raftery et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08199v1) |
+| User Embeddings are Superpositions of Interpretable Behavioral Modes | Jonathan Kozaczuk et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08487v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| Educational robotics beyond ROS: a custom library for direct transfer of Webots controllers in the Turtlebot3 | Jaime P. Pérez-Moro et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08142v1) |
+| A Modular Open-Source Python Framework for Small Satellite Attitude Determination and Control | Patrick McKeen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03957v1) |
 | Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information | Linqian Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08469v1) |
-| Understanding Data Influence in Transportation Networks: A Physics-Constrained Influence-Function Framework | Hamidreza Attari et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07526v1) |
-| Electric Racing Kart with BLDC Drive, LiFePO4 Battery System, Traction Control and Regenerative Braking | Johannes Stockhammer et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.09006v1) |
-| Module-Aware Optimization for Graph Neural Networks | Guy Hadad et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08379v1) |
+| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
+| Spectral and Conformal: Neural Network Methods for Calibrated Trajectory Prediction and Control-Point Intervals | Jasmine Ratchford et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.00231v1) |
+| Scientist World: Grow a Research World for AI-Scientists | Taiming Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08478v1) |
+| OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes | Javal Vyas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05179v1) |
+| SCALE: Real-Time Latent Communication for Cyber-Physical Agents | Shanghao Shi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08390v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 08 November 2026, 00:55 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 09 November 2026, 01:11 WIB</sub>
