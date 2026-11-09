@@ -1,62 +1,62 @@
 [
   {
-    "title": "Can Agentic Systems Close the Gap in Radiology with Production AI Tools?",
-    "author": "Aubin Charley et al.",
+    "title": "FlowMoP: Stochastic Multi-Person Motion Prediction",
+    "author": "Aadya Agrawal et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.09836v1"
+    "url": "http://arxiv.org/abs/2611.09882v1"
   },
   {
-    "title": "INLA for Adaptive UAV Sampling of Radio Environment Maps in IoT Networks: Prior Width Governs Accuracy and Calibration",
-    "author": "Changhao He et al.",
+    "title": "OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes",
+    "author": "Javal Vyas et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.40723v1"
+    "url": "http://arxiv.org/abs/2611.05179v1"
   },
   {
-    "title": "Evaluating Wi-Fi HaLow for Next-Generation Capsule Endoscopy",
-    "author": "Ziyao Zhou et al.",
+    "title": "A Modular Open-Source Python Framework for Small Satellite Attitude Determination and Control",
+    "author": "Patrick McKeen et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.34184v1"
+    "url": "http://arxiv.org/abs/2611.03957v1"
   },
   {
-    "title": "OMCDE: Opposition-based Multi-Stage Matrix-Based Competitive Differential Evolution",
-    "author": "Mohammad Sarhangzadeh et al.",
+    "title": "A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations",
+    "author": "Sajad Ahmadi et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.09167v1"
+    "url": "http://arxiv.org/abs/2610.28570v1"
   },
   {
-    "title": "QFabric: Guarded Cross-Domain Task Recovery and Its Limits on a Linux-RTOS Board",
-    "author": "Ayushman Bhattacharya et al.",
+    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
+    "author": "Anas Hussin et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.01598v1"
+    "url": "http://arxiv.org/abs/2610.28807v1"
   },
   {
-    "title": "A Unified XAI-NSAI Analytical Framework for Trustworthy IoT Anomaly Detection",
-    "author": "Hugues Leger et al.",
+    "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
+    "author": "Hediyeh Soltanizadeh et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.41424v1"
+    "url": "http://arxiv.org/abs/2610.37508v1"
   },
   {
-    "title": "Generative Latent Priors for Interpreting and Steering Protein Language Models",
-    "author": "Daniel Hinjos et al.",
+    "title": "On the (non-)closedness of the set of ReLU networks",
+    "author": "Eloi Martinet et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.09818v1"
+    "url": "http://arxiv.org/abs/2611.09887v1"
   },
   {
-    "title": "Circuit Theory-Informed AI for Condition Monitoring in Power Electronics",
-    "author": "Yubo Song et al.",
+    "title": "Don't Prompt Your Agents. Equip Them: Skillware as a Modular Standard for Sovereign, Auditable, and Deterministic Capability Execution for Logical Systems",
+    "author": "Vladimiros Peilivanidis",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.09141v1"
+    "url": "http://arxiv.org/abs/2611.07652v1"
   },
   {
-    "title": "Distributed Linear Bandits for Freshness-Aware Preprocessing in MEC-Enabled Digital Twin Networks",
-    "author": "Mariam Yahya et al.",
+    "title": "Replica-Aware Split Inference for Edge IoT Systems",
+    "author": "Zied Jenhani et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.05115v1"
+    "url": "http://arxiv.org/abs/2611.04779v1"
   },
   {
-    "title": "Bridging Spiking and Continuous Dynamics in Spiking Neural Networks: A Muscle-Inspired Model",
-    "author": "Maryam Soltani et al.",
+    "title": "Networked AI: Architecture, Theory, and Applications",
+    "author": "Liang Song et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.09295v1"
+    "url": "http://arxiv.org/abs/2611.03063v1"
   }
 ]

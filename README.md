@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Monday, 09 November 2026
+## 🗓️ Tuesday, 10 November 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Can Agentic Systems Close the Gap in Radiology with Production AI Tools? | Aubin Charley et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09836v1) |
-| INLA for Adaptive UAV Sampling of Radio Environment Maps in IoT Networks: Prior Width Governs Accuracy and Calibration | Changhao He et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40723v1) |
-| Evaluating Wi-Fi HaLow for Next-Generation Capsule Endoscopy | Ziyao Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.34184v1) |
-| OMCDE: Opposition-based Multi-Stage Matrix-Based Competitive Differential Evolution | Mohammad Sarhangzadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09167v1) |
-| QFabric: Guarded Cross-Domain Task Recovery and Its Limits on a Linux-RTOS Board | Ayushman Bhattacharya et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.01598v1) |
-| A Unified XAI-NSAI Analytical Framework for Trustworthy IoT Anomaly Detection | Hugues Leger et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.41424v1) |
-| Generative Latent Priors for Interpreting and Steering Protein Language Models | Daniel Hinjos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09818v1) |
-| Circuit Theory-Informed AI for Condition Monitoring in Power Electronics | Yubo Song et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09141v1) |
-| Distributed Linear Bandits for Freshness-Aware Preprocessing in MEC-Enabled Digital Twin Networks | Mariam Yahya et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05115v1) |
-| Bridging Spiking and Continuous Dynamics in Spiking Neural Networks: A Muscle-Inspired Model | Maryam Soltani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09295v1) |
+| FlowMoP: Stochastic Multi-Person Motion Prediction | Aadya Agrawal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09882v1) |
+| OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes | Javal Vyas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05179v1) |
+| A Modular Open-Source Python Framework for Small Satellite Attitude Determination and Control | Patrick McKeen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03957v1) |
+| A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations | Sajad Ahmadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28570v1) |
+| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
+| Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37508v1) |
+| On the (non-)closedness of the set of ReLU networks | Eloi Martinet et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09887v1) |
+| Don't Prompt Your Agents. Equip Them: Skillware as a Modular Standard for Sovereign, Auditable, and Deterministic Capability Execution for Logical Systems | Vladimiros Peilivanidis | 2026 | [📄 Read](http://arxiv.org/abs/2611.07652v1) |
+| Replica-Aware Split Inference for Edge IoT Systems | Zied Jenhani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.04779v1) |
+| Networked AI: Architecture, Theory, and Applications | Liang Song et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03063v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 09 November 2026, 14:40 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 10 November 2026, 00:06 WIB</sub>
