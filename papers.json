@@ -1,62 +1,62 @@
 [
   {
-    "title": "FlowMoP: Stochastic Multi-Person Motion Prediction",
-    "author": "Aadya Agrawal et al.",
+    "title": "Generative Latent Priors for Interpreting and Steering Protein Language Models",
+    "author": "Daniel Hinjos et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.09882v1"
+    "url": "http://arxiv.org/abs/2611.09818v1"
   },
   {
-    "title": "OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes",
-    "author": "Javal Vyas et al.",
+    "title": "Can Agentic Systems Close the Gap in Radiology with Production AI Tools?",
+    "author": "Aubin Charley et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.05179v1"
+    "url": "http://arxiv.org/abs/2611.09836v1"
   },
   {
-    "title": "A Modular Open-Source Python Framework for Small Satellite Attitude Determination and Control",
-    "author": "Patrick McKeen et al.",
+    "title": "Fifty-Two Shades of Pig: What the UCR Archive Really Asks Classifiers to Do",
+    "author": "Omar Swelam et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.03957v1"
+    "url": "http://arxiv.org/abs/2611.09843v1"
   },
   {
-    "title": "A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations",
-    "author": "Sajad Ahmadi et al.",
+    "title": "Personalized health coaching via coachable health age and counterfactual wearable trajectories",
+    "author": "Simon A. Lee et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28570v1"
+    "url": "http://arxiv.org/abs/2611.08568v1"
   },
   {
-    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
-    "author": "Anas Hussin et al.",
+    "title": "INLA for Adaptive UAV Sampling of Radio Environment Maps in IoT Networks: Prior Width Governs Accuracy and Calibration",
+    "author": "Changhao He et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28807v1"
+    "url": "http://arxiv.org/abs/2610.40723v1"
   },
   {
-    "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
-    "author": "Hediyeh Soltanizadeh et al.",
+    "title": "Flow-Guided Target-Space Alignment via Path Consistency",
+    "author": "Ruizhi Yuan et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.37508v1"
+    "url": "http://arxiv.org/abs/2611.09863v1"
   },
   {
-    "title": "On the (non-)closedness of the set of ReLU networks",
-    "author": "Eloi Martinet et al.",
+    "title": "IMUDINO: Self-distilled Foundation Model for Inertial Sensing",
+    "author": "Zhoutong Ye et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.09887v1"
+    "url": "http://arxiv.org/abs/2611.07437v1"
   },
   {
-    "title": "Don't Prompt Your Agents. Equip Them: Skillware as a Modular Standard for Sovereign, Auditable, and Deterministic Capability Execution for Logical Systems",
-    "author": "Vladimiros Peilivanidis",
+    "title": "Evaluation of a Multi-Link Machine Learning Approach for Rainfall Detection Using Satellite Microwave Links",
+    "author": "Mostafa Ftouni et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.07652v1"
+    "url": "http://arxiv.org/abs/2611.09156v1"
   },
   {
-    "title": "Replica-Aware Split Inference for Edge IoT Systems",
-    "author": "Zied Jenhani et al.",
+    "title": "Knowing When to Intervene: Causal Evaluation of AI Agents",
+    "author": "Ayush Sawarni et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.04779v1"
+    "url": "http://arxiv.org/abs/2611.09792v1"
   },
   {
-    "title": "Networked AI: Architecture, Theory, and Applications",
-    "author": "Liang Song et al.",
+    "title": "A Unified XAI-NSAI Analytical Framework for Trustworthy IoT Anomaly Detection",
+    "author": "Hugues Leger et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.03063v1"
+    "url": "http://arxiv.org/abs/2610.41424v1"
   }
 ]

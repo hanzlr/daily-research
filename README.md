@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| FlowMoP: Stochastic Multi-Person Motion Prediction | Aadya Agrawal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09882v1) |
-| OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes | Javal Vyas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05179v1) |
-| A Modular Open-Source Python Framework for Small Satellite Attitude Determination and Control | Patrick McKeen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03957v1) |
-| A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations | Sajad Ahmadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28570v1) |
-| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
-| Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37508v1) |
-| On the (non-)closedness of the set of ReLU networks | Eloi Martinet et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09887v1) |
-| Don't Prompt Your Agents. Equip Them: Skillware as a Modular Standard for Sovereign, Auditable, and Deterministic Capability Execution for Logical Systems | Vladimiros Peilivanidis | 2026 | [📄 Read](http://arxiv.org/abs/2611.07652v1) |
-| Replica-Aware Split Inference for Edge IoT Systems | Zied Jenhani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.04779v1) |
-| Networked AI: Architecture, Theory, and Applications | Liang Song et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03063v1) |
+| Generative Latent Priors for Interpreting and Steering Protein Language Models | Daniel Hinjos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09818v1) |
+| Can Agentic Systems Close the Gap in Radiology with Production AI Tools? | Aubin Charley et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09836v1) |
+| Fifty-Two Shades of Pig: What the UCR Archive Really Asks Classifiers to Do | Omar Swelam et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09843v1) |
+| Personalized health coaching via coachable health age and counterfactual wearable trajectories | Simon A. Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08568v1) |
+| INLA for Adaptive UAV Sampling of Radio Environment Maps in IoT Networks: Prior Width Governs Accuracy and Calibration | Changhao He et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40723v1) |
+| Flow-Guided Target-Space Alignment via Path Consistency | Ruizhi Yuan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09863v1) |
+| IMUDINO: Self-distilled Foundation Model for Inertial Sensing | Zhoutong Ye et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07437v1) |
+| Evaluation of a Multi-Link Machine Learning Approach for Rainfall Detection Using Satellite Microwave Links | Mostafa Ftouni et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09156v1) |
+| Knowing When to Intervene: Causal Evaluation of AI Agents | Ayush Sawarni et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09792v1) |
+| A Unified XAI-NSAI Analytical Framework for Trustworthy IoT Anomaly Detection | Hugues Leger et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.41424v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 10 November 2026, 00:06 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 10 November 2026, 02:15 WIB</sub>
