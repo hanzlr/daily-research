@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
+| On Agentic Manipulation Policies | Chen Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09892v1) |
 | Evaluation of a Multi-Link Machine Learning Approach for Rainfall Detection Using Satellite Microwave Links | Mostafa Ftouni et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09156v1) |
-| Personalized health coaching via coachable health age and counterfactual wearable trajectories | Simon A. Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08568v1) |
 | Flow-Guided Target-Space Alignment via Path Consistency | Ruizhi Yuan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09863v1) |
-| Assessing the Impact of Retrieval-Augmented Generation on Algorithmic Problem-Solving | Gabriel Souza Baggio et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09791v1) |
-| TPS-A*: Path Planning for Any-Shape Vehicles with Certified Collision Checking in Trajectory Parameter Space | Jose Luis Blanco-Claraco et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09210v1) |
+| On the (non-)closedness of the set of ReLU networks | Eloi Martinet et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09887v1) |
+| Personalized health coaching via coachable health age and counterfactual wearable trajectories | Simon A. Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08568v1) |
+| Graded convolutional networks: scale invariance without the scale and robustness to unknown blur | Tanush Shaska | 2026 | [📄 Read](http://arxiv.org/abs/2611.09878v1) |
 | Understanding Data Influence in Transportation Networks: A Physics-Constrained Influence-Function Framework | Hamidreza Attari et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07526v1) |
-| HOC2R: Hand-Object Contact Trajectories for Human-to-Robot Motion Transfer | Hongkun Yu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08920v1) |
-| Distributed Linear Bandits for Freshness-Aware Preprocessing in MEC-Enabled Digital Twin Networks | Mariam Yahya et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05115v1) |
-| Generative Latent Priors for Interpreting and Steering Protein Language Models | Daniel Hinjos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09818v1) |
+| Replica-Aware Split Inference for Edge IoT Systems | Zied Jenhani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.04779v1) |
 | Ensemble Methodology for Reference-Free Confidence Estimation in LLM-based Code Summarization | Marco Colombo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09846v1) |
+| Generative Latent Priors for Interpreting and Steering Protein Language Models | Daniel Hinjos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09818v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 10 November 2026, 04:13 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 10 November 2026, 05:50 WIB</sub>
