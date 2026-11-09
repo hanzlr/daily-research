@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Generative Latent Priors for Interpreting and Steering Protein Language Models | Daniel Hinjos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09818v1) |
-| Can Agentic Systems Close the Gap in Radiology with Production AI Tools? | Aubin Charley et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09836v1) |
-| Fifty-Two Shades of Pig: What the UCR Archive Really Asks Classifiers to Do | Omar Swelam et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09843v1) |
-| Personalized health coaching via coachable health age and counterfactual wearable trajectories | Simon A. Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08568v1) |
-| INLA for Adaptive UAV Sampling of Radio Environment Maps in IoT Networks: Prior Width Governs Accuracy and Calibration | Changhao He et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.40723v1) |
-| Flow-Guided Target-Space Alignment via Path Consistency | Ruizhi Yuan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09863v1) |
-| IMUDINO: Self-distilled Foundation Model for Inertial Sensing | Zhoutong Ye et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07437v1) |
 | Evaluation of a Multi-Link Machine Learning Approach for Rainfall Detection Using Satellite Microwave Links | Mostafa Ftouni et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09156v1) |
-| Knowing When to Intervene: Causal Evaluation of AI Agents | Ayush Sawarni et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09792v1) |
-| A Unified XAI-NSAI Analytical Framework for Trustworthy IoT Anomaly Detection | Hugues Leger et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.41424v1) |
+| Personalized health coaching via coachable health age and counterfactual wearable trajectories | Simon A. Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08568v1) |
+| Flow-Guided Target-Space Alignment via Path Consistency | Ruizhi Yuan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09863v1) |
+| Assessing the Impact of Retrieval-Augmented Generation on Algorithmic Problem-Solving | Gabriel Souza Baggio et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09791v1) |
+| TPS-A*: Path Planning for Any-Shape Vehicles with Certified Collision Checking in Trajectory Parameter Space | Jose Luis Blanco-Claraco et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09210v1) |
+| Understanding Data Influence in Transportation Networks: A Physics-Constrained Influence-Function Framework | Hamidreza Attari et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07526v1) |
+| HOC2R: Hand-Object Contact Trajectories for Human-to-Robot Motion Transfer | Hongkun Yu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08920v1) |
+| Distributed Linear Bandits for Freshness-Aware Preprocessing in MEC-Enabled Digital Twin Networks | Mariam Yahya et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05115v1) |
+| Generative Latent Priors for Interpreting and Steering Protein Language Models | Daniel Hinjos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09818v1) |
+| Ensemble Methodology for Reference-Free Confidence Estimation in LLM-based Code Summarization | Marco Colombo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09846v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 10 November 2026, 02:15 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 10 November 2026, 04:13 WIB</sub>

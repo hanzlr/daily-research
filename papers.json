@@ -1,21 +1,9 @@
 [
   {
-    "title": "Generative Latent Priors for Interpreting and Steering Protein Language Models",
-    "author": "Daniel Hinjos et al.",
+    "title": "Evaluation of a Multi-Link Machine Learning Approach for Rainfall Detection Using Satellite Microwave Links",
+    "author": "Mostafa Ftouni et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.09818v1"
-  },
-  {
-    "title": "Can Agentic Systems Close the Gap in Radiology with Production AI Tools?",
-    "author": "Aubin Charley et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.09836v1"
-  },
-  {
-    "title": "Fifty-Two Shades of Pig: What the UCR Archive Really Asks Classifiers to Do",
-    "author": "Omar Swelam et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.09843v1"
+    "url": "http://arxiv.org/abs/2611.09156v1"
   },
   {
     "title": "Personalized health coaching via coachable health age and counterfactual wearable trajectories",
@@ -24,39 +12,51 @@
     "url": "http://arxiv.org/abs/2611.08568v1"
   },
   {
-    "title": "INLA for Adaptive UAV Sampling of Radio Environment Maps in IoT Networks: Prior Width Governs Accuracy and Calibration",
-    "author": "Changhao He et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.40723v1"
-  },
-  {
     "title": "Flow-Guided Target-Space Alignment via Path Consistency",
     "author": "Ruizhi Yuan et al.",
     "year": "2026",
     "url": "http://arxiv.org/abs/2611.09863v1"
   },
   {
-    "title": "IMUDINO: Self-distilled Foundation Model for Inertial Sensing",
-    "author": "Zhoutong Ye et al.",
+    "title": "Assessing the Impact of Retrieval-Augmented Generation on Algorithmic Problem-Solving",
+    "author": "Gabriel Souza Baggio et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.07437v1"
+    "url": "http://arxiv.org/abs/2611.09791v1"
   },
   {
-    "title": "Evaluation of a Multi-Link Machine Learning Approach for Rainfall Detection Using Satellite Microwave Links",
-    "author": "Mostafa Ftouni et al.",
+    "title": "TPS-A*: Path Planning for Any-Shape Vehicles with Certified Collision Checking in Trajectory Parameter Space",
+    "author": "Jose Luis Blanco-Claraco et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.09156v1"
+    "url": "http://arxiv.org/abs/2611.09210v1"
   },
   {
-    "title": "Knowing When to Intervene: Causal Evaluation of AI Agents",
-    "author": "Ayush Sawarni et al.",
+    "title": "Understanding Data Influence in Transportation Networks: A Physics-Constrained Influence-Function Framework",
+    "author": "Hamidreza Attari et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.09792v1"
+    "url": "http://arxiv.org/abs/2611.07526v1"
   },
   {
-    "title": "A Unified XAI-NSAI Analytical Framework for Trustworthy IoT Anomaly Detection",
-    "author": "Hugues Leger et al.",
+    "title": "HOC2R: Hand-Object Contact Trajectories for Human-to-Robot Motion Transfer",
+    "author": "Hongkun Yu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.41424v1"
+    "url": "http://arxiv.org/abs/2611.08920v1"
+  },
+  {
+    "title": "Distributed Linear Bandits for Freshness-Aware Preprocessing in MEC-Enabled Digital Twin Networks",
+    "author": "Mariam Yahya et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.05115v1"
+  },
+  {
+    "title": "Generative Latent Priors for Interpreting and Steering Protein Language Models",
+    "author": "Daniel Hinjos et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.09818v1"
+  },
+  {
+    "title": "Ensemble Methodology for Reference-Free Confidence Estimation in LLM-based Code Summarization",
+    "author": "Marco Colombo et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.09846v1"
   }
 ]
