@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| On Agentic Manipulation Policies | Chen Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09892v1) |
-| Evaluation of a Multi-Link Machine Learning Approach for Rainfall Detection Using Satellite Microwave Links | Mostafa Ftouni et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09156v1) |
-| Flow-Guided Target-Space Alignment via Path Consistency | Ruizhi Yuan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09863v1) |
-| On the (non-)closedness of the set of ReLU networks | Eloi Martinet et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09887v1) |
-| Personalized health coaching via coachable health age and counterfactual wearable trajectories | Simon A. Lee et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08568v1) |
-| Graded convolutional networks: scale invariance without the scale and robustness to unknown blur | Tanush Shaska | 2026 | [📄 Read](http://arxiv.org/abs/2611.09878v1) |
-| Understanding Data Influence in Transportation Networks: A Physics-Constrained Influence-Function Framework | Hamidreza Attari et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.07526v1) |
-| Replica-Aware Split Inference for Edge IoT Systems | Zied Jenhani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.04779v1) |
-| Ensemble Methodology for Reference-Free Confidence Estimation in LLM-based Code Summarization | Marco Colombo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09846v1) |
-| Generative Latent Priors for Interpreting and Steering Protein Language Models | Daniel Hinjos et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09818v1) |
+| Locating Contact on Tendon-Driven Continuum Robots From Tendon Measurements Alone via Constrained Moving Horizon Estimation | Haitham El-Hussieny | 2026 | [📄 Read](http://arxiv.org/abs/2611.09877v1) |
+| HOC2R: Hand-Object Contact Trajectories for Human-to-Robot Motion Transfer | Hongkun Yu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08920v1) |
+| Robust Readout of Cross-Point Resistive Arrays via Time-Domain Optimization | Taro Tako et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09059v1) |
+| OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes | Javal Vyas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05179v1) |
+| Safe Circumnavigation on Heterogeneous Orbits: A Range-Only HOCBF-QP Framework for Nonholonomic Multi-Agent Systems | Shubham Singh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09112v1) |
+| A Modular Open-Source Python Framework for Small Satellite Attitude Determination and Control | Patrick McKeen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03957v1) |
+| Wellness Robots and the Path to Full Autonomy | Mohammad H. Mahoor et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08930v1) |
+| Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation | Xun Tu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09864v1) |
+| Extended Model-Based Learned Inertial Odometry | Sasanka Kuruppu Arachchige et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09584v1) |
+| Nonlinear Fault Tolerant Control of Wind Turbine Pitch Systems: A Comparative Study | Alessio Dallabona et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09674v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 10 November 2026, 05:50 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 10 November 2026, 06:41 WIB</sub>

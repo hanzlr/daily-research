@@ -1,62 +1,62 @@
 [
   {
-    "title": "On Agentic Manipulation Policies",
-    "author": "Chen Chen et al.",
+    "title": "Locating Contact on Tendon-Driven Continuum Robots From Tendon Measurements Alone via Constrained Moving Horizon Estimation",
+    "author": "Haitham El-Hussieny",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.09892v1"
+    "url": "http://arxiv.org/abs/2611.09877v1"
   },
   {
-    "title": "Evaluation of a Multi-Link Machine Learning Approach for Rainfall Detection Using Satellite Microwave Links",
-    "author": "Mostafa Ftouni et al.",
+    "title": "HOC2R: Hand-Object Contact Trajectories for Human-to-Robot Motion Transfer",
+    "author": "Hongkun Yu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.09156v1"
+    "url": "http://arxiv.org/abs/2611.08920v1"
   },
   {
-    "title": "Flow-Guided Target-Space Alignment via Path Consistency",
-    "author": "Ruizhi Yuan et al.",
+    "title": "Robust Readout of Cross-Point Resistive Arrays via Time-Domain Optimization",
+    "author": "Taro Tako et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.09863v1"
+    "url": "http://arxiv.org/abs/2611.09059v1"
   },
   {
-    "title": "On the (non-)closedness of the set of ReLU networks",
-    "author": "Eloi Martinet et al.",
+    "title": "OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes",
+    "author": "Javal Vyas et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.09887v1"
+    "url": "http://arxiv.org/abs/2611.05179v1"
   },
   {
-    "title": "Personalized health coaching via coachable health age and counterfactual wearable trajectories",
-    "author": "Simon A. Lee et al.",
+    "title": "Safe Circumnavigation on Heterogeneous Orbits: A Range-Only HOCBF-QP Framework for Nonholonomic Multi-Agent Systems",
+    "author": "Shubham Singh et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.08568v1"
+    "url": "http://arxiv.org/abs/2611.09112v1"
   },
   {
-    "title": "Graded convolutional networks: scale invariance without the scale and robustness to unknown blur",
-    "author": "Tanush Shaska",
+    "title": "A Modular Open-Source Python Framework for Small Satellite Attitude Determination and Control",
+    "author": "Patrick McKeen et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.09878v1"
+    "url": "http://arxiv.org/abs/2611.03957v1"
   },
   {
-    "title": "Understanding Data Influence in Transportation Networks: A Physics-Constrained Influence-Function Framework",
-    "author": "Hamidreza Attari et al.",
+    "title": "Wellness Robots and the Path to Full Autonomy",
+    "author": "Mohammad H. Mahoor et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.07526v1"
+    "url": "http://arxiv.org/abs/2611.08930v1"
   },
   {
-    "title": "Replica-Aware Split Inference for Edge IoT Systems",
-    "author": "Zied Jenhani et al.",
+    "title": "Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation",
+    "author": "Xun Tu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.04779v1"
+    "url": "http://arxiv.org/abs/2611.09864v1"
   },
   {
-    "title": "Ensemble Methodology for Reference-Free Confidence Estimation in LLM-based Code Summarization",
-    "author": "Marco Colombo et al.",
+    "title": "Extended Model-Based Learned Inertial Odometry",
+    "author": "Sasanka Kuruppu Arachchige et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.09846v1"
+    "url": "http://arxiv.org/abs/2611.09584v1"
   },
   {
-    "title": "Generative Latent Priors for Interpreting and Steering Protein Language Models",
-    "author": "Daniel Hinjos et al.",
+    "title": "Nonlinear Fault Tolerant Control of Wind Turbine Pitch Systems: A Comparative Study",
+    "author": "Alessio Dallabona et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.09818v1"
+    "url": "http://arxiv.org/abs/2611.09674v1"
   }
 ]
