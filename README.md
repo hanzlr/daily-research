@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
-| Library of Hands: Fix the Hands, Not the World Model | Hasaan Ahmad et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.12678v1) |
-| SLA-Aware Task Offloading in the IoT Edge-Cloud Continuum: Class-Weighted Deep Reinforcement Learning Against an Exact Optimum | Shilpa Golla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.10638v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
-| Implementation of Dynamic Microsegmentation for a Multi-Robot Network | Vishwam Raval et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30102v1) |
-| Modeling and Estimation of a Towed Marine System | Josef Matouš et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.12568v1) |
-| Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37508v1) |
-| Learning Heterogeneous Tactile Representation for General Dexterous Manipulation | Bing Han et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.12806v1) |
-| A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations | Sajad Ahmadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28570v1) |
-| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
+| CHORD: Multi-resolution Compression for Multimodal Time Series | Bibhus Luitel et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.11913v1) |
+| $Σ$-LeWM: Learning World Models via S-Information for Robot Control | Xinrui Zu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.12732v1) |
+| Beyond Sunny Skies: Using Large Language Models to Predict Urban Traffic in Adverse Weather | Zhu Xiao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.12635v1) |
+| When Does Physics Beat Data? Data-Efficient Traffic State Estimation with Amortized PINNs | Anna Lazareva et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.11881v1) |
+| An Empirical Evaluation of Quantum Kernel Stability in Network Intrusion Detection | Sreejonty Chakraborty et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.12219v1) |
+| A Benchmark and Layered Evaluation Protocol for Evidence-Grounded Shared Belief Updating in Connected Robotics | Ranulfo Bezerra et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.11842v1) |
+| LogCDM: Interpretable Log Anomaly Detection via Behavioral Graph Drift and Adaptive Signal Fusion | Suryansh Talukdar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.12775v1) |
+| FedSGN: Federated Sparse Grassmann Newton Learning for IoT Anomaly Detection | Jingjing Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.10718v1) |
+| HomeLoop: A Simulation Framework and Benchmark for Robot-IoT Coordination in Everyday Domestic Assistance and Safety | Ramy ElMallah et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08914v1) |
+| RAIL: Representation-Aligned Imitation Learning for Student-Compatible Teacher Policies | Meraj Mammadov et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.12251v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 11 November 2026, 03:09 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 11 November 2026, 04:11 WIB</sub>

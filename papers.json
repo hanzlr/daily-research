@@ -1,62 +1,62 @@
 [
   {
-    "title": "Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research",
-    "author": "Ad-Deen Mahbub et al.",
+    "title": "CHORD: Multi-resolution Compression for Multimodal Time Series",
+    "author": "Bibhus Luitel et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2607.23220v1"
+    "url": "http://arxiv.org/abs/2611.11913v1"
   },
   {
-    "title": "Library of Hands: Fix the Hands, Not the World Model",
-    "author": "Hasaan Ahmad et al.",
+    "title": "$Σ$-LeWM: Learning World Models via S-Information for Robot Control",
+    "author": "Xinrui Zu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.12678v1"
+    "url": "http://arxiv.org/abs/2611.12732v1"
   },
   {
-    "title": "SLA-Aware Task Offloading in the IoT Edge-Cloud Continuum: Class-Weighted Deep Reinforcement Learning Against an Exact Optimum",
-    "author": "Shilpa Golla et al.",
+    "title": "Beyond Sunny Skies: Using Large Language Models to Predict Urban Traffic in Adverse Weather",
+    "author": "Zhu Xiao et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.10638v1"
+    "url": "http://arxiv.org/abs/2611.12635v1"
   },
   {
-    "title": "Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions",
-    "author": "Mohammadreza Kamaldar",
+    "title": "When Does Physics Beat Data? Data-Efficient Traffic State Estimation with Amortized PINNs",
+    "author": "Anna Lazareva et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2604.23995v4"
+    "url": "http://arxiv.org/abs/2611.11881v1"
   },
   {
-    "title": "Implementation of Dynamic Microsegmentation for a Multi-Robot Network",
-    "author": "Vishwam Raval et al.",
+    "title": "An Empirical Evaluation of Quantum Kernel Stability in Network Intrusion Detection",
+    "author": "Sreejonty Chakraborty et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.30102v1"
+    "url": "http://arxiv.org/abs/2611.12219v1"
   },
   {
-    "title": "Modeling and Estimation of a Towed Marine System",
-    "author": "Josef Matouš et al.",
+    "title": "A Benchmark and Layered Evaluation Protocol for Evidence-Grounded Shared Belief Updating in Connected Robotics",
+    "author": "Ranulfo Bezerra et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.12568v1"
+    "url": "http://arxiv.org/abs/2611.11842v1"
   },
   {
-    "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
-    "author": "Hediyeh Soltanizadeh et al.",
+    "title": "LogCDM: Interpretable Log Anomaly Detection via Behavioral Graph Drift and Adaptive Signal Fusion",
+    "author": "Suryansh Talukdar et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.37508v1"
+    "url": "http://arxiv.org/abs/2611.12775v1"
   },
   {
-    "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
-    "author": "Bing Han et al.",
+    "title": "FedSGN: Federated Sparse Grassmann Newton Learning for IoT Anomaly Detection",
+    "author": "Jingjing Liu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.12806v1"
+    "url": "http://arxiv.org/abs/2611.10718v1"
   },
   {
-    "title": "A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations",
-    "author": "Sajad Ahmadi et al.",
+    "title": "HomeLoop: A Simulation Framework and Benchmark for Robot-IoT Coordination in Everyday Domestic Assistance and Safety",
+    "author": "Ramy ElMallah et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28570v1"
+    "url": "http://arxiv.org/abs/2611.08914v1"
   },
   {
-    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
-    "author": "Anas Hussin et al.",
+    "title": "RAIL: Representation-Aligned Imitation Learning for Student-Compatible Teacher Policies",
+    "author": "Meraj Mammadov et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28807v1"
+    "url": "http://arxiv.org/abs/2611.12251v1"
   }
 ]
