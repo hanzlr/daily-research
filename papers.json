@@ -1,33 +1,27 @@
 [
   {
-    "title": "Locating Contact on Tendon-Driven Continuum Robots From Tendon Measurements Alone via Constrained Moving Horizon Estimation",
-    "author": "Haitham El-Hussieny",
+    "title": "Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels",
+    "author": "Sreejeet Maity et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.09877v1"
+    "url": "http://arxiv.org/abs/2611.12878v1"
   },
   {
-    "title": "HOC2R: Hand-Object Contact Trajectories for Human-to-Robot Motion Transfer",
-    "author": "Hongkun Yu et al.",
+    "title": "Enhancing Grid Stability with Synchronverter-Based Control for Grid-Side Converters in Wind Power Systems",
+    "author": "Alan Valadez et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.08920v1"
+    "url": "http://arxiv.org/abs/2611.02976v1"
   },
   {
-    "title": "Robust Readout of Cross-Point Resistive Arrays via Time-Domain Optimization",
-    "author": "Taro Tako et al.",
+    "title": "Guiding Data Allocation for Robust Subpopulation Generalization",
+    "author": "Zhaoying Pan et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.09059v1"
+    "url": "http://arxiv.org/abs/2611.12884v1"
   },
   {
-    "title": "OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes",
-    "author": "Javal Vyas et al.",
+    "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
+    "author": "Hediyeh Soltanizadeh et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.05179v1"
-  },
-  {
-    "title": "Safe Circumnavigation on Heterogeneous Orbits: A Range-Only HOCBF-QP Framework for Nonholonomic Multi-Agent Systems",
-    "author": "Shubham Singh et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.09112v1"
+    "url": "http://arxiv.org/abs/2610.37508v1"
   },
   {
     "title": "A Modular Open-Source Python Framework for Small Satellite Attitude Determination and Control",
@@ -36,27 +30,33 @@
     "url": "http://arxiv.org/abs/2611.03957v1"
   },
   {
-    "title": "Wellness Robots and the Path to Full Autonomy",
-    "author": "Mohammad H. Mahoor et al.",
+    "title": "Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics",
+    "author": "Majdi Hassan et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.08930v1"
+    "url": "http://arxiv.org/abs/2611.12880v1"
   },
   {
-    "title": "Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation",
-    "author": "Xun Tu et al.",
+    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
+    "author": "Anas Hussin et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.09864v1"
+    "url": "http://arxiv.org/abs/2610.28807v1"
   },
   {
-    "title": "Extended Model-Based Learned Inertial Odometry",
-    "author": "Sasanka Kuruppu Arachchige et al.",
+    "title": "Implementation of Dynamic Microsegmentation for a Multi-Robot Network",
+    "author": "Vishwam Raval et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.09584v1"
+    "url": "http://arxiv.org/abs/2610.30102v1"
   },
   {
-    "title": "Nonlinear Fault Tolerant Control of Wind Turbine Pitch Systems: A Comparative Study",
-    "author": "Alessio Dallabona et al.",
+    "title": "Modeling and Estimation of a Towed Marine System",
+    "author": "Josef Matouš et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.09674v1"
+    "url": "http://arxiv.org/abs/2611.12568v1"
+  },
+  {
+    "title": "A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations",
+    "author": "Sajad Ahmadi et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.28570v1"
   }
 ]

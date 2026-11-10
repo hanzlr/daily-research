@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Tuesday, 10 November 2026
+## 🗓️ Wednesday, 11 November 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Locating Contact on Tendon-Driven Continuum Robots From Tendon Measurements Alone via Constrained Moving Horizon Estimation | Haitham El-Hussieny | 2026 | [📄 Read](http://arxiv.org/abs/2611.09877v1) |
-| HOC2R: Hand-Object Contact Trajectories for Human-to-Robot Motion Transfer | Hongkun Yu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08920v1) |
-| Robust Readout of Cross-Point Resistive Arrays via Time-Domain Optimization | Taro Tako et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09059v1) |
-| OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes | Javal Vyas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05179v1) |
-| Safe Circumnavigation on Heterogeneous Orbits: A Range-Only HOCBF-QP Framework for Nonholonomic Multi-Agent Systems | Shubham Singh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09112v1) |
+| Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels | Sreejeet Maity et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.12878v1) |
+| Enhancing Grid Stability with Synchronverter-Based Control for Grid-Side Converters in Wind Power Systems | Alan Valadez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.02976v1) |
+| Guiding Data Allocation for Robust Subpopulation Generalization | Zhaoying Pan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.12884v1) |
+| Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37508v1) |
 | A Modular Open-Source Python Framework for Small Satellite Attitude Determination and Control | Patrick McKeen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03957v1) |
-| Wellness Robots and the Path to Full Autonomy | Mohammad H. Mahoor et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.08930v1) |
-| Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation | Xun Tu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09864v1) |
-| Extended Model-Based Learned Inertial Odometry | Sasanka Kuruppu Arachchige et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09584v1) |
-| Nonlinear Fault Tolerant Control of Wind Turbine Pitch Systems: A Comparative Study | Alessio Dallabona et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09674v1) |
+| Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics | Majdi Hassan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.12880v1) |
+| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
+| Implementation of Dynamic Microsegmentation for a Multi-Robot Network | Vishwam Raval et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30102v1) |
+| Modeling and Estimation of a Towed Marine System | Josef Matouš et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.12568v1) |
+| A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations | Sajad Ahmadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28570v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 10 November 2026, 06:41 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 11 November 2026, 01:23 WIB</sub>
