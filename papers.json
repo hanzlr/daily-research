@@ -1,45 +1,27 @@
 [
   {
-    "title": "Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels",
-    "author": "Sreejeet Maity et al.",
+    "title": "Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research",
+    "author": "Ad-Deen Mahbub et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.12878v1"
+    "url": "http://arxiv.org/abs/2607.23220v1"
   },
   {
-    "title": "Enhancing Grid Stability with Synchronverter-Based Control for Grid-Side Converters in Wind Power Systems",
-    "author": "Alan Valadez et al.",
+    "title": "Library of Hands: Fix the Hands, Not the World Model",
+    "author": "Hasaan Ahmad et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.02976v1"
+    "url": "http://arxiv.org/abs/2611.12678v1"
   },
   {
-    "title": "Guiding Data Allocation for Robust Subpopulation Generalization",
-    "author": "Zhaoying Pan et al.",
+    "title": "SLA-Aware Task Offloading in the IoT Edge-Cloud Continuum: Class-Weighted Deep Reinforcement Learning Against an Exact Optimum",
+    "author": "Shilpa Golla et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.12884v1"
+    "url": "http://arxiv.org/abs/2611.10638v1"
   },
   {
-    "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
-    "author": "Hediyeh Soltanizadeh et al.",
+    "title": "Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions",
+    "author": "Mohammadreza Kamaldar",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.37508v1"
-  },
-  {
-    "title": "A Modular Open-Source Python Framework for Small Satellite Attitude Determination and Control",
-    "author": "Patrick McKeen et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.03957v1"
-  },
-  {
-    "title": "Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics",
-    "author": "Majdi Hassan et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.12880v1"
-  },
-  {
-    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
-    "author": "Anas Hussin et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28807v1"
+    "url": "http://arxiv.org/abs/2604.23995v4"
   },
   {
     "title": "Implementation of Dynamic Microsegmentation for a Multi-Robot Network",
@@ -54,9 +36,27 @@
     "url": "http://arxiv.org/abs/2611.12568v1"
   },
   {
+    "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
+    "author": "Hediyeh Soltanizadeh et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.37508v1"
+  },
+  {
+    "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+    "author": "Bing Han et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.12806v1"
+  },
+  {
     "title": "A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations",
     "author": "Sajad Ahmadi et al.",
     "year": "2026",
     "url": "http://arxiv.org/abs/2610.28570v1"
+  },
+  {
+    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
+    "author": "Anas Hussin et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.28807v1"
   }
 ]
