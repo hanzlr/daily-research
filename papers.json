@@ -1,27 +1,27 @@
 [
   {
-    "title": "Tailoring Optimization Approaches with Domain Knowledge in Industry Process for Meta-heuristic Development",
-    "author": "Jakub Cebula et al.",
+    "title": "A Benchmark and Layered Evaluation Protocol for Evidence-Grounded Shared Belief Updating in Connected Robotics",
+    "author": "Ranulfo Bezerra et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.13940v1"
+    "url": "http://arxiv.org/abs/2611.11842v1"
   },
   {
-    "title": "FedSGN: Federated Sparse Grassmann Newton Learning for IoT Anomaly Detection",
-    "author": "Jingjing Liu et al.",
+    "title": "Quantifying the Sampling Frequency Invariance of Time-Series Foundation Models for Sensor Data Applications",
+    "author": "Sourish Gunesh Dhekane et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.10718v1"
+    "url": "http://arxiv.org/abs/2611.14425v1"
   },
   {
-    "title": "Continual Instruction Tuning for LLM-ased Management of Continuum Resources",
-    "author": "Lanpei Li et al.",
+    "title": "Bisect-Index-Choose: A Fast and Exact Algorithm for EV Charging under Minimum Charging Rates",
+    "author": "Can Berk Saner",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.10292v2"
+    "url": "http://arxiv.org/abs/2611.10902v1"
   },
   {
-    "title": "QFabric: Guarded Cross-Domain Task Recovery and Its Limits on a Linux-RTOS Board",
-    "author": "Ayushman Bhattacharya et al.",
+    "title": "SLA-Aware Task Offloading in the IoT Edge-Cloud Continuum: Class-Weighted Deep Reinforcement Learning Against an Exact Optimum",
+    "author": "Shilpa Golla et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.01598v1"
+    "url": "http://arxiv.org/abs/2611.10638v1"
   },
   {
     "title": "Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control",
@@ -30,33 +30,33 @@
     "url": "http://arxiv.org/abs/2610.17385v1"
   },
   {
-    "title": "Implementation of Dynamic Microsegmentation for a Multi-Robot Network",
-    "author": "Vishwam Raval et al.",
+    "title": "Obscured Wildfire Flame Detection by Spatio-temporal Analysis of Smoke Patterns Using Frame-wise Transformers",
+    "author": "Uma Meleti et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.30102v1"
+    "url": "http://arxiv.org/abs/2611.14074v1"
   },
   {
-    "title": "Recurrent Modular Structure in Spiking Neural Network Reinforcement Learning",
-    "author": "Vikram Ramavarapu et al.",
+    "title": "Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research",
+    "author": "Ad-Deen Mahbub et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.14262v1"
+    "url": "http://arxiv.org/abs/2607.23220v1"
   },
   {
-    "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
-    "author": "Hediyeh Soltanizadeh et al.",
+    "title": "Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions",
+    "author": "Mohammadreza Kamaldar",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.37508v1"
+    "url": "http://arxiv.org/abs/2604.23995v4"
   },
   {
-    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
-    "author": "Anas Hussin et al.",
+    "title": "Transparency Disclosures for Chain-of-Thought Monitorability",
+    "author": "Jacob Davies et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28807v1"
+    "url": "http://arxiv.org/abs/2611.13873v1"
   },
   {
-    "title": "Bisect-Index-Choose: A Fast and Exact Algorithm for EV Charging under Minimum Charging Rates",
-    "author": "Can Berk Saner",
+    "title": "One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge",
+    "author": "Ilia Larchenko et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.10902v1"
+    "url": "http://arxiv.org/abs/2611.14432v1"
   }
 ]
