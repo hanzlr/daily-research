@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Wednesday, 11 November 2026
+## 🗓️ Thursday, 12 November 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| A Theory of Cross-Validation Variance | Nathaniel S. O'Connell et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14463v1) |
-| A Modular Open-Source Python Framework for Small Satellite Attitude Determination and Control | Patrick McKeen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03957v1) |
-| Accurate predictions of properties of energetic materials with tabular foundation models | Vagn Krister Nes Glomsrud et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14462v1) |
-| Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37508v1) |
-| Incorporating World Models in Decision Making for Next Best View Selection in Active Sensing | Nikita Sarawgi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.13229v1) |
-| Joint-State Inference for Autonomous Excavators Using Cab-View Vision-Control Fusion | Junwei Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.13690v1) |
-| TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics | Peng Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14491v1) |
-| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
-| OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes | Javal Vyas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05179v1) |
-| A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations | Sajad Ahmadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28570v1) |
+| Continual-ARC: Measuring Skill Acquisition over a Working Lifetime | Daniel Lenton | 2026 | [📄 Read](http://arxiv.org/abs/2611.14505v1) |
+| Quantifying the Sampling Frequency Invariance of Time-Series Foundation Models for Sensor Data Applications | Sourish Gunesh Dhekane et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14425v1) |
+| Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control | Johannes Stockhammer | 2026 | [📄 Read](http://arxiv.org/abs/2610.17385v1) |
+| Obscured Wildfire Flame Detection by Spatio-temporal Analysis of Smoke Patterns Using Frame-wise Transformers | Uma Meleti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14074v1) |
+| QFabric: Guarded Cross-Domain Task Recovery and Its Limits on a Linux-RTOS Board | Ayushman Bhattacharya et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.01598v1) |
+| Bayesian inverse problems and epidemic-threshold uncertainty for a heterogeneous SIS reaction-diffusion model | Duc-Lam Duong | 2026 | [📄 Read](http://arxiv.org/abs/2611.14468v1) |
+| Evaluating Wi-Fi HaLow for Next-Generation Capsule Endoscopy | Ziyao Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.34184v1) |
+| A Benchmark and Layered Evaluation Protocol for Evidence-Grounded Shared Belief Updating in Connected Robotics | Ranulfo Bezerra et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.11842v1) |
+| TorchCurves: Differentiable Parametric Curves | Alex Shtoff | 2026 | [📄 Read](http://arxiv.org/abs/2611.14516v1) |
+| Chain of Physics: Supporting Fault Diagnosis with Engineering-Inspired Large Language Model Reasoning | Wenqi Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14263v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 11 November 2026, 14:30 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 12 November 2026, 01:15 WIB</sub>
