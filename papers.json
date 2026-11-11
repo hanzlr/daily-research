@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "title": "A Theory of Cross-Validation Variance",
+    "author": "Nathaniel S. O'Connell et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.14463v1"
+  },
+  {
+    "title": "A Modular Open-Source Python Framework for Small Satellite Attitude Determination and Control",
+    "author": "Patrick McKeen et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.03957v1"
+  },
+  {
+    "title": "Accurate predictions of properties of energetic materials with tabular foundation models",
+    "author": "Vagn Krister Nes Glomsrud et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.14462v1"
+  },
+  {
+    "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
+    "author": "Hediyeh Soltanizadeh et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.37508v1"
+  },
+  {
+    "title": "Incorporating World Models in Decision Making for Next Best View Selection in Active Sensing",
+    "author": "Nikita Sarawgi et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.13229v1"
+  },
+  {
+    "title": "Joint-State Inference for Autonomous Excavators Using Cab-View Vision-Control Fusion",
+    "author": "Junwei Li et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.13690v1"
+  },
+  {
+    "title": "TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics",
+    "author": "Peng Chen et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.14491v1"
+  },
+  {
+    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
+    "author": "Anas Hussin et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.28807v1"
+  },
+  {
+    "title": "OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes",
+    "author": "Javal Vyas et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.05179v1"
+  },
+  {
+    "title": "A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations",
+    "author": "Sajad Ahmadi et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.28570v1"
+  }
+]
