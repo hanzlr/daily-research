@@ -1,27 +1,21 @@
 [
   {
-    "title": "Continual-ARC: Measuring Skill Acquisition over a Working Lifetime",
-    "author": "Daniel Lenton",
+    "title": "Tailoring Optimization Approaches with Domain Knowledge in Industry Process for Meta-heuristic Development",
+    "author": "Jakub Cebula et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.14505v1"
+    "url": "http://arxiv.org/abs/2611.13940v1"
   },
   {
-    "title": "Quantifying the Sampling Frequency Invariance of Time-Series Foundation Models for Sensor Data Applications",
-    "author": "Sourish Gunesh Dhekane et al.",
+    "title": "FedSGN: Federated Sparse Grassmann Newton Learning for IoT Anomaly Detection",
+    "author": "Jingjing Liu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.14425v1"
+    "url": "http://arxiv.org/abs/2611.10718v1"
   },
   {
-    "title": "Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control",
-    "author": "Johannes Stockhammer",
+    "title": "Continual Instruction Tuning for LLM-ased Management of Continuum Resources",
+    "author": "Lanpei Li et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.17385v1"
-  },
-  {
-    "title": "Obscured Wildfire Flame Detection by Spatio-temporal Analysis of Smoke Patterns Using Frame-wise Transformers",
-    "author": "Uma Meleti et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.14074v1"
+    "url": "http://arxiv.org/abs/2611.10292v2"
   },
   {
     "title": "QFabric: Guarded Cross-Domain Task Recovery and Its Limits on a Linux-RTOS Board",
@@ -30,33 +24,39 @@
     "url": "http://arxiv.org/abs/2611.01598v1"
   },
   {
-    "title": "Bayesian inverse problems and epidemic-threshold uncertainty for a heterogeneous SIS reaction-diffusion model",
-    "author": "Duc-Lam Duong",
+    "title": "Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control",
+    "author": "Johannes Stockhammer",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.14468v1"
+    "url": "http://arxiv.org/abs/2610.17385v1"
   },
   {
-    "title": "Evaluating Wi-Fi HaLow for Next-Generation Capsule Endoscopy",
-    "author": "Ziyao Zhou et al.",
+    "title": "Implementation of Dynamic Microsegmentation for a Multi-Robot Network",
+    "author": "Vishwam Raval et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.34184v1"
+    "url": "http://arxiv.org/abs/2610.30102v1"
   },
   {
-    "title": "A Benchmark and Layered Evaluation Protocol for Evidence-Grounded Shared Belief Updating in Connected Robotics",
-    "author": "Ranulfo Bezerra et al.",
+    "title": "Recurrent Modular Structure in Spiking Neural Network Reinforcement Learning",
+    "author": "Vikram Ramavarapu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.11842v1"
+    "url": "http://arxiv.org/abs/2611.14262v1"
   },
   {
-    "title": "TorchCurves: Differentiable Parametric Curves",
-    "author": "Alex Shtoff",
+    "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
+    "author": "Hediyeh Soltanizadeh et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.14516v1"
+    "url": "http://arxiv.org/abs/2610.37508v1"
   },
   {
-    "title": "Chain of Physics: Supporting Fault Diagnosis with Engineering-Inspired Large Language Model Reasoning",
-    "author": "Wenqi Zhou et al.",
+    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
+    "author": "Anas Hussin et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.14263v1"
+    "url": "http://arxiv.org/abs/2610.28807v1"
+  },
+  {
+    "title": "Bisect-Index-Choose: A Fast and Exact Algorithm for EV Charging under Minimum Charging Rates",
+    "author": "Can Berk Saner",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.10902v1"
   }
 ]
