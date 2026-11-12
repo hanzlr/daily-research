@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Thursday, 12 November 2026
+## 🗓️ Friday, 13 November 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Incorporating World Models in Decision Making for Next Best View Selection in Active Sensing | Nikita Sarawgi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.13229v1) |
-| Fast Sampling or High Gain? iP versus PI Control | Mohamed Camil Belhadjoudja | 2026 | [📄 Read](http://arxiv.org/abs/2611.13153v1) |
-| Oscillatory Processing Units as a computing substrate for biomimetic intelligence | Alexander A. Wolf | 2026 | [📄 Read](http://arxiv.org/abs/2611.13840v1) |
-| A Functional Preservation Score for Auditing Connectome Operations: Compression, Alignment, Transport, and Local-Rule Writing | Praveg Vashishtha | 2026 | [📄 Read](http://arxiv.org/abs/2611.13681v1) |
-| TorchCurves: Differentiable Parametric Curves | Alex Shtoff | 2026 | [📄 Read](http://arxiv.org/abs/2611.14516v1) |
+| CroCoMAE: Cross-modal self-supervised collaborative representation learning for SAR-optical remote sensing data | Vito Recchia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14124v1) |
+| Quantifying the Sampling Frequency Invariance of Time-Series Foundation Models for Sensor Data Applications | Sourish Gunesh Dhekane et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14425v1) |
+| DnNP: Denoising Input Uncertainty in Neural Processes | Fatemeh Tohidian et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14424v1) |
 | Differentiable Filtering for Inertial Odometry | Yaru Gu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.13517v1) |
-| OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes | Javal Vyas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05179v1) |
-| From Depth to Safe Depth: Uncertainty-Aware Monocular Perception for Mobile Robot Navigation | Saeid Firouzi Daghigh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.13769v1) |
-| Tailoring Optimization Approaches with Domain Knowledge in Industry Process for Meta-heuristic Development | Jakub Cebula et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.13940v1) |
-| A Modular Open-Source Python Framework for Small Satellite Attitude Determination and Control | Patrick McKeen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03957v1) |
+| Accurate predictions of properties of energetic materials with tabular foundation models | Vagn Krister Nes Glomsrud et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14462v1) |
+| An Empirical Evaluation of Quantum Kernel Stability in Network Intrusion Detection | Sreejonty Chakraborty et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.12219v1) |
+| SLA-Aware Task Offloading in the IoT Edge-Cloud Continuum: Class-Weighted Deep Reinforcement Learning Against an Exact Optimum | Shilpa Golla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.10638v1) |
+| FedSGN: Federated Sparse Grassmann Newton Learning for IoT Anomaly Detection | Jingjing Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.10718v1) |
+| Chain of Physics: Supporting Fault Diagnosis with Engineering-Inspired Large Language Model Reasoning | Wenqi Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14263v1) |
+| Bayesian inverse problems and epidemic-threshold uncertainty for a heterogeneous SIS reaction-diffusion model | Duc-Lam Duong | 2026 | [📄 Read](http://arxiv.org/abs/2611.14468v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 12 November 2026, 17:28 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 13 November 2026, 00:10 WIB</sub>
