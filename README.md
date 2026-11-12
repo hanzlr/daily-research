@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Bisect-Index-Choose: A Fast and Exact Algorithm for EV Charging under Minimum Charging Rates | Can Berk Saner | 2026 | [📄 Read](http://arxiv.org/abs/2611.10902v1) |
-| Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions | Mohammadreza Kamaldar | 2026 | [📄 Read](http://arxiv.org/abs/2604.23995v4) |
-| A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation | Mahedee Zaman Moon et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.27828v1) |
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
-| A Benchmark and Layered Evaluation Protocol for Evidence-Grounded Shared Belief Updating in Connected Robotics | Ranulfo Bezerra et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.11842v1) |
-| A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations | Sajad Ahmadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28570v1) |
-| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
-| Evaluating Wi-Fi HaLow for Next-Generation Capsule Endoscopy | Ziyao Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.34184v1) |
-| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v2) |
-| Obscured Wildfire Flame Detection by Spatio-temporal Analysis of Smoke Patterns Using Frame-wise Transformers | Uma Meleti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14074v1) |
+| Incorporating World Models in Decision Making for Next Best View Selection in Active Sensing | Nikita Sarawgi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.13229v1) |
+| Fast Sampling or High Gain? iP versus PI Control | Mohamed Camil Belhadjoudja | 2026 | [📄 Read](http://arxiv.org/abs/2611.13153v1) |
+| Oscillatory Processing Units as a computing substrate for biomimetic intelligence | Alexander A. Wolf | 2026 | [📄 Read](http://arxiv.org/abs/2611.13840v1) |
+| A Functional Preservation Score for Auditing Connectome Operations: Compression, Alignment, Transport, and Local-Rule Writing | Praveg Vashishtha | 2026 | [📄 Read](http://arxiv.org/abs/2611.13681v1) |
+| TorchCurves: Differentiable Parametric Curves | Alex Shtoff | 2026 | [📄 Read](http://arxiv.org/abs/2611.14516v1) |
+| Differentiable Filtering for Inertial Odometry | Yaru Gu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.13517v1) |
+| OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes | Javal Vyas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05179v1) |
+| From Depth to Safe Depth: Uncertainty-Aware Monocular Perception for Mobile Robot Navigation | Saeid Firouzi Daghigh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.13769v1) |
+| Tailoring Optimization Approaches with Domain Knowledge in Industry Process for Meta-heuristic Development | Jakub Cebula et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.13940v1) |
+| A Modular Open-Source Python Framework for Small Satellite Attitude Determination and Control | Patrick McKeen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.03957v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 12 November 2026, 14:57 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 12 November 2026, 17:28 WIB</sub>

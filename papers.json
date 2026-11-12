@@ -1,62 +1,62 @@
 [
   {
-    "title": "Bisect-Index-Choose: A Fast and Exact Algorithm for EV Charging under Minimum Charging Rates",
-    "author": "Can Berk Saner",
+    "title": "Incorporating World Models in Decision Making for Next Best View Selection in Active Sensing",
+    "author": "Nikita Sarawgi et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.10902v1"
+    "url": "http://arxiv.org/abs/2611.13229v1"
   },
   {
-    "title": "Extracting Exact Lie Derivatives Without Backpropagation: A Dual Compiler for Neural Control Barrier Functions",
-    "author": "Mohammadreza Kamaldar",
+    "title": "Fast Sampling or High Gain? iP versus PI Control",
+    "author": "Mohamed Camil Belhadjoudja",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2604.23995v4"
+    "url": "http://arxiv.org/abs/2611.13153v1"
   },
   {
-    "title": "A Non-Invasive Cloud-Based Migration Strategy for Post-Quantum Cybersecurity in Smart HVAC Systems: Architecture, Implementation, and Empirical Evaluation",
-    "author": "Mahedee Zaman Moon et al.",
+    "title": "Oscillatory Processing Units as a computing substrate for biomimetic intelligence",
+    "author": "Alexander A. Wolf",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2609.27828v1"
+    "url": "http://arxiv.org/abs/2611.13840v1"
   },
   {
-    "title": "Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research",
-    "author": "Ad-Deen Mahbub et al.",
+    "title": "A Functional Preservation Score for Auditing Connectome Operations: Compression, Alignment, Transport, and Local-Rule Writing",
+    "author": "Praveg Vashishtha",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2607.23220v1"
+    "url": "http://arxiv.org/abs/2611.13681v1"
   },
   {
-    "title": "A Benchmark and Layered Evaluation Protocol for Evidence-Grounded Shared Belief Updating in Connected Robotics",
-    "author": "Ranulfo Bezerra et al.",
+    "title": "TorchCurves: Differentiable Parametric Curves",
+    "author": "Alex Shtoff",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.11842v1"
+    "url": "http://arxiv.org/abs/2611.14516v1"
   },
   {
-    "title": "A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations",
-    "author": "Sajad Ahmadi et al.",
+    "title": "Differentiable Filtering for Inertial Odometry",
+    "author": "Yaru Gu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28570v1"
+    "url": "http://arxiv.org/abs/2611.13517v1"
   },
   {
-    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
-    "author": "Anas Hussin et al.",
+    "title": "OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes",
+    "author": "Javal Vyas et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28807v1"
+    "url": "http://arxiv.org/abs/2611.05179v1"
   },
   {
-    "title": "Evaluating Wi-Fi HaLow for Next-Generation Capsule Endoscopy",
-    "author": "Ziyao Zhou et al.",
+    "title": "From Depth to Safe Depth: Uncertainty-Aware Monocular Perception for Mobile Robot Navigation",
+    "author": "Saeid Firouzi Daghigh et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.34184v1"
+    "url": "http://arxiv.org/abs/2611.13769v1"
   },
   {
-    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
-    "author": "Alexander Winkler et al.",
+    "title": "Tailoring Optimization Approaches with Domain Knowledge in Industry Process for Meta-heuristic Development",
+    "author": "Jakub Cebula et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2609.33795v2"
+    "url": "http://arxiv.org/abs/2611.13940v1"
   },
   {
-    "title": "Obscured Wildfire Flame Detection by Spatio-temporal Analysis of Smoke Patterns Using Frame-wise Transformers",
-    "author": "Uma Meleti et al.",
+    "title": "A Modular Open-Source Python Framework for Small Satellite Attitude Determination and Control",
+    "author": "Patrick McKeen et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.14074v1"
+    "url": "http://arxiv.org/abs/2611.03957v1"
   }
 ]
