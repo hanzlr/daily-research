@@ -1,0 +1,62 @@
+[
+  {
+    "title": "A Theory of Cross-Validation Variance",
+    "author": "Nathaniel S. O'Connell et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.14463v1"
+  },
+  {
+    "title": "TanCRAFT: Context-Reasoned Anticipatory Feedback for Assembly Tasks",
+    "author": "Sassan Mokhtar et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.14470v1"
+  },
+  {
+    "title": "Curie's Jarvis: Autonomous Robotic Chemistry Experiments from Printed Protocols",
+    "author": "Rumi Loghmani et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.13251v1"
+  },
+  {
+    "title": "Implementation of Dynamic Microsegmentation for a Multi-Robot Network",
+    "author": "Vishwam Raval et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.30102v1"
+  },
+  {
+    "title": "Accurate predictions of properties of energetic materials with tabular foundation models",
+    "author": "Vagn Krister Nes Glomsrud et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.14462v1"
+  },
+  {
+    "title": "TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics",
+    "author": "Peng Chen et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.14491v1"
+  },
+  {
+    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
+    "author": "Anas Hussin et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.28807v1"
+  },
+  {
+    "title": "Taxonomy-Agnostic Neurosymbolic Grounding of Robot Kinematics",
+    "author": "Bastien Dussard et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.13850v1"
+  },
+  {
+    "title": "Quantifying the Sampling Frequency Invariance of Time-Series Foundation Models for Sensor Data Applications",
+    "author": "Sourish Gunesh Dhekane et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.14425v1"
+  },
+  {
+    "title": "Satellite Pretraining Is Not One Thing: A Matched-Pair Study of Generic and Earth-Observation Foundation Models for Scene Classification",
+    "author": "Sandarbh Agrawal et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.13849v1"
+  }
+]

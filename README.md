@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| CroCoMAE: Cross-modal self-supervised collaborative representation learning for SAR-optical remote sensing data | Vito Recchia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14124v1) |
-| Quantifying the Sampling Frequency Invariance of Time-Series Foundation Models for Sensor Data Applications | Sourish Gunesh Dhekane et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14425v1) |
-| DnNP: Denoising Input Uncertainty in Neural Processes | Fatemeh Tohidian et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14424v1) |
-| Differentiable Filtering for Inertial Odometry | Yaru Gu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.13517v1) |
+| A Theory of Cross-Validation Variance | Nathaniel S. O'Connell et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14463v1) |
+| TanCRAFT: Context-Reasoned Anticipatory Feedback for Assembly Tasks | Sassan Mokhtar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14470v1) |
+| Curie's Jarvis: Autonomous Robotic Chemistry Experiments from Printed Protocols | Rumi Loghmani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.13251v1) |
+| Implementation of Dynamic Microsegmentation for a Multi-Robot Network | Vishwam Raval et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30102v1) |
 | Accurate predictions of properties of energetic materials with tabular foundation models | Vagn Krister Nes Glomsrud et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14462v1) |
-| An Empirical Evaluation of Quantum Kernel Stability in Network Intrusion Detection | Sreejonty Chakraborty et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.12219v1) |
-| SLA-Aware Task Offloading in the IoT Edge-Cloud Continuum: Class-Weighted Deep Reinforcement Learning Against an Exact Optimum | Shilpa Golla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.10638v1) |
-| FedSGN: Federated Sparse Grassmann Newton Learning for IoT Anomaly Detection | Jingjing Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.10718v1) |
-| Chain of Physics: Supporting Fault Diagnosis with Engineering-Inspired Large Language Model Reasoning | Wenqi Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14263v1) |
-| Bayesian inverse problems and epidemic-threshold uncertainty for a heterogeneous SIS reaction-diffusion model | Duc-Lam Duong | 2026 | [📄 Read](http://arxiv.org/abs/2611.14468v1) |
+| TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics | Peng Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14491v1) |
+| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
+| Taxonomy-Agnostic Neurosymbolic Grounding of Robot Kinematics | Bastien Dussard et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.13850v1) |
+| Quantifying the Sampling Frequency Invariance of Time-Series Foundation Models for Sensor Data Applications | Sourish Gunesh Dhekane et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14425v1) |
+| Satellite Pretraining Is Not One Thing: A Matched-Pair Study of Generic and Earth-Observation Foundation Models for Scene Classification | Sandarbh Agrawal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.13849v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 13 November 2026, 00:10 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 13 November 2026, 01:39 WIB</sub>
