@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Friday, 13 November 2026
+## 🗓️ Saturday, 14 November 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| A Theory of Cross-Validation Variance | Nathaniel S. O'Connell et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14463v1) |
-| TanCRAFT: Context-Reasoned Anticipatory Feedback for Assembly Tasks | Sassan Mokhtar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14470v1) |
-| Curie's Jarvis: Autonomous Robotic Chemistry Experiments from Printed Protocols | Rumi Loghmani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.13251v1) |
-| Implementation of Dynamic Microsegmentation for a Multi-Robot Network | Vishwam Raval et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30102v1) |
-| Accurate predictions of properties of energetic materials with tabular foundation models | Vagn Krister Nes Glomsrud et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14462v1) |
-| TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics | Peng Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14491v1) |
-| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
-| Taxonomy-Agnostic Neurosymbolic Grounding of Robot Kinematics | Bastien Dussard et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.13850v1) |
-| Quantifying the Sampling Frequency Invariance of Time-Series Foundation Models for Sensor Data Applications | Sourish Gunesh Dhekane et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14425v1) |
-| Satellite Pretraining Is Not One Thing: A Matched-Pair Study of Generic and Earth-Observation Foundation Models for Scene Classification | Sandarbh Agrawal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.13849v1) |
+| SLA-Aware Task Offloading in the IoT Edge-Cloud Continuum: Class-Weighted Deep Reinforcement Learning Against an Exact Optimum | Shilpa Golla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.10638v1) |
+| A Finite Markov Chain Analysis of the Simplified Swarm Optimisation Update Rule | Wei-Chang Yeh | 2026 | [📄 Read](http://arxiv.org/abs/2611.16541v1) |
+| Evaluating Wi-Fi HaLow for Next-Generation Capsule Endoscopy | Ziyao Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.34184v1) |
+| Optimal feature selection for firewall log analysis using Machine learning and Hybrid Metaheuristic algorithms | Seungwoo Han et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16239v1) |
+| Programming Quantum Circuit Parameters with Large Language Models | Tiago de Souza Farias et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17246v1) |
+| Symmetry in Time: A Representation Theory of Linear Recurrent Memory | Anif N. Shikder et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17162v1) |
+| QFabric: Guarded Cross-Domain Task Recovery and Its Limits on a Linux-RTOS Board | Ayushman Bhattacharya et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.01598v1) |
+| CHORD: Multi-resolution Compression for Multimodal Time Series | Bibhus Luitel et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.11913v1) |
+| A Benchmark and Layered Evaluation Protocol for Evidence-Grounded Shared Belief Updating in Connected Robotics | Ranulfo Bezerra et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.11842v1) |
+| Obscured Wildfire Flame Detection by Spatio-temporal Analysis of Smoke Patterns Using Frame-wise Transformers | Uma Meleti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14074v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 13 November 2026, 01:39 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 14 November 2026, 01:19 WIB</sub>

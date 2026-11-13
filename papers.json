@@ -1,62 +1,62 @@
 [
   {
-    "title": "A Theory of Cross-Validation Variance",
-    "author": "Nathaniel S. O'Connell et al.",
+    "title": "SLA-Aware Task Offloading in the IoT Edge-Cloud Continuum: Class-Weighted Deep Reinforcement Learning Against an Exact Optimum",
+    "author": "Shilpa Golla et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.14463v1"
+    "url": "http://arxiv.org/abs/2611.10638v1"
   },
   {
-    "title": "TanCRAFT: Context-Reasoned Anticipatory Feedback for Assembly Tasks",
-    "author": "Sassan Mokhtar et al.",
+    "title": "A Finite Markov Chain Analysis of the Simplified Swarm Optimisation Update Rule",
+    "author": "Wei-Chang Yeh",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.14470v1"
+    "url": "http://arxiv.org/abs/2611.16541v1"
   },
   {
-    "title": "Curie's Jarvis: Autonomous Robotic Chemistry Experiments from Printed Protocols",
-    "author": "Rumi Loghmani et al.",
+    "title": "Evaluating Wi-Fi HaLow for Next-Generation Capsule Endoscopy",
+    "author": "Ziyao Zhou et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.13251v1"
+    "url": "http://arxiv.org/abs/2610.34184v1"
   },
   {
-    "title": "Implementation of Dynamic Microsegmentation for a Multi-Robot Network",
-    "author": "Vishwam Raval et al.",
+    "title": "Optimal feature selection for firewall log analysis using Machine learning and Hybrid Metaheuristic algorithms",
+    "author": "Seungwoo Han et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.30102v1"
+    "url": "http://arxiv.org/abs/2611.16239v1"
   },
   {
-    "title": "Accurate predictions of properties of energetic materials with tabular foundation models",
-    "author": "Vagn Krister Nes Glomsrud et al.",
+    "title": "Programming Quantum Circuit Parameters with Large Language Models",
+    "author": "Tiago de Souza Farias et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.14462v1"
+    "url": "http://arxiv.org/abs/2611.17246v1"
   },
   {
-    "title": "TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics",
-    "author": "Peng Chen et al.",
+    "title": "Symmetry in Time: A Representation Theory of Linear Recurrent Memory",
+    "author": "Anif N. Shikder et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.14491v1"
+    "url": "http://arxiv.org/abs/2611.17162v1"
   },
   {
-    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
-    "author": "Anas Hussin et al.",
+    "title": "QFabric: Guarded Cross-Domain Task Recovery and Its Limits on a Linux-RTOS Board",
+    "author": "Ayushman Bhattacharya et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28807v1"
+    "url": "http://arxiv.org/abs/2611.01598v1"
   },
   {
-    "title": "Taxonomy-Agnostic Neurosymbolic Grounding of Robot Kinematics",
-    "author": "Bastien Dussard et al.",
+    "title": "CHORD: Multi-resolution Compression for Multimodal Time Series",
+    "author": "Bibhus Luitel et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.13850v1"
+    "url": "http://arxiv.org/abs/2611.11913v1"
   },
   {
-    "title": "Quantifying the Sampling Frequency Invariance of Time-Series Foundation Models for Sensor Data Applications",
-    "author": "Sourish Gunesh Dhekane et al.",
+    "title": "A Benchmark and Layered Evaluation Protocol for Evidence-Grounded Shared Belief Updating in Connected Robotics",
+    "author": "Ranulfo Bezerra et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.14425v1"
+    "url": "http://arxiv.org/abs/2611.11842v1"
   },
   {
-    "title": "Satellite Pretraining Is Not One Thing: A Matched-Pair Study of Generic and Earth-Observation Foundation Models for Scene Classification",
-    "author": "Sandarbh Agrawal et al.",
+    "title": "Obscured Wildfire Flame Detection by Spatio-temporal Analysis of Smoke Patterns Using Frame-wise Transformers",
+    "author": "Uma Meleti et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.13849v1"
+    "url": "http://arxiv.org/abs/2611.14074v1"
   }
 ]
