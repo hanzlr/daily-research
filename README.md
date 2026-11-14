@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research | Jie Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17332v1) |
-| Programming Quantum Circuit Parameters with Large Language Models | Tiago de Souza Farias et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17246v1) |
-| Look It Up: Multi-bit LLM Watermarking via Codebook Search | Jarosław Janas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16890v1) |
-| Sheaf-Inspired Structured Scoring Extensions of LightGCN for Collaborative Filtering | Ksenia Belkovskaya et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17226v1) |
-| Studies on Sign Language Retrieval in Low-Resource Dictionary Settings | Ushnish Sarkar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16621v1) |
-| Theoretical and Empirical Analysis of Sparse Convolution | Keshvi Tuteja et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17212v1) |
-| MALNISI-Infused Graph Construction and Weighted Contrastive Loss based GAT for Unsupervised Representation Learning in HSI | Soumi Sarkar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17199v1) |
-| Sketching Language Models for Context Attribution | Christopher Liaw et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17313v1) |
-| FLEX-LBP: Learning Local Binary Patterns with Exact Binary Inference for Texture Classification | Mohamed Alimoussa et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17302v1) |
+| DySR-GNN: Dynamic Sensor-Relationship Graph Neural Network for Root Cause Analysis in Automotive HiL Multivariate Time Series | Hamza Ouarrad et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16623v1) |
+| Optimal feature selection for firewall log analysis using Machine learning and Hybrid Metaheuristic algorithms | Seungwoo Han et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16239v1) |
+| Unbundling Multimodal Vision Encoding | Ellis Brown et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17334v1) |
+| Acoustic Respiratory Phase Detection on Mobile Devices | Julian Szymanski et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16710v1) |
+| Class-Competence Aggregation: Output-Layer Routing for Federated Multiclass DDoS Detection under Class-Concentrated Non-IID Data | Tapu Datta et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16772v1) |
+| Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation | Zeynep Yıldız et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17329v1) |
+| Stochastic Kernel Mode Decomposition: Information, Uncertainty, and Conditional Regime Inference | Boumediene Hamzi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16874v1) |
+| Similarity-Guided Optimization Strategies for Approximate Network Symmetry Detection | David Hartman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16555v1) |
 | AgentSSL: Can MLE Agents Leverage Unlabeled Data? | Ethan Lin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17323v1) |
+| ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research | Jie Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17332v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 15 November 2026, 01:37 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 15 November 2026, 02:42 WIB</sub>
