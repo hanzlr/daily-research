@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Theoretical and Empirical Analysis of Sparse Convolution",
+    "author": "Keshvi Tuteja et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.17212v1"
+  },
+  {
+    "title": "VOKE: Visual Object Kinematics Estimator for Dexterous In-Hand Manipulation",
+    "author": "Shengjia Zhu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.16423v1"
+  },
+  {
+    "title": "Programming Quantum Circuit Parameters with Large Language Models",
+    "author": "Tiago de Souza Farias et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.17246v1"
+  },
+  {
+    "title": "Continual Instruction Tuning for LLM-based Management of Continuum Resources",
+    "author": "Lanpei Li et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.10292v3"
+  },
+  {
+    "title": "Collaborative Task Allocation for Heterogeneous Multi-Robot Systems Through Iterative Clustering",
+    "author": "David R. Martin et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.17213v1"
+  },
+  {
+    "title": "SLA-Aware Task Offloading in the IoT Edge-Cloud Continuum: Class-Weighted Deep Reinforcement Learning Against an Exact Optimum",
+    "author": "Shilpa Golla et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.10638v1"
+  },
+  {
+    "title": "An Empirical Evaluation of Quantum Kernel Stability in Network Intrusion Detection",
+    "author": "Sreejonty Chakraborty et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.12219v1"
+  },
+  {
+    "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+    "author": "Ethan Lin et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.17323v1"
+  },
+  {
+    "title": "Stochastic Kernel Mode Decomposition: Information, Uncertainty, and Conditional Regime Inference",
+    "author": "Boumediene Hamzi et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.16874v1"
+  },
+  {
+    "title": "Reading the Table: Sim-to-Real Game State Detection for the Chef's Hat Card Game",
+    "author": "Connor Gäde et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.15524v1"
+  }
+]
