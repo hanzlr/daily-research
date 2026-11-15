@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Theoretical and Empirical Analysis of Sparse Convolution | Keshvi Tuteja et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17212v1) |
-| VOKE: Visual Object Kinematics Estimator for Dexterous In-Hand Manipulation | Shengjia Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16423v1) |
-| Programming Quantum Circuit Parameters with Large Language Models | Tiago de Souza Farias et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17246v1) |
-| Continual Instruction Tuning for LLM-based Management of Continuum Resources | Lanpei Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.10292v3) |
-| Collaborative Task Allocation for Heterogeneous Multi-Robot Systems Through Iterative Clustering | David R. Martin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17213v1) |
-| SLA-Aware Task Offloading in the IoT Edge-Cloud Continuum: Class-Weighted Deep Reinforcement Learning Against an Exact Optimum | Shilpa Golla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.10638v1) |
-| An Empirical Evaluation of Quantum Kernel Stability in Network Intrusion Detection | Sreejonty Chakraborty et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.12219v1) |
-| AgentSSL: Can MLE Agents Leverage Unlabeled Data? | Ethan Lin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17323v1) |
-| Stochastic Kernel Mode Decomposition: Information, Uncertainty, and Conditional Regime Inference | Boumediene Hamzi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16874v1) |
+| Acoustic Respiratory Phase Detection on Mobile Devices | Julian Szymanski et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16710v1) |
+| Symmetry in Time: A Representation Theory of Linear Recurrent Memory | Anif N. Shikder et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17162v1) |
+| Class-Competence Aggregation: Output-Layer Routing for Federated Multiclass DDoS Detection under Class-Concentrated Non-IID Data | Tapu Datta et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16772v1) |
 | Reading the Table: Sim-to-Real Game State Detection for the Chef's Hat Card Game | Connor Gäde et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.15524v1) |
+| Optimal feature selection for firewall log analysis using Machine learning and Hybrid Metaheuristic algorithms | Seungwoo Han et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16239v1) |
+| DySR-GNN: Dynamic Sensor-Relationship Graph Neural Network for Root Cause Analysis in Automotive HiL Multivariate Time Series | Hamza Ouarrad et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16623v1) |
+| Collaborative Task Allocation for Heterogeneous Multi-Robot Systems Through Iterative Clustering | David R. Martin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17213v1) |
+| Similarity-Guided Optimization Strategies for Approximate Network Symmetry Detection | David Hartman et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16555v1) |
+| Sketching Language Models for Context Attribution | Christopher Liaw et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17313v1) |
+| BWM-Forge: Agentic World Programming for Embodied Intelligence | BWM Team | 2026 | [📄 Read](http://arxiv.org/abs/2611.16221v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 16 November 2026, 00:30 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 16 November 2026, 02:13 WIB</sub>
