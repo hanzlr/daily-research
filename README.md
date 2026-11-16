@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37508v1) |
-| Binarization as an Attack Surface in Weightless Neural Networks | Lucas Senos Coutinho et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17646v1) |
-| A Benchmark and Layered Evaluation Protocol for Evidence-Grounded Shared Belief Updating in Connected Robotics | Ranulfo Bezerra et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.11842v1) |
-| Few-Shot Open-Set Hyperspectral Pixel-Wise Classification with Spatial Aware Label Propagation | Matheus Pereira et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17974v1) |
-| Learning nonlinear interactions and cross-feature couplings with product-unit residual networks | Ziyuan Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18074v1) |
-| Class-Competence Aggregation: Output-Layer Routing for Federated Multiclass DDoS Detection under Class-Concentrated Non-IID Data | Tapu Datta et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16772v1) |
-| Obscured Wildfire Flame Detection by Spatio-temporal Analysis of Smoke Patterns Using Frame-wise Transformers | Uma Meleti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14074v1) |
-| CHORD: Multi-resolution Compression for Multimodal Time Series | Bibhus Luitel et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.11913v1) |
+| ERA: Error-Resistant Autonomous Object Navigation with Predicted Depth | Shunyang Huang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17730v1) |
+| Dancing Tokens on the Vocabulary Network from LLM Generation | Yuan-Chao Hu | 2026 | [📄 Read](http://arxiv.org/abs/2611.18248v1) |
 | Efficient Poincaré Convolutions through Patch-Statistics Factorization | Lukáš Jochymek et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18125v1) |
-| A Synthetic Benchmark for Target-Centric Causal Discovery in Industrial Processes | Angelo Ziletti | 2026 | [📄 Read](http://arxiv.org/abs/2611.17556v1) |
+| EventSpikeSeg: Memory-Aware Mixed-Signal Architecture for Event-Camera Spiking Segmentation | Amir Mohammad Khadem Hosseini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18524v1) |
+| StreamEmbed: Real-Time Indexing from Pixels for Screenshot Retrieval | Dayoon Ko et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18516v1) |
+| Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles | Wang Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18453v1) |
+| Learning nonlinear interactions and cross-feature couplings with product-unit residual networks | Ziyuan Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18074v1) |
+| EViDS: An Environment--Vehicle Dynamics Integrated Simulation Platform for Intelligent Chassis Development | Lu Xiong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17660v1) |
+| Inner Product Regularization for Imitation Learning | Benjamin A. Christie et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17159v1) |
+| Why Finite Intelligence Works in an Infinite World: A Mathematical Theory | Mojtaba Soltanalian | 2026 | [📄 Read](http://arxiv.org/abs/2611.18538v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 16 November 2026, 21:48 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 16 November 2026, 23:42 WIB</sub>
