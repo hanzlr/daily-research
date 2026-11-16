@@ -1,62 +1,62 @@
 [
   {
-    "title": "Obscured Wildfire Flame Detection by Spatio-temporal Analysis of Smoke Patterns Using Frame-wise Transformers",
-    "author": "Uma Meleti et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.14074v1"
-  },
-  {
-    "title": "A Modulation Strategy for Bidirectional Integrated Onboard and Wireless EV Charging",
-    "author": "Manveer Aujla et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.16950v1"
-  },
-  {
-    "title": "EventSpikeSeg: Memory-Aware Mixed-Signal Architecture for Event-Camera Spiking Segmentation",
-    "author": "Amir Mohammad Khadem Hosseini et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.18524v1"
-  },
-  {
-    "title": "Learning nonlinear interactions and cross-feature couplings with product-unit residual networks",
-    "author": "Ziyuan Li et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.18074v1"
-  },
-  {
-    "title": "Efficient Poincaré Convolutions through Patch-Statistics Factorization",
-    "author": "Lukáš Jochymek et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.18125v1"
-  },
-  {
-    "title": "Design and Experimental Evaluation of a Low-Cost Immersion Cooling System",
-    "author": "Pramukto Mandal et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.17361v1"
-  },
-  {
-    "title": "Few-Shot Open-Set Hyperspectral Pixel-Wise Classification with Spatial Aware Label Propagation",
-    "author": "Matheus Pereira et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.17974v1"
-  },
-  {
-    "title": "Implementation of Dynamic Microsegmentation for a Multi-Robot Network",
-    "author": "Vishwam Raval et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.30102v1"
-  },
-  {
-    "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
-    "author": "Hediyeh Soltanizadeh et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.37508v1"
-  },
-  {
     "title": "Binarization as an Attack Surface in Weightless Neural Networks",
     "author": "Lucas Senos Coutinho et al.",
     "year": "2026",
     "url": "http://arxiv.org/abs/2611.17646v1"
+  },
+  {
+    "title": "Process Mining-Enabled Federated Anomaly Detection for the Industrial IoT",
+    "author": "Francesco Vitale et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.17869v1"
+  },
+  {
+    "title": "FedSGN: Federated Sparse Grassmann Newton Learning for IoT Anomaly Detection",
+    "author": "Jingjing Liu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.10718v1"
+  },
+  {
+    "title": "Asymptotic Margins and Feature Confinement in Conic Classification Heads under Softmax Cross-Entropy",
+    "author": "Omer Nezih Gerek",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.18507v1"
+  },
+  {
+    "title": "Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles",
+    "author": "Wang Ma et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.18453v1"
+  },
+  {
+    "title": "An Empirical Evaluation of Quantum Kernel Stability in Network Intrusion Detection",
+    "author": "Sreejonty Chakraborty et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.12219v1"
+  },
+  {
+    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
+    "author": "Anas Hussin et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.28807v1"
+  },
+  {
+    "title": "Understanding Contextual Bias in Agricultural CNNs Through Hidden-Neuron Concept Induction",
+    "author": "Abhilekha Dalal et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.18530v1"
+  },
+  {
+    "title": "From AI-Enabled Remote Patient Monitoring Toward Agentic Robotics: Embodiment, Governance, and Care Integration",
+    "author": "Ivana Ragusa et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.18484v1"
+  },
+  {
+    "title": "Where Tree Ensembles Decide: Structural Local Explanation with Decision Predicate Graphs",
+    "author": "Sylvio Barbon Junior et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.18382v1"
   }
 ]
