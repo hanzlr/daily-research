@@ -1,45 +1,21 @@
 [
   {
-    "title": "Fast Sampling or High Gain? iP versus PI Control",
-    "author": "Mohamed Camil Belhadjoudja",
+    "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
+    "author": "Hediyeh Soltanizadeh et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.13153v1"
+    "url": "http://arxiv.org/abs/2610.37508v1"
   },
   {
-    "title": "ESI: An Embodied Self-Improvement Flywheel for LLM-VLA Agents",
-    "author": "Yundi Cai et al.",
+    "title": "Binarization as an Attack Surface in Weightless Neural Networks",
+    "author": "Lucas Senos Coutinho et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.18176v1"
+    "url": "http://arxiv.org/abs/2611.17646v1"
   },
   {
-    "title": "Asymptotic Margins and Feature Confinement in Conic Classification Heads under Softmax Cross-Entropy",
-    "author": "Omer Nezih Gerek",
+    "title": "A Benchmark and Layered Evaluation Protocol for Evidence-Grounded Shared Belief Updating in Connected Robotics",
+    "author": "Ranulfo Bezerra et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.18507v1"
-  },
-  {
-    "title": "Efficient Poincaré Convolutions through Patch-Statistics Factorization",
-    "author": "Lukáš Jochymek et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.18125v1"
-  },
-  {
-    "title": "Nonlinear Fault Tolerant Control of Wind Turbine Pitch Systems: A Comparative Study",
-    "author": "Alessio Dallabona et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.09674v1"
-  },
-  {
-    "title": "Collaborative Task Allocation for Heterogeneous Multi-Robot Systems Through Iterative Clustering",
-    "author": "David R. Martin et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.17213v1"
-  },
-  {
-    "title": "EventSpikeSeg: Memory-Aware Mixed-Signal Architecture for Event-Camera Spiking Segmentation",
-    "author": "Amir Mohammad Khadem Hosseini et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.18524v1"
+    "url": "http://arxiv.org/abs/2611.11842v1"
   },
   {
     "title": "Few-Shot Open-Set Hyperspectral Pixel-Wise Classification with Spatial Aware Label Propagation",
@@ -48,15 +24,39 @@
     "url": "http://arxiv.org/abs/2611.17974v1"
   },
   {
-    "title": "Toward Resilient Self-Driving Laboratories through Telerobotic Interventions",
-    "author": "Ziheng Wu et al.",
+    "title": "Learning nonlinear interactions and cross-feature couplings with product-unit residual networks",
+    "author": "Ziyuan Li et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.18496v1"
+    "url": "http://arxiv.org/abs/2611.18074v1"
   },
   {
-    "title": "OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes",
-    "author": "Javal Vyas et al.",
+    "title": "Class-Competence Aggregation: Output-Layer Routing for Federated Multiclass DDoS Detection under Class-Concentrated Non-IID Data",
+    "author": "Tapu Datta et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.05179v1"
+    "url": "http://arxiv.org/abs/2611.16772v1"
+  },
+  {
+    "title": "Obscured Wildfire Flame Detection by Spatio-temporal Analysis of Smoke Patterns Using Frame-wise Transformers",
+    "author": "Uma Meleti et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.14074v1"
+  },
+  {
+    "title": "CHORD: Multi-resolution Compression for Multimodal Time Series",
+    "author": "Bibhus Luitel et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.11913v1"
+  },
+  {
+    "title": "Efficient Poincaré Convolutions through Patch-Statistics Factorization",
+    "author": "Lukáš Jochymek et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.18125v1"
+  },
+  {
+    "title": "A Synthetic Benchmark for Target-Centric Causal Discovery in Industrial Processes",
+    "author": "Angelo Ziletti",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.17556v1"
   }
 ]
