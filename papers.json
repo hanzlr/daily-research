@@ -1,21 +1,15 @@
 [
   {
-    "title": "Binarization as an Attack Surface in Weightless Neural Networks",
-    "author": "Lucas Senos Coutinho et al.",
+    "title": "Fast Sampling or High Gain? iP versus PI Control",
+    "author": "Mohamed Camil Belhadjoudja",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.17646v1"
+    "url": "http://arxiv.org/abs/2611.13153v1"
   },
   {
-    "title": "Process Mining-Enabled Federated Anomaly Detection for the Industrial IoT",
-    "author": "Francesco Vitale et al.",
+    "title": "ESI: An Embodied Self-Improvement Flywheel for LLM-VLA Agents",
+    "author": "Yundi Cai et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.17869v1"
-  },
-  {
-    "title": "FedSGN: Federated Sparse Grassmann Newton Learning for IoT Anomaly Detection",
-    "author": "Jingjing Liu et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.10718v1"
+    "url": "http://arxiv.org/abs/2611.18176v1"
   },
   {
     "title": "Asymptotic Margins and Feature Confinement in Conic Classification Heads under Softmax Cross-Entropy",
@@ -24,39 +18,45 @@
     "url": "http://arxiv.org/abs/2611.18507v1"
   },
   {
-    "title": "Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles",
-    "author": "Wang Ma et al.",
+    "title": "Efficient Poincaré Convolutions through Patch-Statistics Factorization",
+    "author": "Lukáš Jochymek et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.18453v1"
+    "url": "http://arxiv.org/abs/2611.18125v1"
   },
   {
-    "title": "An Empirical Evaluation of Quantum Kernel Stability in Network Intrusion Detection",
-    "author": "Sreejonty Chakraborty et al.",
+    "title": "Nonlinear Fault Tolerant Control of Wind Turbine Pitch Systems: A Comparative Study",
+    "author": "Alessio Dallabona et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.12219v1"
+    "url": "http://arxiv.org/abs/2611.09674v1"
   },
   {
-    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
-    "author": "Anas Hussin et al.",
+    "title": "Collaborative Task Allocation for Heterogeneous Multi-Robot Systems Through Iterative Clustering",
+    "author": "David R. Martin et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28807v1"
+    "url": "http://arxiv.org/abs/2611.17213v1"
   },
   {
-    "title": "Understanding Contextual Bias in Agricultural CNNs Through Hidden-Neuron Concept Induction",
-    "author": "Abhilekha Dalal et al.",
+    "title": "EventSpikeSeg: Memory-Aware Mixed-Signal Architecture for Event-Camera Spiking Segmentation",
+    "author": "Amir Mohammad Khadem Hosseini et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.18530v1"
+    "url": "http://arxiv.org/abs/2611.18524v1"
   },
   {
-    "title": "From AI-Enabled Remote Patient Monitoring Toward Agentic Robotics: Embodiment, Governance, and Care Integration",
-    "author": "Ivana Ragusa et al.",
+    "title": "Few-Shot Open-Set Hyperspectral Pixel-Wise Classification with Spatial Aware Label Propagation",
+    "author": "Matheus Pereira et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.18484v1"
+    "url": "http://arxiv.org/abs/2611.17974v1"
   },
   {
-    "title": "Where Tree Ensembles Decide: Structural Local Explanation with Decision Predicate Graphs",
-    "author": "Sylvio Barbon Junior et al.",
+    "title": "Toward Resilient Self-Driving Laboratories through Telerobotic Interventions",
+    "author": "Ziheng Wu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.18382v1"
+    "url": "http://arxiv.org/abs/2611.18496v1"
+  },
+  {
+    "title": "OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes",
+    "author": "Javal Vyas et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.05179v1"
   }
 ]

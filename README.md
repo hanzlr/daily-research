@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Binarization as an Attack Surface in Weightless Neural Networks | Lucas Senos Coutinho et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17646v1) |
-| Process Mining-Enabled Federated Anomaly Detection for the Industrial IoT | Francesco Vitale et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17869v1) |
-| FedSGN: Federated Sparse Grassmann Newton Learning for IoT Anomaly Detection | Jingjing Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.10718v1) |
+| Fast Sampling or High Gain? iP versus PI Control | Mohamed Camil Belhadjoudja | 2026 | [📄 Read](http://arxiv.org/abs/2611.13153v1) |
+| ESI: An Embodied Self-Improvement Flywheel for LLM-VLA Agents | Yundi Cai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18176v1) |
 | Asymptotic Margins and Feature Confinement in Conic Classification Heads under Softmax Cross-Entropy | Omer Nezih Gerek | 2026 | [📄 Read](http://arxiv.org/abs/2611.18507v1) |
-| Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles | Wang Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18453v1) |
-| An Empirical Evaluation of Quantum Kernel Stability in Network Intrusion Detection | Sreejonty Chakraborty et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.12219v1) |
-| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
-| Understanding Contextual Bias in Agricultural CNNs Through Hidden-Neuron Concept Induction | Abhilekha Dalal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18530v1) |
-| From AI-Enabled Remote Patient Monitoring Toward Agentic Robotics: Embodiment, Governance, and Care Integration | Ivana Ragusa et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18484v1) |
-| Where Tree Ensembles Decide: Structural Local Explanation with Decision Predicate Graphs | Sylvio Barbon Junior et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18382v1) |
+| Efficient Poincaré Convolutions through Patch-Statistics Factorization | Lukáš Jochymek et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18125v1) |
+| Nonlinear Fault Tolerant Control of Wind Turbine Pitch Systems: A Comparative Study | Alessio Dallabona et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09674v1) |
+| Collaborative Task Allocation for Heterogeneous Multi-Robot Systems Through Iterative Clustering | David R. Martin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17213v1) |
+| EventSpikeSeg: Memory-Aware Mixed-Signal Architecture for Event-Camera Spiking Segmentation | Amir Mohammad Khadem Hosseini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18524v1) |
+| Few-Shot Open-Set Hyperspectral Pixel-Wise Classification with Spatial Aware Label Propagation | Matheus Pereira et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17974v1) |
+| Toward Resilient Self-Driving Laboratories through Telerobotic Interventions | Ziheng Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18496v1) |
+| OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes | Javal Vyas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05179v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 16 November 2026, 17:21 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 16 November 2026, 20:13 WIB</sub>
