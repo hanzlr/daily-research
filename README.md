@@ -18,6 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
+| Obscured Wildfire Flame Detection by Spatio-temporal Analysis of Smoke Patterns Using Frame-wise Transformers | Uma Meleti et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.14074v1) |
+| A Modulation Strategy for Bidirectional Integrated Onboard and Wireless EV Charging | Manveer Aujla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16950v1) |
+| EventSpikeSeg: Memory-Aware Mixed-Signal Architecture for Event-Camera Spiking Segmentation | Amir Mohammad Khadem Hosseini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18524v1) |
+| Learning nonlinear interactions and cross-feature couplings with product-unit residual networks | Ziyuan Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18074v1) |
+| Efficient Poincaré Convolutions through Patch-Statistics Factorization | Lukáš Jochymek et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18125v1) |
+| Design and Experimental Evaluation of a Low-Cost Immersion Cooling System | Pramukto Mandal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17361v1) |
+| Few-Shot Open-Set Hyperspectral Pixel-Wise Classification with Spatial Aware Label Propagation | Matheus Pereira et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17974v1) |
+| Implementation of Dynamic Microsegmentation for a Multi-Robot Network | Vishwam Raval et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30102v1) |
+| Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37508v1) |
+| Binarization as an Attack Surface in Weightless Neural Networks | Lucas Senos Coutinho et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17646v1) |
 
 ---
 
@@ -30,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 16 November 2026, 11:27 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 16 November 2026, 14:40 WIB</sub>
