@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Monday, 16 November 2026
+## 🗓️ Tuesday, 17 November 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| ERA: Error-Resistant Autonomous Object Navigation with Predicted Depth | Shunyang Huang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17730v1) |
-| Dancing Tokens on the Vocabulary Network from LLM Generation | Yuan-Chao Hu | 2026 | [📄 Read](http://arxiv.org/abs/2611.18248v1) |
+| A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations | Sajad Ahmadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28570v1) |
+| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
 | Efficient Poincaré Convolutions through Patch-Statistics Factorization | Lukáš Jochymek et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18125v1) |
-| EventSpikeSeg: Memory-Aware Mixed-Signal Architecture for Event-Camera Spiking Segmentation | Amir Mohammad Khadem Hosseini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18524v1) |
-| StreamEmbed: Real-Time Indexing from Pixels for Screenshot Retrieval | Dayoon Ko et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18516v1) |
-| Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles | Wang Ma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18453v1) |
-| Learning nonlinear interactions and cross-feature couplings with product-unit residual networks | Ziyuan Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18074v1) |
-| EViDS: An Environment--Vehicle Dynamics Integrated Simulation Platform for Intelligent Chassis Development | Lu Xiong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17660v1) |
-| Inner Product Regularization for Imitation Learning | Benjamin A. Christie et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17159v1) |
-| Why Finite Intelligence Works in an Infinite World: A Mathematical Theory | Mojtaba Soltanalian | 2026 | [📄 Read](http://arxiv.org/abs/2611.18538v1) |
+| OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes | Javal Vyas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05179v1) |
+| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
+| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v2) |
+| Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37508v1) |
+| Design and Experimental Evaluation of a Low-Cost Immersion Cooling System | Pramukto Mandal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17361v1) |
+| Nonlinear Fault Tolerant Control of Wind Turbine Pitch Systems: A Comparative Study | Alessio Dallabona et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09674v1) |
+| Few-Shot Open-Set Hyperspectral Pixel-Wise Classification with Spatial Aware Label Propagation | Matheus Pereira et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17974v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 16 November 2026, 23:42 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 17 November 2026, 01:58 WIB</sub>

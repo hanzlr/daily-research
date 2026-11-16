@@ -1,15 +1,15 @@
 [
   {
-    "title": "ERA: Error-Resistant Autonomous Object Navigation with Predicted Depth",
-    "author": "Shunyang Huang et al.",
+    "title": "A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations",
+    "author": "Sajad Ahmadi et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.17730v1"
+    "url": "http://arxiv.org/abs/2610.28570v1"
   },
   {
-    "title": "Dancing Tokens on the Vocabulary Network from LLM Generation",
-    "author": "Yuan-Chao Hu",
+    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
+    "author": "Anas Hussin et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.18248v1"
+    "url": "http://arxiv.org/abs/2610.28807v1"
   },
   {
     "title": "Efficient Poincaré Convolutions through Patch-Statistics Factorization",
@@ -18,45 +18,45 @@
     "url": "http://arxiv.org/abs/2611.18125v1"
   },
   {
-    "title": "EventSpikeSeg: Memory-Aware Mixed-Signal Architecture for Event-Camera Spiking Segmentation",
-    "author": "Amir Mohammad Khadem Hosseini et al.",
+    "title": "OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes",
+    "author": "Javal Vyas et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.18524v1"
+    "url": "http://arxiv.org/abs/2611.05179v1"
   },
   {
-    "title": "StreamEmbed: Real-Time Indexing from Pixels for Screenshot Retrieval",
-    "author": "Dayoon Ko et al.",
+    "title": "Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research",
+    "author": "Ad-Deen Mahbub et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.18516v1"
+    "url": "http://arxiv.org/abs/2607.23220v1"
   },
   {
-    "title": "Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles",
-    "author": "Wang Ma et al.",
+    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
+    "author": "Alexander Winkler et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.18453v1"
+    "url": "http://arxiv.org/abs/2609.33795v2"
   },
   {
-    "title": "Learning nonlinear interactions and cross-feature couplings with product-unit residual networks",
-    "author": "Ziyuan Li et al.",
+    "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
+    "author": "Hediyeh Soltanizadeh et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.18074v1"
+    "url": "http://arxiv.org/abs/2610.37508v1"
   },
   {
-    "title": "EViDS: An Environment--Vehicle Dynamics Integrated Simulation Platform for Intelligent Chassis Development",
-    "author": "Lu Xiong et al.",
+    "title": "Design and Experimental Evaluation of a Low-Cost Immersion Cooling System",
+    "author": "Pramukto Mandal et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.17660v1"
+    "url": "http://arxiv.org/abs/2611.17361v1"
   },
   {
-    "title": "Inner Product Regularization for Imitation Learning",
-    "author": "Benjamin A. Christie et al.",
+    "title": "Nonlinear Fault Tolerant Control of Wind Turbine Pitch Systems: A Comparative Study",
+    "author": "Alessio Dallabona et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.17159v1"
+    "url": "http://arxiv.org/abs/2611.09674v1"
   },
   {
-    "title": "Why Finite Intelligence Works in an Infinite World: A Mathematical Theory",
-    "author": "Mojtaba Soltanalian",
+    "title": "Few-Shot Open-Set Hyperspectral Pixel-Wise Classification with Spatial Aware Label Propagation",
+    "author": "Matheus Pereira et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.18538v1"
+    "url": "http://arxiv.org/abs/2611.17974v1"
   }
 ]
