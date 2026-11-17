@@ -1,62 +1,62 @@
 [
   {
-    "title": "A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations",
-    "author": "Sajad Ahmadi et al.",
+    "title": "Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot",
+    "author": "Marya Sabouri Dodaran et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28570v1"
+    "url": "http://arxiv.org/abs/2611.18855v1"
   },
   {
-    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
-    "author": "Anas Hussin et al.",
+    "title": "CoopDistill: Equilibrium-Guided Multi-Agent Policy Distillation for Cooperative Driving",
+    "author": "Shiyu Fang et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28807v1"
+    "url": "http://arxiv.org/abs/2611.21069v1"
   },
   {
-    "title": "Efficient Poincaré Convolutions through Patch-Statistics Factorization",
-    "author": "Lukáš Jochymek et al.",
+    "title": "Evaluation-Free Recursive Self-Improvement for Coding Agents",
+    "author": "Zhe Ren et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.18125v1"
+    "url": "http://arxiv.org/abs/2611.21056v1"
   },
   {
-    "title": "OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes",
-    "author": "Javal Vyas et al.",
+    "title": "Radar Panoptic Transformer: Semantic-Guided Mask Queries for Dynamic Scene Understanding",
+    "author": "Mayank Mayank et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.05179v1"
+    "url": "http://arxiv.org/abs/2611.20203v1"
   },
   {
-    "title": "Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research",
-    "author": "Ad-Deen Mahbub et al.",
+    "title": "Drone Navigation for Fast, Safe Emergency Response",
+    "author": "Pranav Nedunghat et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2607.23220v1"
+    "url": "http://arxiv.org/abs/2611.19818v1"
   },
   {
-    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
-    "author": "Alexander Winkler et al.",
+    "title": "Bisect-Index-Choose: A Fast and Exact Algorithm for EV Charging under Minimum Charging Rates",
+    "author": "Can Berk Saner",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2609.33795v2"
+    "url": "http://arxiv.org/abs/2611.10902v1"
   },
   {
-    "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
-    "author": "Hediyeh Soltanizadeh et al.",
+    "title": "Unreasonable Confidence from Simulator Misspecification: Directional Robustness on the SPEED+ Sim-to-Real Benchmark",
+    "author": "Nikolay Dolgov",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.37508v1"
+    "url": "http://arxiv.org/abs/2611.20321v1"
   },
   {
-    "title": "Design and Experimental Evaluation of a Low-Cost Immersion Cooling System",
-    "author": "Pramukto Mandal et al.",
+    "title": "STA: A Split Temporal Adversary Method for Evaluating Robustness of Multimodal RL-based Driving Policies",
+    "author": "Shenghao Xiong et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.17361v1"
+    "url": "http://arxiv.org/abs/2611.20765v1"
   },
   {
-    "title": "Nonlinear Fault Tolerant Control of Wind Turbine Pitch Systems: A Comparative Study",
-    "author": "Alessio Dallabona et al.",
+    "title": "Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent",
+    "author": "Blas Eugenio Vicco Zarate et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.09674v1"
+    "url": "http://arxiv.org/abs/2611.21598v1"
   },
   {
-    "title": "Few-Shot Open-Set Hyperspectral Pixel-Wise Classification with Spatial Aware Label Propagation",
-    "author": "Matheus Pereira et al.",
+    "title": "A Modulation Strategy for Bidirectional Integrated Onboard and Wireless EV Charging",
+    "author": "Manveer Aujla et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.17974v1"
+    "url": "http://arxiv.org/abs/2611.16950v1"
   }
 ]

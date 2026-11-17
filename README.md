@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Tuesday, 17 November 2026
+## 🗓️ Wednesday, 18 November 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations | Sajad Ahmadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28570v1) |
-| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
-| Efficient Poincaré Convolutions through Patch-Statistics Factorization | Lukáš Jochymek et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18125v1) |
-| OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes | Javal Vyas et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.05179v1) |
-| Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research | Ad-Deen Mahbub et al. | 2026 | [📄 Read](http://arxiv.org/abs/2607.23220v1) |
-| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v2) |
-| Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37508v1) |
-| Design and Experimental Evaluation of a Low-Cost Immersion Cooling System | Pramukto Mandal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17361v1) |
-| Nonlinear Fault Tolerant Control of Wind Turbine Pitch Systems: A Comparative Study | Alessio Dallabona et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09674v1) |
-| Few-Shot Open-Set Hyperspectral Pixel-Wise Classification with Spatial Aware Label Propagation | Matheus Pereira et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17974v1) |
+| Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot | Marya Sabouri Dodaran et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18855v1) |
+| CoopDistill: Equilibrium-Guided Multi-Agent Policy Distillation for Cooperative Driving | Shiyu Fang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.21069v1) |
+| Evaluation-Free Recursive Self-Improvement for Coding Agents | Zhe Ren et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.21056v1) |
+| Radar Panoptic Transformer: Semantic-Guided Mask Queries for Dynamic Scene Understanding | Mayank Mayank et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.20203v1) |
+| Drone Navigation for Fast, Safe Emergency Response | Pranav Nedunghat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.19818v1) |
+| Bisect-Index-Choose: A Fast and Exact Algorithm for EV Charging under Minimum Charging Rates | Can Berk Saner | 2026 | [📄 Read](http://arxiv.org/abs/2611.10902v1) |
+| Unreasonable Confidence from Simulator Misspecification: Directional Robustness on the SPEED+ Sim-to-Real Benchmark | Nikolay Dolgov | 2026 | [📄 Read](http://arxiv.org/abs/2611.20321v1) |
+| STA: A Split Temporal Adversary Method for Evaluating Robustness of Multimodal RL-based Driving Policies | Shenghao Xiong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.20765v1) |
+| Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent | Blas Eugenio Vicco Zarate et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.21598v1) |
+| A Modulation Strategy for Bidirectional Integrated Onboard and Wireless EV Charging | Manveer Aujla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16950v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 17 November 2026, 01:58 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 18 November 2026, 00:56 WIB</sub>

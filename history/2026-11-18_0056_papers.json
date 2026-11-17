@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot",
+    "author": "Marya Sabouri Dodaran et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.18855v1"
+  },
+  {
+    "title": "CoopDistill: Equilibrium-Guided Multi-Agent Policy Distillation for Cooperative Driving",
+    "author": "Shiyu Fang et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.21069v1"
+  },
+  {
+    "title": "Evaluation-Free Recursive Self-Improvement for Coding Agents",
+    "author": "Zhe Ren et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.21056v1"
+  },
+  {
+    "title": "Radar Panoptic Transformer: Semantic-Guided Mask Queries for Dynamic Scene Understanding",
+    "author": "Mayank Mayank et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.20203v1"
+  },
+  {
+    "title": "Drone Navigation for Fast, Safe Emergency Response",
+    "author": "Pranav Nedunghat et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.19818v1"
+  },
+  {
+    "title": "Bisect-Index-Choose: A Fast and Exact Algorithm for EV Charging under Minimum Charging Rates",
+    "author": "Can Berk Saner",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.10902v1"
+  },
+  {
+    "title": "Unreasonable Confidence from Simulator Misspecification: Directional Robustness on the SPEED+ Sim-to-Real Benchmark",
+    "author": "Nikolay Dolgov",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.20321v1"
+  },
+  {
+    "title": "STA: A Split Temporal Adversary Method for Evaluating Robustness of Multimodal RL-based Driving Policies",
+    "author": "Shenghao Xiong et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.20765v1"
+  },
+  {
+    "title": "Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent",
+    "author": "Blas Eugenio Vicco Zarate et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.21598v1"
+  },
+  {
+    "title": "A Modulation Strategy for Bidirectional Integrated Onboard and Wireless EV Charging",
+    "author": "Manveer Aujla et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.16950v1"
+  }
+]
