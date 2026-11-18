@@ -1,62 +1,62 @@
 [
   {
-    "title": "Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot",
-    "author": "Marya Sabouri Dodaran et al.",
+    "title": "Physically Admissible Generative Flow Matching for Sparse Flow Reconstruction",
+    "author": "Yuhao Wang et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.18855v1"
+    "url": "http://arxiv.org/abs/2611.22549v1"
   },
   {
-    "title": "CoopDistill: Equilibrium-Guided Multi-Agent Policy Distillation for Cooperative Driving",
-    "author": "Shiyu Fang et al.",
+    "title": "Hierarchical Control of Antiphase Synchronization in Biomorphic Spiking Neural Architectures for Locomotor Control",
+    "author": "Artem Guba et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.21069v1"
+    "url": "http://arxiv.org/abs/2611.22639v1"
   },
   {
-    "title": "Evaluation-Free Recursive Self-Improvement for Coding Agents",
-    "author": "Zhe Ren et al.",
+    "title": "DGF-Asym: Adaptive Peer Weighting for Collective Estimation under Noisy and Faulty Sensing",
+    "author": "Mohammad Nomaan Husain et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.21056v1"
+    "url": "http://arxiv.org/abs/2611.22532v1"
   },
   {
-    "title": "Radar Panoptic Transformer: Semantic-Guided Mask Queries for Dynamic Scene Understanding",
-    "author": "Mayank Mayank et al.",
+    "title": "Distortion-Free Semantic Watermarks for Black-Box Generative Models",
+    "author": "Aviv Yossef et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.20203v1"
+    "url": "http://arxiv.org/abs/2611.23208v1"
   },
   {
-    "title": "Drone Navigation for Fast, Safe Emergency Response",
-    "author": "Pranav Nedunghat et al.",
+    "title": "Déjà View: A Shared Working-Memory Model for Visual Tasks",
+    "author": "Mranmay Shetty et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.19818v1"
+    "url": "http://arxiv.org/abs/2611.23177v1"
   },
   {
-    "title": "Bisect-Index-Choose: A Fast and Exact Algorithm for EV Charging under Minimum Charging Rates",
-    "author": "Can Berk Saner",
+    "title": "OAK-Mind: Zero-Training Mental Health Change Inference from Passive Sensing via Knowledge-Grounded Multi-Agent LLMs",
+    "author": "Yishu Ji et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.10902v1"
+    "url": "http://arxiv.org/abs/2611.22248v1"
   },
   {
-    "title": "Unreasonable Confidence from Simulator Misspecification: Directional Robustness on the SPEED+ Sim-to-Real Benchmark",
-    "author": "Nikolay Dolgov",
+    "title": "LMLineage: Content Lineage and Context Governance for LLM Agents",
+    "author": "Wei Hou et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.20321v1"
+    "url": "http://arxiv.org/abs/2611.22511v1"
   },
   {
-    "title": "STA: A Split Temporal Adversary Method for Evaluating Robustness of Multimodal RL-based Driving Policies",
-    "author": "Shenghao Xiong et al.",
+    "title": "Technical Report of Mobile Manipulator Robot for Industrial Environments",
+    "author": "Aria Dadnavi et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.20765v1"
+    "url": "http://arxiv.org/abs/2611.22852v1"
   },
   {
-    "title": "Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent",
-    "author": "Blas Eugenio Vicco Zarate et al.",
+    "title": "ConfGuard: a physics-grounded reference monitor for predictive-maintenance large-language-model agents",
+    "author": "Arunkumar V et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.21598v1"
+    "url": "http://arxiv.org/abs/2611.22288v1"
   },
   {
-    "title": "A Modulation Strategy for Bidirectional Integrated Onboard and Wireless EV Charging",
-    "author": "Manveer Aujla et al.",
+    "title": "DGV-DLIVO: Degeneracy-Guided Visual Fusion for Direct LiDAR-Inertial-Visual Odometry in Degenerate Tunnel Environments",
+    "author": "Junrui Zhang",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.16950v1"
+    "url": "http://arxiv.org/abs/2611.22385v1"
   }
 ]

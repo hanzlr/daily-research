@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Wednesday, 18 November 2026
+## 🗓️ Thursday, 19 November 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot | Marya Sabouri Dodaran et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18855v1) |
-| CoopDistill: Equilibrium-Guided Multi-Agent Policy Distillation for Cooperative Driving | Shiyu Fang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.21069v1) |
-| Evaluation-Free Recursive Self-Improvement for Coding Agents | Zhe Ren et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.21056v1) |
-| Radar Panoptic Transformer: Semantic-Guided Mask Queries for Dynamic Scene Understanding | Mayank Mayank et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.20203v1) |
-| Drone Navigation for Fast, Safe Emergency Response | Pranav Nedunghat et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.19818v1) |
-| Bisect-Index-Choose: A Fast and Exact Algorithm for EV Charging under Minimum Charging Rates | Can Berk Saner | 2026 | [📄 Read](http://arxiv.org/abs/2611.10902v1) |
-| Unreasonable Confidence from Simulator Misspecification: Directional Robustness on the SPEED+ Sim-to-Real Benchmark | Nikolay Dolgov | 2026 | [📄 Read](http://arxiv.org/abs/2611.20321v1) |
-| STA: A Split Temporal Adversary Method for Evaluating Robustness of Multimodal RL-based Driving Policies | Shenghao Xiong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.20765v1) |
-| Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent | Blas Eugenio Vicco Zarate et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.21598v1) |
-| A Modulation Strategy for Bidirectional Integrated Onboard and Wireless EV Charging | Manveer Aujla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16950v1) |
+| Physically Admissible Generative Flow Matching for Sparse Flow Reconstruction | Yuhao Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22549v1) |
+| Hierarchical Control of Antiphase Synchronization in Biomorphic Spiking Neural Architectures for Locomotor Control | Artem Guba et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22639v1) |
+| DGF-Asym: Adaptive Peer Weighting for Collective Estimation under Noisy and Faulty Sensing | Mohammad Nomaan Husain et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22532v1) |
+| Distortion-Free Semantic Watermarks for Black-Box Generative Models | Aviv Yossef et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.23208v1) |
+| Déjà View: A Shared Working-Memory Model for Visual Tasks | Mranmay Shetty et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.23177v1) |
+| OAK-Mind: Zero-Training Mental Health Change Inference from Passive Sensing via Knowledge-Grounded Multi-Agent LLMs | Yishu Ji et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22248v1) |
+| LMLineage: Content Lineage and Context Governance for LLM Agents | Wei Hou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22511v1) |
+| Technical Report of Mobile Manipulator Robot for Industrial Environments | Aria Dadnavi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22852v1) |
+| ConfGuard: a physics-grounded reference monitor for predictive-maintenance large-language-model agents | Arunkumar V et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22288v1) |
+| DGV-DLIVO: Degeneracy-Guided Visual Fusion for Direct LiDAR-Inertial-Visual Odometry in Degenerate Tunnel Environments | Junrui Zhang | 2026 | [📄 Read](http://arxiv.org/abs/2611.22385v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 18 November 2026, 00:56 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 November 2026, 00:38 WIB</sub>
