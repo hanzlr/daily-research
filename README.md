@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Physically Admissible Generative Flow Matching for Sparse Flow Reconstruction | Yuhao Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22549v1) |
-| Hierarchical Control of Antiphase Synchronization in Biomorphic Spiking Neural Architectures for Locomotor Control | Artem Guba et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22639v1) |
-| DGF-Asym: Adaptive Peer Weighting for Collective Estimation under Noisy and Faulty Sensing | Mohammad Nomaan Husain et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22532v1) |
+| Do LLM Agents Still Need to Be Told How to Self-Improve? | Shobhita Sundaram et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.23219v1) |
 | Distortion-Free Semantic Watermarks for Black-Box Generative Models | Aviv Yossef et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.23208v1) |
-| Déjà View: A Shared Working-Memory Model for Visual Tasks | Mranmay Shetty et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.23177v1) |
-| OAK-Mind: Zero-Training Mental Health Change Inference from Passive Sensing via Knowledge-Grounded Multi-Agent LLMs | Yishu Ji et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22248v1) |
-| LMLineage: Content Lineage and Context Governance for LLM Agents | Wei Hou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22511v1) |
-| Technical Report of Mobile Manipulator Robot for Industrial Environments | Aria Dadnavi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22852v1) |
-| ConfGuard: a physics-grounded reference monitor for predictive-maintenance large-language-model agents | Arunkumar V et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22288v1) |
-| DGV-DLIVO: Degeneracy-Guided Visual Fusion for Direct LiDAR-Inertial-Visual Odometry in Degenerate Tunnel Environments | Junrui Zhang | 2026 | [📄 Read](http://arxiv.org/abs/2611.22385v1) |
+| Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models | Rui Ning et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.23228v1) |
+| TabDAG: Structured Evolutionary Search for Tabular Feature Engineering | Anastasia Volkova et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22828v1) |
+| EM-SDTrack: Efficient Multi-Scale Spike-driven Tracking for Event Cameras | Yimeng Shan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22700v1) |
+| Auditing a Learned Simulator for Legged Robots: The Robotic World Model on ANYmal D | Joyjeet Singh | 2026 | [📄 Read](http://arxiv.org/abs/2611.23118v1) |
+| An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization | Zhaosong Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.23221v1) |
+| Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot | Marya Sabouri Dodaran et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18855v1) |
+| Evolving Neural Solvers for Multi-objective Combinatorial Optimization | Ya-Hui Jia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22060v1) |
+| Enforcing Ellipsoidal Constraints in Neural Networks with a Polynomial Safety Layer | Rolf Findeisen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.19366v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 November 2026, 00:38 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 November 2026, 02:12 WIB</sub>

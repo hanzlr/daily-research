@@ -1,21 +1,9 @@
 [
   {
-    "title": "Physically Admissible Generative Flow Matching for Sparse Flow Reconstruction",
-    "author": "Yuhao Wang et al.",
+    "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
+    "author": "Shobhita Sundaram et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.22549v1"
-  },
-  {
-    "title": "Hierarchical Control of Antiphase Synchronization in Biomorphic Spiking Neural Architectures for Locomotor Control",
-    "author": "Artem Guba et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.22639v1"
-  },
-  {
-    "title": "DGF-Asym: Adaptive Peer Weighting for Collective Estimation under Noisy and Faulty Sensing",
-    "author": "Mohammad Nomaan Husain et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.22532v1"
+    "url": "http://arxiv.org/abs/2611.23219v1"
   },
   {
     "title": "Distortion-Free Semantic Watermarks for Black-Box Generative Models",
@@ -24,39 +12,51 @@
     "url": "http://arxiv.org/abs/2611.23208v1"
   },
   {
-    "title": "Déjà View: A Shared Working-Memory Model for Visual Tasks",
-    "author": "Mranmay Shetty et al.",
+    "title": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
+    "author": "Rui Ning et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.23177v1"
+    "url": "http://arxiv.org/abs/2611.23228v1"
   },
   {
-    "title": "OAK-Mind: Zero-Training Mental Health Change Inference from Passive Sensing via Knowledge-Grounded Multi-Agent LLMs",
-    "author": "Yishu Ji et al.",
+    "title": "TabDAG: Structured Evolutionary Search for Tabular Feature Engineering",
+    "author": "Anastasia Volkova et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.22248v1"
+    "url": "http://arxiv.org/abs/2611.22828v1"
   },
   {
-    "title": "LMLineage: Content Lineage and Context Governance for LLM Agents",
-    "author": "Wei Hou et al.",
+    "title": "EM-SDTrack: Efficient Multi-Scale Spike-driven Tracking for Event Cameras",
+    "author": "Yimeng Shan et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.22511v1"
+    "url": "http://arxiv.org/abs/2611.22700v1"
   },
   {
-    "title": "Technical Report of Mobile Manipulator Robot for Industrial Environments",
-    "author": "Aria Dadnavi et al.",
+    "title": "Auditing a Learned Simulator for Legged Robots: The Robotic World Model on ANYmal D",
+    "author": "Joyjeet Singh",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.22852v1"
+    "url": "http://arxiv.org/abs/2611.23118v1"
   },
   {
-    "title": "ConfGuard: a physics-grounded reference monitor for predictive-maintenance large-language-model agents",
-    "author": "Arunkumar V et al.",
+    "title": "An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization",
+    "author": "Zhaosong Lu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.22288v1"
+    "url": "http://arxiv.org/abs/2611.23221v1"
   },
   {
-    "title": "DGV-DLIVO: Degeneracy-Guided Visual Fusion for Direct LiDAR-Inertial-Visual Odometry in Degenerate Tunnel Environments",
-    "author": "Junrui Zhang",
+    "title": "Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot",
+    "author": "Marya Sabouri Dodaran et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.22385v1"
+    "url": "http://arxiv.org/abs/2611.18855v1"
+  },
+  {
+    "title": "Evolving Neural Solvers for Multi-objective Combinatorial Optimization",
+    "author": "Ya-Hui Jia et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.22060v1"
+  },
+  {
+    "title": "Enforcing Ellipsoidal Constraints in Neural Networks with a Polynomial Safety Layer",
+    "author": "Rolf Findeisen et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.19366v1"
   }
 ]
