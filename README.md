@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Do LLM Agents Still Need to Be Told How to Self-Improve? | Shobhita Sundaram et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.23219v1) |
-| Distortion-Free Semantic Watermarks for Black-Box Generative Models | Aviv Yossef et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.23208v1) |
-| Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models | Rui Ning et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.23228v1) |
-| TabDAG: Structured Evolutionary Search for Tabular Feature Engineering | Anastasia Volkova et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22828v1) |
 | EM-SDTrack: Efficient Multi-Scale Spike-driven Tracking for Event Cameras | Yimeng Shan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22700v1) |
-| Auditing a Learned Simulator for Legged Robots: The Robotic World Model on ANYmal D | Joyjeet Singh | 2026 | [📄 Read](http://arxiv.org/abs/2611.23118v1) |
-| An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization | Zhaosong Lu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.23221v1) |
-| Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot | Marya Sabouri Dodaran et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18855v1) |
 | Evolving Neural Solvers for Multi-objective Combinatorial Optimization | Ya-Hui Jia et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22060v1) |
-| Enforcing Ellipsoidal Constraints in Neural Networks with a Polynomial Safety Layer | Rolf Findeisen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.19366v1) |
+| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
+| Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37508v1) |
+| Physically Admissible Generative Flow Matching for Sparse Flow Reconstruction | Yuhao Wang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22549v1) |
+| A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations | Sajad Ahmadi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28570v1) |
+| Déjà View: A Shared Working-Memory Model for Visual Tasks | Mranmay Shetty et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.23177v1) |
+| RSI-Prime: Training Models to Train Models | Dewu Zheng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.23138v1) |
+| Distortion-Free Semantic Watermarks for Black-Box Generative Models | Aviv Yossef et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.23208v1) |
+| Event-Based Dynamic Lip Region Estimation During Speech | Hamze Hammami et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.23111v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 November 2026, 02:12 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 November 2026, 04:02 WIB</sub>

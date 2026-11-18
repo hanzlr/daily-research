@@ -1,51 +1,9 @@
 [
   {
-    "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
-    "author": "Shobhita Sundaram et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.23219v1"
-  },
-  {
-    "title": "Distortion-Free Semantic Watermarks for Black-Box Generative Models",
-    "author": "Aviv Yossef et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.23208v1"
-  },
-  {
-    "title": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
-    "author": "Rui Ning et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.23228v1"
-  },
-  {
-    "title": "TabDAG: Structured Evolutionary Search for Tabular Feature Engineering",
-    "author": "Anastasia Volkova et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.22828v1"
-  },
-  {
     "title": "EM-SDTrack: Efficient Multi-Scale Spike-driven Tracking for Event Cameras",
     "author": "Yimeng Shan et al.",
     "year": "2026",
     "url": "http://arxiv.org/abs/2611.22700v1"
-  },
-  {
-    "title": "Auditing a Learned Simulator for Legged Robots: The Robotic World Model on ANYmal D",
-    "author": "Joyjeet Singh",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.23118v1"
-  },
-  {
-    "title": "An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization",
-    "author": "Zhaosong Lu et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.23221v1"
-  },
-  {
-    "title": "Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot",
-    "author": "Marya Sabouri Dodaran et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.18855v1"
   },
   {
     "title": "Evolving Neural Solvers for Multi-objective Combinatorial Optimization",
@@ -54,9 +12,51 @@
     "url": "http://arxiv.org/abs/2611.22060v1"
   },
   {
-    "title": "Enforcing Ellipsoidal Constraints in Neural Networks with a Polynomial Safety Layer",
-    "author": "Rolf Findeisen et al.",
+    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
+    "author": "Anas Hussin et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.19366v1"
+    "url": "http://arxiv.org/abs/2610.28807v1"
+  },
+  {
+    "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
+    "author": "Hediyeh Soltanizadeh et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.37508v1"
+  },
+  {
+    "title": "Physically Admissible Generative Flow Matching for Sparse Flow Reconstruction",
+    "author": "Yuhao Wang et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.22549v1"
+  },
+  {
+    "title": "A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations",
+    "author": "Sajad Ahmadi et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.28570v1"
+  },
+  {
+    "title": "Déjà View: A Shared Working-Memory Model for Visual Tasks",
+    "author": "Mranmay Shetty et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.23177v1"
+  },
+  {
+    "title": "RSI-Prime: Training Models to Train Models",
+    "author": "Dewu Zheng et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.23138v1"
+  },
+  {
+    "title": "Distortion-Free Semantic Watermarks for Black-Box Generative Models",
+    "author": "Aviv Yossef et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.23208v1"
+  },
+  {
+    "title": "Event-Based Dynamic Lip Region Estimation During Speech",
+    "author": "Hamze Hammami et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.23111v1"
   }
 ]
