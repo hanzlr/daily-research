@@ -1,0 +1,62 @@
+[
+  {
+    "title": "TapTacTouch: Shape Completion from Sparse Tactile Contacts with Geometric Priors",
+    "author": "Yoobin Shin et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.24207v1"
+  },
+  {
+    "title": "BEV-Diffusion: Camera-Only Traversability Navigation with BEV Memory and Efficient Cross-Robot Adaptation",
+    "author": "Iana Zhura et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.24155v1"
+  },
+  {
+    "title": "Physics-Informed Direct Data-Driven Gain-Scheduled Control for Improving the Extrapolation Performance of Vehicle Lateral Control",
+    "author": "Shuichi Yahagi et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.20907v1"
+  },
+  {
+    "title": "On Evaluating User Simulators for Interactive Agents",
+    "author": "Hengguang Zhou et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.24892v1"
+  },
+  {
+    "title": "Overlooked and Underutilized: Prototypes are the Missing Piece in Tabular XAI",
+    "author": "Jacek Karolczak et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.24831v1"
+  },
+  {
+    "title": "Fast Sampling or High Gain? iP versus PI Control",
+    "author": "Mohamed Camil Belhadjoudja",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.13153v1"
+  },
+  {
+    "title": "SearchDiffusion: Information-Guided Diffusion Planning for Object Search",
+    "author": "Sausar Karaf et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.24375v1"
+  },
+  {
+    "title": "Kaer: Security-Aware Replanning for Multi-Agent Systems",
+    "author": "Tushin Mallick et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.24839v1"
+  },
+  {
+    "title": "Nonlinear Fault Tolerant Control of Wind Turbine Pitch Systems: A Comparative Study",
+    "author": "Alessio Dallabona et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.09674v1"
+  },
+  {
+    "title": "Neural Network-Based In-Contact Task Segmentation of Demonstrated Robot Motions via Hand Guiding",
+    "author": "Johannes Hartwig et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.24226v1"
+  }
+]

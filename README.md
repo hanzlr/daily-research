@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Soft Mixture of Quantum Experts for Hybrid Quantum-Classical Learning | Valeria Repetto et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24798v1) |
-| TangentPDE: Learning Local Operator Responses with Sparse Finite-Difference Supervision | Xinjian Xie et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24873v1) |
-| Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems | Priyanka Sinha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24932v1) |
-| NaviGATE: Noise-Aware Dual-View Generation for Multimodal Knowledge Graph Reasoning | Jie Peng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24552v1) |
-| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
-| From Points to Trajectories: Rethinking Multimodal Alignment for Physical Events | Yiyang Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24249v1) |
-| Overlooked and Underutilized: Prototypes are the Missing Piece in Tabular XAI | Jacek Karolczak et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24831v1) |
-| Adaptive Guidance for 3GPP Ambient IoT Contention-Based Random Access | Amirhossein Azarbahram et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24067v1) |
-| Risk-Triggered Search: Behavior-Preserving Safe Control | Xinyu Deng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24409v1) |
+| TapTacTouch: Shape Completion from Sparse Tactile Contacts with Geometric Priors | Yoobin Shin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24207v1) |
+| BEV-Diffusion: Camera-Only Traversability Navigation with BEV Memory and Efficient Cross-Robot Adaptation | Iana Zhura et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24155v1) |
+| Physics-Informed Direct Data-Driven Gain-Scheduled Control for Improving the Extrapolation Performance of Vehicle Lateral Control | Shuichi Yahagi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.20907v1) |
 | On Evaluating User Simulators for Interactive Agents | Hengguang Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24892v1) |
+| Overlooked and Underutilized: Prototypes are the Missing Piece in Tabular XAI | Jacek Karolczak et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24831v1) |
+| Fast Sampling or High Gain? iP versus PI Control | Mohamed Camil Belhadjoudja | 2026 | [📄 Read](http://arxiv.org/abs/2611.13153v1) |
+| SearchDiffusion: Information-Guided Diffusion Planning for Object Search | Sausar Karaf et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24375v1) |
+| Kaer: Security-Aware Replanning for Multi-Agent Systems | Tushin Mallick et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24839v1) |
+| Nonlinear Fault Tolerant Control of Wind Turbine Pitch Systems: A Comparative Study | Alessio Dallabona et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09674v1) |
+| Neural Network-Based In-Contact Task Segmentation of Demonstrated Robot Motions via Hand Guiding | Johannes Hartwig et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24226v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 November 2026, 17:55 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 November 2026, 20:59 WIB</sub>

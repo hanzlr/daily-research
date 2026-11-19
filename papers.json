@@ -1,39 +1,27 @@
 [
   {
-    "title": "Soft Mixture of Quantum Experts for Hybrid Quantum-Classical Learning",
-    "author": "Valeria Repetto et al.",
+    "title": "TapTacTouch: Shape Completion from Sparse Tactile Contacts with Geometric Priors",
+    "author": "Yoobin Shin et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.24798v1"
+    "url": "http://arxiv.org/abs/2611.24207v1"
   },
   {
-    "title": "TangentPDE: Learning Local Operator Responses with Sparse Finite-Difference Supervision",
-    "author": "Xinjian Xie et al.",
+    "title": "BEV-Diffusion: Camera-Only Traversability Navigation with BEV Memory and Efficient Cross-Robot Adaptation",
+    "author": "Iana Zhura et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.24873v1"
+    "url": "http://arxiv.org/abs/2611.24155v1"
   },
   {
-    "title": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
-    "author": "Priyanka Sinha et al.",
+    "title": "Physics-Informed Direct Data-Driven Gain-Scheduled Control for Improving the Extrapolation Performance of Vehicle Lateral Control",
+    "author": "Shuichi Yahagi et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.24932v1"
+    "url": "http://arxiv.org/abs/2611.20907v1"
   },
   {
-    "title": "NaviGATE: Noise-Aware Dual-View Generation for Multimodal Knowledge Graph Reasoning",
-    "author": "Jie Peng et al.",
+    "title": "On Evaluating User Simulators for Interactive Agents",
+    "author": "Hengguang Zhou et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.24552v1"
-  },
-  {
-    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
-    "author": "Anas Hussin et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28807v1"
-  },
-  {
-    "title": "From Points to Trajectories: Rethinking Multimodal Alignment for Physical Events",
-    "author": "Yiyang Zhu et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.24249v1"
+    "url": "http://arxiv.org/abs/2611.24892v1"
   },
   {
     "title": "Overlooked and Underutilized: Prototypes are the Missing Piece in Tabular XAI",
@@ -42,21 +30,33 @@
     "url": "http://arxiv.org/abs/2611.24831v1"
   },
   {
-    "title": "Adaptive Guidance for 3GPP Ambient IoT Contention-Based Random Access",
-    "author": "Amirhossein Azarbahram et al.",
+    "title": "Fast Sampling or High Gain? iP versus PI Control",
+    "author": "Mohamed Camil Belhadjoudja",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.24067v1"
+    "url": "http://arxiv.org/abs/2611.13153v1"
   },
   {
-    "title": "Risk-Triggered Search: Behavior-Preserving Safe Control",
-    "author": "Xinyu Deng et al.",
+    "title": "SearchDiffusion: Information-Guided Diffusion Planning for Object Search",
+    "author": "Sausar Karaf et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.24409v1"
+    "url": "http://arxiv.org/abs/2611.24375v1"
   },
   {
-    "title": "On Evaluating User Simulators for Interactive Agents",
-    "author": "Hengguang Zhou et al.",
+    "title": "Kaer: Security-Aware Replanning for Multi-Agent Systems",
+    "author": "Tushin Mallick et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.24892v1"
+    "url": "http://arxiv.org/abs/2611.24839v1"
+  },
+  {
+    "title": "Nonlinear Fault Tolerant Control of Wind Turbine Pitch Systems: A Comparative Study",
+    "author": "Alessio Dallabona et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.09674v1"
+  },
+  {
+    "title": "Neural Network-Based In-Contact Task Segmentation of Demonstrated Robot Motions via Hand Guiding",
+    "author": "Johannes Hartwig et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.24226v1"
   }
 ]
