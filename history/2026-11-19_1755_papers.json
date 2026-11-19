@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Soft Mixture of Quantum Experts for Hybrid Quantum-Classical Learning",
+    "author": "Valeria Repetto et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.24798v1"
+  },
+  {
+    "title": "TangentPDE: Learning Local Operator Responses with Sparse Finite-Difference Supervision",
+    "author": "Xinjian Xie et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.24873v1"
+  },
+  {
+    "title": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
+    "author": "Priyanka Sinha et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.24932v1"
+  },
+  {
+    "title": "NaviGATE: Noise-Aware Dual-View Generation for Multimodal Knowledge Graph Reasoning",
+    "author": "Jie Peng et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.24552v1"
+  },
+  {
+    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
+    "author": "Anas Hussin et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2610.28807v1"
+  },
+  {
+    "title": "From Points to Trajectories: Rethinking Multimodal Alignment for Physical Events",
+    "author": "Yiyang Zhu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.24249v1"
+  },
+  {
+    "title": "Overlooked and Underutilized: Prototypes are the Missing Piece in Tabular XAI",
+    "author": "Jacek Karolczak et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.24831v1"
+  },
+  {
+    "title": "Adaptive Guidance for 3GPP Ambient IoT Contention-Based Random Access",
+    "author": "Amirhossein Azarbahram et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.24067v1"
+  },
+  {
+    "title": "Risk-Triggered Search: Behavior-Preserving Safe Control",
+    "author": "Xinyu Deng et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.24409v1"
+  },
+  {
+    "title": "On Evaluating User Simulators for Interactive Agents",
+    "author": "Hengguang Zhou et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.24892v1"
+  }
+]

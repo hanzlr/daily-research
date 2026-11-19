@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Learning Trajectories Leave Decodable Traces in Neural Network Weight Space and Internal Representations | Patrick Krauss et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24782v1) |
-| Physics-Informed Direct Data-Driven Gain-Scheduled Control for Improving the Extrapolation Performance of Vehicle Lateral Control | Shuichi Yahagi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.20907v1) |
-| Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot | Marya Sabouri Dodaran et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18855v1) |
-| Residual Reinforcement Learning for Visual Servo Control with Zero-Shot Sim-to-Real Transfer | Mahdi Nobar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.19318v1) |
-| Meta-LSQ: A Closed-Form Sobolev Inner Solver for Few-Shot Meta-Learning | Antonin Sulc | 2026 | [📄 Read](http://arxiv.org/abs/2611.24718v1) |
-| A Modulation Strategy for Bidirectional Integrated Onboard and Wireless EV Charging | Manveer Aujla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16950v1) |
-| Analysis of the (1+1)-EA-ES-Bilevel on Mixed Discrete-Continuous Optimization Problems with Interactions | Timo Kötzing et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24251v1) |
-| automodel: A Skill for Agentic Model Discovery | Marco Virgolin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24347v1) |
-| Auditing black-box clinical prediction models with a large language model through queries alone: a blinded test with planted flaws | Zhiyu Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24877v1) |
-| Fast Sampling or High Gain? iP versus PI Control | Mohamed Camil Belhadjoudja | 2026 | [📄 Read](http://arxiv.org/abs/2611.13153v1) |
+| Soft Mixture of Quantum Experts for Hybrid Quantum-Classical Learning | Valeria Repetto et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24798v1) |
+| TangentPDE: Learning Local Operator Responses with Sparse Finite-Difference Supervision | Xinjian Xie et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24873v1) |
+| Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems | Priyanka Sinha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24932v1) |
+| NaviGATE: Noise-Aware Dual-View Generation for Multimodal Knowledge Graph Reasoning | Jie Peng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24552v1) |
+| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
+| From Points to Trajectories: Rethinking Multimodal Alignment for Physical Events | Yiyang Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24249v1) |
+| Overlooked and Underutilized: Prototypes are the Missing Piece in Tabular XAI | Jacek Karolczak et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24831v1) |
+| Adaptive Guidance for 3GPP Ambient IoT Contention-Based Random Access | Amirhossein Azarbahram et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24067v1) |
+| Risk-Triggered Search: Behavior-Preserving Safe Control | Xinyu Deng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24409v1) |
+| On Evaluating User Simulators for Interactive Agents | Hengguang Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24892v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 November 2026, 15:24 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 November 2026, 17:55 WIB</sub>
