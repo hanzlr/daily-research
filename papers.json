@@ -1,15 +1,15 @@
 [
   {
-    "title": "Auditing black-box clinical prediction models with a large language model through queries alone: a blinded test with planted flaws",
-    "author": "Zhiyu Liu et al.",
+    "title": "Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine",
+    "author": "Alexander Winkler et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.24877v1"
+    "url": "http://arxiv.org/abs/2609.33795v2"
   },
   {
-    "title": "Meta-LSQ: A Closed-Form Sobolev Inner Solver for Few-Shot Meta-Learning",
-    "author": "Antonin Sulc",
+    "title": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
+    "author": "Priyanka Sinha et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.24718v1"
+    "url": "http://arxiv.org/abs/2611.24932v1"
   },
   {
     "title": "Neural Network-Based In-Contact Task Segmentation of Demonstrated Robot Motions via Hand Guiding",
@@ -18,22 +18,28 @@
     "url": "http://arxiv.org/abs/2611.24226v1"
   },
   {
-    "title": "TableControl: Gesture Interaction Through Surface Vibrations",
-    "author": "Florian Hettstedt et al.",
+    "title": "automodel: A Skill for Agentic Model Discovery",
+    "author": "Marco Virgolin et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.24218v1"
+    "url": "http://arxiv.org/abs/2611.24347v1"
   },
   {
-    "title": "NaviGATE: Noise-Aware Dual-View Generation for Multimodal Knowledge Graph Reasoning",
-    "author": "Jie Peng et al.",
+    "title": "Technical Report of Mobile Manipulator Robot for Industrial Environments",
+    "author": "Aria Dadnavi et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.24552v1"
+    "url": "http://arxiv.org/abs/2611.22852v1"
   },
   {
-    "title": "From Points to Trajectories: Rethinking Multimodal Alignment for Physical Events",
-    "author": "Yiyang Zhu et al.",
+    "title": "Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot",
+    "author": "Marya Sabouri Dodaran et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.24249v1"
+    "url": "http://arxiv.org/abs/2611.18855v1"
+  },
+  {
+    "title": "BiPathCPG: A Novel Load-Sharing Design Architecture for Compound Planetary Gearboxes",
+    "author": "Deepak Kapa et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.24142v1"
   },
   {
     "title": "Towards Vacuum-Assisted Robotic Needle Interventions: From Fluid Aspiration to Tissue Biopsy",
@@ -42,21 +48,15 @@
     "url": "http://arxiv.org/abs/2611.24258v1"
   },
   {
-    "title": "Soft Mixture of Quantum Experts for Hybrid Quantum-Classical Learning",
-    "author": "Valeria Repetto et al.",
+    "title": "Design and Experimental Evaluation of a Low-Cost Immersion Cooling System",
+    "author": "Pramukto Mandal et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.24798v1"
+    "url": "http://arxiv.org/abs/2611.17361v1"
   },
   {
-    "title": "Event-Based Dynamic Lip Region Estimation During Speech",
-    "author": "Hamze Hammami et al.",
+    "title": "Overlooked and Underutilized: Prototypes are the Missing Piece in Tabular XAI",
+    "author": "Jacek Karolczak et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.23111v1"
-  },
-  {
-    "title": "Single-Controller Teleoperation and Multimodal Dataset Generation for a Mobile Manipulator",
-    "author": "Fardien Azizi et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.24499v1"
+    "url": "http://arxiv.org/abs/2611.24831v1"
   }
 ]

@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Thursday, 19 November 2026
+## 🗓️ Friday, 20 November 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Auditing black-box clinical prediction models with a large language model through queries alone: a blinded test with planted flaws | Zhiyu Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24877v1) |
-| Meta-LSQ: A Closed-Form Sobolev Inner Solver for Few-Shot Meta-Learning | Antonin Sulc | 2026 | [📄 Read](http://arxiv.org/abs/2611.24718v1) |
+| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v2) |
+| Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems | Priyanka Sinha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24932v1) |
 | Neural Network-Based In-Contact Task Segmentation of Demonstrated Robot Motions via Hand Guiding | Johannes Hartwig et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24226v1) |
-| TableControl: Gesture Interaction Through Surface Vibrations | Florian Hettstedt et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24218v1) |
-| NaviGATE: Noise-Aware Dual-View Generation for Multimodal Knowledge Graph Reasoning | Jie Peng et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24552v1) |
-| From Points to Trajectories: Rethinking Multimodal Alignment for Physical Events | Yiyang Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24249v1) |
+| automodel: A Skill for Agentic Model Discovery | Marco Virgolin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24347v1) |
+| Technical Report of Mobile Manipulator Robot for Industrial Environments | Aria Dadnavi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22852v1) |
+| Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot | Marya Sabouri Dodaran et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18855v1) |
+| BiPathCPG: A Novel Load-Sharing Design Architecture for Compound Planetary Gearboxes | Deepak Kapa et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24142v1) |
 | Towards Vacuum-Assisted Robotic Needle Interventions: From Fluid Aspiration to Tissue Biopsy | Sheena Shabana et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24258v1) |
-| Soft Mixture of Quantum Experts for Hybrid Quantum-Classical Learning | Valeria Repetto et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24798v1) |
-| Event-Based Dynamic Lip Region Estimation During Speech | Hamze Hammami et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.23111v1) |
-| Single-Controller Teleoperation and Multimodal Dataset Generation for a Mobile Manipulator | Fardien Azizi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24499v1) |
+| Design and Experimental Evaluation of a Low-Cost Immersion Cooling System | Pramukto Mandal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17361v1) |
+| Overlooked and Underutilized: Prototypes are the Missing Piece in Tabular XAI | Jacek Karolczak et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24831v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 November 2026, 23:15 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 20 November 2026, 00:45 WIB</sub>
