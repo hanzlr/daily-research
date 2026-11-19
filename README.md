@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| TapTacTouch: Shape Completion from Sparse Tactile Contacts with Geometric Priors | Yoobin Shin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24207v1) |
-| BEV-Diffusion: Camera-Only Traversability Navigation with BEV Memory and Efficient Cross-Robot Adaptation | Iana Zhura et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24155v1) |
-| Physics-Informed Direct Data-Driven Gain-Scheduled Control for Improving the Extrapolation Performance of Vehicle Lateral Control | Shuichi Yahagi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.20907v1) |
-| On Evaluating User Simulators for Interactive Agents | Hengguang Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24892v1) |
-| Overlooked and Underutilized: Prototypes are the Missing Piece in Tabular XAI | Jacek Karolczak et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24831v1) |
-| Fast Sampling or High Gain? iP versus PI Control | Mohamed Camil Belhadjoudja | 2026 | [📄 Read](http://arxiv.org/abs/2611.13153v1) |
-| SearchDiffusion: Information-Guided Diffusion Planning for Object Search | Sausar Karaf et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24375v1) |
-| Kaer: Security-Aware Replanning for Multi-Agent Systems | Tushin Mallick et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24839v1) |
+| AG-BFGS: Foundations for Accelerated Geometry Learning | Regina Carla Sousa et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24113v1) |
+| Adaptive Guidance for 3GPP Ambient IoT Contention-Based Random Access | Amirhossein Azarbahram et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24067v1) |
+| VISTA: A Framework for Vision-Informed Semantic Traffic Awareness | Murat Arda Onsu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.20458v1) |
+| Nemotron 3.5 Bolt E4B 4GB: An Open and Efficient Small Language Model for Fast Conversational Agents | NVIDIA et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.20771v1) |
 | Nonlinear Fault Tolerant Control of Wind Turbine Pitch Systems: A Comparative Study | Alessio Dallabona et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.09674v1) |
-| Neural Network-Based In-Contact Task Segmentation of Demonstrated Robot Motions via Hand Guiding | Johannes Hartwig et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24226v1) |
+| automodel: A Skill for Agentic Model Discovery | Marco Virgolin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24347v1) |
+| Network Intrusion Detection Adaptability under Spurious Labels: A Noise-Aware Few-Shot Class-Incremental Learning Framework | Zijian Zhao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.21473v1) |
+| Analysis of the (1+1)-EA-ES-Bilevel on Mixed Discrete-Continuous Optimization Problems with Interactions | Timo Kötzing et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24251v1) |
+| Fast Sampling or High Gain? iP versus PI Control | Mohamed Camil Belhadjoudja | 2026 | [📄 Read](http://arxiv.org/abs/2611.13153v1) |
+| Old Matches, New Frames: Schedule-Gated Stereo Memory from Human Vision to Machine Matching | Ruiqi Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24848v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 November 2026, 20:59 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 19 November 2026, 22:16 WIB</sub>
