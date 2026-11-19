@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v2) |
-| Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems | Priyanka Sinha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24932v1) |
-| Neural Network-Based In-Contact Task Segmentation of Demonstrated Robot Motions via Hand Guiding | Johannes Hartwig et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24226v1) |
-| automodel: A Skill for Agentic Model Discovery | Marco Virgolin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24347v1) |
-| Technical Report of Mobile Manipulator Robot for Industrial Environments | Aria Dadnavi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22852v1) |
-| Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot | Marya Sabouri Dodaran et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18855v1) |
-| BiPathCPG: A Novel Load-Sharing Design Architecture for Compound Planetary Gearboxes | Deepak Kapa et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24142v1) |
-| Towards Vacuum-Assisted Robotic Needle Interventions: From Fluid Aspiration to Tissue Biopsy | Sheena Shabana et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24258v1) |
-| Design and Experimental Evaluation of a Low-Cost Immersion Cooling System | Pramukto Mandal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17361v1) |
+| TangentPDE: Learning Local Operator Responses with Sparse Finite-Difference Supervision | Xinjian Xie et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24873v1) |
+| Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37508v1) |
+| BEV-Diffusion: Camera-Only Traversability Navigation with BEV Memory and Efficient Cross-Robot Adaptation | Iana Zhura et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24155v1) |
+| Pluggable Subband-Decoupled Fusion and Unlabeled Capture Prototype Calibration: Bridging High-SNR Null-Subcarrier Regrowth and Low-SNR Coherent Preambles for Cross-Domain IoT RF Fingerprinting | Fengchong Yao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22812v1) |
+| TRACE: Topological Representations for Anomaly detection through Contrastive Embeddings | Sydney Johns | 2026 | [📄 Read](http://arxiv.org/abs/2611.21548v1) |
+| Adaptive Guidance for 3GPP Ambient IoT Contention-Based Random Access | Amirhossein Azarbahram et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24067v1) |
 | Overlooked and Underutilized: Prototypes are the Missing Piece in Tabular XAI | Jacek Karolczak et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24831v1) |
+| TapTacTouch: Shape Completion from Sparse Tactile Contacts with Geometric Priors | Yoobin Shin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24207v1) |
+| From Ideal to Real: Integrating Language Models into Smart Home for Human-Centric IoT Safety and Security Fuzzing | Lin Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22457v1) |
+| Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems | Priyanka Sinha et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24932v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 20 November 2026, 00:45 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 20 November 2026, 02:16 WIB</sub>
