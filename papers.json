@@ -1,33 +1,21 @@
 [
   {
-    "title": "A Modulation Strategy for Bidirectional Integrated Onboard and Wireless EV Charging",
-    "author": "Manveer Aujla et al.",
+    "title": "Reference-Twist-Based Velocity-Domain Spatiotemporal Calibration for mmWave Radar, Event Camera, and IMU",
+    "author": "Zhenghao Zou et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.16950v1"
+    "url": "http://arxiv.org/abs/2611.26083v1"
   },
   {
-    "title": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
-    "author": "Yuxin Jiang et al.",
+    "title": "Anticipating Future Build Results with BuildPredictor",
+    "author": "Christian Macho et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.26617v1"
+    "url": "http://arxiv.org/abs/2611.26476v1"
   },
   {
-    "title": "Nemotron 3.5 Bolt E4B 4GB: An Open and Efficient Small Language Model for Fast Conversational Agents",
-    "author": "NVIDIA et al.",
+    "title": "Realized versus Population Reliability: Anytime-Valid Self-Consistency Certification under Correlated Reasoning",
+    "author": "Terence D. Agbeyegbe et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.20771v1"
-  },
-  {
-    "title": "Cooperative UAV and Ground Station for Robust MEC of Dynamic Aquatic IoT: A Generative AI-Enhanced Approach",
-    "author": "Jiahao You et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.24466v1"
-  },
-  {
-    "title": "TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming",
-    "author": "Jinbin Luo et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.26619v1"
+    "url": "http://arxiv.org/abs/2611.26592v1"
   },
   {
     "title": "VISTA: A Framework for Vision-Informed Semantic Traffic Awareness",
@@ -36,10 +24,22 @@
     "url": "http://arxiv.org/abs/2611.20458v1"
   },
   {
-    "title": "Network Intrusion Detection Adaptability under Spurious Labels: A Noise-Aware Few-Shot Class-Incremental Learning Framework",
-    "author": "Zijian Zhao et al.",
+    "title": "AGE-Capture: Autonomous, General, and Efficient UAV Capture for High-Fidelity Scene Reconstruction",
+    "author": "Xiaofeng Jin et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.21473v1"
+    "url": "http://arxiv.org/abs/2611.26048v1"
+  },
+  {
+    "title": "Grid Cells as Spectral Successor Features: A Reusable Basis for Continual Reinforcement Learning",
+    "author": "Élodie Côté-Gauthier et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.26504v1"
+  },
+  {
+    "title": "A Practical Proprioceptive Data Collection Utility for the Unitree GO1",
+    "author": "Jack Anders Smitterberg et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.26146v1"
   },
   {
     "title": "Bio-PM-Guided Synthetic IMU Generation",
@@ -48,15 +48,15 @@
     "url": "http://arxiv.org/abs/2611.26607v1"
   },
   {
-    "title": "Single-Controller Teleoperation and Multimodal Dataset Generation for a Mobile Manipulator",
-    "author": "Fardien Azizi et al.",
+    "title": "Nemotron 3.5 Bolt E4B 4GB: An Open and Efficient Small Language Model for Fast Conversational Agents",
+    "author": "NVIDIA et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.24499v1"
+    "url": "http://arxiv.org/abs/2611.20771v1"
   },
   {
-    "title": "Technical Report of Mobile Manipulator Robot for Industrial Environments",
-    "author": "Aria Dadnavi et al.",
+    "title": "Network Intrusion Detection Adaptability under Spurious Labels: A Noise-Aware Few-Shot Class-Incremental Learning Framework",
+    "author": "Zijian Zhao et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.22852v1"
+    "url": "http://arxiv.org/abs/2611.21473v1"
   }
 ]

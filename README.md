@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| A Modulation Strategy for Bidirectional Integrated Onboard and Wireless EV Charging | Manveer Aujla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16950v1) |
-| One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning | Yuxin Jiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26617v1) |
-| Nemotron 3.5 Bolt E4B 4GB: An Open and Efficient Small Language Model for Fast Conversational Agents | NVIDIA et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.20771v1) |
-| Cooperative UAV and Ground Station for Robust MEC of Dynamic Aquatic IoT: A Generative AI-Enhanced Approach | Jiahao You et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24466v1) |
-| TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming | Jinbin Luo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26619v1) |
+| Reference-Twist-Based Velocity-Domain Spatiotemporal Calibration for mmWave Radar, Event Camera, and IMU | Zhenghao Zou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26083v1) |
+| Anticipating Future Build Results with BuildPredictor | Christian Macho et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26476v1) |
+| Realized versus Population Reliability: Anytime-Valid Self-Consistency Certification under Correlated Reasoning | Terence D. Agbeyegbe et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26592v1) |
 | VISTA: A Framework for Vision-Informed Semantic Traffic Awareness | Murat Arda Onsu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.20458v1) |
-| Network Intrusion Detection Adaptability under Spurious Labels: A Noise-Aware Few-Shot Class-Incremental Learning Framework | Zijian Zhao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.21473v1) |
+| AGE-Capture: Autonomous, General, and Efficient UAV Capture for High-Fidelity Scene Reconstruction | Xiaofeng Jin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26048v1) |
+| Grid Cells as Spectral Successor Features: A Reusable Basis for Continual Reinforcement Learning | Élodie Côté-Gauthier et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26504v1) |
+| A Practical Proprioceptive Data Collection Utility for the Unitree GO1 | Jack Anders Smitterberg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26146v1) |
 | Bio-PM-Guided Synthetic IMU Generation | Deepali Singh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26607v1) |
-| Single-Controller Teleoperation and Multimodal Dataset Generation for a Mobile Manipulator | Fardien Azizi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24499v1) |
-| Technical Report of Mobile Manipulator Robot for Industrial Environments | Aria Dadnavi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22852v1) |
+| Nemotron 3.5 Bolt E4B 4GB: An Open and Efficient Small Language Model for Fast Conversational Agents | NVIDIA et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.20771v1) |
+| Network Intrusion Detection Adaptability under Spurious Labels: A Noise-Aware Few-Shot Class-Incremental Learning Framework | Zijian Zhao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.21473v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 November 2026, 00:22 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 November 2026, 01:55 WIB</sub>
