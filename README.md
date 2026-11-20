@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Friday, 20 November 2026
+## 🗓️ Saturday, 21 November 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Soft Mixture of Quantum Experts for Hybrid Quantum-Classical Learning | Valeria Repetto et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24798v1) |
-| Pluggable Subband-Decoupled Fusion and Unlabeled Capture Prototype Calibration: Bridging High-SNR Null-Subcarrier Regrowth and Low-SNR Coherent Preambles for Cross-Domain IoT RF Fingerprinting | Fengchong Yao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22812v1) |
-| From Points to Trajectories: Rethinking Multimodal Alignment for Physical Events | Yiyang Zhu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24249v1) |
-| From Ideal to Real: Integrating Language Models into Smart Home for Human-Centric IoT Safety and Security Fuzzing | Lin Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22457v1) |
-| TRACE: Topological Representations for Anomaly detection through Contrastive Embeddings | Sydney Johns | 2026 | [📄 Read](http://arxiv.org/abs/2611.21548v1) |
-| Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot | Marya Sabouri Dodaran et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18855v1) |
-| Technical Report of Mobile Manipulator Robot for Industrial Environments | Aria Dadnavi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22852v1) |
+| A Modulation Strategy for Bidirectional Integrated Onboard and Wireless EV Charging | Manveer Aujla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16950v1) |
+| One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning | Yuxin Jiang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26617v1) |
+| Nemotron 3.5 Bolt E4B 4GB: An Open and Efficient Small Language Model for Fast Conversational Agents | NVIDIA et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.20771v1) |
+| Cooperative UAV and Ground Station for Robust MEC of Dynamic Aquatic IoT: A Generative AI-Enhanced Approach | Jiahao You et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24466v1) |
+| TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming | Jinbin Luo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26619v1) |
+| VISTA: A Framework for Vision-Informed Semantic Traffic Awareness | Murat Arda Onsu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.20458v1) |
 | Network Intrusion Detection Adaptability under Spurious Labels: A Noise-Aware Few-Shot Class-Incremental Learning Framework | Zijian Zhao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.21473v1) |
-| Event-Based Dynamic Lip Region Estimation During Speech | Hamze Hammami et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.23111v1) |
-| TableControl: Gesture Interaction Through Surface Vibrations | Florian Hettstedt et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24218v1) |
+| Bio-PM-Guided Synthetic IMU Generation | Deepali Singh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26607v1) |
+| Single-Controller Teleoperation and Multimodal Dataset Generation for a Mobile Manipulator | Fardien Azizi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24499v1) |
+| Technical Report of Mobile Manipulator Robot for Industrial Environments | Aria Dadnavi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22852v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 20 November 2026, 04:07 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 November 2026, 00:22 WIB</sub>
