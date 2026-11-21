@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Saturday, 21 November 2026
+## 🗓️ Sunday, 22 November 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
-| Design and Experimental Evaluation of a Low-Cost Immersion Cooling System | Pramukto Mandal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.17361v1) |
-| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v2) |
-| Realized versus Population Reliability: Anytime-Valid Self-Consistency Certification under Correlated Reasoning | Terence D. Agbeyegbe et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26592v1) |
-| Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37508v1) |
-| Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot | Marya Sabouri Dodaran et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18855v1) |
-| Implementation of Dynamic Microsegmentation for a Multi-Robot Network | Vishwam Raval et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30102v1) |
+| Enforcing Ellipsoidal Constraints in Neural Networks with a Polynomial Safety Layer | Rolf Findeisen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.19366v1) |
+| Evolving Decoding Algorithms for Quantum Error Correction | Eduardo Dueñez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25880v1) |
+| JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own | Shibo Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26503v1) |
+| Cooperative UAV and Ground Station for Robust MEC of Dynamic Aquatic IoT: A Generative AI-Enhanced Approach | Jiahao You et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24466v1) |
+| Nemotron 3.5 Bolt E4B 4GB: An Open and Efficient Small Language Model for Fast Conversational Agents | NVIDIA et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.20771v1) |
+| VISTA: A Framework for Vision-Informed Semantic Traffic Awareness | Murat Arda Onsu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.20458v1) |
 | A Practical Proprioceptive Data Collection Utility for the Unitree GO1 | Jack Anders Smitterberg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26146v1) |
-| AGE-Capture: Autonomous, General, and Efficient UAV Capture for High-Fidelity Scene Reconstruction | Xiaofeng Jin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26048v1) |
-| Bio-PM-Guided Synthetic IMU Generation | Deepali Singh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26607v1) |
+| A Matter of Representation: Evolving Partial Spreads for Bent Functions | Claude Carlet et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26011v1) |
+| A Modulation Strategy for Bidirectional Integrated Onboard and Wireless EV Charging | Manveer Aujla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16950v1) |
+| Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot | Marya Sabouri Dodaran et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18855v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 21 November 2026, 03:53 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 November 2026, 00:50 WIB</sub>
