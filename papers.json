@@ -1,15 +1,9 @@
 [
   {
-    "title": "Enforcing Ellipsoidal Constraints in Neural Networks with a Polynomial Safety Layer",
-    "author": "Rolf Findeisen et al.",
+    "title": "Neural Network-Based In-Contact Task Segmentation of Demonstrated Robot Motions via Hand Guiding",
+    "author": "Johannes Hartwig et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.19366v1"
-  },
-  {
-    "title": "Evolving Decoding Algorithms for Quantum Error Correction",
-    "author": "Eduardo Dueñez et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.25880v1"
+    "url": "http://arxiv.org/abs/2611.24226v1"
   },
   {
     "title": "JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own",
@@ -18,22 +12,10 @@
     "url": "http://arxiv.org/abs/2611.26503v1"
   },
   {
-    "title": "Cooperative UAV and Ground Station for Robust MEC of Dynamic Aquatic IoT: A Generative AI-Enhanced Approach",
-    "author": "Jiahao You et al.",
+    "title": "Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot",
+    "author": "Marya Sabouri Dodaran et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.24466v1"
-  },
-  {
-    "title": "Nemotron 3.5 Bolt E4B 4GB: An Open and Efficient Small Language Model for Fast Conversational Agents",
-    "author": "NVIDIA et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.20771v1"
-  },
-  {
-    "title": "VISTA: A Framework for Vision-Informed Semantic Traffic Awareness",
-    "author": "Murat Arda Onsu et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.20458v1"
+    "url": "http://arxiv.org/abs/2611.18855v1"
   },
   {
     "title": "A Practical Proprioceptive Data Collection Utility for the Unitree GO1",
@@ -42,10 +24,22 @@
     "url": "http://arxiv.org/abs/2611.26146v1"
   },
   {
-    "title": "A Matter of Representation: Evolving Partial Spreads for Bent Functions",
-    "author": "Claude Carlet et al.",
+    "title": "Residual Reinforcement Learning for Visual Servo Control with Zero-Shot Sim-to-Real Transfer",
+    "author": "Mahdi Nobar et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.26011v1"
+    "url": "http://arxiv.org/abs/2611.19318v1"
+  },
+  {
+    "title": "AGE-Capture: Autonomous, General, and Efficient UAV Capture for High-Fidelity Scene Reconstruction",
+    "author": "Xiaofeng Jin et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.26048v1"
+  },
+  {
+    "title": "Reference-Twist-Based Velocity-Domain Spatiotemporal Calibration for mmWave Radar, Event Camera, and IMU",
+    "author": "Zhenghao Zou et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.26083v1"
   },
   {
     "title": "A Modulation Strategy for Bidirectional Integrated Onboard and Wireless EV Charging",
@@ -54,9 +48,15 @@
     "url": "http://arxiv.org/abs/2611.16950v1"
   },
   {
-    "title": "Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot",
-    "author": "Marya Sabouri Dodaran et al.",
+    "title": "Technical Report of Mobile Manipulator Robot for Industrial Environments",
+    "author": "Aria Dadnavi et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.18855v1"
+    "url": "http://arxiv.org/abs/2611.22852v1"
+  },
+  {
+    "title": "Physics-Informed Direct Data-Driven Gain-Scheduled Control for Improving the Extrapolation Performance of Vehicle Lateral Control",
+    "author": "Shuichi Yahagi et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.20907v1"
   }
 ]
