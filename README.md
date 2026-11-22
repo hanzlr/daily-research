@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Evolving Decoding Algorithms for Quantum Error Correction | Eduardo Dueñez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25880v1) |
-| Mamba Flow Matching Neural Processes: Linear-Time Inference for Irregularly Observed Spatial Fields | Cosmo Santoni et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26355v1) |
-| Motion-Sickness-Aware Vehicle Control via DKUC-Based Inverse Design and Iterative Feedback Tuning | Uta Kawakami et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25485v1) |
-| A Matter of Representation: Evolving Partial Spreads for Bent Functions | Claude Carlet et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26011v1) |
-| AI-Native Industrial Control Systems: An Agent Architecture for the Control System Lifecycle | Lisi Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25411v1) |
-| The Price of an Explanation: What Demanding Verifiable Artifacts Costs, and What It Buys Back | Edgar A. Duéñez-Guzmán et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25896v1) |
 | Physics-Informed Direct Data-Driven Gain-Scheduled Control for Improving the Extrapolation Performance of Vehicle Lateral Control | Shuichi Yahagi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.20907v1) |
-| GenSPARQL: A Generative Extension of SPARQL for Incomplete Knowledge Graphs | Jingcheng Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26062v1) |
-| How to Effectively Manage the Energy in Residential Systems: Development and Comparison of Methods | Julian Ruddick | 2026 | [📄 Read](http://arxiv.org/abs/2611.26412v1) |
+| A Practical Proprioceptive Data Collection Utility for the Unitree GO1 | Jack Anders Smitterberg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26146v1) |
+| Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37508v1) |
+| Implementation of Dynamic Microsegmentation for a Multi-Robot Network | Vishwam Raval et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30102v1) |
+| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
+| Adaptive Guidance for 3GPP Ambient IoT Contention-Based Random Access | Amirhossein Azarbahram et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24067v1) |
 | Long-Range Video Presentation Attack Detection: A Three-Class Benchmark Across 1-100 m and Two Sensor Types | Lambert Igene et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25108v1) |
+| AI-Native Industrial Control Systems: An Agent Architecture for the Control System Lifecycle | Lisi Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25411v1) |
+| Mamba Flow Matching Neural Processes: Linear-Time Inference for Irregularly Observed Spatial Fields | Cosmo Santoni et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26355v1) |
+| A Lightweight Hybrid Approach for Milling Force Reconstruction from Internal Machine Signals | Eric Hirsch et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25921v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 November 2026, 17:30 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 November 2026, 19:55 WIB</sub>
