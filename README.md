@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Physics-Informed Direct Data-Driven Gain-Scheduled Control for Improving the Extrapolation Performance of Vehicle Lateral Control | Shuichi Yahagi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.20907v1) |
-| A Practical Proprioceptive Data Collection Utility for the Unitree GO1 | Jack Anders Smitterberg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26146v1) |
 | Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37508v1) |
-| Implementation of Dynamic Microsegmentation for a Multi-Robot Network | Vishwam Raval et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30102v1) |
+| Network Intrusion Detection Adaptability under Spurious Labels: A Noise-Aware Few-Shot Class-Incremental Learning Framework | Zijian Zhao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.21473v1) |
 | Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
-| Adaptive Guidance for 3GPP Ambient IoT Contention-Based Random Access | Amirhossein Azarbahram et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24067v1) |
-| Long-Range Video Presentation Attack Detection: A Three-Class Benchmark Across 1-100 m and Two Sensor Types | Lambert Igene et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25108v1) |
-| AI-Native Industrial Control Systems: An Agent Architecture for the Control System Lifecycle | Lisi Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25411v1) |
-| Mamba Flow Matching Neural Processes: Linear-Time Inference for Irregularly Observed Spatial Fields | Cosmo Santoni et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26355v1) |
-| A Lightweight Hybrid Approach for Milling Force Reconstruction from Internal Machine Signals | Eric Hirsch et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25921v1) |
+| Bio-PM-Guided Synthetic IMU Generation | Deepali Singh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26607v1) |
+| Cooperative UAV and Ground Station for Robust MEC of Dynamic Aquatic IoT: A Generative AI-Enhanced Approach | Jiahao You et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24466v1) |
+| A Modulation Strategy for Bidirectional Integrated Onboard and Wireless EV Charging | Manveer Aujla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16950v1) |
+| Realized versus Population Reliability: Anytime-Valid Self-Consistency Certification under Correlated Reasoning | Terence D. Agbeyegbe et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26592v1) |
+| Anticipating Future Build Results with BuildPredictor | Christian Macho et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26476v1) |
+| VISTA: A Framework for Vision-Informed Semantic Traffic Awareness | Murat Arda Onsu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.20458v1) |
+| Enforcing Ellipsoidal Constraints in Neural Networks with a Polynomial Safety Layer | Rolf Findeisen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.19366v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 November 2026, 19:55 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 November 2026, 21:03 WIB</sub>

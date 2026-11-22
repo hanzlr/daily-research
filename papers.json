@@ -1,27 +1,15 @@
 [
   {
-    "title": "Physics-Informed Direct Data-Driven Gain-Scheduled Control for Improving the Extrapolation Performance of Vehicle Lateral Control",
-    "author": "Shuichi Yahagi et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.20907v1"
-  },
-  {
-    "title": "A Practical Proprioceptive Data Collection Utility for the Unitree GO1",
-    "author": "Jack Anders Smitterberg et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.26146v1"
-  },
-  {
     "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
     "author": "Hediyeh Soltanizadeh et al.",
     "year": "2026",
     "url": "http://arxiv.org/abs/2610.37508v1"
   },
   {
-    "title": "Implementation of Dynamic Microsegmentation for a Multi-Robot Network",
-    "author": "Vishwam Raval et al.",
+    "title": "Network Intrusion Detection Adaptability under Spurious Labels: A Noise-Aware Few-Shot Class-Incremental Learning Framework",
+    "author": "Zijian Zhao et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.30102v1"
+    "url": "http://arxiv.org/abs/2611.21473v1"
   },
   {
     "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
@@ -30,33 +18,45 @@
     "url": "http://arxiv.org/abs/2610.28807v1"
   },
   {
-    "title": "Adaptive Guidance for 3GPP Ambient IoT Contention-Based Random Access",
-    "author": "Amirhossein Azarbahram et al.",
+    "title": "Bio-PM-Guided Synthetic IMU Generation",
+    "author": "Deepali Singh et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.24067v1"
+    "url": "http://arxiv.org/abs/2611.26607v1"
   },
   {
-    "title": "Long-Range Video Presentation Attack Detection: A Three-Class Benchmark Across 1-100 m and Two Sensor Types",
-    "author": "Lambert Igene et al.",
+    "title": "Cooperative UAV and Ground Station for Robust MEC of Dynamic Aquatic IoT: A Generative AI-Enhanced Approach",
+    "author": "Jiahao You et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.25108v1"
+    "url": "http://arxiv.org/abs/2611.24466v1"
   },
   {
-    "title": "AI-Native Industrial Control Systems: An Agent Architecture for the Control System Lifecycle",
-    "author": "Lisi Liu et al.",
+    "title": "A Modulation Strategy for Bidirectional Integrated Onboard and Wireless EV Charging",
+    "author": "Manveer Aujla et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.25411v1"
+    "url": "http://arxiv.org/abs/2611.16950v1"
   },
   {
-    "title": "Mamba Flow Matching Neural Processes: Linear-Time Inference for Irregularly Observed Spatial Fields",
-    "author": "Cosmo Santoni et al.",
+    "title": "Realized versus Population Reliability: Anytime-Valid Self-Consistency Certification under Correlated Reasoning",
+    "author": "Terence D. Agbeyegbe et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.26355v1"
+    "url": "http://arxiv.org/abs/2611.26592v1"
   },
   {
-    "title": "A Lightweight Hybrid Approach for Milling Force Reconstruction from Internal Machine Signals",
-    "author": "Eric Hirsch et al.",
+    "title": "Anticipating Future Build Results with BuildPredictor",
+    "author": "Christian Macho et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.25921v1"
+    "url": "http://arxiv.org/abs/2611.26476v1"
+  },
+  {
+    "title": "VISTA: A Framework for Vision-Informed Semantic Traffic Awareness",
+    "author": "Murat Arda Onsu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.20458v1"
+  },
+  {
+    "title": "Enforcing Ellipsoidal Constraints in Neural Networks with a Polynomial Safety Layer",
+    "author": "Rolf Findeisen et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.19366v1"
   }
 ]
