@@ -1,62 +1,62 @@
 [
   {
-    "title": "AGE-Capture: Autonomous, General, and Efficient UAV Capture for High-Fidelity Scene Reconstruction",
-    "author": "Xiaofeng Jin et al.",
+    "title": "Evolving Decoding Algorithms for Quantum Error Correction",
+    "author": "Eduardo Dueñez et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.26048v1"
+    "url": "http://arxiv.org/abs/2611.25880v1"
   },
   {
-    "title": "A Practical Proprioceptive Data Collection Utility for the Unitree GO1",
-    "author": "Jack Anders Smitterberg et al.",
+    "title": "Mamba Flow Matching Neural Processes: Linear-Time Inference for Irregularly Observed Spatial Fields",
+    "author": "Cosmo Santoni et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.26146v1"
+    "url": "http://arxiv.org/abs/2611.26355v1"
   },
   {
-    "title": "Asuka-FM: A System-Architectural Co-Design Framework for Efficient Text-to-Image Pretraining on Consumer Hardware",
-    "author": "Víctor Rodrigo González et al.",
+    "title": "Motion-Sickness-Aware Vehicle Control via DKUC-Based Inverse Design and Iterative Feedback Tuning",
+    "author": "Uta Kawakami et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.26437v1"
+    "url": "http://arxiv.org/abs/2611.25485v1"
   },
   {
-    "title": "JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own",
-    "author": "Shibo Zhou et al.",
+    "title": "A Matter of Representation: Evolving Partial Spreads for Bent Functions",
+    "author": "Claude Carlet et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.26503v1"
+    "url": "http://arxiv.org/abs/2611.26011v1"
   },
   {
-    "title": "Fixing the Twin, Not the Detector: Sim-to-Real Roadside LiDAR Detection from Digital-Twin Data",
-    "author": "KuanLin Chen et al.",
+    "title": "AI-Native Industrial Control Systems: An Agent Architecture for the Control System Lifecycle",
+    "author": "Lisi Liu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.26035v1"
+    "url": "http://arxiv.org/abs/2611.25411v1"
   },
   {
-    "title": "C-LiTE: A Lightweight Foundation Model for Cellular feature learning in Histopathology",
-    "author": "Esha Sadia Nasir et al.",
+    "title": "The Price of an Explanation: What Demanding Verifiable Artifacts Costs, and What It Buys Back",
+    "author": "Edgar A. Duéñez-Guzmán et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.26316v1"
+    "url": "http://arxiv.org/abs/2611.25896v1"
   },
   {
-    "title": "Bio-PM-Guided Synthetic IMU Generation",
-    "author": "Deepali Singh et al.",
+    "title": "Physics-Informed Direct Data-Driven Gain-Scheduled Control for Improving the Extrapolation Performance of Vehicle Lateral Control",
+    "author": "Shuichi Yahagi et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.26607v1"
+    "url": "http://arxiv.org/abs/2611.20907v1"
   },
   {
-    "title": "TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming",
-    "author": "Jinbin Luo et al.",
+    "title": "GenSPARQL: A Generative Extension of SPARQL for Incomplete Knowledge Graphs",
+    "author": "Jingcheng Wu et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.26619v1"
+    "url": "http://arxiv.org/abs/2611.26062v1"
   },
   {
-    "title": "A Lightweight Hybrid Approach for Milling Force Reconstruction from Internal Machine Signals",
-    "author": "Eric Hirsch et al.",
+    "title": "How to Effectively Manage the Energy in Residential Systems: Development and Comparison of Methods",
+    "author": "Julian Ruddick",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.25921v1"
+    "url": "http://arxiv.org/abs/2611.26412v1"
   },
   {
-    "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
-    "author": "Jiahao Huang et al.",
+    "title": "Long-Range Video Presentation Attack Detection: A Three-Class Benchmark Across 1-100 m and Two Sensor Types",
+    "author": "Lambert Igene et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.26590v1"
+    "url": "http://arxiv.org/abs/2611.25108v1"
   }
 ]

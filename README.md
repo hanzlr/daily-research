@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| AGE-Capture: Autonomous, General, and Efficient UAV Capture for High-Fidelity Scene Reconstruction | Xiaofeng Jin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26048v1) |
-| A Practical Proprioceptive Data Collection Utility for the Unitree GO1 | Jack Anders Smitterberg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26146v1) |
-| Asuka-FM: A System-Architectural Co-Design Framework for Efficient Text-to-Image Pretraining on Consumer Hardware | Víctor Rodrigo González et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26437v1) |
-| JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own | Shibo Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26503v1) |
-| Fixing the Twin, Not the Detector: Sim-to-Real Roadside LiDAR Detection from Digital-Twin Data | KuanLin Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26035v1) |
-| C-LiTE: A Lightweight Foundation Model for Cellular feature learning in Histopathology | Esha Sadia Nasir et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26316v1) |
-| Bio-PM-Guided Synthetic IMU Generation | Deepali Singh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26607v1) |
-| TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming | Jinbin Luo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26619v1) |
-| A Lightweight Hybrid Approach for Milling Force Reconstruction from Internal Machine Signals | Eric Hirsch et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25921v1) |
-| Probing the "Conscious" Mind: Selective Access and Global Workspace in Vision-Language Models | Jiahao Huang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26590v1) |
+| Evolving Decoding Algorithms for Quantum Error Correction | Eduardo Dueñez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25880v1) |
+| Mamba Flow Matching Neural Processes: Linear-Time Inference for Irregularly Observed Spatial Fields | Cosmo Santoni et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26355v1) |
+| Motion-Sickness-Aware Vehicle Control via DKUC-Based Inverse Design and Iterative Feedback Tuning | Uta Kawakami et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25485v1) |
+| A Matter of Representation: Evolving Partial Spreads for Bent Functions | Claude Carlet et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26011v1) |
+| AI-Native Industrial Control Systems: An Agent Architecture for the Control System Lifecycle | Lisi Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25411v1) |
+| The Price of an Explanation: What Demanding Verifiable Artifacts Costs, and What It Buys Back | Edgar A. Duéñez-Guzmán et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25896v1) |
+| Physics-Informed Direct Data-Driven Gain-Scheduled Control for Improving the Extrapolation Performance of Vehicle Lateral Control | Shuichi Yahagi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.20907v1) |
+| GenSPARQL: A Generative Extension of SPARQL for Incomplete Knowledge Graphs | Jingcheng Wu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26062v1) |
+| How to Effectively Manage the Energy in Residential Systems: Development and Comparison of Methods | Julian Ruddick | 2026 | [📄 Read](http://arxiv.org/abs/2611.26412v1) |
+| Long-Range Video Presentation Attack Detection: A Three-Class Benchmark Across 1-100 m and Two Sensor Types | Lambert Igene et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25108v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 November 2026, 14:46 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 November 2026, 17:30 WIB</sub>
