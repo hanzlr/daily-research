@@ -1,62 +1,62 @@
 [
   {
-    "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
-    "author": "Hediyeh Soltanizadeh et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.37508v1"
-  },
-  {
-    "title": "Network Intrusion Detection Adaptability under Spurious Labels: A Noise-Aware Few-Shot Class-Incremental Learning Framework",
-    "author": "Zijian Zhao et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.21473v1"
-  },
-  {
-    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
-    "author": "Anas Hussin et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28807v1"
-  },
-  {
     "title": "Bio-PM-Guided Synthetic IMU Generation",
     "author": "Deepali Singh et al.",
     "year": "2026",
     "url": "http://arxiv.org/abs/2611.26607v1"
   },
   {
-    "title": "Cooperative UAV and Ground Station for Robust MEC of Dynamic Aquatic IoT: A Generative AI-Enhanced Approach",
-    "author": "Jiahao You et al.",
+    "title": "RL Post-Training in Diffusion Transformers Is Activation Steering",
+    "author": "Tuna Han Salih Meral et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.24466v1"
+    "url": "http://arxiv.org/abs/2611.26627v1"
   },
   {
-    "title": "A Modulation Strategy for Bidirectional Integrated Onboard and Wireless EV Charging",
-    "author": "Manveer Aujla et al.",
+    "title": "A Lightweight Hybrid Approach for Milling Force Reconstruction from Internal Machine Signals",
+    "author": "Eric Hirsch et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.16950v1"
+    "url": "http://arxiv.org/abs/2611.25921v1"
   },
   {
-    "title": "Realized versus Population Reliability: Anytime-Valid Self-Consistency Certification under Correlated Reasoning",
-    "author": "Terence D. Agbeyegbe et al.",
+    "title": "Long-Range Video Presentation Attack Detection: A Three-Class Benchmark Across 1-100 m and Two Sensor Types",
+    "author": "Lambert Igene et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.26592v1"
+    "url": "http://arxiv.org/abs/2611.25108v1"
   },
   {
-    "title": "Anticipating Future Build Results with BuildPredictor",
-    "author": "Christian Macho et al.",
+    "title": "Mamba Flow Matching Neural Processes: Linear-Time Inference for Irregularly Observed Spatial Fields",
+    "author": "Cosmo Santoni et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.26476v1"
+    "url": "http://arxiv.org/abs/2611.26355v1"
   },
   {
-    "title": "VISTA: A Framework for Vision-Informed Semantic Traffic Awareness",
-    "author": "Murat Arda Onsu et al.",
+    "title": "Text-Aware, Vision-Blind: How Multimodal Image Editing Systems Handle Unsafe Inputs",
+    "author": "Ziqing Yang et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.20458v1"
+    "url": "http://arxiv.org/abs/2611.26569v1"
   },
   {
-    "title": "Enforcing Ellipsoidal Constraints in Neural Networks with a Polynomial Safety Layer",
-    "author": "Rolf Findeisen et al.",
+    "title": "A Practical Proprioceptive Data Collection Utility for the Unitree GO1",
+    "author": "Jack Anders Smitterberg et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.19366v1"
+    "url": "http://arxiv.org/abs/2611.26146v1"
+  },
+  {
+    "title": "AGE-Capture: Autonomous, General, and Efficient UAV Capture for High-Fidelity Scene Reconstruction",
+    "author": "Xiaofeng Jin et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.26048v1"
+  },
+  {
+    "title": "JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own",
+    "author": "Shibo Zhou et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.26503v1"
+  },
+  {
+    "title": "TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming",
+    "author": "Jinbin Luo et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.26619v1"
   }
 ]

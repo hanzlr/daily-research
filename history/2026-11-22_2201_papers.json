@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Bio-PM-Guided Synthetic IMU Generation",
+    "author": "Deepali Singh et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.26607v1"
+  },
+  {
+    "title": "RL Post-Training in Diffusion Transformers Is Activation Steering",
+    "author": "Tuna Han Salih Meral et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.26627v1"
+  },
+  {
+    "title": "A Lightweight Hybrid Approach for Milling Force Reconstruction from Internal Machine Signals",
+    "author": "Eric Hirsch et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.25921v1"
+  },
+  {
+    "title": "Long-Range Video Presentation Attack Detection: A Three-Class Benchmark Across 1-100 m and Two Sensor Types",
+    "author": "Lambert Igene et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.25108v1"
+  },
+  {
+    "title": "Mamba Flow Matching Neural Processes: Linear-Time Inference for Irregularly Observed Spatial Fields",
+    "author": "Cosmo Santoni et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.26355v1"
+  },
+  {
+    "title": "Text-Aware, Vision-Blind: How Multimodal Image Editing Systems Handle Unsafe Inputs",
+    "author": "Ziqing Yang et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.26569v1"
+  },
+  {
+    "title": "A Practical Proprioceptive Data Collection Utility for the Unitree GO1",
+    "author": "Jack Anders Smitterberg et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.26146v1"
+  },
+  {
+    "title": "AGE-Capture: Autonomous, General, and Efficient UAV Capture for High-Fidelity Scene Reconstruction",
+    "author": "Xiaofeng Jin et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.26048v1"
+  },
+  {
+    "title": "JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own",
+    "author": "Shibo Zhou et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.26503v1"
+  },
+  {
+    "title": "TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming",
+    "author": "Jinbin Luo et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.26619v1"
+  }
+]
