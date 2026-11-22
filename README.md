@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Sunday, 22 November 2026
+## 🗓️ Monday, 23 November 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Bio-PM-Guided Synthetic IMU Generation | Deepali Singh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26607v1) |
-| RL Post-Training in Diffusion Transformers Is Activation Steering | Tuna Han Salih Meral et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26627v1) |
-| A Lightweight Hybrid Approach for Milling Force Reconstruction from Internal Machine Signals | Eric Hirsch et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25921v1) |
-| Long-Range Video Presentation Attack Detection: A Three-Class Benchmark Across 1-100 m and Two Sensor Types | Lambert Igene et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25108v1) |
-| Mamba Flow Matching Neural Processes: Linear-Time Inference for Irregularly Observed Spatial Fields | Cosmo Santoni et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26355v1) |
-| Text-Aware, Vision-Blind: How Multimodal Image Editing Systems Handle Unsafe Inputs | Ziqing Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26569v1) |
+| VISTA: A Framework for Vision-Informed Semantic Traffic Awareness | Murat Arda Onsu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.20458v1) |
+| A Matter of Representation: Evolving Partial Spreads for Bent Functions | Claude Carlet et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26011v1) |
+| The Price of an Explanation: What Demanding Verifiable Artifacts Costs, and What It Buys Back | Edgar A. Duéñez-Guzmán et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25896v1) |
+| Network Intrusion Detection Adaptability under Spurious Labels: A Noise-Aware Few-Shot Class-Incremental Learning Framework | Zijian Zhao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.21473v1) |
 | A Practical Proprioceptive Data Collection Utility for the Unitree GO1 | Jack Anders Smitterberg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26146v1) |
-| AGE-Capture: Autonomous, General, and Efficient UAV Capture for High-Fidelity Scene Reconstruction | Xiaofeng Jin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26048v1) |
-| JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own | Shibo Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26503v1) |
-| TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming | Jinbin Luo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26619v1) |
+| Single-Controller Teleoperation and Multimodal Dataset Generation for a Mobile Manipulator | Fardien Azizi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24499v1) |
+| Nemotron 3.5 Bolt E4B 4GB: An Open and Efficient Small Language Model for Fast Conversational Agents | NVIDIA et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.20771v1) |
+| Reference-Twist-Based Velocity-Domain Spatiotemporal Calibration for mmWave Radar, Event Camera, and IMU | Zhenghao Zou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26083v1) |
+| Cooperative UAV and Ground Station for Robust MEC of Dynamic Aquatic IoT: A Generative AI-Enhanced Approach | Jiahao You et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24466v1) |
+| Evolving Decoding Algorithms for Quantum Error Correction | Eduardo Dueñez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25880v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 22 November 2026, 22:01 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 23 November 2026, 01:09 WIB</sub>
