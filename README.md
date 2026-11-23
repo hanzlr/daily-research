@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Cooperative UAV and Ground Station for Robust MEC of Dynamic Aquatic IoT: A Generative AI-Enhanced Approach | Jiahao You et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24466v1) |
-| Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot | Marya Sabouri Dodaran et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18855v1) |
-| Implementation of Dynamic Microsegmentation for a Multi-Robot Network | Vishwam Raval et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30102v1) |
-| On the Complete Feature Set for ADHD Classification in Children and Adolescents Based on EEG Signals | Javier Sanchis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27970v1) |
-| Network Intrusion Detection Adaptability under Spurious Labels: A Noise-Aware Few-Shot Class-Incremental Learning Framework | Zijian Zhao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.21473v1) |
-| Cross-Attack Robust Aggregation for Federated Learning | Eyhab Al-Masri | 2026 | [📄 Read](http://arxiv.org/abs/2611.26731v1) |
+| Mem-X: A Memory-Dependent Cross-Episode Benchmark for Vision-and-Language Navigation | Zhikang Shi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27166v1) |
+| Graph Signal Generation via Graph-Aware Diffusion Models | Vimal K B et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27826v1) |
 | Enforcing Ellipsoidal Constraints in Neural Networks with a Polynomial Safety Layer | Rolf Findeisen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.19366v1) |
-| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
-| Optimal Linear Regression Without a Variance | Artin Tajdini et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27983v1) |
-| A Methodologically Rigorous Benchmark of Linear Regression,RNN, and LSTM for S&P 500 Forecasting:Identifying Sources of Performance Inflation in Financial DeepLearning | Hari Sitaula et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27978v1) |
+| Cooperative UAV and Ground Station for Robust MEC of Dynamic Aquatic IoT: A Generative AI-Enhanced Approach | Jiahao You et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24466v1) |
+| Network Intrusion Detection Adaptability under Spurious Labels: A Noise-Aware Few-Shot Class-Incremental Learning Framework | Zijian Zhao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.21473v1) |
+| A Modulation Strategy for Bidirectional Integrated Onboard and Wireless EV Charging | Manveer Aujla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16950v1) |
+| Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot | Marya Sabouri Dodaran et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18855v1) |
+| OpenRing: Deadlock-Free Execution of Any Planner on AGV Floors with One-Way Lanes | Zhihao Lin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27127v1) |
+| Technical Report of Mobile Manipulator Robot for Industrial Environments | Aria Dadnavi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22852v1) |
+| Cross-Attack Robust Aggregation for Federated Learning | Eyhab Al-Masri | 2026 | [📄 Read](http://arxiv.org/abs/2611.26731v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 24 November 2026, 03:38 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 24 November 2026, 05:21 WIB</sub>
