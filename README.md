@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Monday, 23 November 2026
+## 🗓️ Tuesday, 24 November 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| VISTA: A Framework for Vision-Informed Semantic Traffic Awareness | Murat Arda Onsu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.20458v1) |
-| A Matter of Representation: Evolving Partial Spreads for Bent Functions | Claude Carlet et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26011v1) |
-| The Price of an Explanation: What Demanding Verifiable Artifacts Costs, and What It Buys Back | Edgar A. Duéñez-Guzmán et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25896v1) |
-| Network Intrusion Detection Adaptability under Spurious Labels: A Noise-Aware Few-Shot Class-Incremental Learning Framework | Zijian Zhao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.21473v1) |
-| A Practical Proprioceptive Data Collection Utility for the Unitree GO1 | Jack Anders Smitterberg et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26146v1) |
-| Single-Controller Teleoperation and Multimodal Dataset Generation for a Mobile Manipulator | Fardien Azizi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24499v1) |
-| Nemotron 3.5 Bolt E4B 4GB: An Open and Efficient Small Language Model for Fast Conversational Agents | NVIDIA et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.20771v1) |
-| Reference-Twist-Based Velocity-Domain Spatiotemporal Calibration for mmWave Radar, Event Camera, and IMU | Zhenghao Zou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.26083v1) |
-| Cooperative UAV and Ground Station for Robust MEC of Dynamic Aquatic IoT: A Generative AI-Enhanced Approach | Jiahao You et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24466v1) |
-| Evolving Decoding Algorithms for Quantum Error Correction | Eduardo Dueñez et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25880v1) |
+| The Dual-Tier Sentiment Framework: Scalable Multimodal UX Attribution in Web Search | Yi Ding et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27899v1) |
+| On the Limits of Observability for Evaluating Coverage in Machine Unlearning | Ziluowen Luo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27543v1) |
+| Implementation of Dynamic Microsegmentation for a Multi-Robot Network | Vishwam Raval et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30102v1) |
+| Motion-Sickness-Aware Vehicle Control via DKUC-Based Inverse Design and Iterative Feedback Tuning | Uta Kawakami et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25485v1) |
+| Physics-Informed Direct Data-Driven Gain-Scheduled Control for Improving the Extrapolation Performance of Vehicle Lateral Control | Shuichi Yahagi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.20907v1) |
+| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
+| Adaptive Guidance for 3GPP Ambient IoT Contention-Based Random Access | Amirhossein Azarbahram et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24067v1) |
+| Topology Hub Optimal Transport: Eliminating Long Context Dilution at Flash Speed | Dylan Forde | 2026 | [📄 Read](http://arxiv.org/abs/2611.27951v1) |
+| Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37508v1) |
+| AI-Native Industrial Control Systems: An Agent Architecture for the Control System Lifecycle | Lisi Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25411v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 23 November 2026, 01:09 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 24 November 2026, 00:25 WIB</sub>
