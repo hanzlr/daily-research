@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
+| RoFE: Rotated Frozen Embeddings for Low-Data Multimodal Tabular Learning | Yihao Qiao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.31049v1) |
 | Pluggable Subband-Decoupled Fusion and Unlabeled Capture Prototype Calibration: Bridging High-SNR Null-Subcarrier Regrowth and Low-SNR Coherent Preambles for Cross-Domain IoT RF Fingerprinting | Fengchong Yao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22812v1) |
-| Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action | Seongchan Kim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.31240v1) |
-| Place-Revisit Consistency Evaluation of Reference Poses | Jianzhu Huai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30741v1) |
-| TRACE: Topological Representations for Anomaly detection through Contrastive Embeddings | Sydney Johns | 2026 | [📄 Read](http://arxiv.org/abs/2611.21548v1) |
-| Geospatial foundation models and deep learning for climate resilience: a review of transfer, uncertainty and decision readiness | Parastoo Farajpoor et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30198v1) |
-| Autonomous UAV Navigation in an Unknown Environment via Multi-Trajectory Model Predictive Control | Danilo Saccani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30463v1) |
 | Leveraging Fast Healthcare Interoperability Resources (FHIR) for the Exchange of Wearable Inertial Sensor Data: Design and Development Study | Gabriela Ciortuz et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30956v1) |
-| Let Vision-Language Models Generate Images through Their Representations | JB Kim et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.31237v1) |
-| How Far Can Linear Go? BiPert, a Unified Framework for Single-Cell Perturbation Modelling | Abhishek Sharma et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.31227v1) |
 | From Ideal to Real: Integrating Language Models into Smart Home for Human-Centric IoT Safety and Security Fuzzing | Lin Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22457v1) |
+| A Modulation Strategy for Bidirectional Integrated Onboard and Wireless EV Charging | Manveer Aujla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16950v1) |
+| Geospatial foundation models and deep learning for climate resilience: a review of transfer, uncertainty and decision readiness | Parastoo Farajpoor et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30198v1) |
+| Technical Report of Mobile Manipulator Robot for Industrial Environments | Aria Dadnavi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22852v1) |
+| Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot | Marya Sabouri Dodaran et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18855v1) |
+| Enforcing Ellipsoidal Constraints in Neural Networks with a Polynomial Safety Layer | Rolf Findeisen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.19366v1) |
+| Self-Supervised Dataset Distillation via Mutual Information Maximization | Mohammad Hossein Moslemi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.31225v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 25 November 2026, 05:52 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 25 November 2026, 06:45 WIB</sub>
