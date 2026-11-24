@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Motion-Sickness-Aware Vehicle Control via DKUC-Based Inverse Design and Iterative Feedback Tuning | Uta Kawakami et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25485v2) |
-| CoSel: Cooperation as Selection for End-to-End Driving | Yiping Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30918v1) |
-| The Stigmergic Index: A Biomimetic Edge Centrality for Spatial Network Analysis | Sofiane Madmar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30301v1) |
-| AI-Native Industrial Control Systems: An Agent Architecture for the Control System Lifecycle | Lisi Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25411v1) |
-| Passivity-Based Decentralized Stability Criterion and Active-Damping Design for DC Microgrids | Zelin Sun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30503v1) |
-| Autonomous UAV Navigation in an Unknown Environment via Multi-Trajectory Model Predictive Control | Danilo Saccani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30463v1) |
-| Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot | Marya Sabouri Dodaran et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18855v1) |
-| Enforcing Ellipsoidal Constraints in Neural Networks with a Polynomial Safety Layer | Rolf Findeisen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.19366v1) |
-| A New Perspective on ANN-to-SNN Conversion: Hardware-Aligned Multi-Threshold Neuron Dynamics for Neuromorphic Inference | Shaohong Gu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30277v1) |
 | Place-Revisit Consistency Evaluation of Reference Poses | Jianzhu Huai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30741v1) |
+| The Stigmergic Index: A Biomimetic Edge Centrality for Spatial Network Analysis | Sofiane Madmar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30301v1) |
+| The Growth Path Is the Missing Half of Neural Networks | Tingan Jin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30081v1) |
+| Autonomous UAV Navigation in an Unknown Environment via Multi-Trajectory Model Predictive Control | Danilo Saccani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30463v1) |
+| MF-EDA: Joining Membership Functions to Adapt the Number of Distributions in Gaussian Estimation-of-Distribution Algorithms | Jun Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30436v1) |
+| SPROUT: Predicting Objective-Grounded Prompt Utility for Efficient Text-to-Image Preference Tuning | Kangping Hu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.31163v1) |
+| RoFE: Rotated Frozen Embeddings for Low-Data Multimodal Tabular Learning | Yihao Qiao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.31049v1) |
+| STMemoLLM: A Spatial-Temporal Memory-Augmented LLM for Robust Traffic Forecasting | Jian Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30148v1) |
+| Geospatial foundation models and deep learning for climate resilience: a review of transfer, uncertainty and decision readiness | Parastoo Farajpoor et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30198v1) |
+| Self-Supervised Dataset Distillation via Mutual Information Maximization | Mohammad Hossein Moslemi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.31225v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 25 November 2026, 01:35 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 25 November 2026, 02:44 WIB</sub>
