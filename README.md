@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Beyond Self-Critique: Epistemic Convergence Control for Multi-Agent Research Verification | Chrisantus Eze | 2026 | [📄 Read](http://arxiv.org/abs/2611.27839v1) |
-| On the Limits of Observability for Evaluating Coverage in Machine Unlearning | Ziluowen Luo et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27543v1) |
-| Autonomous quantum machine learning via Riemannian gradient-based optimization | Kasidit Srimahajariyapong et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27815v1) |
-| A Modulation Strategy for Bidirectional Integrated Onboard and Wireless EV Charging | Manveer Aujla et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.16950v1) |
-| FairITR: Fairness-Aware Learning of Multicategory Individualized Treatment Rules | Zeyu Chen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27894v1) |
-| Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot | Marya Sabouri Dodaran et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18855v1) |
-| Deep Behaviour Cloning of Model Predictive Control for Real-Time Operation of a Hydrogen-Diesel Dual-Fuel Engine | Alexander Winkler et al. | 2026 | [📄 Read](http://arxiv.org/abs/2609.33795v2) |
-| Enforcing Ellipsoidal Constraints in Neural Networks with a Polynomial Safety Layer | Rolf Findeisen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.19366v1) |
-| Technical Report of Mobile Manipulator Robot for Industrial Environments | Aria Dadnavi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22852v1) |
+| On the Complete Feature Set for ADHD Classification in Children and Adolescents Based on EEG Signals | Javier Sanchis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27970v1) |
+| EgoSurgHands: An Egocentric 3D Hand Pose Dataset & Benchmark for Open Surgery Training | Ankit Pal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27101v1) |
+| Cross-Attack Robust Aggregation for Federated Learning | Eyhab Al-Masri | 2026 | [📄 Read](http://arxiv.org/abs/2611.26731v1) |
 | Decision Columns as an Index: Interpretable Embeddings for Explainable Entity Matching and Search | Aadharsh Kannan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27910v1) |
+| PACE: Policy Augmentation and Compensation With Explicit Disturbance Estimation for Robust Locomotion | Shixuan Han et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27061v1) |
+| Redesigning Neural Networks to Not be Confidently Wrong even to Strong Adversarial Attacks | Michael W. Spratling et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27811v1) |
+| BRINA: Bottom-Referenced Inertial Navigation with AKAZE, a Sonar SLAM for Autonomous Marine Vehicles | Adolfo Damiano Cafaro et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27817v1) |
+| Auditable Financial Knowledge Graphs: Schema-Driven Construction and Intrinsic Quality Evaluation | Samarth Sarin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27835v1) |
+| A Lightweight Method for Validating Simulated LiDAR Configurations Based on Point Density over Distance | Benedikt Degenstein et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27379v1) |
+| The Dual-Tier Sentiment Framework: Scalable Multimodal UX Attribution in Web Search | Yi Ding et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27899v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 24 November 2026, 07:31 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 24 November 2026, 08:59 WIB</sub>
