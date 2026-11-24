@@ -18,16 +18,16 @@
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Place-Revisit Consistency Evaluation of Reference Poses | Jianzhu Huai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30741v1) |
-| The Stigmergic Index: A Biomimetic Edge Centrality for Spatial Network Analysis | Sofiane Madmar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30301v1) |
-| The Growth Path Is the Missing Half of Neural Networks | Tingan Jin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30081v1) |
-| Autonomous UAV Navigation in an Unknown Environment via Multi-Trajectory Model Predictive Control | Danilo Saccani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30463v1) |
-| MF-EDA: Joining Membership Functions to Adapt the Number of Distributions in Gaussian Estimation-of-Distribution Algorithms | Jun Zhang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30436v1) |
+| Leveraging Fast Healthcare Interoperability Resources (FHIR) for the Exchange of Wearable Inertial Sensor Data: Design and Development Study | Gabriela Ciortuz et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30956v1) |
+| Implementation of Dynamic Microsegmentation for a Multi-Robot Network | Vishwam Raval et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.30102v1) |
 | SPROUT: Predicting Objective-Grounded Prompt Utility for Efficient Text-to-Image Preference Tuning | Kangping Hu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.31163v1) |
-| RoFE: Rotated Frozen Embeddings for Low-Data Multimodal Tabular Learning | Yihao Qiao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.31049v1) |
 | STMemoLLM: A Spatial-Temporal Memory-Augmented LLM for Robust Traffic Forecasting | Jian Zhou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30148v1) |
-| Geospatial foundation models and deep learning for climate resilience: a review of transfer, uncertainty and decision readiness | Parastoo Farajpoor et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30198v1) |
+| Pluggable Subband-Decoupled Fusion and Unlabeled Capture Prototype Calibration: Bridging High-SNR Null-Subcarrier Regrowth and Low-SNR Coherent Preambles for Cross-Domain IoT RF Fingerprinting | Fengchong Yao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22812v1) |
 | Self-Supervised Dataset Distillation via Mutual Information Maximization | Mohammad Hossein Moslemi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.31225v1) |
+| TRACE: Topological Representations for Anomaly detection through Contrastive Embeddings | Sydney Johns | 2026 | [📄 Read](http://arxiv.org/abs/2611.21548v1) |
+| Can Multimodal Fusion MakeSense for Embodied Vision in Degraded Sensing? | Cheng-Ru Chou et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30836v1) |
+| From Ideal to Real: Integrating Language Models into Smart Home for Human-Centric IoT Safety and Security Fuzzing | Lin Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22457v1) |
+| Matching Under Metric Privacy | Hongyi B. Hu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.31208v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 25 November 2026, 02:44 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 25 November 2026, 03:57 WIB</sub>
