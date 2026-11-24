@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Tuesday, 24 November 2026
+## 🗓️ Wednesday, 25 November 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| On the Complete Feature Set for ADHD Classification in Children and Adolescents Based on EEG Signals | Javier Sanchis et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27970v1) |
-| EgoSurgHands: An Egocentric 3D Hand Pose Dataset & Benchmark for Open Surgery Training | Ankit Pal et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27101v1) |
-| Cross-Attack Robust Aggregation for Federated Learning | Eyhab Al-Masri | 2026 | [📄 Read](http://arxiv.org/abs/2611.26731v1) |
-| Decision Columns as an Index: Interpretable Embeddings for Explainable Entity Matching and Search | Aadharsh Kannan et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27910v1) |
-| PACE: Policy Augmentation and Compensation With Explicit Disturbance Estimation for Robust Locomotion | Shixuan Han et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27061v1) |
-| Redesigning Neural Networks to Not be Confidently Wrong even to Strong Adversarial Attacks | Michael W. Spratling et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27811v1) |
-| BRINA: Bottom-Referenced Inertial Navigation with AKAZE, a Sonar SLAM for Autonomous Marine Vehicles | Adolfo Damiano Cafaro et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27817v1) |
-| Auditable Financial Knowledge Graphs: Schema-Driven Construction and Intrinsic Quality Evaluation | Samarth Sarin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27835v1) |
-| A Lightweight Method for Validating Simulated LiDAR Configurations Based on Point Density over Distance | Benedikt Degenstein et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27379v1) |
-| The Dual-Tier Sentiment Framework: Scalable Multimodal UX Attribution in Web Search | Yi Ding et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.27899v1) |
+| Motion-Sickness-Aware Vehicle Control via DKUC-Based Inverse Design and Iterative Feedback Tuning | Uta Kawakami et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25485v2) |
+| CoSel: Cooperation as Selection for End-to-End Driving | Yiping Li et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30918v1) |
+| The Stigmergic Index: A Biomimetic Edge Centrality for Spatial Network Analysis | Sofiane Madmar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30301v1) |
+| AI-Native Industrial Control Systems: An Agent Architecture for the Control System Lifecycle | Lisi Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.25411v1) |
+| Passivity-Based Decentralized Stability Criterion and Active-Damping Design for DC Microgrids | Zelin Sun et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30503v1) |
+| Autonomous UAV Navigation in an Unknown Environment via Multi-Trajectory Model Predictive Control | Danilo Saccani et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30463v1) |
+| Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot | Marya Sabouri Dodaran et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.18855v1) |
+| Enforcing Ellipsoidal Constraints in Neural Networks with a Polynomial Safety Layer | Rolf Findeisen et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.19366v1) |
+| A New Perspective on ANN-to-SNN Conversion: Hardware-Aligned Multi-Threshold Neuron Dynamics for Neuromorphic Inference | Shaohong Gu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30277v1) |
+| Place-Revisit Consistency Evaluation of Reference Poses | Jianzhu Huai et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.30741v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 24 November 2026, 08:59 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 25 November 2026, 01:35 WIB</sub>
