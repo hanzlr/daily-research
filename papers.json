@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "title": "Cross-Attack Robust Aggregation for Federated Learning",
+    "author": "Eyhab Al-Masri",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.26731v1"
+  },
+  {
+    "title": "BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles",
+    "author": "Yuwei Yang et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.33151v1"
+  },
+  {
+    "title": "Field Life: Particle Life as Interacting Chemical Fields",
+    "author": "Iliya Zhechev",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.32844v1"
+  },
+  {
+    "title": "Multi Agent Reinforcement Learning enhanced Federated Learning for Predicting Remaining Useful Lifetime",
+    "author": "Rajarshi Chattopadhyay et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.31880v1"
+  },
+  {
+    "title": "Interactive Neural Computers",
+    "author": "Ross Murphy et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.32811v1"
+  },
+  {
+    "title": "Delay-Tolerant Formation Tracking for Multi-AGV Systems via Reference-Shift Coupling",
+    "author": "Yunfei Bi",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.32409v1"
+  },
+  {
+    "title": "Local Indices Are Not Enough: Synchrony and Global Information in Bandit Algorithms",
+    "author": "Aakash Gore et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.33056v1"
+  },
+  {
+    "title": "Cooperative UAV and Ground Station for Robust MEC of Dynamic Aquatic IoT: A Generative AI-Enhanced Approach",
+    "author": "Jiahao You et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.24466v1"
+  },
+  {
+    "title": "A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model's Thinking Loops and Complement a Frontier Model's Weight Edit",
+    "author": "Hussamuddin Syed",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.33133v1"
+  },
+  {
+    "title": "RoboUniverse-10K: Toward the Scaling Era of Agentic Robotics via Real-to-Sim Environments",
+    "author": "Jinkun Liu et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.31002v1"
+  }
+]
