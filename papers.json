@@ -1,62 +1,62 @@
 [
   {
-    "title": "MERLoc: Robust Robot Localization in Dynamic Environments with Pose-Based Retrieval over 3D Gaussian Splatting References",
-    "author": "Michael Baumgartner et al.",
+    "title": "When Learned IDS Model Selection Collapses to a Static Choice: A Measurement Study at the Edge",
+    "author": "Nuonan Ouyang et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.34932v1"
+    "url": "http://arxiv.org/abs/2611.29968v1"
   },
   {
-    "title": "The cost of being seen as AI in group bargaining",
-    "author": "Tahmineh Godazgar et al.",
+    "title": "Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot",
+    "author": "Marya Sabouri Dodaran et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.34322v1"
+    "url": "http://arxiv.org/abs/2611.18855v1"
   },
   {
-    "title": "Stranger Things: When Objects Appear Without Their Typical Neighbors",
-    "author": "Siddhartha Gairola et al.",
+    "title": "Enforcing Ellipsoidal Constraints in Neural Networks with a Polynomial Safety Layer",
+    "author": "Rolf Findeisen et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.34881v1"
+    "url": "http://arxiv.org/abs/2611.19366v1"
   },
   {
-    "title": "Not all world models can doubt: how training objective and architecture shape epistemic uncertainty in JEPA and RSSM world models",
-    "author": "Simon Baur et al.",
+    "title": "On Utilization of Edge-AI for condition monitoring towards predictive maintenance: A use case in dairy processing using explainable AI",
+    "author": "Rahul Umesh Mhapsekar et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.34830v1"
+    "url": "http://arxiv.org/abs/2611.34563v1"
   },
   {
-    "title": "Multi Agent Reinforcement Learning enhanced Federated Learning for Predicting Remaining Useful Lifetime",
-    "author": "Rajarshi Chattopadhyay et al.",
+    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
+    "author": "Anas Hussin et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.31880v1"
+    "url": "http://arxiv.org/abs/2610.28807v1"
   },
   {
-    "title": "Enhancing Maritime Domain Awareness using Latent Space Representations",
-    "author": "Rikard Vinge et al.",
+    "title": "Implementation of Dynamic Microsegmentation for a Multi-Robot Network",
+    "author": "Vishwam Raval et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.34899v1"
+    "url": "http://arxiv.org/abs/2610.30102v1"
   },
   {
-    "title": "An LLM-Assisted Multi-Objective AutoML Framework for Efficient Network Intrusion Detection",
-    "author": "Ailin Barzegar et al.",
+    "title": "$μ$MPC: Microsecond-Scale Nonlinear and World Model Control from Edge to GPU via Koopman-Linearized Precompilation",
+    "author": "Devesh Nath et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.28312v1"
+    "url": "http://arxiv.org/abs/2611.34597v1"
   },
   {
-    "title": "Cross-Attack Robust Aggregation for Federated Learning",
-    "author": "Eyhab Al-Masri",
+    "title": "Technical Report of Mobile Manipulator Robot for Industrial Environments",
+    "author": "Aria Dadnavi et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.26731v1"
+    "url": "http://arxiv.org/abs/2611.22852v1"
   },
   {
-    "title": "SkySearcher: High-Altitude Onboard VLM Reasoning for Aerial Semantic Search",
-    "author": "Giacomo Vianello et al.",
+    "title": "Pluggable Subband-Decoupled Fusion and Unlabeled Capture Prototype Calibration: Bridging High-SNR Null-Subcarrier Regrowth and Low-SNR Coherent Preambles for Cross-Domain IoT RF Fingerprinting",
+    "author": "Fengchong Yao et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.34485v1"
+    "url": "http://arxiv.org/abs/2611.22812v1"
   },
   {
-    "title": "Anytime-Valid Sequential Verification for Sensing-Efficient Robot Navigation under Perception Uncertainty",
-    "author": "Saad Korchi et al.",
+    "title": "Split-RL: Local Conflict Resolution in Reinforcement Learning",
+    "author": "Benjamin Fuhrer et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.34764v1"
+    "url": "http://arxiv.org/abs/2611.34799v1"
   }
 ]
