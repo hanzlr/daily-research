@@ -1,62 +1,62 @@
 [
   {
-    "title": "Cross-Attack Robust Aggregation for Federated Learning",
-    "author": "Eyhab Al-Masri",
+    "title": "SkySearcher: High-Altitude Onboard VLM Reasoning for Aerial Semantic Search",
+    "author": "Giacomo Vianello et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.26731v1"
+    "url": "http://arxiv.org/abs/2611.34485v1"
   },
   {
-    "title": "BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles",
-    "author": "Yuwei Yang et al.",
+    "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
+    "author": "Hediyeh Soltanizadeh et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.33151v1"
+    "url": "http://arxiv.org/abs/2610.37508v1"
   },
   {
-    "title": "Field Life: Particle Life as Interacting Chemical Fields",
-    "author": "Iliya Zhechev",
+    "title": "Adaptive Guidance for 3GPP Ambient IoT Contention-Based Random Access",
+    "author": "Amirhossein Azarbahram et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.32844v1"
+    "url": "http://arxiv.org/abs/2611.24067v1"
   },
   {
-    "title": "Multi Agent Reinforcement Learning enhanced Federated Learning for Predicting Remaining Useful Lifetime",
-    "author": "Rajarshi Chattopadhyay et al.",
+    "title": "Sparse Adaptation for In-Context Learning on Data Streams",
+    "author": "João Neves et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.31880v1"
+    "url": "http://arxiv.org/abs/2611.33325v1"
   },
   {
-    "title": "Interactive Neural Computers",
-    "author": "Ross Murphy et al.",
+    "title": "MERLoc: Robust Robot Localization in Dynamic Environments with Pose-Based Retrieval over 3D Gaussian Splatting References",
+    "author": "Michael Baumgartner et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.32811v1"
+    "url": "http://arxiv.org/abs/2611.34932v1"
   },
   {
-    "title": "Delay-Tolerant Formation Tracking for Multi-AGV Systems via Reference-Shift Coupling",
-    "author": "Yunfei Bi",
+    "title": "Pluggable Subband-Decoupled Fusion and Unlabeled Capture Prototype Calibration: Bridging High-SNR Null-Subcarrier Regrowth and Low-SNR Coherent Preambles for Cross-Domain IoT RF Fingerprinting",
+    "author": "Fengchong Yao et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.32409v1"
+    "url": "http://arxiv.org/abs/2611.22812v1"
   },
   {
-    "title": "Local Indices Are Not Enough: Synchrony and Global Information in Bandit Algorithms",
-    "author": "Aakash Gore et al.",
+    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
+    "author": "Anas Hussin et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.33056v1"
+    "url": "http://arxiv.org/abs/2610.28807v1"
   },
   {
-    "title": "Cooperative UAV and Ground Station for Robust MEC of Dynamic Aquatic IoT: A Generative AI-Enhanced Approach",
-    "author": "Jiahao You et al.",
+    "title": "Wi-Fi Enabled Edge Intelligence Framework for Smart City Traffic Monitoring using Low-Power IoT Cameras",
+    "author": "Raphael Walcher et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.24466v1"
+    "url": "http://arxiv.org/abs/2611.32517v1"
   },
   {
-    "title": "A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model's Thinking Loops and Complement a Frontier Model's Weight Edit",
-    "author": "Hussamuddin Syed",
+    "title": "An LLM-Assisted Multi-Objective AutoML Framework for Efficient Network Intrusion Detection",
+    "author": "Ailin Barzegar et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.33133v1"
+    "url": "http://arxiv.org/abs/2611.28312v1"
   },
   {
-    "title": "RoboUniverse-10K: Toward the Scaling Era of Agentic Robotics via Real-to-Sim Environments",
-    "author": "Jinkun Liu et al.",
+    "title": "Anytime-Valid Sequential Verification for Sensing-Efficient Robot Navigation under Perception Uncertainty",
+    "author": "Saad Korchi et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.31002v1"
+    "url": "http://arxiv.org/abs/2611.34764v1"
   }
 ]

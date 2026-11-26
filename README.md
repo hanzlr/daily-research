@@ -14,20 +14,20 @@
 
 ---
 
-## 🗓️ Thursday, 26 November 2026
+## 🗓️ Friday, 27 November 2026
 
 | Title | Author | Year | Link |
 |:------|:-------|:----:|:----:|
-| Cross-Attack Robust Aggregation for Federated Learning | Eyhab Al-Masri | 2026 | [📄 Read](http://arxiv.org/abs/2611.26731v1) |
-| BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles | Yuwei Yang et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.33151v1) |
-| Field Life: Particle Life as Interacting Chemical Fields | Iliya Zhechev | 2026 | [📄 Read](http://arxiv.org/abs/2611.32844v1) |
-| Multi Agent Reinforcement Learning enhanced Federated Learning for Predicting Remaining Useful Lifetime | Rajarshi Chattopadhyay et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.31880v1) |
-| Interactive Neural Computers | Ross Murphy et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.32811v1) |
-| Delay-Tolerant Formation Tracking for Multi-AGV Systems via Reference-Shift Coupling | Yunfei Bi | 2026 | [📄 Read](http://arxiv.org/abs/2611.32409v1) |
-| Local Indices Are Not Enough: Synchrony and Global Information in Bandit Algorithms | Aakash Gore et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.33056v1) |
-| Cooperative UAV and Ground Station for Robust MEC of Dynamic Aquatic IoT: A Generative AI-Enhanced Approach | Jiahao You et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24466v1) |
-| A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model's Thinking Loops and Complement a Frontier Model's Weight Edit | Hussamuddin Syed | 2026 | [📄 Read](http://arxiv.org/abs/2611.33133v1) |
-| RoboUniverse-10K: Toward the Scaling Era of Agentic Robotics via Real-to-Sim Environments | Jinkun Liu et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.31002v1) |
+| SkySearcher: High-Altitude Onboard VLM Reasoning for Aerial Semantic Search | Giacomo Vianello et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.34485v1) |
+| Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs | Hediyeh Soltanizadeh et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.37508v1) |
+| Adaptive Guidance for 3GPP Ambient IoT Contention-Based Random Access | Amirhossein Azarbahram et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.24067v1) |
+| Sparse Adaptation for In-Context Learning on Data Streams | João Neves et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.33325v1) |
+| MERLoc: Robust Robot Localization in Dynamic Environments with Pose-Based Retrieval over 3D Gaussian Splatting References | Michael Baumgartner et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.34932v1) |
+| Pluggable Subband-Decoupled Fusion and Unlabeled Capture Prototype Calibration: Bridging High-SNR Null-Subcarrier Regrowth and Low-SNR Coherent Preambles for Cross-Domain IoT RF Fingerprinting | Fengchong Yao et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.22812v1) |
+| Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting | Anas Hussin et al. | 2026 | [📄 Read](http://arxiv.org/abs/2610.28807v1) |
+| Wi-Fi Enabled Edge Intelligence Framework for Smart City Traffic Monitoring using Low-Power IoT Cameras | Raphael Walcher et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.32517v1) |
+| An LLM-Assisted Multi-Objective AutoML Framework for Efficient Network Intrusion Detection | Ailin Barzegar et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.28312v1) |
+| Anytime-Valid Sequential Verification for Sensing-Efficient Robot Navigation under Perception Uncertainty | Saad Korchi et al. | 2026 | [📄 Read](http://arxiv.org/abs/2611.34764v1) |
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 26 November 2026, 00:46 WIB</sub>
+<sub>⚙️ Automated by [GitHub Actions](../../actions) · Source: ArXiv API · Updated: 27 November 2026, 00:30 WIB</sub>
