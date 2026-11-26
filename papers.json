@@ -1,57 +1,57 @@
 [
   {
-    "title": "SkySearcher: High-Altitude Onboard VLM Reasoning for Aerial Semantic Search",
-    "author": "Giacomo Vianello et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.34485v1"
-  },
-  {
-    "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
-    "author": "Hediyeh Soltanizadeh et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2610.37508v1"
-  },
-  {
-    "title": "Adaptive Guidance for 3GPP Ambient IoT Contention-Based Random Access",
-    "author": "Amirhossein Azarbahram et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.24067v1"
-  },
-  {
-    "title": "Sparse Adaptation for In-Context Learning on Data Streams",
-    "author": "João Neves et al.",
-    "year": "2026",
-    "url": "http://arxiv.org/abs/2611.33325v1"
-  },
-  {
     "title": "MERLoc: Robust Robot Localization in Dynamic Environments with Pose-Based Retrieval over 3D Gaussian Splatting References",
     "author": "Michael Baumgartner et al.",
     "year": "2026",
     "url": "http://arxiv.org/abs/2611.34932v1"
   },
   {
-    "title": "Pluggable Subband-Decoupled Fusion and Unlabeled Capture Prototype Calibration: Bridging High-SNR Null-Subcarrier Regrowth and Low-SNR Coherent Preambles for Cross-Domain IoT RF Fingerprinting",
-    "author": "Fengchong Yao et al.",
+    "title": "The cost of being seen as AI in group bargaining",
+    "author": "Tahmineh Godazgar et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.22812v1"
+    "url": "http://arxiv.org/abs/2611.34322v1"
   },
   {
-    "title": "Hybrid PPO-Based Multi-Objective Optimization for UAV-mounted STAR-RIS with Energy Harvesting",
-    "author": "Anas Hussin et al.",
+    "title": "Stranger Things: When Objects Appear Without Their Typical Neighbors",
+    "author": "Siddhartha Gairola et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2610.28807v1"
+    "url": "http://arxiv.org/abs/2611.34881v1"
   },
   {
-    "title": "Wi-Fi Enabled Edge Intelligence Framework for Smart City Traffic Monitoring using Low-Power IoT Cameras",
-    "author": "Raphael Walcher et al.",
+    "title": "Not all world models can doubt: how training objective and architecture shape epistemic uncertainty in JEPA and RSSM world models",
+    "author": "Simon Baur et al.",
     "year": "2026",
-    "url": "http://arxiv.org/abs/2611.32517v1"
+    "url": "http://arxiv.org/abs/2611.34830v1"
+  },
+  {
+    "title": "Multi Agent Reinforcement Learning enhanced Federated Learning for Predicting Remaining Useful Lifetime",
+    "author": "Rajarshi Chattopadhyay et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.31880v1"
+  },
+  {
+    "title": "Enhancing Maritime Domain Awareness using Latent Space Representations",
+    "author": "Rikard Vinge et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.34899v1"
   },
   {
     "title": "An LLM-Assisted Multi-Objective AutoML Framework for Efficient Network Intrusion Detection",
     "author": "Ailin Barzegar et al.",
     "year": "2026",
     "url": "http://arxiv.org/abs/2611.28312v1"
+  },
+  {
+    "title": "Cross-Attack Robust Aggregation for Federated Learning",
+    "author": "Eyhab Al-Masri",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.26731v1"
+  },
+  {
+    "title": "SkySearcher: High-Altitude Onboard VLM Reasoning for Aerial Semantic Search",
+    "author": "Giacomo Vianello et al.",
+    "year": "2026",
+    "url": "http://arxiv.org/abs/2611.34485v1"
   },
   {
     "title": "Anytime-Valid Sequential Verification for Sensing-Efficient Robot Navigation under Perception Uncertainty",
